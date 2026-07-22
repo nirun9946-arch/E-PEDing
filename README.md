@@ -34,6 +34,10 @@ python egp_fetcher.py --days 7     # เร็วกว่า
 
 - กดรันเองได้ที่แท็บ **Actions → ดึงข้อมูล e-GP ทุกวัน → Run workflow**
 - ถ้าวันไหน e-GP ไม่ตอบสนอง job จะข้ามการ commit และคงข้อมูลเดิมไว้ (ไม่ทับด้วยหน้าว่าง)
+- ต้องตั้ง **Settings → Actions → General → Workflow permissions = Read and write permissions**
+  ไม่งั้น job จะดึงข้อมูลได้แต่ commit กลับไม่ได้
+- ถ้า repo เงียบนานหลายเดือน GitHub อาจพักตารางเวลาอัตโนมัติไว้ก่อน แล้วส่งอีเมลแจ้ง
+  กด Run workflow หนึ่งครั้งก็กลับมาทำงานต่อ
 
 ## หมายเหตุ
 - วันที่ในระบบเป็น **พ.ศ.** (เช่น 22/07/2569)
