@@ -28,7 +28,8 @@
   .card .num{font-size:1.6rem;font-weight:700;margin-top:2px}
   .card .lbl{color:var(--mut);font-size:.82rem}
   .card.gold .num{color:var(--gold)} .card.green .num{color:var(--green)}
-  .card.blue .num{color:var(--blue)}
+  .card.blue .num{color:var(--blue)} .card.red .num{color:var(--red)}
+  .card.red{border-color:rgba(255,107,129,.35)}
   .filters{display:flex;flex-wrap:wrap;gap:10px;margin-bottom:18px;align-items:center}
   .filters input,.filters select{
     background:var(--bg2);border:1px solid var(--border);color:var(--txt);
@@ -54,7 +55,11 @@
   .type.invite{color:var(--gold)}
   .kw{display:inline-block;background:rgba(245,192,78,.1);color:var(--gold);
     border-radius:6px;padding:1px 7px;font-size:.72rem;margin:2px 3px 0 0}
-  .new{color:var(--red);font-size:.7rem;font-weight:700;margin-left:6px}
+  .new{display:inline-block;vertical-align:2px;margin-right:7px;padding:2px 8px;border-radius:6px;
+    font-size:.7rem;font-weight:700;letter-spacing:.02em;white-space:nowrap}
+  .new.today{background:var(--red);color:#1a0c12}
+  .new.recent{background:rgba(255,107,129,.16);color:var(--red);border:1px solid rgba(255,107,129,.45)}
+  tr.is-new td{background:rgba(255,107,129,.045)}
   .empty{padding:40px;text-align:center;color:var(--mut)}
   .count{color:var(--mut);font-size:.85rem;margin:0 0 10px}
   .legend{background:var(--card);border:1px solid var(--border);border-radius:14px;
@@ -123,6 +128,9 @@
   <b>คะแนน</b> = ความใกล้เคียงกับงานที่เนชั่นทำ คิดจากคำในชื่อโครงการ (ผลิตสื่อ ออกอากาศ สกู๊ป = บวก / ก่อสร้าง ป้าย ครุภัณฑ์ = ลบ)
   — 6 ขึ้นไป <b>เหมาะมาก</b>, 3–5 <b>น่าสนใจ</b>
   <span class="sep">|</span>
+  เรียง<b>งานใหม่ล่าสุดขึ้นก่อน</b> ป้าย <span class="new today">ใหม่วันนี้</span> และ <span class="new recent">ใหม่ N วัน</span> อยู่หน้าชื่อโครงการ
+  (กดหัวตารางเพื่อเรียงแบบอื่น เช่น เรียงตามคะแนนหรืองบประมาณ)
+  <span class="sep">|</span>
   คลิกชื่อโครงการเพื่อเปิดประกาศตัวจริงบนเว็บ e-GP
 </div>
 
@@ -152,13 +160,26 @@
 <script src="data.js"></script>
 <script>
 let D = window.EGP_DATA || {items:[],fetched_at:'-',range:{}};
-let sortK = 'score', sortDir = -1;
+let sortK = 'date', sortDir = -1;   // ค่าเริ่มต้น: งานใหม่ล่าสุดขึ้นก่อน
 let current = [];
 
 function thaiMoney(n){ return n ? n.toLocaleString('th-TH',{minimumFractionDigits:0}) : '-'; }
-function todayThai(){
-  const d = new Date();
-  return String(d.getDate()).padStart(2,'0')+'/'+String(d.getMonth()+1).padStart(2,'0')+'/'+(d.getFullYear()+543);
+
+// รับวันที่แบบไทย dd/mm/yyyy (พ.ศ.) คืนจำนวนวันที่ผ่านมาแล้ว
+function daysAgo(thaiDate){
+  const [d,m,y] = (thaiDate||'').split('/').map(Number);
+  if(!d || !m || !y) return Infinity;
+  const then = new Date(y-543, m-1, d);
+  const now = new Date();
+  return Math.round((new Date(now.getFullYear(),now.getMonth(),now.getDate()) - then) / 86400000);
+}
+
+// ป้ายบอกงานใหม่ ติดไว้หน้าชื่อโครงการ
+function newBadge(thaiDate){
+  const n = daysAgo(thaiDate);
+  if(n === 0) return '<span class="new today">ใหม่วันนี้</span>';
+  if(n >= 1 && n <= 3) return `<span class="new recent">ใหม่ ${n} วัน</span>`;
+  return '';
 }
 
 function setMeta(){
@@ -172,7 +193,9 @@ function summary(list){
   const tor = list.length - inv;
   const best = list.filter(x=>x.fit==='เหมาะมาก').length;
   const bud = list.reduce((s,x)=>s+x.budget,0);
+  const fresh = list.filter(x=>daysAgo(x.date)<=3).length;
   document.getElementById('cards').innerHTML = `
+    <div class="card red"><div class="lbl">งานใหม่ 3 วันล่าสุด</div><div class="num">${fresh}</div></div>
     <div class="card gold"><div class="lbl">งานทั้งหมดที่คัดแล้ว</div><div class="num">${list.length}</div></div>
     <div class="card green"><div class="lbl">เหมาะมากสำหรับเนชั่น</div><div class="num">${best}</div></div>
     <div class="card blue"><div class="lbl">เชิญชวน (ยื่นได้เลย) / ร่าง TOR</div><div class="num">${inv} / ${tor}</div></div>
@@ -191,19 +214,18 @@ function render(){
   list.sort((a,b)=>{
     let va=a[sortK], vb=b[sortK];
     if(sortK==='date'){ va=va.split('/').reverse().join(''); vb=vb.split('/').reverse().join(''); }
-    if(typeof va==='string') return sortDir * va.localeCompare(vb,'th');
-    return sortDir * (va-vb);
+    const cmp = typeof va==='string' ? va.localeCompare(vb,'th') : va-vb;
+    if(cmp) return sortDir * cmp;
+    return b.score - a.score;   // ประกาศวันเดียวกัน เอางานที่เหมาะกับเนชั่นมากกว่าขึ้นก่อน
   });
 
   current = list;
   summary(list);
   document.getElementById('count').textContent = `แสดง ${list.length} โครงการ`;
-  const td = todayThai();
   document.getElementById('rows').innerHTML = list.length ? list.map(x=>`
-    <tr>
+    <tr class="${daysAgo(x.date)<=3?'is-new':''}">
       <td>
-        <a class="title" href="${x.link}" target="_blank" rel="noopener">${x.title}</a>
-        ${x.date===td?'<span class="new">ใหม่วันนี้</span>':''}
+        ${newBadge(x.date)}<a class="title" href="${x.link}" target="_blank" rel="noopener">${x.title}</a>
         <div class="dept">🏢 ${x.dept} · เลขที่โครงการ ${x.pid}</div>
         <div>${(x.hits||[]).slice(0,6).map(k=>`<span class="kw">${k}</span>`).join('')}</div>
       </td>
