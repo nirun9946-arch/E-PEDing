@@ -2,8 +2,8 @@ name: ดึงข้อมูล e-GP ทุกวัน
 
 on:
   schedule:
-    # 01:00 UTC = 08:00 น. เวลาไทย (GitHub cron รับเฉพาะ UTC)
-    - cron: '0 1 * * *'
+    # GitHub cron รับเฉพาะ UTC — 01/06/11 UTC = 08:00, 13:00, 18:00 น. เวลาไทย
+    - cron: '0 1,6,11 * * *'
   workflow_dispatch:        # กดรันเองได้จากแท็บ Actions
 
 permissions:

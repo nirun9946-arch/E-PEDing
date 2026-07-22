@@ -21,6 +21,9 @@ head = re.search(r"<head>(.*)</head>", html, re.S).group(1)
 head = re.sub(r"<meta[^>]*>", "", head).strip()
 body = re.search(r"<body>(.*)</body>", html, re.S).group(1)
 
+# หน้า artifact เป็นภาพนิ่ง ไม่มีไฟล์ data.js ให้โหลดซ้ำ จึงตัดปุ่มที่ต้องใช้ไฟล์นั้นออก
+body = re.sub(r"<!--live-only-->.*?<!--/live-only-->", "", body, flags=re.S)
+
 # CSP ของ artifact บล็อกไฟล์ภายนอก ต้องฝัง data.js ลงในหน้าเดียว
 body = body.replace('<script src="data.js"></script>', "<script>" + data + "</script>")
 if "window.EGP_DATA" not in body:

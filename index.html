@@ -68,6 +68,13 @@
   .btn:hover{background:rgba(245,192,78,.22)}
   .btn:focus-visible{outline:2px solid var(--gold);outline-offset:2px}
   .btn[hidden]{display:none}
+  .btn:disabled{opacity:.55;cursor:default}
+  .btns{display:flex;gap:8px;flex-wrap:wrap;align-items:center}
+  .btn.primary{background:rgba(90,162,255,.14);border-color:rgba(90,162,255,.5);color:var(--blue)}
+  .btn.primary:hover{background:rgba(90,162,255,.24)}
+  .btn.primary:focus-visible{outline-color:var(--blue)}
+  .btn.ghost{background:transparent;border-color:var(--border);color:var(--mut);text-decoration:none}
+  .btn.ghost:hover{background:rgba(255,255,255,.06);color:var(--txt)}
   @media(max-width:820px){
     thead{display:none}
     table,tbody,tr,td{display:block;width:100%}
@@ -121,7 +128,15 @@
 
 <div class="toolbar">
   <p class="count" id="count"></p>
-  <button class="btn" id="export" hidden type="button">⬇ ส่งออกรายการที่กรองไว้ (เปิดใน Excel)</button>
+  <div class="btns">
+    <!--live-only-->
+    <button class="btn primary" id="refresh" type="button">🔄 ดึงข้อมูลล่าสุด</button>
+    <a class="btn ghost" id="rerun" href="https://github.com/nirun9946-arch/E-PEDing/actions/workflows/daily-fetch.yml"
+       target="_blank" rel="noopener"
+       title="สั่งให้ระบบไปดึงประกาศชุดใหม่จาก e-GP ใช้เวลาราว 4 นาที (ต้องเป็นเจ้าของ repo ถึงกดรันได้)">สั่งดึงจาก e-GP รอบใหม่</a>
+    <!--/live-only-->
+    <button class="btn" id="export" hidden type="button">⬇ ส่งออกรายการที่กรองไว้ (เปิดใน Excel)</button>
+  </div>
 </div>
 <table>
   <thead><tr>
@@ -136,7 +151,7 @@
 
 <script src="data.js"></script>
 <script>
-const D = window.EGP_DATA || {items:[],fetched_at:'-',range:{}};
+let D = window.EGP_DATA || {items:[],fetched_at:'-',range:{}};
 let sortK = 'score', sortDir = -1;
 let current = [];
 
@@ -146,8 +161,11 @@ function todayThai(){
   return String(d.getDate()).padStart(2,'0')+'/'+String(d.getMonth()+1).padStart(2,'0')+'/'+(d.getFullYear()+543);
 }
 
-document.getElementById('meta').textContent =
-  `ข้อมูลช่วง ${D.range.from||''} – ${D.range.to||''} · ดึงล่าสุด ${D.fetched_at}`;
+function setMeta(){
+  document.getElementById('meta').textContent =
+    `ข้อมูลช่วง ${D.range.from||''} – ${D.range.to||''} · ดึงล่าสุด ${D.fetched_at}`;
+}
+setMeta();
 
 function summary(list){
   const inv = list.filter(x=>x.announce_type==='ประกาศเชิญชวน').length;
@@ -207,6 +225,31 @@ document.querySelectorAll('thead th').forEach(th=>th.onclick=()=>{
   el.addEventListener(el.tagName==='INPUT'?'input':'change',render);
 });
 render();
+
+// ดึงข้อมูลชุดล่าสุดที่ระบบเก็บไว้ มาแสดงทันทีโดยไม่ต้องโหลดหน้าใหม่
+// (หน้าเว็บเรียก e-GP ตรง ๆ ไม่ได้ เพราะ e-GP ไม่เปิด CORS ให้เว็บอื่นเรียก
+//  ตัวดึงข้อมูลจริงจึงรันบน GitHub Actions แล้วเก็บผลไว้ที่ data.js)
+const refreshBtn = document.getElementById('refresh');
+if (refreshBtn) refreshBtn.addEventListener('click', async () => {
+  const label = refreshBtn.textContent;
+  const before = D.fetched_at;
+  refreshBtn.disabled = true;
+  refreshBtn.textContent = 'กำลังโหลด...';
+  try {
+    const s = document.createElement('script');
+    s.src = 'data.js?t=' + Date.now();          // กันเบราว์เซอร์หยิบของเก่าในแคช
+    await new Promise((ok, fail) => { s.onload = ok; s.onerror = fail; document.head.appendChild(s); });
+    D = window.EGP_DATA;
+    setMeta();
+    render();
+    refreshBtn.textContent = D.fetched_at === before
+      ? '✓ ข้อมูลเป็นชุดล่าสุดแล้ว'
+      : `✓ อัปเดตแล้ว (${D.total} โครงการ)`;
+  } catch {
+    refreshBtn.textContent = 'โหลดไม่สำเร็จ — ลองใหม่อีกครั้ง';
+  }
+  setTimeout(() => { refreshBtn.textContent = label; refreshBtn.disabled = false; }, 3500);
+});
 
 // ส่งออกไฟล์ — ใช้ได้เฉพาะตอนเปิดหน้านี้ผ่านลิงก์ออนไลน์
 const exportBtn = document.getElementById('export');
