@@ -1,10 +1,10 @@
 {
- "fetched_at": "22/07/2569 16:19",
+ "fetched_at": "22/07/2569 17:16",
  "range": {
   "from": "01/07/2569",
   "to": "22/07/2569"
  },
- "total": 162,
+ "total": 165,
  "requests": 33,
  "items": [
   {
@@ -414,6 +414,28 @@
    "budget": 2696400.0,
    "status": "ระหว่างดำเนินการ",
    "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
+   "matched_keywords": [
+    "ประชาสัมพันธ์",
+    "จัดงาน"
+   ],
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/procsearch.sch?pid=69069220502&servlet=gojsp&proc_id=ShowHTMLFile&processFlows=Procure",
+   "score": 8,
+   "fit": "เหมาะมาก",
+   "hits": [
+    "ประชาสัมพันธ์",
+    "จัดงาน",
+    "ถ่ายทอดสด"
+   ]
+  },
+  {
+   "pid": "69069220502",
+   "dept": "เทศบาลนครนนทบุรี",
+   "title": "ประกวดราคาจ้างเหมาประชาสัมพันธ์การจัดงานและถ่ายทอดสดการแข่งขันเรือยาวประเพณีส่งเสริมการท่องเที่ยวชิงถ้วยพระราชทาน ประจำปี 2569 (กองการท่องเที่ยวและกีฬา) ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "22/07/2569",
+   "date_end": "",
+   "budget": 2696400.0,
+   "status": "ระหว่างดำเนินการ",
+   "announce_type": "ประกาศเชิญชวน",
    "matched_keywords": [
     "ประชาสัมพันธ์",
     "จัดงาน"
@@ -1677,6 +1699,25 @@
    ]
   },
   {
+   "pid": "69069221434",
+   "dept": "เทศบาลนครนนทบุรี",
+   "title": "ประกวดราคาจ้างเหมาจัดงานและจัดการแข่งขันเรือยาวประเพณีส่งเสริมการท่องเที่ยวชิงถ้วยพระราชทาน ประจำปี 2569 (กองการท่องเที่ยวและกีฬา) ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "22/07/2569",
+   "date_end": "",
+   "budget": 9900000.0,
+   "status": "ระหว่างดำเนินการ",
+   "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "จัดงาน"
+   ],
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/procsearch.sch?pid=69069221434&servlet=gojsp&proc_id=ShowHTMLFile&processFlows=Procure",
+   "score": 2,
+   "fit": "เกี่ยวข้องน้อย",
+   "hits": [
+    "จัดงาน"
+   ]
+  },
+  {
    "pid": "69069428241",
    "dept": "กรมการแพทย์แผนไทยและการแพทย์ทางเลือก",
    "title": "ประกวดราคาจ้างจัดงาน Global Wellness Summit (GWS) 2026 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
@@ -2141,6 +2182,25 @@
    "budget": 2950000.0,
    "status": "ระหว่างดำเนินการ",
    "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
+   "matched_keywords": [
+    "จัดงาน"
+   ],
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/procsearch.sch?pid=69039463897&servlet=gojsp&proc_id=ShowHTMLFile&processFlows=Procure",
+   "score": 2,
+   "fit": "เกี่ยวข้องน้อย",
+   "hits": [
+    "จัดงาน"
+   ]
+  },
+  {
+   "pid": "69039463897",
+   "dept": "เทศบาลนครนนทบุรี",
+   "title": "ประกวดราคาจ้างเหมาจัดงานโครงการศิลป์ สร้างสรรค์ เสน่ห์เมืองนนท์ ประจำปี ๒๕๖๙ (งานลิเกศิลป์ถิ่นไทย ครบรอบ ๙๐ ปี นครนนทบุรี) (งบประมาณ 2569) ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "22/07/2569",
+   "date_end": "",
+   "budget": 2950000.0,
+   "status": "ระหว่างดำเนินการ",
+   "announce_type": "ประกาศเชิญชวน",
    "matched_keywords": [
     "จัดงาน"
    ],
@@ -2861,7 +2921,7 @@
    "date": "13/07/2569",
    "date_end": "",
    "budget": 800000.0,
-   "status": "ระหว่างดำเนินการ",
+   "status": "ยกเลิกประกาศเชิญชวน",
    "announce_type": "ประกาศเชิญชวน",
    "matched_keywords": [
     "จัดงาน"
