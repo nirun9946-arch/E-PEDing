@@ -1,0 +1,241 @@
+<!DOCTYPE html>
+<html lang="th">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>E-peding — งานภาครัฐที่เนชั่นบิดได้</title>
+<style>
+  :root{
+    --bg:#0b1020; --bg2:#101731; --card:rgba(255,255,255,.05);
+    --border:rgba(255,255,255,.10); --txt:#e8ecf6; --mut:#93a0bd;
+    --gold:#f5c04e; --green:#3ddc97; --blue:#5aa2ff; --red:#ff6b81;
+  }
+  *{margin:0;padding:0;box-sizing:border-box}
+  body{
+    font-family:'Segoe UI',Tahoma,sans-serif; background:
+      radial-gradient(1000px 500px at 80% -10%, #1c2a55 0%, transparent 60%),
+      radial-gradient(800px 400px at -10% 30%, #251b45 0%, transparent 55%),
+      var(--bg);
+    color:var(--txt); min-height:100vh; padding:28px 4vw 60px;
+  }
+  header{display:flex;flex-wrap:wrap;align-items:baseline;gap:14px;margin-bottom:6px}
+  h1{font-size:1.7rem;font-weight:700}
+  h1 .accent{color:var(--gold)}
+  .sub{color:var(--mut);font-size:.9rem}
+  .cards{display:grid;grid-template-columns:repeat(auto-fit,minmax(180px,1fr));gap:14px;margin:22px 0}
+  .card{background:var(--card);border:1px solid var(--border);border-radius:16px;
+    padding:16px 18px;backdrop-filter:blur(8px)}
+  .card .num{font-size:1.6rem;font-weight:700;margin-top:2px}
+  .card .lbl{color:var(--mut);font-size:.82rem}
+  .card.gold .num{color:var(--gold)} .card.green .num{color:var(--green)}
+  .card.blue .num{color:var(--blue)}
+  .filters{display:flex;flex-wrap:wrap;gap:10px;margin-bottom:18px;align-items:center}
+  .filters input,.filters select{
+    background:var(--bg2);border:1px solid var(--border);color:var(--txt);
+    border-radius:10px;padding:9px 12px;font-size:.9rem;font-family:inherit;outline:none}
+  .filters input{flex:1;min-width:220px}
+  .filters input:focus,.filters select:focus{border-color:var(--blue)}
+  table{width:100%;border-collapse:collapse;background:var(--card);
+    border:1px solid var(--border);border-radius:16px;overflow:hidden;font-size:.9rem}
+  thead th{background:rgba(255,255,255,.06);padding:12px 12px;text-align:left;
+    color:var(--mut);font-weight:600;font-size:.8rem;white-space:nowrap;cursor:pointer;user-select:none}
+  thead th:hover{color:var(--txt)}
+  tbody td{padding:12px;border-top:1px solid var(--border);vertical-align:top}
+  tbody tr:hover{background:rgba(255,255,255,.04)}
+  a.title{color:var(--txt);text-decoration:none;font-weight:600;line-height:1.45}
+  a.title:hover{color:var(--blue);text-decoration:underline}
+  .dept{color:var(--mut);font-size:.82rem;margin-top:3px}
+  .money{text-align:right;font-weight:700;color:var(--gold);white-space:nowrap}
+  .badge{display:inline-block;padding:3px 10px;border-radius:999px;font-size:.75rem;font-weight:600;white-space:nowrap}
+  .fit-เหมาะมาก{background:rgba(61,220,151,.15);color:var(--green);border:1px solid rgba(61,220,151,.4)}
+  .fit-น่าสนใจ{background:rgba(90,162,255,.15);color:var(--blue);border:1px solid rgba(90,162,255,.4)}
+  .fit-เกี่ยวข้องน้อย{background:rgba(147,160,189,.12);color:var(--mut);border:1px solid rgba(147,160,189,.35)}
+  .type{font-size:.78rem;color:var(--mut);white-space:nowrap}
+  .type.invite{color:var(--gold)}
+  .kw{display:inline-block;background:rgba(245,192,78,.1);color:var(--gold);
+    border-radius:6px;padding:1px 7px;font-size:.72rem;margin:2px 3px 0 0}
+  .new{color:var(--red);font-size:.7rem;font-weight:700;margin-left:6px}
+  .empty{padding:40px;text-align:center;color:var(--mut)}
+  .count{color:var(--mut);font-size:.85rem;margin:0 0 10px}
+  .legend{background:var(--card);border:1px solid var(--border);border-radius:14px;
+    padding:14px 18px;margin-bottom:18px;font-size:.85rem;line-height:1.75;color:var(--mut)}
+  .legend b{color:var(--txt)}
+  .legend .sep{color:var(--border);margin:0 8px}
+  .toolbar{display:flex;justify-content:space-between;align-items:center;gap:12px;flex-wrap:wrap;margin-bottom:10px}
+  .btn{background:rgba(245,192,78,.12);border:1px solid rgba(245,192,78,.45);color:var(--gold);
+    border-radius:10px;padding:8px 16px;font-size:.85rem;font-weight:600;font-family:inherit;
+    cursor:pointer;transition:background .15s}
+  .btn:hover{background:rgba(245,192,78,.22)}
+  .btn:focus-visible{outline:2px solid var(--gold);outline-offset:2px}
+  .btn[hidden]{display:none}
+  @media(max-width:820px){
+    thead{display:none}
+    table,tbody,tr,td{display:block;width:100%}
+    tbody tr{border-top:1px solid var(--border);padding:8px 0}
+    tbody td{border:none;padding:6px 12px}
+    .money{text-align:left}
+  }
+</style>
+</head>
+<body>
+<header>
+  <h1>🏛️ E-peding <span class="accent">for Nation</span></h1>
+  <span class="sub" id="meta"></span>
+</header>
+<div class="sub">ประกาศจัดซื้อจัดจ้างภาครัฐจากระบบ e-GP — คัดเฉพาะงานสายสื่อ / ประชาสัมพันธ์ / ผลิตรายการ / อีเวนต์ ที่เนชั่นมีศักยภาพเข้าประมูล</div>
+
+<div class="cards" id="cards"></div>
+
+<div class="filters">
+  <input id="q" type="text" placeholder="🔍 ค้นหาชื่อโครงการ / หน่วยงาน...">
+  <select id="fit">
+    <option value="">ความเหมาะสม: ทั้งหมด</option>
+    <option value="เหมาะมาก">เหมาะมาก</option>
+    <option value="น่าสนใจ">น่าสนใจ</option>
+    <option value="เกี่ยวข้องน้อย">เกี่ยวข้องน้อย</option>
+  </select>
+  <select id="atype">
+    <option value="">ประเภทประกาศ: ทั้งหมด</option>
+    <option value="ประกาศเชิญชวน">ประกาศเชิญชวน (ยื่นได้เลย)</option>
+    <option value="ร่าง TOR/ร่างเอกสารประกวดราคา">ร่าง TOR (กำลังจะเปิด)</option>
+  </select>
+  <select id="minb">
+    <option value="0">งบขั้นต่ำ: ไม่จำกัด</option>
+    <option value="500000">≥ 5 แสน</option>
+    <option value="1000000">≥ 1 ล้าน</option>
+    <option value="5000000">≥ 5 ล้าน</option>
+    <option value="10000000">≥ 10 ล้าน</option>
+  </select>
+</div>
+
+<div class="legend">
+  <b>ประกาศเชิญชวน</b> = เปิดให้ยื่นซองแล้ว ยื่นได้เลย
+  <span class="sep">|</span>
+  <b>ร่าง TOR</b> = ยังไม่เปิด อยู่ช่วงรับฟังความเห็น ใช้เตรียมตัวล่วงหน้า
+  <span class="sep">|</span>
+  <b>คะแนน</b> = ความใกล้เคียงกับงานที่เนชั่นทำ คิดจากคำในชื่อโครงการ (ผลิตสื่อ ออกอากาศ สกู๊ป = บวก / ก่อสร้าง ป้าย ครุภัณฑ์ = ลบ)
+  — 6 ขึ้นไป <b>เหมาะมาก</b>, 3–5 <b>น่าสนใจ</b>
+  <span class="sep">|</span>
+  คลิกชื่อโครงการเพื่อเปิดประกาศตัวจริงบนเว็บ e-GP
+</div>
+
+<div class="toolbar">
+  <p class="count" id="count"></p>
+  <button class="btn" id="export" hidden type="button">⬇ ส่งออกรายการที่กรองไว้ (เปิดใน Excel)</button>
+</div>
+<table>
+  <thead><tr>
+    <th data-k="title">โครงการ</th>
+    <th data-k="announce_type">ประเภท</th>
+    <th data-k="budget">งบประมาณ (บาท)</th>
+    <th data-k="date">วันที่ประกาศ</th>
+    <th data-k="fit">ความเหมาะสม</th>
+  </tr></thead>
+  <tbody id="rows"></tbody>
+</table>
+
+<script src="data.js"></script>
+<script>
+const D = window.EGP_DATA || {items:[],fetched_at:'-',range:{}};
+let sortK = 'score', sortDir = -1;
+let current = [];
+
+function thaiMoney(n){ return n ? n.toLocaleString('th-TH',{minimumFractionDigits:0}) : '-'; }
+function todayThai(){
+  const d = new Date();
+  return String(d.getDate()).padStart(2,'0')+'/'+String(d.getMonth()+1).padStart(2,'0')+'/'+(d.getFullYear()+543);
+}
+
+document.getElementById('meta').textContent =
+  `ข้อมูลช่วง ${D.range.from||''} – ${D.range.to||''} · ดึงล่าสุด ${D.fetched_at}`;
+
+function summary(list){
+  const inv = list.filter(x=>x.announce_type==='ประกาศเชิญชวน').length;
+  const tor = list.length - inv;
+  const best = list.filter(x=>x.fit==='เหมาะมาก').length;
+  const bud = list.reduce((s,x)=>s+x.budget,0);
+  document.getElementById('cards').innerHTML = `
+    <div class="card gold"><div class="lbl">งานทั้งหมดที่คัดแล้ว</div><div class="num">${list.length}</div></div>
+    <div class="card green"><div class="lbl">เหมาะมากสำหรับเนชั่น</div><div class="num">${best}</div></div>
+    <div class="card blue"><div class="lbl">เชิญชวน (ยื่นได้เลย) / ร่าง TOR</div><div class="num">${inv} / ${tor}</div></div>
+    <div class="card gold"><div class="lbl">มูลค่างบรวม</div><div class="num">${(bud/1e6).toLocaleString('th-TH',{maximumFractionDigits:1})} ลบ.</div></div>`;
+}
+
+function render(){
+  const q = document.getElementById('q').value.trim().toLowerCase();
+  const fit = document.getElementById('fit').value;
+  const at = document.getElementById('atype').value;
+  const minb = +document.getElementById('minb').value;
+  let list = D.items.filter(x =>
+    (!q || x.title.toLowerCase().includes(q) || x.dept.toLowerCase().includes(q)) &&
+    (!fit || x.fit===fit) && (!at || x.announce_type===at) && x.budget>=minb);
+
+  list.sort((a,b)=>{
+    let va=a[sortK], vb=b[sortK];
+    if(sortK==='date'){ va=va.split('/').reverse().join(''); vb=vb.split('/').reverse().join(''); }
+    if(typeof va==='string') return sortDir * va.localeCompare(vb,'th');
+    return sortDir * (va-vb);
+  });
+
+  current = list;
+  summary(list);
+  document.getElementById('count').textContent = `แสดง ${list.length} โครงการ`;
+  const td = todayThai();
+  document.getElementById('rows').innerHTML = list.length ? list.map(x=>`
+    <tr>
+      <td>
+        <a class="title" href="${x.link}" target="_blank" rel="noopener">${x.title}</a>
+        ${x.date===td?'<span class="new">ใหม่วันนี้</span>':''}
+        <div class="dept">🏢 ${x.dept} · เลขที่โครงการ ${x.pid}</div>
+        <div>${(x.hits||[]).slice(0,6).map(k=>`<span class="kw">${k}</span>`).join('')}</div>
+      </td>
+      <td><span class="type ${x.announce_type==='ประกาศเชิญชวน'?'invite':''}">${x.announce_type}</span></td>
+      <td class="money">${thaiMoney(x.budget)}</td>
+      <td style="white-space:nowrap">${x.date}${x.date_end?`<div class="type">ถึง ${x.date_end}</div>`:''}</td>
+      <td><span class="badge fit-${x.fit}">${x.fit}</span><div class="type" style="margin-top:4px">คะแนน ${x.score}</div></td>
+    </tr>`).join('')
+    : '<tr><td colspan="5" class="empty">ไม่พบโครงการตามเงื่อนไข — ลองรัน run.bat เพื่อดึงข้อมูลใหม่</td></tr>';
+}
+
+document.querySelectorAll('thead th').forEach(th=>th.onclick=()=>{
+  const k = th.dataset.k;
+  if(sortK===k) sortDir*=-1; else { sortK=k; sortDir = (k==='budget'||k==='date')?-1:1; }
+  render();
+});
+['q','fit','atype','minb'].forEach(id=>{
+  const el=document.getElementById(id);
+  el.addEventListener(el.tagName==='INPUT'?'input':'change',render);
+});
+render();
+
+// ส่งออกไฟล์ — ใช้ได้เฉพาะตอนเปิดหน้านี้ผ่านลิงก์ออนไลน์
+const exportBtn = document.getElementById('export');
+if (window.claude && window.claude.downloads) {
+  exportBtn.hidden = false;
+  exportBtn.addEventListener('click', async () => {
+    const cell = v => `"${String(v).replace(/"/g,'""')}"`;
+    const csv = '﻿' + [
+      ['ความเหมาะสม','คะแนน','ชื่อโครงการ','หน่วยงาน','ประเภทประกาศ','งบประมาณ','วันที่ประกาศ','ถึงวันที่','เลขที่โครงการ','ลิงก์ประกาศ'].join(','),
+      ...current.map(x => [x.fit, x.score, x.title, x.dept, x.announce_type,
+                           x.budget, x.date, x.date_end || '', x.pid, x.link].map(cell).join(','))
+    ].join('\r\n');
+    const label = exportBtn.textContent;
+    try {
+      await window.claude.downloads.save({
+        filename: `e-peding-${D.range.to.replace(/\//g,'-')}.txt`, data: csv });
+      exportBtn.textContent = '✓ บันทึกไฟล์แล้ว';
+      setTimeout(() => { exportBtn.textContent = label; }, 2500);
+    } catch (err) {
+      if (err.code === 'declined' || err.code === 'rate_limited') return;
+      if (err.code === 'bad_request' || err.code === 'too_large' || err.code === 'transform_error') {
+        exportBtn.textContent = 'ส่งออกไม่สำเร็จ — ลองกรองให้แคบลงแล้วกดใหม่';
+        setTimeout(() => { exportBtn.textContent = label; }, 4000);
+      } else {
+        exportBtn.hidden = true;   // unavailable / ไม่ได้รับสิทธิ์ในมุมมองนี้
+      }
+    }
+  });
+}
+</script>
+</body>
+</html>

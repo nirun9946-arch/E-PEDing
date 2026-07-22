@@ -1,0 +1,52 @@
+name: ดึงข้อมูล e-GP ทุกวัน
+
+on:
+  schedule:
+    # 01:00 UTC = 08:00 น. เวลาไทย (GitHub cron รับเฉพาะ UTC)
+    - cron: '0 1 * * *'
+  workflow_dispatch:        # กดรันเองได้จากแท็บ Actions
+
+permissions:
+  contents: write
+
+concurrency:
+  group: fetch
+  cancel-in-progress: false
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: ดึงประกาศจาก e-GP
+        id: fetch
+        run: |
+          set +e
+          python egp_fetcher.py --days 21
+          code=$?
+          echo "code=$code" >> "$GITHUB_OUTPUT"
+          # 2 = ดึงไม่ได้เลยแต่ยังมีข้อมูลเดิมอยู่ ไม่ถือว่า job พัง
+          if [ "$code" -eq 2 ]; then
+            echo "::warning::e-GP ไม่ตอบสนองรอบนี้ — เว็บยังแสดงข้อมูลเดิม"
+            exit 0
+          fi
+          exit $code
+
+      - name: บันทึกข้อมูลใหม่ขึ้นเว็บ
+        if: steps.fetch.outputs.code == '0'
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data.js data.json
+          if git diff --staged --quiet; then
+            echo "ไม่มีประกาศใหม่ตั้งแต่รอบที่แล้ว"
+          else
+            git commit -m "อัปเดตข้อมูล e-GP $(TZ=Asia/Bangkok date '+%d/%m/%Y %H:%M')"
+            git push
+          fi
