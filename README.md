@@ -7,7 +7,7 @@
 ข้อมูลอัปเดตอัตโนมัติทุกวัน 08:00 น. ผ่าน GitHub Actions
 
 ## เว็บออนไลน์
-เปิดที่ `https://<ชื่อผู้ใช้ github>.github.io/<ชื่อ repo>/`
+https://nirun9946-arch.github.io/E-PEDing/
 
 ## รันในเครื่อง
 ดับเบิลคลิก **run.bat** → รอดึงข้อมูล 3-8 นาที → เปิด `index.html`
