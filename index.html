@@ -554,10 +554,12 @@ document.querySelectorAll('.pull').forEach(buildPull);
   const hv = document.querySelector('.hero-video');
   if(!hv) return;
   const show = () => { hv.classList.add('on'); hv.play().catch(()=>{}); };
-  hv.addEventListener('loadeddata', show, {once:true});
+  // วิดีโออาจโหลดเสร็จก่อนสคริปต์นี้รัน (เช่นมาจากแคช) ต้องเช็คสถานะปัจจุบันด้วย ไม่ใช่รอ event อย่างเดียว
+  if(hv.readyState >= 2) show();
+  else hv.addEventListener('loadeddata', show, {once:true});
   const srcUrl = hv.src;
   setTimeout(async () => {
-    if(hv.readyState >= 2) return;
+    if(hv.readyState >= 2){ show(); return; }
     try{
       const b = await fetch(srcUrl).then(r => { if(!r.ok) throw 0; return r.blob(); });
       hv.src = URL.createObjectURL(b);
