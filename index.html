@@ -4,167 +4,361 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>E-peding — งานภาครัฐที่เนชั่นบิดได้</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Almarai:wght@300;400;700;800&family=IBM+Plex+Sans+Thai:wght@300;400;500;600;700&family=Instrument+Serif:ital@1&display=swap" rel="stylesheet">
 <style>
   :root{
-    --bg:#0b1020; --bg2:#101731; --card:rgba(255,255,255,.05);
-    --border:rgba(255,255,255,.10); --txt:#e8ecf6; --mut:#93a0bd;
-    --gold:#f5c04e; --green:#3ddc97; --blue:#5aa2ff; --red:#ff6b81;
+    /* ครีมอุ่นบนพื้นดำ — Almarai คุมละติน/ตัวเลข, IBM Plex Sans Thai คุมไทย */
+    --cream:#E1E0CC; --cream-dim:rgba(225,224,204,.62); --cream-faint:rgba(225,224,204,.34);
+    --ink:#000000; --panel:#101010; --panel-2:#212121;
+    --line:rgba(225,224,204,.14); --line-soft:rgba(225,224,204,.08);
+    --sage:#A8C49A;    /* เหมาะมาก */
+    --sky:#9AB6C9;     /* น่าสนใจ */
+    --ember:#D98E6A;   /* งานใหม่ */
+    --font:'Almarai','IBM Plex Sans Thai',-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;
+    --serif:'Instrument Serif',Georgia,serif;
   }
   *{margin:0;padding:0;box-sizing:border-box}
+  html{-webkit-text-size-adjust:100%}
   body{
-    font-family:'Segoe UI',Tahoma,sans-serif; background:
-      radial-gradient(1000px 500px at 80% -10%, #1c2a55 0%, transparent 60%),
-      radial-gradient(800px 400px at -10% 30%, #251b45 0%, transparent 55%),
-      var(--bg);
-    color:var(--txt); min-height:100vh; padding:28px 4vw 60px;
+    font-family:var(--font); background:var(--ink); color:var(--cream);
+    min-height:100vh; overflow-x:hidden; line-height:1.5;
   }
-  header{display:flex;flex-wrap:wrap;align-items:baseline;gap:14px;margin-bottom:6px}
-  h1{font-size:1.7rem;font-weight:700}
-  h1 .accent{color:var(--gold)}
-  .sub{color:var(--mut);font-size:.9rem}
-  .cards{display:grid;grid-template-columns:repeat(auto-fit,minmax(180px,1fr));gap:14px;margin:22px 0}
-  .card{background:var(--card);border:1px solid var(--border);border-radius:16px;
-    padding:16px 18px;backdrop-filter:blur(8px)}
-  .card .num{font-size:1.6rem;font-weight:700;margin-top:2px}
-  .card .lbl{color:var(--mut);font-size:.82rem}
-  .card.gold .num{color:var(--gold)} .card.green .num{color:var(--green)}
-  .card.blue .num{color:var(--blue)} .card.red .num{color:var(--red)}
-  .card.red{border-color:rgba(255,107,129,.35)}
-  .filters{display:flex;flex-wrap:wrap;gap:10px;margin-bottom:18px;align-items:center}
-  .filters input,.filters select{
-    background:var(--bg2);border:1px solid var(--border);color:var(--txt);
-    border-radius:10px;padding:9px 12px;font-size:.9rem;font-family:inherit;outline:none}
-  .filters input{flex:1;min-width:220px}
-  .filters input:focus,.filters select:focus{border-color:var(--blue)}
-  table{width:100%;border-collapse:collapse;background:var(--card);
-    border:1px solid var(--border);border-radius:16px;overflow:hidden;font-size:.9rem}
-  thead th{background:rgba(255,255,255,.06);padding:12px 12px;text-align:left;
-    color:var(--mut);font-weight:600;font-size:.8rem;white-space:nowrap;cursor:pointer;user-select:none}
-  thead th:hover{color:var(--txt)}
-  tbody td{padding:12px;border-top:1px solid var(--border);vertical-align:top}
-  tbody tr:hover{background:rgba(255,255,255,.04)}
-  .title{color:var(--txt);font-weight:600;line-height:1.45}
-  .dept{color:var(--mut);font-size:.82rem;margin-top:3px}
-  .pid{display:inline-flex;align-items:center;gap:9px;margin-top:8px;padding:5px 12px;
-    background:rgba(245,192,78,.09);border:1px solid rgba(245,192,78,.32);border-radius:9px;
-    cursor:pointer;transition:background .15s,border-color .15s}
-  .pid:hover{background:rgba(245,192,78,.16);border-color:rgba(245,192,78,.55)}
-  .pid-label{color:var(--mut);font-size:.74rem;user-select:none}
-  .pid-num{color:var(--gold);font-size:1.15rem;font-weight:800;letter-spacing:.04em;
-    font-variant-numeric:tabular-nums;user-select:all}   /* เลือกทั้งเลขได้ในคลิกเดียว */
-  .pid-copy{color:var(--mut);font-size:.72rem;margin-left:2px;user-select:none}
-  .pid:hover .pid-copy{color:var(--gold)}
-  /* สีตอนคัดลอกสำเร็จ/ไม่สำเร็จ กำหนดจาก JS โดยตรง (ดู copyFeedback) */
-  .money{text-align:right;font-weight:700;color:var(--gold);white-space:nowrap}
-  .badge{display:inline-block;padding:3px 10px;border-radius:999px;font-size:.75rem;font-weight:600;white-space:nowrap}
-  .fit-เหมาะมาก{background:rgba(61,220,151,.15);color:var(--green);border:1px solid rgba(61,220,151,.4)}
-  .fit-น่าสนใจ{background:rgba(90,162,255,.15);color:var(--blue);border:1px solid rgba(90,162,255,.4)}
-  .fit-เกี่ยวข้องน้อย{background:rgba(147,160,189,.12);color:var(--mut);border:1px solid rgba(147,160,189,.35)}
-  .type{font-size:.78rem;color:var(--mut);white-space:nowrap}
-  .type.invite{color:var(--gold)}
-  .kw{display:inline-block;background:rgba(245,192,78,.1);color:var(--gold);
-    border-radius:6px;padding:1px 7px;font-size:.72rem;margin:2px 3px 0 0}
-  .new{display:inline-block;vertical-align:2px;margin-right:7px;padding:2px 8px;border-radius:6px;
-    font-size:.7rem;font-weight:700;letter-spacing:.02em;white-space:nowrap}
-  .new.today{background:var(--red);color:#1a0c12}
-  .new.recent{background:rgba(255,107,129,.16);color:var(--red);border:1px solid rgba(255,107,129,.45)}
-  tr.is-new td{background:rgba(255,107,129,.045)}
-  .empty{padding:40px;text-align:center;color:var(--mut)}
-  .count{color:var(--mut);font-size:.85rem;margin:0 0 10px}
-  .legend{background:var(--card);border:1px solid var(--border);border-radius:14px;
-    padding:14px 18px;margin-bottom:18px;font-size:.85rem;line-height:1.75;color:var(--mut)}
-  .legend b{color:var(--txt)}
-  .legend .sep{color:var(--border);margin:0 8px}
-  .toolbar{display:flex;justify-content:space-between;align-items:center;gap:12px;flex-wrap:wrap;margin-bottom:10px}
-  .btn{background:rgba(245,192,78,.12);border:1px solid rgba(245,192,78,.45);color:var(--gold);
-    border-radius:10px;padding:8px 16px;font-size:.85rem;font-weight:600;font-family:inherit;
-    cursor:pointer;transition:background .15s}
-  .btn:hover{background:rgba(245,192,78,.22)}
-  .btn:focus-visible{outline:2px solid var(--gold);outline-offset:2px}
+  ::selection{background:var(--cream);color:var(--ink)}
+  :focus-visible{outline:2px solid var(--cream);outline-offset:3px;border-radius:4px}
+
+  /* ---- พื้นผิว noise แบบ SVG ---- */
+  .noise-overlay{
+    position:absolute;inset:0;pointer-events:none;mix-blend-mode:overlay;opacity:.7;
+    background-image:url("data:image/svg+xml,%3Csvg viewBox='0 0 256 256' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.85' numOctaves='3' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E");
+  }
+  .bg-noise{
+    position:absolute;inset:0;pointer-events:none;opacity:.15;
+    background-image:url("data:image/svg+xml,%3Csvg viewBox='0 0 256 256' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='n2'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n2)'/%3E%3C/svg%3E");
+  }
+
+  .wrap{max-width:1560px;margin:0 auto}
+
+  /* ================= HERO ================= */
+  .hero-pad{padding:16px}
+  .hero{
+    position:relative;border-radius:24px;overflow:hidden;
+    min-height:min(74vh,620px);display:flex;flex-direction:column;justify-content:flex-end;
+    background:
+      radial-gradient(120% 90% at 78% -12%, #3a3730 0%, transparent 58%),
+      radial-gradient(110% 80% at -8% 18%, #2a2a26 0%, transparent 52%),
+      linear-gradient(175deg,#171716 0%,#0a0a09 62%,#000 100%);
+  }
+  .hero-veil{position:absolute;inset:0;pointer-events:none;
+    background:linear-gradient(to bottom,rgba(0,0,0,.3) 0%,transparent 42%,rgba(0,0,0,.6) 100%)}
+
+  /* แถบยี่ห้อห้อยจากขอบบน */
+  .navpill{
+    position:absolute;top:0;left:50%;transform:translateX(-50%);z-index:3;
+    background:var(--ink);border-radius:0 0 18px 18px;padding:9px 18px;
+    display:flex;align-items:center;gap:14px;max-width:calc(100% - 24px);
+    white-space:nowrap;overflow-x:auto;scrollbar-width:none;
+  }
+  .navpill::-webkit-scrollbar{display:none}
+  .navpill span{font-size:11px;letter-spacing:.02em;color:rgba(225,224,204,.8)}
+  .navpill span.on{color:var(--cream);font-weight:700}
+  .navpill .dot{width:4px;height:4px;border-radius:50%;background:var(--cream-faint);flex:none}
+
+  .hero-body{position:relative;z-index:2;padding:0 20px 22px;width:100%}
+  .hero-grid{display:grid;grid-template-columns:1fr;gap:18px;align-items:end}
+  .brand{
+    font-size:clamp(3.6rem,20vw,15rem);font-weight:400;line-height:.85;letter-spacing:-.06em;
+    color:var(--cream);position:relative;display:inline-block;
+  }
+  .brand .star{position:absolute;top:.06em;right:-.32em;font-size:.28em;font-weight:300;line-height:1;color:var(--cream-dim)}
+  .brand-sub{font-family:var(--serif);font-style:italic;font-size:clamp(1.3rem,4.4vw,2.9rem);
+    color:var(--cream-dim);line-height:1;letter-spacing:-.01em;margin-top:2px;display:block}
+  .hero-note{font-size:.86rem;line-height:1.35;color:var(--cream-dim);max-width:44ch}
+  .hero-meta{font-size:.72rem;color:var(--cream-faint);margin-top:10px;letter-spacing:.01em}
+
+  /* ปุ่ม */
+  .btns{display:flex;gap:9px;flex-wrap:wrap;align-items:center;margin-top:14px}
+  .btn{
+    display:inline-flex;align-items:center;gap:9px;font-family:inherit;font-size:.85rem;font-weight:700;
+    background:transparent;color:var(--cream);border:1px solid var(--line);
+    border-radius:999px;padding:7px 8px 7px 17px;cursor:pointer;text-decoration:none;
+    transition:gap .18s ease,background .18s ease,border-color .18s ease;
+  }
+  .btn:hover{gap:13px;background:rgba(225,224,204,.07);border-color:rgba(225,224,204,.3)}
+  .btn .cap{
+    width:32px;height:32px;border-radius:50%;background:rgba(225,224,204,.1);
+    display:grid;place-items:center;flex:none;transition:transform .18s ease,background .18s ease}
+  .btn:hover .cap{transform:scale(1.09);background:rgba(225,224,204,.18)}
+  .btn .cap svg{width:14px;height:14px;stroke:var(--cream)}
+  .btn.solid{background:var(--cream);color:var(--ink);border-color:var(--cream);font-weight:800}
+  .btn.solid:hover{background:#efeedd}
+  .btn.solid .cap{background:var(--ink)}
+  .btn.solid .cap svg{stroke:var(--cream)}
+  .btn:disabled{opacity:.5;cursor:default}
+  .btn:disabled:hover{gap:9px}
   .btn[hidden]{display:none}
-  .btn:disabled{opacity:.55;cursor:default}
-  .btns{display:flex;gap:8px;flex-wrap:wrap;align-items:center}
-  .btn.primary{background:rgba(90,162,255,.14);border-color:rgba(90,162,255,.5);color:var(--blue)}
-  .btn.primary:hover{background:rgba(90,162,255,.24)}
-  .btn.primary:focus-visible{outline-color:var(--blue)}
-  .btn.ghost{background:transparent;border-color:var(--border);color:var(--mut);text-decoration:none}
-  .btn.ghost:hover{background:rgba(255,255,255,.06);color:var(--txt)}
-  @media(max-width:820px){
+
+  /* ================= สถิติ (การ์ดสไตล์ Features) ================= */
+  .sect{position:relative;padding:0 16px}
+  .stats{display:grid;grid-template-columns:repeat(auto-fit,minmax(190px,1fr));gap:6px;margin-top:6px}
+  .stat{
+    position:relative;background:var(--panel-2);border-radius:18px;padding:20px 20px 22px;overflow:hidden;
+    opacity:0;transform:scale(.96) translateY(10px);
+  }
+  .stat.in{animation:cardIn .75s cubic-bezier(.22,1,.36,1) forwards}
+  @keyframes cardIn{to{opacity:1;transform:none}}
+  .stat .no{font-size:.66rem;color:var(--cream-faint);letter-spacing:.16em}
+  .stat .lbl{font-size:.78rem;color:var(--cream-dim);margin-top:14px;line-height:1.25}
+  .stat .num{font-size:2.5rem;font-weight:800;line-height:1;margin-top:6px;letter-spacing:-.03em;
+    font-variant-numeric:tabular-nums}
+  .stat.a .num{color:var(--ember)} .stat.b .num{color:var(--cream)}
+  .stat.c .num{color:var(--sage)}  .stat.d .num{color:var(--sky)}
+  .stat.e .num{color:var(--cream)}
+  .stat .foot{font-size:.7rem;color:var(--cream-faint);margin-top:8px}
+
+  /* ================= คำอธิบาย (การ์ดสไตล์ About) ================= */
+  .about{background:var(--panel);border-radius:22px;padding:30px 22px;margin-top:6px;text-align:center}
+  .about .eyebrow{font-size:.68rem;letter-spacing:.2em;color:var(--cream-dim)}
+  .about h2{
+    font-size:clamp(1.35rem,4.4vw,2.6rem);font-weight:400;line-height:.98;letter-spacing:-.02em;
+    max-width:22ch;margin:14px auto 0;
+  }
+  .about h2 em{font-family:var(--serif);font-style:italic;color:var(--cream-dim)}
+  .about p{
+    font-size:.85rem;line-height:1.65;color:var(--cream);max-width:78ch;margin:18px auto 0;text-align:left;
+  }
+  .about p .ch{opacity:.2;transition:opacity .18s linear}
+  .about .keys{display:flex;flex-wrap:wrap;gap:8px;justify-content:center;margin-top:20px}
+  .about .key{
+    display:inline-flex;align-items:center;gap:7px;background:rgba(225,224,204,.05);
+    border:1px solid var(--line-soft);border-radius:999px;padding:6px 13px;font-size:.74rem;color:var(--cream-dim)}
+  .about .key svg{width:13px;height:13px;stroke:var(--sage);flex:none}
+  .about .key b{color:var(--cream);font-weight:700}
+
+  /* ================= ตัวกรอง ================= */
+  .filters{display:flex;flex-wrap:wrap;gap:8px;align-items:center;margin-top:26px}
+  .filters input,.filters select{
+    background:var(--panel-2);border:1px solid transparent;color:var(--cream);
+    border-radius:999px;padding:10px 17px;font-size:.83rem;font-family:inherit;outline:none;
+    transition:border-color .18s ease,background .18s ease}
+  .filters input{flex:1;min-width:210px}
+  .filters input::placeholder{color:var(--cream-faint)}
+  .filters input:focus,.filters select:focus{border-color:rgba(225,224,204,.4);background:#2a2a2a}
+  .filters select{cursor:pointer}
+  .filters select option{background:var(--panel-2);color:var(--cream)}
+
+  .toolbar{display:flex;justify-content:space-between;align-items:center;gap:12px;flex-wrap:wrap;margin:22px 0 12px}
+  .count{color:var(--cream-dim);font-size:.8rem;letter-spacing:.01em}
+  .toolbar .btns{margin-top:0}
+
+  /* ================= รายการโครงการ ================= */
+  table{width:100%;border-collapse:separate;border-spacing:0 6px;font-size:.87rem}
+  thead th{
+    text-align:left;padding:0 18px 6px;color:var(--cream-faint);font-weight:400;font-size:.7rem;
+    letter-spacing:.13em;white-space:nowrap;cursor:pointer;user-select:none;transition:color .15s}
+  thead th:hover{color:var(--cream)}
+  tbody tr{background:var(--panel-2)}
+  tbody tr:hover{background:#282828}
+  tbody td{padding:17px 18px;vertical-align:top;border-top:1px solid transparent;transition:background .15s}
+  tbody td:first-child{border-radius:18px 0 0 18px}
+  tbody td:last-child{border-radius:0 18px 18px 0}
+  tr.is-new td:first-child{box-shadow:inset 3px 0 0 var(--ember)}
+
+  .title{color:var(--cream);font-weight:700;line-height:1.45;font-size:.95rem}
+  .dept{color:var(--cream-dim);font-size:.78rem;margin-top:5px}
+  .pid{
+    display:inline-flex;align-items:center;gap:10px;margin-top:11px;padding:7px 14px;
+    background:rgba(225,224,204,.06);border:1px solid var(--line);border-radius:12px;
+    cursor:pointer;transition:background .16s,border-color .16s}
+  .pid:hover{background:rgba(225,224,204,.12);border-color:rgba(225,224,204,.34)}
+  .pid-label{color:var(--cream-faint);font-size:.68rem;user-select:none;letter-spacing:.06em}
+  .pid-num{color:var(--cream);font-size:1.32rem;font-weight:800;letter-spacing:.03em;
+    font-variant-numeric:tabular-nums;user-select:all}
+  .pid-copy{color:var(--cream-faint);font-size:.68rem;user-select:none}
+  .pid:hover .pid-copy{color:var(--cream-dim)}
+
+  .money{text-align:right;font-weight:800;color:var(--cream);white-space:nowrap;
+    font-variant-numeric:tabular-nums;font-size:1rem;letter-spacing:-.01em}
+  .badge{display:inline-block;padding:4px 12px;border-radius:999px;font-size:.72rem;font-weight:700;white-space:nowrap}
+  .fit-เหมาะมาก{background:rgba(168,196,154,.14);color:var(--sage);border:1px solid rgba(168,196,154,.4)}
+  .fit-น่าสนใจ{background:rgba(154,182,201,.14);color:var(--sky);border:1px solid rgba(154,182,201,.4)}
+  .fit-เกี่ยวข้องน้อย{background:rgba(225,224,204,.06);color:var(--cream-faint);border:1px solid var(--line-soft)}
+  .type{font-size:.76rem;color:var(--cream-dim);white-space:nowrap}
+  .type.invite{color:var(--cream);font-weight:700}
+  .kw{display:inline-block;background:rgba(225,224,204,.05);color:var(--cream-dim);
+    border-radius:7px;padding:2px 9px;font-size:.7rem;margin:3px 4px 0 0}
+  .new{display:inline-block;vertical-align:2px;margin-right:8px;padding:3px 9px;border-radius:7px;
+    font-size:.67rem;font-weight:800;letter-spacing:.03em;white-space:nowrap}
+  .new.today{background:var(--ember);color:#1a0d06}
+  .new.recent{background:rgba(217,142,106,.16);color:var(--ember);border:1px solid rgba(217,142,106,.45)}
+  .empty{padding:56px 20px;text-align:center;color:var(--cream-faint);background:var(--panel-2);border-radius:18px}
+
+  footer{padding:44px 16px 40px;text-align:center;color:var(--cream-faint);font-size:.72rem}
+
+  /* ---- อนิเมชันคำไล่ขึ้น ---- */
+  .pull span{display:inline-block;opacity:0;transform:translateY(22px)}
+  .pull.in span{animation:pullUp .78s cubic-bezier(.16,1,.3,1) forwards}
+  @keyframes pullUp{to{opacity:1;transform:none}}
+  .fade{opacity:0;transform:translateY(20px)}
+  .fade.in{animation:fadeUp .85s cubic-bezier(.16,1,.3,1) forwards}
+  @keyframes fadeUp{to{opacity:1;transform:none}}
+
+  @media (prefers-reduced-motion:reduce){
+    .pull span,.fade,.stat{animation:none!important;opacity:1!important;transform:none!important}
+    .about p .ch{opacity:1!important}
+    *{transition-duration:.01ms!important}
+  }
+
+  /* ---- จอกลางขึ้นไป ---- */
+  @media(min-width:768px){
+    .hero-pad{padding:24px}
+    .hero{border-radius:32px;min-height:min(78vh,700px)}
+    .hero-body{padding:0 34px 30px}
+    .hero-grid{grid-template-columns:8fr 4fr;gap:34px}
+    .navpill{padding:11px 30px;gap:34px;border-radius:0 0 26px 26px}
+    .navpill span{font-size:13px}
+    .sect{padding:0 24px}
+    .stats{gap:8px;margin-top:8px}
+    .about{padding:56px 44px;margin-top:8px}
+    .about p{font-size:.92rem;margin-top:26px}
+    .filters{margin-top:38px}
+  }
+  @media(min-width:1100px){
+    .hero-pad{padding:26px}
+    .sect{padding:0 26px}
+    .hero-body{padding:0 44px 38px}
+  }
+
+  /* ---- มือถือ: ตารางเป็นการ์ด ---- */
+  @media(max-width:860px){
     thead{display:none}
     table,tbody,tr,td{display:block;width:100%}
-    tbody tr{border-top:1px solid var(--border);padding:8px 0}
-    tbody td{border:none;padding:6px 12px}
+    table{border-spacing:0}
+    tbody tr{border-radius:18px;margin-bottom:8px;padding:4px 0}
+    tbody td{padding:8px 16px;border:none}
+    tbody td:first-child{border-radius:0;padding-top:16px}
+    tbody td:last-child{border-radius:0;padding-bottom:16px}
+    tr.is-new td:first-child{box-shadow:none}
+    tr.is-new{box-shadow:inset 3px 0 0 var(--ember)}
     .money{text-align:left}
+    .money::before{content:'งบประมาณ ';font-size:.72rem;font-weight:400;color:var(--cream-faint)}
   }
 </style>
 </head>
 <body>
-<header>
-  <h1>🏛️ E-peding <span class="accent">for Nation</span></h1>
-  <span class="sub" id="meta"></span>
-</header>
-<div class="sub">ประกาศจัดซื้อจัดจ้างภาครัฐจากระบบ e-GP — คัดเฉพาะงานสายสื่อ / ประชาสัมพันธ์ / ผลิตรายการ / อีเวนต์ ที่เนชั่นมีศักยภาพเข้าประมูล</div>
 
-<div class="cards" id="cards"></div>
+<!-- ================= HERO ================= -->
+<div class="hero-pad">
+  <div class="hero">
+    <div class="noise-overlay"></div>
+    <div class="hero-veil"></div>
 
-<div class="filters">
-  <input id="q" type="text" placeholder="🔍 ค้นหาชื่อโครงการ / หน่วยงาน...">
-  <select id="fit">
-    <option value="">ความเหมาะสม: ทั้งหมด</option>
-    <option value="เหมาะมาก">เหมาะมาก</option>
-    <option value="น่าสนใจ">น่าสนใจ</option>
-    <option value="เกี่ยวข้องน้อย">เกี่ยวข้องน้อย</option>
-  </select>
-  <select id="atype">
-    <option value="">ประเภทประกาศ: ทั้งหมด</option>
-    <option value="ประกาศเชิญชวน">ประกาศเชิญชวน (ยื่นได้เลย)</option>
-    <option value="ร่าง TOR/ร่างเอกสารประกวดราคา">ร่าง TOR (กำลังจะเปิด)</option>
-  </select>
-  <select id="minb">
-    <option value="0">งบขั้นต่ำ: ไม่จำกัด</option>
-    <option value="500000">≥ 5 แสน</option>
-    <option value="1000000">≥ 1 ล้าน</option>
-    <option value="5000000">≥ 5 ล้าน</option>
-    <option value="10000000">≥ 10 ล้าน</option>
-  </select>
-</div>
+    <nav class="navpill">
+      <span class="on">E-peding</span><span class="dot"></span>
+      <span>ประกาศเชิญชวน</span><span class="dot"></span>
+      <span>ร่าง TOR</span><span class="dot"></span>
+      <span>สื่อ · PR · อีเวนต์</span><span class="dot"></span>
+      <span>e-GP</span>
+    </nav>
 
-<div class="legend">
-  <b>ประกาศเชิญชวน</b> = เปิดให้ยื่นซองแล้ว ยื่นได้เลย
-  <span class="sep">|</span>
-  <b>ร่าง TOR</b> = ยังไม่เปิด อยู่ช่วงรับฟังความเห็น ใช้เตรียมตัวล่วงหน้า
-  <span class="sep">|</span>
-  <b>คะแนน</b> = ความใกล้เคียงกับงานที่เนชั่นทำ คิดจากคำในชื่อโครงการ (ผลิตสื่อ ออกอากาศ สกู๊ป = บวก / ก่อสร้าง ป้าย ครุภัณฑ์ = ลบ)
-  — 6 ขึ้นไป <b>เหมาะมาก</b>, 3–5 <b>น่าสนใจ</b>
-  <span class="sep">|</span>
-  เรียง<b>งานใหม่ล่าสุดขึ้นก่อน</b> ป้าย <span class="new today">ใหม่วันนี้</span> และ <span class="new recent">ใหม่ N วัน</span> อยู่หน้าชื่อโครงการ
-  (กดหัวตารางเพื่อเรียงแบบอื่น เช่น เรียงตามคะแนนหรืองบประมาณ)
-  <span class="sep">|</span>
-  คลิกกล่อง<b>เลขที่โครงการ</b>เพื่อคัดลอกเลข แล้วนำไปวางค้นในเว็บ e-GP (process3.gprocurement.go.th) เพื่อดูประกาศตัวจริง
-</div>
-
-<div class="toolbar">
-  <p class="count" id="count"></p>
-  <div class="btns">
-    <!--live-only-->
-    <button class="btn primary" id="refresh" type="button">🔄 ดึงข้อมูลล่าสุด</button>
-    <a class="btn ghost" id="rerun" href="https://github.com/nirun9946-arch/E-PEDing/actions/workflows/daily-fetch.yml"
-       target="_blank" rel="noopener"
-       title="สั่งให้ระบบไปดึงประกาศชุดใหม่จาก e-GP ใช้เวลาราว 4 นาที (ต้องเป็นเจ้าของ repo ถึงกดรันได้)">สั่งดึงจาก e-GP รอบใหม่</a>
-    <!--/live-only-->
-    <button class="btn" id="export" hidden type="button">⬇ ส่งออกรายการที่กรองไว้ (เปิดใน Excel)</button>
+    <div class="hero-body">
+      <div class="hero-grid">
+        <div>
+          <h1 class="brand pull" data-pull="E-peding" data-star="1"></h1>
+          <span class="brand-sub fade" data-delay="600">for Nation</span>
+        </div>
+        <div>
+          <p class="hero-note fade" data-delay="500">
+            ประกาศจัดซื้อจัดจ้างภาครัฐจากระบบ e-GP คัดเฉพาะงานสายสื่อ ประชาสัมพันธ์
+            ผลิตรายการ และอีเวนต์ ที่เนชั่นมีศักยภาพเข้าประมูล เรียงงานใหม่ล่าสุดขึ้นก่อนเสมอ
+          </p>
+          <div class="hero-meta fade" data-delay="620" id="meta"></div>
+          <div class="btns fade" data-delay="740">
+            <!--live-only-->
+            <button class="btn solid" id="refresh" type="button">
+              ดึงข้อมูลล่าสุด
+              <span class="cap"><svg viewBox="0 0 24 24" fill="none" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M13 6l6 6-6 6"/></svg></span>
+            </button>
+            <a class="btn" id="rerun" href="https://github.com/nirun9946-arch/E-PEDing/actions/workflows/daily-fetch.yml"
+               target="_blank" rel="noopener"
+               title="สั่งให้ระบบไปดึงประกาศชุดใหม่จาก e-GP ใช้เวลาราว 4 นาที (ต้องเป็นเจ้าของ repo ถึงกดรันได้)">
+              สั่งดึงจาก e-GP รอบใหม่
+              <span class="cap"><svg viewBox="0 0 24 24" fill="none" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" style="transform:rotate(-45deg)"><path d="M5 12h14M13 6l6 6-6 6"/></svg></span>
+            </a>
+            <!--/live-only-->
+            <button class="btn" id="export" hidden type="button">
+              ส่งออกรายการที่กรองไว้
+              <span class="cap"><svg viewBox="0 0 24 24" fill="none" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M12 4v12M6 14l6 6 6-6"/></svg></span>
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
   </div>
 </div>
-<table>
-  <thead><tr>
-    <th data-k="title">โครงการ</th>
-    <th data-k="announce_type">ประเภท</th>
-    <th data-k="budget">งบประมาณ (บาท)</th>
-    <th data-k="date">วันที่ประกาศ</th>
-    <th data-k="fit">ความเหมาะสม</th>
-  </tr></thead>
-  <tbody id="rows"></tbody>
-</table>
+
+<div class="wrap">
+  <!-- ================= สถิติ ================= -->
+  <section class="sect"><div class="stats" id="cards"></div></section>
+
+  <!-- ================= คำอธิบาย ================= -->
+  <section class="sect">
+    <div class="about">
+      <div class="bg-noise"></div>
+      <div class="eyebrow">วิธีอ่านหน้านี้</div>
+      <h2 class="pull" data-pull-html="งานใหม่ขึ้นก่อนเสมอ | <em>คัดมาให้แล้ว</em> | เหลือแค่เลือกงานที่ใช่"></h2>
+      <p id="aboutText">ประกาศเชิญชวน คือเปิดให้ยื่นซองแล้ว ยื่นได้เลย ส่วนร่าง TOR คือยังไม่เปิด อยู่ช่วงรับฟังความคิดเห็น เอาไว้เตรียมตัวล่วงหน้า คะแนนคือความใกล้เคียงกับงานที่เนชั่นทำ คิดจากคำในชื่อโครงการ เช่น ผลิตสื่อ ออกอากาศ สกู๊ป จะได้คะแนนบวก ส่วนก่อสร้าง ป้าย ครุภัณฑ์ จะถูกหักคะแนน ตั้งแต่ 6 คะแนนขึ้นไปคือเหมาะมาก 3 ถึง 5 คือน่าสนใจ</p>
+      <div class="keys">
+        <div class="key"><svg viewBox="0 0 24 24" fill="none" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M20 6L9 17l-5-5"/></svg><b>ใหม่วันนี้</b> และ <b>ใหม่ N วัน</b> อยู่หน้าชื่อโครงการ</div>
+        <div class="key"><svg viewBox="0 0 24 24" fill="none" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M20 6L9 17l-5-5"/></svg>กดหัวตารางเพื่อเรียงตาม<b>คะแนน</b>หรือ<b>งบประมาณ</b></div>
+        <div class="key"><svg viewBox="0 0 24 24" fill="none" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M20 6L9 17l-5-5"/></svg>คลิกกล่อง<b>เลขที่โครงการ</b>เพื่อคัดลอก แล้วนำไปค้นในเว็บ e-GP</div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ================= ตัวกรอง + รายการ ================= -->
+  <section class="sect">
+    <div class="filters">
+      <input id="q" type="text" placeholder="ค้นหาชื่อโครงการ หรือหน่วยงาน...">
+      <select id="fit">
+        <option value="">ความเหมาะสม: ทั้งหมด</option>
+        <option value="เหมาะมาก">เหมาะมาก</option>
+        <option value="น่าสนใจ">น่าสนใจ</option>
+        <option value="เกี่ยวข้องน้อย">เกี่ยวข้องน้อย</option>
+      </select>
+      <select id="atype">
+        <option value="">ประเภทประกาศ: ทั้งหมด</option>
+        <option value="ประกาศเชิญชวน">ประกาศเชิญชวน (ยื่นได้เลย)</option>
+        <option value="ร่าง TOR/ร่างเอกสารประกวดราคา">ร่าง TOR (กำลังจะเปิด)</option>
+      </select>
+      <select id="minb">
+        <option value="0">งบขั้นต่ำ: ไม่จำกัด</option>
+        <option value="500000">≥ 5 แสน</option>
+        <option value="1000000">≥ 1 ล้าน</option>
+        <option value="5000000">≥ 5 ล้าน</option>
+        <option value="10000000">≥ 10 ล้าน</option>
+      </select>
+    </div>
+
+    <div class="toolbar">
+      <p class="count" id="count"></p>
+    </div>
+
+    <table>
+      <thead><tr>
+        <th data-k="title">โครงการ</th>
+        <th data-k="announce_type">ประเภท</th>
+        <th data-k="budget" style="text-align:right">งบประมาณ (บาท)</th>
+        <th data-k="date">วันที่ประกาศ</th>
+        <th data-k="fit">ความเหมาะสม</th>
+      </tr></thead>
+      <tbody id="rows"></tbody>
+    </table>
+  </section>
+
+  <footer>E-peding for Nation — ข้อมูลจากระบบ e-GP กรมบัญชีกลาง · อัปเดตอัตโนมัติ 09:30 · 14:00 · 16:30 น.</footer>
+</div>
 
 <script src="data.js"></script>
 <script>
@@ -204,11 +398,22 @@ function summary(list){
   const bud = list.reduce((s,x)=>s+x.budget,0);
   const fresh = list.filter(x=>daysAgo(x.date)<=3).length;
   document.getElementById('cards').innerHTML = `
-    <div class="card red"><div class="lbl">งานใหม่ 3 วันล่าสุด</div><div class="num">${fresh}</div></div>
-    <div class="card gold"><div class="lbl">งานทั้งหมดที่คัดแล้ว</div><div class="num">${list.length}</div></div>
-    <div class="card green"><div class="lbl">เหมาะมากสำหรับเนชั่น</div><div class="num">${best}</div></div>
-    <div class="card blue"><div class="lbl">เชิญชวน (ยื่นได้เลย) / ร่าง TOR</div><div class="num">${inv} / ${tor}</div></div>
-    <div class="card gold"><div class="lbl">มูลค่างบรวม</div><div class="num">${(bud/1e6).toLocaleString('th-TH',{maximumFractionDigits:1})} ลบ.</div></div>`;
+    <div class="stat a"><div class="no">01</div><div class="lbl">งานใหม่ 3 วันล่าสุด</div><div class="num">${fresh}</div><div class="foot">ยังไม่ตกขบวน</div></div>
+    <div class="stat b"><div class="no">02</div><div class="lbl">งานทั้งหมดที่คัดแล้ว</div><div class="num">${list.length}</div><div class="foot">ผ่านเกณฑ์สายสื่อ</div></div>
+    <div class="stat c"><div class="no">03</div><div class="lbl">เหมาะมากสำหรับเนชั่น</div><div class="num">${best}</div><div class="foot">คะแนน 6 ขึ้นไป</div></div>
+    <div class="stat d"><div class="no">04</div><div class="lbl">เชิญชวน / ร่าง TOR</div><div class="num">${inv} <span style="color:var(--cream-faint);font-weight:300">/</span> ${tor}</div><div class="foot">ยื่นได้เลย / กำลังจะเปิด</div></div>
+    <div class="stat e"><div class="no">05</div><div class="lbl">มูลค่างบรวม</div><div class="num">${(bud/1e6).toLocaleString('th-TH',{maximumFractionDigits:1})}<span style="font-size:.42em;font-weight:400"> ลบ.</span></div><div class="foot">รวมทุกงานที่แสดงอยู่</div></div>`;
+  revealStats();
+}
+
+// การ์ดสถิติค่อย ๆ โผล่ทีละใบ
+function revealStats(){
+  document.querySelectorAll('.stat').forEach((el,i)=>{
+    el.style.animationDelay = (i*0.09)+'s';
+    el.classList.remove('in');
+    void el.offsetWidth;
+    el.classList.add('in');
+  });
 }
 
 function render(){
@@ -235,7 +440,7 @@ function render(){
     <tr class="${daysAgo(x.date)<=3?'is-new':''}">
       <td>
         ${newBadge(x.date)}<span class="title">${x.title}</span>
-        <div class="dept">🏢 ${x.dept}</div>
+        <div class="dept">${x.dept}</div>
         <div class="pid" title="คลิกเพื่อคัดลอกเลขโครงการ" data-pid="${x.pid}">
           <span class="pid-label">เลขที่โครงการ</span>
           <span class="pid-num">${x.pid}</span>
@@ -246,9 +451,9 @@ function render(){
       <td><span class="type ${x.announce_type==='ประกาศเชิญชวน'?'invite':''}">${x.announce_type}</span></td>
       <td class="money">${thaiMoney(x.budget)}</td>
       <td style="white-space:nowrap">${x.date}${x.date_end?`<div class="type">ถึง ${x.date_end}</div>`:''}</td>
-      <td><span class="badge fit-${x.fit}">${x.fit}</span><div class="type" style="margin-top:4px">คะแนน ${x.score}</div></td>
+      <td><span class="badge fit-${x.fit}">${x.fit}</span><div class="type" style="margin-top:6px">คะแนน ${x.score}</div></td>
     </tr>`).join('')
-    : '<tr><td colspan="5" class="empty">ไม่พบโครงการตามเงื่อนไข — ลองรัน run.bat เพื่อดึงข้อมูลใหม่</td></tr>';
+    : '<tr><td colspan="5" class="empty">ไม่พบโครงการตามเงื่อนไข — ลองล้างตัวกรอง หรือกดปุ่มดึงข้อมูลล่าสุด</td></tr>';
 }
 
 // คัดลอกข้อความลงคลิปบอร์ด — clipboard API ค้างได้ถ้าหน้าต่างไม่ได้โฟกัส จึงกันเวลาไว้แล้วมีทางสำรอง
@@ -276,9 +481,9 @@ async function copyText(text){
 
 // แสดงผลการคัดลอกด้วยสีบนกล่องโดยตรง
 function copyFeedback(box, tag, ok){
-  box.style.background  = ok ? 'rgba(61,220,151,.16)' : 'rgba(255,107,129,.14)';
-  box.style.borderColor = ok ? 'rgba(61,220,151,.55)' : 'rgba(255,107,129,.55)';
-  tag.style.color = ok ? 'var(--green)' : 'var(--red)';
+  box.style.background  = ok ? 'rgba(168,196,154,.16)' : 'rgba(217,142,106,.16)';
+  box.style.borderColor = ok ? 'rgba(168,196,154,.55)' : 'rgba(217,142,106,.55)';
+  tag.style.color = ok ? 'var(--sage)' : 'var(--ember)';
   tag.textContent = ok ? '✓ คัดลอกแล้ว' : '✗ คัดลอกไม่ได้ — ลากคลุมเลขแล้วกด Ctrl+C';
   setTimeout(() => {
     box.style.background = box.style.borderColor = tag.style.color = '';
@@ -304,35 +509,104 @@ document.querySelectorAll('thead th').forEach(th=>th.onclick=()=>{
 });
 render();
 
+/* ---------- อนิเมชันตอนเข้าหน้า ---------- */
+
+// แตกข้อความเป็นคำ ให้แต่ละคำไล่ขึ้นทีละคำ
+function buildPull(el){
+  const html = el.dataset.pullHtml;
+  const plain = el.dataset.pull;
+  let words;
+  if(html){
+    // แบ่งเป็นช่วง ๆ ด้วย | โดยช่วงที่อยู่ใน <em> ใช้ฟอนต์เซอริฟเอียง
+    words = [];
+    html.split('|').forEach(seg=>{
+      const em = /^\s*<em>/.test(seg);
+      seg.replace(/<\/?em>/g,'').trim().split(/\s+/).forEach(w=>words.push({w,em}));
+    });
+  } else {
+    words = plain.split(/\s+/).map(w=>({w,em:false}));
+  }
+  el.innerHTML = words.map((o,i)=>{
+    const last = i === words.length-1;
+    const star = (last && el.dataset.star) ? '<sup class="star">*</sup>' : '';
+    return `<span style="animation-delay:${(i*0.08).toFixed(2)}s">${
+      o.em ? '<em>'+o.w+'</em>' : o.w}${star}</span>`;
+  }).join(' ');
+}
+
+document.querySelectorAll('.pull').forEach(buildPull);
+
+const io = new IntersectionObserver((entries)=>{
+  entries.forEach(en=>{
+    if(!en.isIntersecting) return;
+    const el = en.target;
+    const d = el.dataset.delay;
+    if(d) el.style.animationDelay = (d/1000)+'s';
+    el.classList.add('in');
+    io.unobserve(el);
+  });
+},{threshold:.15,rootMargin:'0px 0px -60px 0px'});
+
+document.querySelectorAll('.pull,.fade').forEach(el=>io.observe(el));
+
+// ย่อหน้าอธิบาย: ตัวอักษรค่อย ๆ สว่างขึ้นตามการเลื่อนหน้า
+(function(){
+  const p = document.getElementById('aboutText');
+  if(!p) return;
+  const text = p.textContent;
+  p.innerHTML = [...text].map(c =>
+    c === ' ' ? ' ' : `<span class="ch">${c}</span>`).join('');
+  const chars = p.querySelectorAll('.ch');
+  const total = chars.length;
+  let ticking = false;
+  function paint(){
+    ticking = false;
+    const r = p.getBoundingClientRect();
+    const vh = window.innerHeight;
+    // เริ่มสว่างเมื่อย่อหน้าโผล่ที่ 80% ของจอ จบเมื่อขึ้นไปถึง 20%
+    const prog = (vh*0.8 - r.top) / (r.height + vh*0.6);
+    chars.forEach((el,i)=>{
+      const at = i/total;
+      const v = (prog - (at-0.1)) / 0.15;
+      el.style.opacity = Math.max(.2, Math.min(1, v)).toFixed(2);
+    });
+  }
+  addEventListener('scroll',()=>{ if(!ticking){ ticking = true; requestAnimationFrame(paint);} },{passive:true});
+  addEventListener('resize',paint);
+  paint();
+})();
+
 // ดึงข้อมูลชุดล่าสุดที่ระบบเก็บไว้ มาแสดงทันทีโดยไม่ต้องโหลดหน้าใหม่
 // (หน้าเว็บเรียก e-GP ตรง ๆ ไม่ได้ เพราะ e-GP ไม่เปิด CORS ให้เว็บอื่นเรียก
 //  ตัวดึงข้อมูลจริงจึงรันบน GitHub Actions แล้วเก็บผลไว้ที่ data.js)
 const refreshBtn = document.getElementById('refresh');
-if (refreshBtn) refreshBtn.addEventListener('click', async () => {
-  const label = refreshBtn.textContent;
-  const before = D.fetched_at;
-  refreshBtn.disabled = true;
-  refreshBtn.textContent = 'กำลังโหลด...';
-  try {
-    const s = document.createElement('script');
-    s.src = 'data.js?t=' + Date.now();          // กันเบราว์เซอร์หยิบของเก่าในแคช
-    await new Promise((ok, fail) => { s.onload = ok; s.onerror = fail; document.head.appendChild(s); });
-    D = window.EGP_DATA;
-    setMeta();
-    render();
-    refreshBtn.textContent = D.fetched_at === before
-      ? '✓ ข้อมูลเป็นชุดล่าสุดแล้ว'
-      : `✓ อัปเดตแล้ว (${D.total} โครงการ)`;
-  } catch {
-    refreshBtn.textContent = 'โหลดไม่สำเร็จ — ลองใหม่อีกครั้ง';
-  }
-  setTimeout(() => { refreshBtn.textContent = label; refreshBtn.disabled = false; }, 3500);
-});
+if (refreshBtn) {
+  const cap = refreshBtn.querySelector('.cap');
+  const say = t => { refreshBtn.childNodes[0].nodeValue = t + ' '; };
+  refreshBtn.addEventListener('click', async () => {
+    const before = D.fetched_at;
+    refreshBtn.disabled = true;
+    say('กำลังโหลด...');
+    try {
+      const s = document.createElement('script');
+      s.src = 'data.js?t=' + Date.now();          // กันเบราว์เซอร์หยิบของเก่าในแคช
+      await new Promise((ok, fail) => { s.onload = ok; s.onerror = fail; document.head.appendChild(s); });
+      D = window.EGP_DATA;
+      setMeta();
+      render();
+      say(D.fetched_at === before ? '✓ เป็นชุดล่าสุดแล้ว' : `✓ อัปเดตแล้ว (${D.total} โครงการ)`);
+    } catch {
+      say('โหลดไม่สำเร็จ — ลองใหม่');
+    }
+    setTimeout(() => { say('ดึงข้อมูลล่าสุด'); refreshBtn.disabled = false; }, 3500);
+  });
+}
 
 // ส่งออกไฟล์ — ใช้ได้เฉพาะตอนเปิดหน้านี้ผ่านลิงก์ออนไลน์
 const exportBtn = document.getElementById('export');
 if (window.claude && window.claude.downloads) {
   exportBtn.hidden = false;
+  const sayX = t => { exportBtn.childNodes[0].nodeValue = t + ' '; };
   exportBtn.addEventListener('click', async () => {
     const cell = v => `"${String(v).replace(/"/g,'""')}"`;
     const csv = '﻿' + [
@@ -340,17 +614,16 @@ if (window.claude && window.claude.downloads) {
       ...current.map(x => [x.fit, x.score, x.title, x.dept, x.announce_type,
                            x.budget, x.date, x.date_end || '', x.pid, x.link].map(cell).join(','))
     ].join('\r\n');
-    const label = exportBtn.textContent;
     try {
       await window.claude.downloads.save({
         filename: `e-peding-${D.range.to.replace(/\//g,'-')}.txt`, data: csv });
-      exportBtn.textContent = '✓ บันทึกไฟล์แล้ว';
-      setTimeout(() => { exportBtn.textContent = label; }, 2500);
+      sayX('✓ บันทึกไฟล์แล้ว');
+      setTimeout(() => sayX('ส่งออกรายการที่กรองไว้'), 2500);
     } catch (err) {
       if (err.code === 'declined' || err.code === 'rate_limited') return;
       if (err.code === 'bad_request' || err.code === 'too_large' || err.code === 'transform_error') {
-        exportBtn.textContent = 'ส่งออกไม่สำเร็จ — ลองกรองให้แคบลงแล้วกดใหม่';
-        setTimeout(() => { exportBtn.textContent = label; }, 4000);
+        sayX('ส่งออกไม่สำเร็จ — กรองให้แคบลง');
+        setTimeout(() => sayX('ส่งออกรายการที่กรองไว้'), 4000);
       } else {
         exportBtn.hidden = true;   // unavailable / ไม่ได้รับสิทธิ์ในมุมมองนี้
       }
