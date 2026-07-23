@@ -43,9 +43,19 @@
   thead th:hover{color:var(--txt)}
   tbody td{padding:12px;border-top:1px solid var(--border);vertical-align:top}
   tbody tr:hover{background:rgba(255,255,255,.04)}
-  a.title{color:var(--txt);text-decoration:none;font-weight:600;line-height:1.45}
-  a.title:hover{color:var(--blue);text-decoration:underline}
+  .title{color:var(--txt);font-weight:600;line-height:1.45}
   .dept{color:var(--mut);font-size:.82rem;margin-top:3px}
+  .pid{display:inline-flex;align-items:center;gap:9px;margin-top:8px;padding:5px 12px;
+    background:rgba(245,192,78,.09);border:1px solid rgba(245,192,78,.32);border-radius:9px;
+    cursor:pointer;user-select:none;transition:background .15s,border-color .15s}
+  .pid:hover{background:rgba(245,192,78,.16);border-color:rgba(245,192,78,.55)}
+  .pid-label{color:var(--mut);font-size:.74rem}
+  .pid-num{color:var(--gold);font-size:1.15rem;font-weight:800;letter-spacing:.04em;
+    font-variant-numeric:tabular-nums}
+  .pid-copy{color:var(--mut);font-size:.72rem;margin-left:2px}
+  .pid:hover .pid-copy{color:var(--gold)}
+  .pid.copied{background:rgba(61,220,151,.16);border-color:rgba(61,220,151,.5)}
+  .pid.copied .pid-copy{color:var(--green)}
   .money{text-align:right;font-weight:700;color:var(--gold);white-space:nowrap}
   .badge{display:inline-block;padding:3px 10px;border-radius:999px;font-size:.75rem;font-weight:600;white-space:nowrap}
   .fit-เหมาะมาก{background:rgba(61,220,151,.15);color:var(--green);border:1px solid rgba(61,220,151,.4)}
@@ -131,7 +141,7 @@
   เรียง<b>งานใหม่ล่าสุดขึ้นก่อน</b> ป้าย <span class="new today">ใหม่วันนี้</span> และ <span class="new recent">ใหม่ N วัน</span> อยู่หน้าชื่อโครงการ
   (กดหัวตารางเพื่อเรียงแบบอื่น เช่น เรียงตามคะแนนหรืองบประมาณ)
   <span class="sep">|</span>
-  คลิกชื่อโครงการเพื่อเปิดประกาศตัวจริงบนเว็บ e-GP
+  คลิกกล่อง<b>เลขที่โครงการ</b>เพื่อคัดลอกเลข แล้วนำไปวางค้นในเว็บ e-GP (process3.gprocurement.go.th) เพื่อดูประกาศตัวจริง
 </div>
 
 <div class="toolbar">
@@ -225,8 +235,13 @@ function render(){
   document.getElementById('rows').innerHTML = list.length ? list.map(x=>`
     <tr class="${daysAgo(x.date)<=3?'is-new':''}">
       <td>
-        ${newBadge(x.date)}<a class="title" href="${x.link}" target="_blank" rel="noopener">${x.title}</a>
-        <div class="dept">🏢 ${x.dept} · เลขที่โครงการ ${x.pid}</div>
+        ${newBadge(x.date)}<span class="title">${x.title}</span>
+        <div class="dept">🏢 ${x.dept}</div>
+        <div class="pid" title="คลิกเพื่อคัดลอกเลขโครงการ" data-pid="${x.pid}">
+          <span class="pid-label">เลขที่โครงการ</span>
+          <span class="pid-num">${x.pid}</span>
+          <span class="pid-copy">⧉ คัดลอก</span>
+        </div>
         <div>${(x.hits||[]).slice(0,6).map(k=>`<span class="kw">${k}</span>`).join('')}</div>
       </td>
       <td><span class="type ${x.announce_type==='ประกาศเชิญชวน'?'invite':''}">${x.announce_type}</span></td>
@@ -236,6 +251,29 @@ function render(){
     </tr>`).join('')
     : '<tr><td colspan="5" class="empty">ไม่พบโครงการตามเงื่อนไข — ลองรัน run.bat เพื่อดึงข้อมูลใหม่</td></tr>';
 }
+
+// คลิกที่กล่องเลขโครงการเพื่อคัดลอกเลข ไปวางค้นในเว็บ e-GP ได้เลย
+document.getElementById('rows').addEventListener('click', e => {
+  const box = e.target.closest('.pid');
+  if(!box) return;
+  const pid = box.dataset.pid;
+  const done = () => {
+    box.classList.add('copied');
+    box.querySelector('.pid-copy').textContent = '✓ คัดลอกแล้ว';
+    setTimeout(() => {
+      box.classList.remove('copied');
+      box.querySelector('.pid-copy').textContent = '⧉ คัดลอก';
+    }, 1600);
+  };
+  if(navigator.clipboard && navigator.clipboard.writeText){
+    navigator.clipboard.writeText(pid).then(done, done);
+  } else {
+    const t = document.createElement('textarea');
+    t.value = pid; document.body.appendChild(t); t.select();
+    try{ document.execCommand('copy'); }catch{}
+    t.remove(); done();
+  }
+});
 
 document.querySelectorAll('thead th').forEach(th=>th.onclick=()=>{
   const k = th.dataset.k;
