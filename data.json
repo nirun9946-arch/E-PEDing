@@ -1,10 +1,10 @@
 {
- "fetched_at": "22/07/2569 17:16",
+ "fetched_at": "23/07/2569 09:30",
  "range": {
-  "from": "01/07/2569",
-  "to": "22/07/2569"
+  "from": "02/07/2569",
+  "to": "23/07/2569"
  },
- "total": 165,
+ "total": 154,
  "requests": 33,
  "items": [
   {
@@ -15,6 +15,7 @@
    "date_end": "22/07/2569",
    "budget": 5000000.0,
    "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_2.jsp?tor_project_id=69069167199",
    "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
    "matched_keywords": [
     "ประชาสัมพันธ์",
@@ -22,7 +23,6 @@
     "เผยแพร่",
     "สื่อออนไลน์"
    ],
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/procsearch.sch?pid=69069167199&servlet=gojsp&proc_id=ShowHTMLFile&processFlows=Procure",
    "score": 16,
    "fit": "เหมาะมาก",
    "hits": [
@@ -42,13 +42,13 @@
    "date_end": "",
    "budget": 5000000.0,
    "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69069391894&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
    "announce_type": "ประกาศเชิญชวน",
    "matched_keywords": [
     "ผลิตสื่อ",
     "เผยแพร่",
     "สื่อออนไลน์"
    ],
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/procsearch.sch?pid=69069391894&servlet=gojsp&proc_id=ShowHTMLFile&processFlows=Procure",
    "score": 15,
    "fit": "เหมาะมาก",
    "hits": [
@@ -68,13 +68,13 @@
    "date_end": "20/07/2569",
    "budget": 1500000.0,
    "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_2.jsp?tor_project_id=69079069085",
    "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
    "matched_keywords": [
     "ประชาสัมพันธ์",
     "เผยแพร่",
     "โฆษณา"
    ],
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/procsearch.sch?pid=69079069085&servlet=gojsp&proc_id=ShowHTMLFile&processFlows=Procure",
    "score": 15,
    "fit": "เหมาะมาก",
    "hits": [
@@ -93,12 +93,12 @@
    "date_end": "13/07/2569",
    "budget": 6000000.0,
    "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_2.jsp?tor_project_id=69079023019",
    "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
    "matched_keywords": [
     "ประชาสัมพันธ์",
     "โทรทัศน์"
    ],
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/procsearch.sch?pid=69079023019&servlet=gojsp&proc_id=ShowHTMLFile&processFlows=Procure",
    "score": 14,
    "fit": "เหมาะมาก",
    "hits": [
@@ -116,12 +116,12 @@
    "date_end": "",
    "budget": 6000000.0,
    "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69079023019&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
    "announce_type": "ประกาศเชิญชวน",
    "matched_keywords": [
     "ประชาสัมพันธ์",
     "โทรทัศน์"
    ],
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/procsearch.sch?pid=69079023019&servlet=gojsp&proc_id=ShowHTMLFile&processFlows=Procure",
    "score": 14,
    "fit": "เหมาะมาก",
    "hits": [
@@ -139,6 +139,7 @@
    "date_end": "",
    "budget": 4300000.0,
    "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69059087781&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
    "announce_type": "ประกาศเชิญชวน",
    "matched_keywords": [
     "ประชาสัมพันธ์",
@@ -146,7 +147,6 @@
     "เผยแพร่",
     "สื่อออนไลน์"
    ],
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/procsearch.sch?pid=69059087781&servlet=gojsp&proc_id=ShowHTMLFile&processFlows=Procure",
    "score": 13,
    "fit": "เหมาะมาก",
    "hits": [
@@ -165,12 +165,12 @@
    "date_end": "",
    "budget": 2350000.0,
    "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69079190994&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
    "announce_type": "ประกาศเชิญชวน",
    "matched_keywords": [
     "โทรทัศน์",
     "โฆษณา"
    ],
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/procsearch.sch?pid=69079190994&servlet=gojsp&proc_id=ShowHTMLFile&processFlows=Procure",
    "score": 13,
    "fit": "เหมาะมาก",
    "hits": [
@@ -188,12 +188,12 @@
    "date_end": "",
    "budget": 2300000.0,
    "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69079237425&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
    "announce_type": "ประกาศเชิญชวน",
    "matched_keywords": [
     "โทรทัศน์",
     "โฆษณา"
    ],
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/procsearch.sch?pid=69079237425&servlet=gojsp&proc_id=ShowHTMLFile&processFlows=Procure",
    "score": 13,
    "fit": "เหมาะมาก",
    "hits": [
@@ -211,12 +211,12 @@
    "date_end": "",
    "budget": 1400000.0,
    "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69079235167&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
    "announce_type": "ประกาศเชิญชวน",
    "matched_keywords": [
     "โทรทัศน์",
     "โฆษณา"
    ],
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/procsearch.sch?pid=69079235167&servlet=gojsp&proc_id=ShowHTMLFile&processFlows=Procure",
    "score": 13,
    "fit": "เหมาะมาก",
    "hits": [
@@ -234,12 +234,12 @@
    "date_end": "",
    "budget": 1000000.0,
    "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69079164186&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
    "announce_type": "ประกาศเชิญชวน",
    "matched_keywords": [
     "โทรทัศน์",
     "โฆษณา"
    ],
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/procsearch.sch?pid=69079164186&servlet=gojsp&proc_id=ShowHTMLFile&processFlows=Procure",
    "score": 13,
    "fit": "เหมาะมาก",
    "hits": [
@@ -257,12 +257,12 @@
    "date_end": "",
    "budget": 6000000.0,
    "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69059014402&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
    "announce_type": "ประกาศเชิญชวน",
    "matched_keywords": [
     "โทรทัศน์",
     "สื่อออนไลน์"
    ],
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/procsearch.sch?pid=69059014402&servlet=gojsp&proc_id=ShowHTMLFile&processFlows=Procure",
    "score": 11,
    "fit": "เหมาะมาก",
    "hits": [
@@ -279,12 +279,12 @@
    "date_end": "",
    "budget": 2700000.0,
    "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69069225325&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
    "announce_type": "ประกาศเชิญชวน",
    "matched_keywords": [
     "ประชาสัมพันธ์",
     "โทรทัศน์"
    ],
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/procsearch.sch?pid=69069225325&servlet=gojsp&proc_id=ShowHTMLFile&processFlows=Procure",
    "score": 10,
    "fit": "เหมาะมาก",
    "hits": [
@@ -302,12 +302,12 @@
    "date_end": "",
    "budget": 1000000.0,
    "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69079071096&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
    "announce_type": "ประกาศเชิญชวน",
    "matched_keywords": [
     "ประชาสัมพันธ์",
     "ผลิตสื่อ"
    ],
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/procsearch.sch?pid=69079071096&servlet=gojsp&proc_id=ShowHTMLFile&processFlows=Procure",
    "score": 10,
    "fit": "เหมาะมาก",
    "hits": [
@@ -324,12 +324,12 @@
    "date_end": "20/07/2569",
    "budget": 21000000.0,
    "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_2.jsp?tor_project_id=69069583686",
    "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
    "matched_keywords": [
     "ประชาสัมพันธ์",
     "โฆษณา"
    ],
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/procsearch.sch?pid=69069583686&servlet=gojsp&proc_id=ShowHTMLFile&processFlows=Procure",
    "score": 9,
    "fit": "เหมาะมาก",
    "hits": [
@@ -346,11 +346,11 @@
    "date_end": "14/07/2569",
    "budget": 8000000.0,
    "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_2.jsp?tor_project_id=69069496683",
    "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
    "matched_keywords": [
     "ประชาสัมพันธ์"
    ],
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/procsearch.sch?pid=69069496683&servlet=gojsp&proc_id=ShowHTMLFile&processFlows=Procure",
    "score": 9,
    "fit": "เหมาะมาก",
    "hits": [
@@ -367,12 +367,12 @@
    "date_end": "15/07/2569",
    "budget": 1500000.0,
    "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_2.jsp?tor_project_id=69069593203",
    "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
    "matched_keywords": [
     "ประชาสัมพันธ์",
     "เผยแพร่"
    ],
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/procsearch.sch?pid=69069593203&servlet=gojsp&proc_id=ShowHTMLFile&processFlows=Procure",
    "score": 9,
    "fit": "เหมาะมาก",
    "hits": [
@@ -390,12 +390,12 @@
    "date_end": "",
    "budget": 1500000.0,
    "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69069593203&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
    "announce_type": "ประกาศเชิญชวน",
    "matched_keywords": [
     "ประชาสัมพันธ์",
     "เผยแพร่"
    ],
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/procsearch.sch?pid=69069593203&servlet=gojsp&proc_id=ShowHTMLFile&processFlows=Procure",
    "score": 9,
    "fit": "เหมาะมาก",
    "hits": [
@@ -413,12 +413,12 @@
    "date_end": "16/07/2569",
    "budget": 2696400.0,
    "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_2.jsp?tor_project_id=69069220502",
    "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
    "matched_keywords": [
     "ประชาสัมพันธ์",
     "จัดงาน"
    ],
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/procsearch.sch?pid=69069220502&servlet=gojsp&proc_id=ShowHTMLFile&processFlows=Procure",
    "score": 8,
    "fit": "เหมาะมาก",
    "hits": [
@@ -435,12 +435,12 @@
    "date_end": "",
    "budget": 2696400.0,
    "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69069220502&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
    "announce_type": "ประกาศเชิญชวน",
    "matched_keywords": [
     "ประชาสัมพันธ์",
     "จัดงาน"
    ],
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/procsearch.sch?pid=69069220502&servlet=gojsp&proc_id=ShowHTMLFile&processFlows=Procure",
    "score": 8,
    "fit": "เหมาะมาก",
    "hits": [
@@ -457,12 +457,12 @@
    "date_end": "",
    "budget": 2000000.0,
    "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69079359364&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
    "announce_type": "ประกาศเชิญชวน",
    "matched_keywords": [
     "ประชาสัมพันธ์",
     "จัดกิจกรรม"
    ],
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/procsearch.sch?pid=69079359364&servlet=gojsp&proc_id=ShowHTMLFile&processFlows=Procure",
    "score": 8,
    "fit": "เหมาะมาก",
    "hits": [
@@ -479,13 +479,13 @@
    "date_end": "23/07/2569",
    "budget": 1500000.0,
    "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_2.jsp?tor_project_id=69079183523",
    "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
    "matched_keywords": [
     "ประชาสัมพันธ์",
     "เผยแพร่",
     "โฆษณา"
    ],
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/procsearch.sch?pid=69079183523&servlet=gojsp&proc_id=ShowHTMLFile&processFlows=Procure",
    "score": 8,
    "fit": "เหมาะมาก",
    "hits": [
@@ -502,6 +502,7 @@
    "date_end": "10/07/2569",
    "budget": 5000000.0,
    "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_2.jsp?tor_project_id=69079118254",
    "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
    "matched_keywords": [
     "ประชาสัมพันธ์",
@@ -509,7 +510,6 @@
     "โทรทัศน์",
     "สกู๊ป"
    ],
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/procsearch.sch?pid=69079118254&servlet=gojsp&proc_id=ShowHTMLFile&processFlows=Procure",
    "score": 7,
    "fit": "เหมาะมาก",
    "hits": [
@@ -528,6 +528,7 @@
    "date_end": "",
    "budget": 5000000.0,
    "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69079118254&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
    "announce_type": "ประกาศเชิญชวน",
    "matched_keywords": [
     "ประชาสัมพันธ์",
@@ -535,7 +536,6 @@
     "โทรทัศน์",
     "สกู๊ป"
    ],
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/procsearch.sch?pid=69079118254&servlet=gojsp&proc_id=ShowHTMLFile&processFlows=Procure",
    "score": 7,
    "fit": "เหมาะมาก",
    "hits": [
@@ -554,57 +554,17 @@
    "date_end": "",
    "budget": 5000000.0,
    "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69069440870&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
    "announce_type": "ประกาศเชิญชวน",
    "matched_keywords": [
     "ประชาสัมพันธ์",
     "ผลิตสื่อ"
    ],
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/procsearch.sch?pid=69069440870&servlet=gojsp&proc_id=ShowHTMLFile&processFlows=Procure",
    "score": 7,
    "fit": "เหมาะมาก",
    "hits": [
     "ประชาสัมพันธ์",
     "ผลิตสื่อ"
-   ]
-  },
-  {
-   "pid": "69059260517",
-   "dept": "สถาบันวิจัยและพัฒนาอัญมณีและเครื่องประดับแห่งชาติ (องค์การมหาชน)",
-   "title": "ประกวดราคาจ้างการประชาสัมพันธ์ สร้างการรับรู้งานแสดงสินค้าอัญมณีและเครื่องประดับ ครั้งที่ 74 และ 75 ทั้งในและต่างประเทศ ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
-   "date": "01/07/2569",
-   "date_end": "",
-   "budget": 40000000.0,
-   "status": "ระหว่างดำเนินการ",
-   "announce_type": "ประกาศเชิญชวน",
-   "matched_keywords": [
-    "ประชาสัมพันธ์"
-   ],
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/procsearch.sch?pid=69059260517&servlet=gojsp&proc_id=ShowHTMLFile&processFlows=Procure",
-   "score": 6,
-   "fit": "เหมาะมาก",
-   "hits": [
-    "ประชาสัมพันธ์",
-    "สร้างการรับรู้"
-   ]
-  },
-  {
-   "pid": "69069605389",
-   "dept": "กรมส่งเสริมการค้าระหว่างประเทศ",
-   "title": "ประกวดราคาจ้างโครงการกิจกรรมส่งเสริมภาพลักษณ์และความร่วมมือทางธุรกิจอุตสาหกรรมบันเทิงและคอนเทนต์ไทยในต่างประเทศ ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
-   "date": "01/07/2569",
-   "date_end": "06/07/2569",
-   "budget": 35000000.0,
-   "status": "ระหว่างดำเนินการ",
-   "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
-   "matched_keywords": [
-    "คอนเทนต์"
-   ],
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/procsearch.sch?pid=69069605389&servlet=gojsp&proc_id=ShowHTMLFile&processFlows=Procure",
-   "score": 6,
-   "fit": "เหมาะมาก",
-   "hits": [
-    "คอนเทนต์",
-    "ภาพลักษณ์"
    ]
   },
   {
@@ -615,11 +575,11 @@
    "date_end": "",
    "budget": 35000000.0,
    "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69069605389&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
    "announce_type": "ประกาศเชิญชวน",
    "matched_keywords": [
     "คอนเทนต์"
    ],
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/procsearch.sch?pid=69069605389&servlet=gojsp&proc_id=ShowHTMLFile&processFlows=Procure",
    "score": 6,
    "fit": "เหมาะมาก",
    "hits": [
@@ -635,11 +595,11 @@
    "date_end": "",
    "budget": 11600000.0,
    "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69069303975&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
    "announce_type": "ประกาศเชิญชวน",
    "matched_keywords": [
     "ประชาสัมพันธ์"
    ],
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/procsearch.sch?pid=69069303975&servlet=gojsp&proc_id=ShowHTMLFile&processFlows=Procure",
    "score": 6,
    "fit": "เหมาะมาก",
    "hits": [
@@ -655,11 +615,11 @@
    "date_end": "16/07/2569",
    "budget": 3950000.0,
    "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_2.jsp?tor_project_id=69069325091",
    "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
    "matched_keywords": [
     "ประชาสัมพันธ์"
    ],
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/procsearch.sch?pid=69069325091&servlet=gojsp&proc_id=ShowHTMLFile&processFlows=Procure",
    "score": 6,
    "fit": "เหมาะมาก",
    "hits": [
@@ -675,11 +635,11 @@
    "date_end": "",
    "budget": 3950000.0,
    "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69069325091&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
    "announce_type": "ประกาศเชิญชวน",
    "matched_keywords": [
     "ประชาสัมพันธ์"
    ],
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/procsearch.sch?pid=69069325091&servlet=gojsp&proc_id=ShowHTMLFile&processFlows=Procure",
    "score": 6,
    "fit": "เหมาะมาก",
    "hits": [
@@ -695,11 +655,11 @@
    "date_end": "14/07/2569",
    "budget": 3500000.0,
    "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_2.jsp?tor_project_id=69079132688",
    "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
    "matched_keywords": [
     "ประชาสัมพันธ์"
    ],
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/procsearch.sch?pid=69079132688&servlet=gojsp&proc_id=ShowHTMLFile&processFlows=Procure",
    "score": 6,
    "fit": "เหมาะมาก",
    "hits": [
@@ -715,11 +675,11 @@
    "date_end": "",
    "budget": 3500000.0,
    "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69079132688&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
    "announce_type": "ประกาศเชิญชวน",
    "matched_keywords": [
     "ประชาสัมพันธ์"
    ],
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/procsearch.sch?pid=69079132688&servlet=gojsp&proc_id=ShowHTMLFile&processFlows=Procure",
    "score": 6,
    "fit": "เหมาะมาก",
    "hits": [
@@ -735,11 +695,11 @@
    "date_end": "",
    "budget": 850000.0,
    "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69079204678&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
    "announce_type": "ประกาศเชิญชวน",
    "matched_keywords": [
     "ผลิตสื่อ"
    ],
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/procsearch.sch?pid=69079204678&servlet=gojsp&proc_id=ShowHTMLFile&processFlows=Procure",
    "score": 6,
    "fit": "เหมาะมาก",
    "hits": [
@@ -755,37 +715,16 @@
    "date_end": "",
    "budget": 700000.0,
    "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69079140469&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
    "announce_type": "ประกาศเชิญชวน",
    "matched_keywords": [
     "ประชาสัมพันธ์"
    ],
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/procsearch.sch?pid=69079140469&servlet=gojsp&proc_id=ShowHTMLFile&processFlows=Procure",
    "score": 6,
    "fit": "เหมาะมาก",
    "hits": [
     "ประชาสัมพันธ์",
     "สื่อสังคมออนไลน์"
-   ]
-  },
-  {
-   "pid": "69069421324",
-   "dept": "สำนักงานคณะกรรมการกำกับกิจการพลังงาน",
-   "title": "ประกวดราคาจ้างออกแบบ จัดทำ บริหารจัดการบูธนิทรรศการและสื่อประชาสัมพันธ์ ในงาน Gastech 2026 ประเทศไทย ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
-   "date": "01/07/2569",
-   "date_end": "",
-   "budget": 10000000.0,
-   "status": "ยกเลิกประกาศเชิญชวน",
-   "announce_type": "ประกาศเชิญชวน",
-   "matched_keywords": [
-    "ประชาสัมพันธ์",
-    "นิทรรศการ"
-   ],
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/procsearch.sch?pid=69069421324&servlet=gojsp&proc_id=ShowHTMLFile&processFlows=Procure",
-   "score": 5,
-   "fit": "น่าสนใจ",
-   "hits": [
-    "ประชาสัมพันธ์",
-    "นิทรรศการ"
    ]
   },
   {
@@ -796,12 +735,12 @@
    "date_end": "07/07/2569",
    "budget": 6420000.0,
    "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_2.jsp?tor_project_id=69069602571",
    "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
    "matched_keywords": [
     "ประชาสัมพันธ์",
     "นิทรรศการ"
    ],
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/procsearch.sch?pid=69069602571&servlet=gojsp&proc_id=ShowHTMLFile&processFlows=Procure",
    "score": 5,
    "fit": "น่าสนใจ",
    "hits": [
@@ -817,12 +756,12 @@
    "date_end": "",
    "budget": 6420000.0,
    "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69069602571&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
    "announce_type": "ประกาศเชิญชวน",
    "matched_keywords": [
     "ประชาสัมพันธ์",
     "นิทรรศการ"
    ],
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/procsearch.sch?pid=69069602571&servlet=gojsp&proc_id=ShowHTMLFile&processFlows=Procure",
    "score": 5,
    "fit": "น่าสนใจ",
    "hits": [
@@ -838,12 +777,12 @@
    "date_end": "",
    "budget": 4502000.0,
    "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69079229805&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
    "announce_type": "ประกาศเชิญชวน",
    "matched_keywords": [
     "ประชาสัมพันธ์",
     "จัดกิจกรรม"
    ],
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/procsearch.sch?pid=69079229805&servlet=gojsp&proc_id=ShowHTMLFile&processFlows=Procure",
    "score": 5,
    "fit": "น่าสนใจ",
    "hits": [
@@ -859,11 +798,11 @@
    "date_end": "23/07/2569",
    "budget": 3000000.0,
    "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_2.jsp?tor_project_id=69079337199",
    "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
    "matched_keywords": [
     "จัดกิจกรรม"
    ],
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/procsearch.sch?pid=69079337199&servlet=gojsp&proc_id=ShowHTMLFile&processFlows=Procure",
    "score": 5,
    "fit": "น่าสนใจ",
    "hits": [
@@ -879,11 +818,11 @@
    "date_end": "",
    "budget": 2500000.0,
    "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69079060733&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
    "announce_type": "ประกาศเชิญชวน",
    "matched_keywords": [
     "จัดกิจกรรม"
    ],
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/procsearch.sch?pid=69079060733&servlet=gojsp&proc_id=ShowHTMLFile&processFlows=Procure",
    "score": 5,
    "fit": "น่าสนใจ",
    "hits": [
@@ -899,12 +838,12 @@
    "date_end": "09/07/2569",
    "budget": 2100000.0,
    "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_2.jsp?tor_project_id=69069603470",
    "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
    "matched_keywords": [
     "ประชาสัมพันธ์",
     "จัดกิจกรรม"
    ],
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/procsearch.sch?pid=69069603470&servlet=gojsp&proc_id=ShowHTMLFile&processFlows=Procure",
    "score": 5,
    "fit": "น่าสนใจ",
    "hits": [
@@ -920,12 +859,12 @@
    "date_end": "",
    "budget": 2100000.0,
    "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69069603470&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
    "announce_type": "ประกาศเชิญชวน",
    "matched_keywords": [
     "ประชาสัมพันธ์",
     "จัดกิจกรรม"
    ],
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/procsearch.sch?pid=69069603470&servlet=gojsp&proc_id=ShowHTMLFile&processFlows=Procure",
    "score": 5,
    "fit": "น่าสนใจ",
    "hits": [
@@ -941,11 +880,11 @@
    "date_end": "",
    "budget": 2000000.0,
    "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69069447227&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
    "announce_type": "ประกาศเชิญชวน",
    "matched_keywords": [
     "โฆษณา"
    ],
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/procsearch.sch?pid=69069447227&servlet=gojsp&proc_id=ShowHTMLFile&processFlows=Procure",
    "score": 5,
    "fit": "น่าสนใจ",
    "hits": [
@@ -961,11 +900,11 @@
    "date_end": "",
    "budget": 1500000.0,
    "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69069236419&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
    "announce_type": "ประกาศเชิญชวน",
    "matched_keywords": [
     "โทรทัศน์"
    ],
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/procsearch.sch?pid=69069236419&servlet=gojsp&proc_id=ShowHTMLFile&processFlows=Procure",
    "score": 5,
    "fit": "น่าสนใจ",
    "hits": [
@@ -981,11 +920,11 @@
    "date_end": "",
    "budget": 1200000.0,
    "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69069236316&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
    "announce_type": "ประกาศเชิญชวน",
    "matched_keywords": [
     "โทรทัศน์"
    ],
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/procsearch.sch?pid=69069236316&servlet=gojsp&proc_id=ShowHTMLFile&processFlows=Procure",
    "score": 5,
    "fit": "น่าสนใจ",
    "hits": [
@@ -1001,11 +940,11 @@
    "date_end": "",
    "budget": 960000.0,
    "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69069235775&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
    "announce_type": "ประกาศเชิญชวน",
    "matched_keywords": [
     "โทรทัศน์"
    ],
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/procsearch.sch?pid=69069235775&servlet=gojsp&proc_id=ShowHTMLFile&processFlows=Procure",
    "score": 5,
    "fit": "น่าสนใจ",
    "hits": [
@@ -1021,12 +960,12 @@
    "date_end": "",
    "budget": 928200.0,
    "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69069595612&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
    "announce_type": "ประกาศเชิญชวน",
    "matched_keywords": [
     "ประชาสัมพันธ์",
     "เผยแพร่"
    ],
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/procsearch.sch?pid=69069595612&servlet=gojsp&proc_id=ShowHTMLFile&processFlows=Procure",
    "score": 5,
    "fit": "น่าสนใจ",
    "hits": [
@@ -1042,11 +981,11 @@
    "date_end": "",
    "budget": 750000.0,
    "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69079253862&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
    "announce_type": "ประกาศเชิญชวน",
    "matched_keywords": [
     "จัดกิจกรรม"
    ],
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/procsearch.sch?pid=69079253862&servlet=gojsp&proc_id=ShowHTMLFile&processFlows=Procure",
    "score": 5,
    "fit": "น่าสนใจ",
    "hits": [
@@ -1062,12 +1001,12 @@
    "date_end": "20/07/2569",
    "budget": 8000000.0,
    "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_2.jsp?tor_project_id=69059082948",
    "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
    "matched_keywords": [
     "จัดงาน",
     "นิทรรศการ"
    ],
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/procsearch.sch?pid=69059082948&servlet=gojsp&proc_id=ShowHTMLFile&processFlows=Procure",
    "score": 4,
    "fit": "น่าสนใจ",
    "hits": [
@@ -1083,12 +1022,12 @@
    "date_end": "",
    "budget": 8000000.0,
    "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69059082948&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
    "announce_type": "ประกาศเชิญชวน",
    "matched_keywords": [
     "จัดงาน",
     "นิทรรศการ"
    ],
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/procsearch.sch?pid=69059082948&servlet=gojsp&proc_id=ShowHTMLFile&processFlows=Procure",
    "score": 4,
    "fit": "น่าสนใจ",
    "hits": [
@@ -1104,12 +1043,12 @@
    "date_end": "",
    "budget": 2250000.0,
    "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69079036569&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
    "announce_type": "ประกาศเชิญชวน",
    "matched_keywords": [
     "จัดกิจกรรม",
     "จัดงาน"
    ],
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/procsearch.sch?pid=69079036569&servlet=gojsp&proc_id=ShowHTMLFile&processFlows=Procure",
    "score": 4,
    "fit": "น่าสนใจ",
    "hits": [
@@ -1125,11 +1064,11 @@
    "date_end": "",
    "budget": 2000000.0,
    "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69079096307&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
    "announce_type": "ประกาศเชิญชวน",
    "matched_keywords": [
     "ผลิตสื่อ"
    ],
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/procsearch.sch?pid=69079096307&servlet=gojsp&proc_id=ShowHTMLFile&processFlows=Procure",
    "score": 4,
    "fit": "น่าสนใจ",
    "hits": [
@@ -1144,12 +1083,12 @@
    "date_end": "",
    "budget": 1841000.0,
    "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69069515687&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
    "announce_type": "ประกาศเชิญชวน",
    "matched_keywords": [
     "จัดงาน",
     "นิทรรศการ"
    ],
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/procsearch.sch?pid=69069515687&servlet=gojsp&proc_id=ShowHTMLFile&processFlows=Procure",
    "score": 4,
    "fit": "น่าสนใจ",
    "hits": [
@@ -1165,11 +1104,11 @@
    "date_end": "22/07/2569",
    "budget": 750000.0,
    "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_2.jsp?tor_project_id=69069131775",
    "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
    "matched_keywords": [
     "ผลิตสื่อ"
    ],
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/procsearch.sch?pid=69069131775&servlet=gojsp&proc_id=ShowHTMLFile&processFlows=Procure",
    "score": 4,
    "fit": "น่าสนใจ",
    "hits": [
@@ -1184,11 +1123,11 @@
    "date_end": "",
    "budget": 33379794.13,
    "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69069075670&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
    "announce_type": "ประกาศเชิญชวน",
    "matched_keywords": [
     "ประชาสัมพันธ์"
    ],
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/procsearch.sch?pid=69069075670&servlet=gojsp&proc_id=ShowHTMLFile&processFlows=Procure",
    "score": 3,
    "fit": "น่าสนใจ",
    "hits": [
@@ -1203,11 +1142,11 @@
    "date_end": "07/07/2569",
    "budget": 29000000.0,
    "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_2.jsp?tor_project_id=69069078865",
    "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
    "matched_keywords": [
     "ประชาสัมพันธ์"
    ],
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/procsearch.sch?pid=69069078865&servlet=gojsp&proc_id=ShowHTMLFile&processFlows=Procure",
    "score": 3,
    "fit": "น่าสนใจ",
    "hits": [
@@ -1222,11 +1161,11 @@
    "date_end": "",
    "budget": 29000000.0,
    "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69069078865&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
    "announce_type": "ประกาศเชิญชวน",
    "matched_keywords": [
     "ประชาสัมพันธ์"
    ],
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/procsearch.sch?pid=69069078865&servlet=gojsp&proc_id=ShowHTMLFile&processFlows=Procure",
    "score": 3,
    "fit": "น่าสนใจ",
    "hits": [
@@ -1241,11 +1180,11 @@
    "date_end": "10/07/2569",
    "budget": 25248000.0,
    "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_2.jsp?tor_project_id=69059125666",
    "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
    "matched_keywords": [
     "ประชาสัมพันธ์"
    ],
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/procsearch.sch?pid=69059125666&servlet=gojsp&proc_id=ShowHTMLFile&processFlows=Procure",
    "score": 3,
    "fit": "น่าสนใจ",
    "hits": [
@@ -1260,13 +1199,13 @@
    "date_end": "21/07/2569",
    "budget": 24987000.0,
    "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_2.jsp?tor_project_id=69079337372",
    "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
    "matched_keywords": [
     "ประชาสัมพันธ์",
     "สื่อออนไลน์",
     "โฆษณา"
    ],
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/procsearch.sch?pid=69079337372&servlet=gojsp&proc_id=ShowHTMLFile&processFlows=Procure",
    "score": 3,
    "fit": "น่าสนใจ",
    "hits": [
@@ -1284,13 +1223,13 @@
    "date_end": "",
    "budget": 18680000.0,
    "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69049112798&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
    "announce_type": "ประกาศเชิญชวน",
    "matched_keywords": [
     "ประชาสัมพันธ์",
     "เผยแพร่",
     "โฆษณา"
    ],
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/procsearch.sch?pid=69049112798&servlet=gojsp&proc_id=ShowHTMLFile&processFlows=Procure",
    "score": 3,
    "fit": "น่าสนใจ",
    "hits": [
@@ -1307,11 +1246,11 @@
    "date_end": "",
    "budget": 14207000.0,
    "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69069494876&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
    "announce_type": "ประกาศเชิญชวน",
    "matched_keywords": [
     "ประชาสัมพันธ์"
    ],
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/procsearch.sch?pid=69069494876&servlet=gojsp&proc_id=ShowHTMLFile&processFlows=Procure",
    "score": 3,
    "fit": "น่าสนใจ",
    "hits": [
@@ -1326,11 +1265,11 @@
    "date_end": "24/07/2569",
    "budget": 10325000.0,
    "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_2.jsp?tor_project_id=69079225922",
    "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
    "matched_keywords": [
     "ประชาสัมพันธ์"
    ],
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/procsearch.sch?pid=69079225922&servlet=gojsp&proc_id=ShowHTMLFile&processFlows=Procure",
    "score": 3,
    "fit": "น่าสนใจ",
    "hits": [
@@ -1345,11 +1284,11 @@
    "date_end": "09/07/2569",
    "budget": 5249800.0,
    "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_2.jsp?tor_project_id=69079100546",
    "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
    "matched_keywords": [
     "ประชาสัมพันธ์"
    ],
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/procsearch.sch?pid=69079100546&servlet=gojsp&proc_id=ShowHTMLFile&processFlows=Procure",
    "score": 3,
    "fit": "น่าสนใจ",
    "hits": [
@@ -1364,30 +1303,11 @@
    "date_end": "",
    "budget": 5249800.0,
    "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69079100546&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
    "announce_type": "ประกาศเชิญชวน",
    "matched_keywords": [
     "ประชาสัมพันธ์"
    ],
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/procsearch.sch?pid=69079100546&servlet=gojsp&proc_id=ShowHTMLFile&processFlows=Procure",
-   "score": 3,
-   "fit": "น่าสนใจ",
-   "hits": [
-    "ประชาสัมพันธ์"
-   ]
-  },
-  {
-   "pid": "69069597729",
-   "dept": "จังหวัดเชียงราย",
-   "title": "ประกวดราคาจ้างเหมาบริการดำเนินโครงการพัฒนาเชียงรายเป็นเมืองแห่งสุขภาพ (Chiang Rai Wellness City) กิจกรรมหลัก การพัฒนาและส่งเสริมธุรกิจการท่องเที่ยวเชิงสุขภาพ กิจกรรมย่อย การพัฒนาศักยภาพและการประชาสัมพันธ์การท่องเที่ยว Wellness Tourism ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
-   "date": "01/07/2569",
-   "date_end": "",
-   "budget": 5000000.0,
-   "status": "ระหว่างดำเนินการ",
-   "announce_type": "ประกาศเชิญชวน",
-   "matched_keywords": [
-    "ประชาสัมพันธ์"
-   ],
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/procsearch.sch?pid=69069597729&servlet=gojsp&proc_id=ShowHTMLFile&processFlows=Procure",
    "score": 3,
    "fit": "น่าสนใจ",
    "hits": [
@@ -1402,11 +1322,11 @@
    "date_end": "",
    "budget": 4888000.0,
    "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69069383258&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
    "announce_type": "ประกาศเชิญชวน",
    "matched_keywords": [
     "ประชาสัมพันธ์"
    ],
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/procsearch.sch?pid=69069383258&servlet=gojsp&proc_id=ShowHTMLFile&processFlows=Procure",
    "score": 3,
    "fit": "น่าสนใจ",
    "hits": [
@@ -1421,11 +1341,11 @@
    "date_end": "21/07/2569",
    "budget": 4200000.0,
    "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_2.jsp?tor_project_id=69079253828",
    "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
    "matched_keywords": [
     "ประชาสัมพันธ์"
    ],
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/procsearch.sch?pid=69079253828&servlet=gojsp&proc_id=ShowHTMLFile&processFlows=Procure",
    "score": 3,
    "fit": "น่าสนใจ",
    "hits": [
@@ -1440,11 +1360,11 @@
    "date_end": "",
    "budget": 3500000.0,
    "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69069228981&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
    "announce_type": "ประกาศเชิญชวน",
    "matched_keywords": [
     "ประชาสัมพันธ์"
    ],
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/procsearch.sch?pid=69069228981&servlet=gojsp&proc_id=ShowHTMLFile&processFlows=Procure",
    "score": 3,
    "fit": "น่าสนใจ",
    "hits": [
@@ -1459,11 +1379,11 @@
    "date_end": "",
    "budget": 2980000.0,
    "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69079313816&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
    "announce_type": "ประกาศเชิญชวน",
    "matched_keywords": [
     "ประชาสัมพันธ์"
    ],
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/procsearch.sch?pid=69079313816&servlet=gojsp&proc_id=ShowHTMLFile&processFlows=Procure",
    "score": 3,
    "fit": "น่าสนใจ",
    "hits": [
@@ -1478,11 +1398,11 @@
    "date_end": "24/07/2569",
    "budget": 2500000.0,
    "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_2.jsp?tor_project_id=69059502093",
    "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
    "matched_keywords": [
     "ประชาสัมพันธ์"
    ],
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/procsearch.sch?pid=69059502093&servlet=gojsp&proc_id=ShowHTMLFile&processFlows=Procure",
    "score": 3,
    "fit": "น่าสนใจ",
    "hits": [
@@ -1497,11 +1417,11 @@
    "date_end": "",
    "budget": 2000000.0,
    "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69069385369&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
    "announce_type": "ประกาศเชิญชวน",
    "matched_keywords": [
     "ประชาสัมพันธ์"
    ],
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/procsearch.sch?pid=69069385369&servlet=gojsp&proc_id=ShowHTMLFile&processFlows=Procure",
    "score": 3,
    "fit": "น่าสนใจ",
    "hits": [
@@ -1516,11 +1436,11 @@
    "date_end": "",
    "budget": 1600000.0,
    "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69069115947&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
    "announce_type": "ประกาศเชิญชวน",
    "matched_keywords": [
     "ประชาสัมพันธ์"
    ],
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/procsearch.sch?pid=69069115947&servlet=gojsp&proc_id=ShowHTMLFile&processFlows=Procure",
    "score": 3,
    "fit": "น่าสนใจ",
    "hits": [
@@ -1535,11 +1455,11 @@
    "date_end": "",
    "budget": 1000000.0,
    "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69069403427&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
    "announce_type": "ประกาศเชิญชวน",
    "matched_keywords": [
     "ประชาสัมพันธ์"
    ],
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/procsearch.sch?pid=69069403427&servlet=gojsp&proc_id=ShowHTMLFile&processFlows=Procure",
    "score": 3,
    "fit": "น่าสนใจ",
    "hits": [
@@ -1554,11 +1474,11 @@
    "date_end": "",
    "budget": 1000000.0,
    "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69069601202&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
    "announce_type": "ประกาศเชิญชวน",
    "matched_keywords": [
     "ประชาสัมพันธ์"
    ],
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/procsearch.sch?pid=69069601202&servlet=gojsp&proc_id=ShowHTMLFile&processFlows=Procure",
    "score": 3,
    "fit": "น่าสนใจ",
    "hits": [
@@ -1573,11 +1493,11 @@
    "date_end": "24/07/2569",
    "budget": 900000.0,
    "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_2.jsp?tor_project_id=69059406794",
    "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
    "matched_keywords": [
     "วีดิทัศน์"
    ],
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/procsearch.sch?pid=69059406794&servlet=gojsp&proc_id=ShowHTMLFile&processFlows=Procure",
    "score": 3,
    "fit": "น่าสนใจ",
    "hits": [
@@ -1592,34 +1512,15 @@
    "date_end": "21/07/2569",
    "budget": 21510000.0,
    "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_2.jsp?tor_project_id=69079173455",
    "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
    "matched_keywords": [
     "จัดงาน"
    ],
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/procsearch.sch?pid=69079173455&servlet=gojsp&proc_id=ShowHTMLFile&processFlows=Procure",
    "score": 2,
    "fit": "เกี่ยวข้องน้อย",
    "hits": [
     "จัดงาน"
-   ]
-  },
-  {
-   "pid": "69069422803",
-   "dept": "กรมการค้าภายใน",
-   "title": "ประกวดราคาจ้างจัดกิจกรรมส่งเสริมการขายโครงการส่งเสริมและพัฒนาการตลาดข้าวคุณภาพสูงเพื่อเพิ่มรายได้เกษตรกร ปี 2569 (ครั้งที่ 2) ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
-   "date": "01/07/2569",
-   "date_end": "",
-   "budget": 18000000.0,
-   "status": "ระหว่างดำเนินการ",
-   "announce_type": "ประกาศเชิญชวน",
-   "matched_keywords": [
-    "จัดกิจกรรม"
-   ],
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/procsearch.sch?pid=69069422803&servlet=gojsp&proc_id=ShowHTMLFile&processFlows=Procure",
-   "score": 2,
-   "fit": "เกี่ยวข้องน้อย",
-   "hits": [
-    "จัดกิจกรรม"
    ]
   },
   {
@@ -1630,11 +1531,11 @@
    "date_end": "",
    "budget": 18000000.0,
    "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69069340465&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
    "announce_type": "ประกาศเชิญชวน",
    "matched_keywords": [
     "จัดงาน"
    ],
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/procsearch.sch?pid=69069340465&servlet=gojsp&proc_id=ShowHTMLFile&processFlows=Procure",
    "score": 2,
    "fit": "เกี่ยวข้องน้อย",
    "hits": [
@@ -1649,11 +1550,11 @@
    "date_end": "07/07/2569",
    "budget": 10454000.0,
    "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_2.jsp?tor_project_id=69069579274",
    "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
    "matched_keywords": [
     "จัดกิจกรรม"
    ],
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/procsearch.sch?pid=69069579274&servlet=gojsp&proc_id=ShowHTMLFile&processFlows=Procure",
    "score": 2,
    "fit": "เกี่ยวข้องน้อย",
    "hits": [
@@ -1668,11 +1569,11 @@
    "date_end": "",
    "budget": 10454000.0,
    "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69069579274&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
    "announce_type": "ประกาศเชิญชวน",
    "matched_keywords": [
     "จัดกิจกรรม"
    ],
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/procsearch.sch?pid=69069579274&servlet=gojsp&proc_id=ShowHTMLFile&processFlows=Procure",
    "score": 2,
    "fit": "เกี่ยวข้องน้อย",
    "hits": [
@@ -1687,11 +1588,11 @@
    "date_end": "16/07/2569",
    "budget": 9900000.0,
    "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_2.jsp?tor_project_id=69069221434",
    "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
    "matched_keywords": [
     "จัดงาน"
    ],
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/procsearch.sch?pid=69069221434&servlet=gojsp&proc_id=ShowHTMLFile&processFlows=Procure",
    "score": 2,
    "fit": "เกี่ยวข้องน้อย",
    "hits": [
@@ -1706,11 +1607,11 @@
    "date_end": "",
    "budget": 9900000.0,
    "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69069221434&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
    "announce_type": "ประกาศเชิญชวน",
    "matched_keywords": [
     "จัดงาน"
    ],
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/procsearch.sch?pid=69069221434&servlet=gojsp&proc_id=ShowHTMLFile&processFlows=Procure",
    "score": 2,
    "fit": "เกี่ยวข้องน้อย",
    "hits": [
@@ -1725,11 +1626,11 @@
    "date_end": "07/07/2569",
    "budget": 9500000.0,
    "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_2.jsp?tor_project_id=69069428241",
    "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
    "matched_keywords": [
     "จัดงาน"
    ],
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/procsearch.sch?pid=69069428241&servlet=gojsp&proc_id=ShowHTMLFile&processFlows=Procure",
    "score": 2,
    "fit": "เกี่ยวข้องน้อย",
    "hits": [
@@ -1744,11 +1645,11 @@
    "date_end": "",
    "budget": 9500000.0,
    "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69069428241&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
    "announce_type": "ประกาศเชิญชวน",
    "matched_keywords": [
     "จัดงาน"
    ],
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/procsearch.sch?pid=69069428241&servlet=gojsp&proc_id=ShowHTMLFile&processFlows=Procure",
    "score": 2,
    "fit": "เกี่ยวข้องน้อย",
    "hits": [
@@ -1763,11 +1664,11 @@
    "date_end": "22/07/2569",
    "budget": 8700000.0,
    "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_2.jsp?tor_project_id=69069163290",
    "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
    "matched_keywords": [
     "จัดงาน"
    ],
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/procsearch.sch?pid=69069163290&servlet=gojsp&proc_id=ShowHTMLFile&processFlows=Procure",
    "score": 2,
    "fit": "เกี่ยวข้องน้อย",
    "hits": [
@@ -1782,11 +1683,11 @@
    "date_end": "16/07/2569",
    "budget": 8000000.0,
    "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_2.jsp?tor_project_id=69079057052",
    "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
    "matched_keywords": [
     "จัดงาน"
    ],
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/procsearch.sch?pid=69079057052&servlet=gojsp&proc_id=ShowHTMLFile&processFlows=Procure",
    "score": 2,
    "fit": "เกี่ยวข้องน้อย",
    "hits": [
@@ -1801,11 +1702,11 @@
    "date_end": "",
    "budget": 8000000.0,
    "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69079057052&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
    "announce_type": "ประกาศเชิญชวน",
    "matched_keywords": [
     "จัดงาน"
    ],
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/procsearch.sch?pid=69079057052&servlet=gojsp&proc_id=ShowHTMLFile&processFlows=Procure",
    "score": 2,
    "fit": "เกี่ยวข้องน้อย",
    "hits": [
@@ -1820,11 +1721,11 @@
    "date_end": "",
    "budget": 7500000.0,
    "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69079092056&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
    "announce_type": "ประกาศเชิญชวน",
    "matched_keywords": [
     "จัดกิจกรรม"
    ],
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/procsearch.sch?pid=69079092056&servlet=gojsp&proc_id=ShowHTMLFile&processFlows=Procure",
    "score": 2,
    "fit": "เกี่ยวข้องน้อย",
    "hits": [
@@ -1839,11 +1740,11 @@
    "date_end": "",
    "budget": 7500000.0,
    "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69069184544&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
    "announce_type": "ประกาศเชิญชวน",
    "matched_keywords": [
     "จัดงาน"
    ],
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/procsearch.sch?pid=69069184544&servlet=gojsp&proc_id=ShowHTMLFile&processFlows=Procure",
    "score": 2,
    "fit": "เกี่ยวข้องน้อย",
    "hits": [
@@ -1858,11 +1759,11 @@
    "date_end": "",
    "budget": 7396110.0,
    "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69079297001&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
    "announce_type": "ประกาศเชิญชวน",
    "matched_keywords": [
     "จัดงาน"
    ],
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/procsearch.sch?pid=69079297001&servlet=gojsp&proc_id=ShowHTMLFile&processFlows=Procure",
    "score": 2,
    "fit": "เกี่ยวข้องน้อย",
    "hits": [
@@ -1877,11 +1778,11 @@
    "date_end": "",
    "budget": 6955000.0,
    "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69079090593&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
    "announce_type": "ประกาศเชิญชวน",
    "matched_keywords": [
     "จัดกิจกรรม"
    ],
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/procsearch.sch?pid=69079090593&servlet=gojsp&proc_id=ShowHTMLFile&processFlows=Procure",
    "score": 2,
    "fit": "เกี่ยวข้องน้อย",
    "hits": [
@@ -1896,11 +1797,11 @@
    "date_end": "",
    "budget": 5000000.0,
    "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69069283807&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
    "announce_type": "ประกาศเชิญชวน",
    "matched_keywords": [
     "นิทรรศการ"
    ],
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/procsearch.sch?pid=69069283807&servlet=gojsp&proc_id=ShowHTMLFile&processFlows=Procure",
    "score": 2,
    "fit": "เกี่ยวข้องน้อย",
    "hits": [
@@ -1911,34 +1812,15 @@
    "pid": "69069382966",
    "dept": "สำนักงานคณะกรรมการอาหารและยา",
    "title": "ประกวดราคาจ้างจัดงานมอบรางวัล อย. ควอลิตี้ อวอร์ด ประจำปีงบประมาณ พ.ศ. ๒๕๖๙ ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
-   "date": "13/07/2569",
-   "date_end": "16/07/2569",
+   "date": "22/07/2569",
+   "date_end": "27/07/2569",
    "budget": 4960000.0,
    "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_2.jsp?tor_project_id=69069382966",
    "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
    "matched_keywords": [
     "จัดงาน"
    ],
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/procsearch.sch?pid=69069382966&servlet=gojsp&proc_id=ShowHTMLFile&processFlows=Procure",
-   "score": 2,
-   "fit": "เกี่ยวข้องน้อย",
-   "hits": [
-    "จัดงาน"
-   ]
-  },
-  {
-   "pid": "69039232104",
-   "dept": "จังหวัดชลบุรี",
-   "title": "ประกวดราคาจ้างโครงการพัฒนาการท่องเที่ยวเพื่อเพิ่มระดับรายได้ กิจกรรมหลักที่ 1 ยกระดับให้เป็นจังหวัดท่องเที่ยวที่มีคุณภาพระดับนานาชาติ กิจกรรมย่อยที่ 1 จัดงานรำลึกวันคล้ายวันพระราชสมภพสมเด็จพระปิยมหาราช ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
-   "date": "01/07/2569",
-   "date_end": "06/07/2569",
-   "budget": 4948700.0,
-   "status": "ระหว่างดำเนินการ",
-   "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
-   "matched_keywords": [
-    "จัดงาน"
-   ],
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/procsearch.sch?pid=69039232104&servlet=gojsp&proc_id=ShowHTMLFile&processFlows=Procure",
    "score": 2,
    "fit": "เกี่ยวข้องน้อย",
    "hits": [
@@ -1953,11 +1835,11 @@
    "date_end": "",
    "budget": 4948700.0,
    "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69039232104&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
    "announce_type": "ประกาศเชิญชวน",
    "matched_keywords": [
     "จัดงาน"
    ],
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/procsearch.sch?pid=69039232104&servlet=gojsp&proc_id=ShowHTMLFile&processFlows=Procure",
    "score": 2,
    "fit": "เกี่ยวข้องน้อย",
    "hits": [
@@ -1972,11 +1854,11 @@
    "date_end": "",
    "budget": 4800000.0,
    "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69039590984&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
    "announce_type": "ประกาศเชิญชวน",
    "matched_keywords": [
     "จัดงาน"
    ],
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/procsearch.sch?pid=69039590984&servlet=gojsp&proc_id=ShowHTMLFile&processFlows=Procure",
    "score": 2,
    "fit": "เกี่ยวข้องน้อย",
    "hits": [
@@ -1991,11 +1873,11 @@
    "date_end": "15/07/2569",
    "budget": 4511120.0,
    "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_2.jsp?tor_project_id=69059301270",
    "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
    "matched_keywords": [
     "จัดกิจกรรม"
    ],
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/procsearch.sch?pid=69059301270&servlet=gojsp&proc_id=ShowHTMLFile&processFlows=Procure",
    "score": 2,
    "fit": "เกี่ยวข้องน้อย",
    "hits": [
@@ -2010,11 +1892,11 @@
    "date_end": "",
    "budget": 4000000.0,
    "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69079269396&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
    "announce_type": "ประกาศเชิญชวน",
    "matched_keywords": [
     "จัดงาน"
    ],
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/procsearch.sch?pid=69079269396&servlet=gojsp&proc_id=ShowHTMLFile&processFlows=Procure",
    "score": 2,
    "fit": "เกี่ยวข้องน้อย",
    "hits": [
@@ -2029,34 +1911,15 @@
    "date_end": "",
    "budget": 3700000.0,
    "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69049343834&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
    "announce_type": "ประกาศเชิญชวน",
    "matched_keywords": [
     "จัดงาน"
    ],
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/procsearch.sch?pid=69049343834&servlet=gojsp&proc_id=ShowHTMLFile&processFlows=Procure",
    "score": 2,
    "fit": "เกี่ยวข้องน้อย",
    "hits": [
     "จัดงาน"
-   ]
-  },
-  {
-   "pid": "69069501711",
-   "dept": "สำนักงานคณะกรรมการกิจการกระจายเสียง กิจการโทรทัศน์ และกิจการโทรคมนาคมแห่งชาติ",
-   "title": "ประกวดราคาจ้างจัดกิจกรรมวันเด็ก สำนักงาน กสทช. ประจำปี 2570 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
-   "date": "01/07/2569",
-   "date_end": "06/07/2569",
-   "budget": 3500000.0,
-   "status": "ระหว่างดำเนินการ",
-   "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
-   "matched_keywords": [
-    "จัดกิจกรรม"
-   ],
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/procsearch.sch?pid=69069501711&servlet=gojsp&proc_id=ShowHTMLFile&processFlows=Procure",
-   "score": 2,
-   "fit": "เกี่ยวข้องน้อย",
-   "hits": [
-    "จัดกิจกรรม"
    ]
   },
   {
@@ -2067,11 +1930,11 @@
    "date_end": "14/07/2569",
    "budget": 3500000.0,
    "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_2.jsp?tor_project_id=69079191336",
    "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
    "matched_keywords": [
     "จัดงาน"
    ],
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/procsearch.sch?pid=69079191336&servlet=gojsp&proc_id=ShowHTMLFile&processFlows=Procure",
    "score": 2,
    "fit": "เกี่ยวข้องน้อย",
    "hits": [
@@ -2086,11 +1949,11 @@
    "date_end": "",
    "budget": 3500000.0,
    "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69069501711&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
    "announce_type": "ประกาศเชิญชวน",
    "matched_keywords": [
     "จัดกิจกรรม"
    ],
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/procsearch.sch?pid=69069501711&servlet=gojsp&proc_id=ShowHTMLFile&processFlows=Procure",
    "score": 2,
    "fit": "เกี่ยวข้องน้อย",
    "hits": [
@@ -2105,11 +1968,11 @@
    "date_end": "",
    "budget": 3500000.0,
    "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69079191336&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
    "announce_type": "ประกาศเชิญชวน",
    "matched_keywords": [
     "จัดงาน"
    ],
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/procsearch.sch?pid=69079191336&servlet=gojsp&proc_id=ShowHTMLFile&processFlows=Procure",
    "score": 2,
    "fit": "เกี่ยวข้องน้อย",
    "hits": [
@@ -2124,11 +1987,11 @@
    "date_end": "",
    "budget": 3279000.0,
    "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69079360716&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
    "announce_type": "ประกาศเชิญชวน",
    "matched_keywords": [
     "จัดกิจกรรม"
    ],
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/procsearch.sch?pid=69079360716&servlet=gojsp&proc_id=ShowHTMLFile&processFlows=Procure",
    "score": 2,
    "fit": "เกี่ยวข้องน้อย",
    "hits": [
@@ -2143,11 +2006,11 @@
    "date_end": "",
    "budget": 3279000.0,
    "status": "ยกเลิกประกาศเชิญชวน",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69069579872&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
    "announce_type": "ประกาศเชิญชวน",
    "matched_keywords": [
     "จัดกิจกรรม"
    ],
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/procsearch.sch?pid=69069579872&servlet=gojsp&proc_id=ShowHTMLFile&processFlows=Procure",
    "score": 2,
    "fit": "เกี่ยวข้องน้อย",
    "hits": [
@@ -2162,11 +2025,11 @@
    "date_end": "",
    "budget": 3000000.0,
    "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69069594598&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
    "announce_type": "ประกาศเชิญชวน",
    "matched_keywords": [
     "จัดงาน"
    ],
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/procsearch.sch?pid=69069594598&servlet=gojsp&proc_id=ShowHTMLFile&processFlows=Procure",
    "score": 2,
    "fit": "เกี่ยวข้องน้อย",
    "hits": [
@@ -2181,11 +2044,11 @@
    "date_end": "16/07/2569",
    "budget": 2950000.0,
    "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_2.jsp?tor_project_id=69039463897",
    "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
    "matched_keywords": [
     "จัดงาน"
    ],
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/procsearch.sch?pid=69039463897&servlet=gojsp&proc_id=ShowHTMLFile&processFlows=Procure",
    "score": 2,
    "fit": "เกี่ยวข้องน้อย",
    "hits": [
@@ -2200,15 +2063,34 @@
    "date_end": "",
    "budget": 2950000.0,
    "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69039463897&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
    "announce_type": "ประกาศเชิญชวน",
    "matched_keywords": [
     "จัดงาน"
    ],
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/procsearch.sch?pid=69039463897&servlet=gojsp&proc_id=ShowHTMLFile&processFlows=Procure",
    "score": 2,
    "fit": "เกี่ยวข้องน้อย",
    "hits": [
     "จัดงาน"
+   ]
+  },
+  {
+   "pid": "69079450069",
+   "dept": "คณะบริหารธุรกิจ มหาวิทยาลัยเกษตรศาสตร์",
+   "title": "ประกวดราคาจ้างจ้างเหมาบริษัททัวร์ในการจัดกิจกรรมโครงการเสริมสร้างการเรียนรู้ศึกษาดูงาน ณ จังหวัดฮอกไกโด ประเทศญี่ปุ่น ของนิสิตโครงการหลักสูตรบริหารธุรกิจบัณฑิต (หลักสูตรนานาชาติ) คณะบริหารธุรกิจ มหาวิทยาลัยเกษตรศาสตร์ ระหว่างวันที่ ๖ ถึง ๑๑ กันยายน ๒๕๖๙ ณ ประเทศญี่ปุ่น จำนวน ๑ งาน ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "22/07/2569",
+   "date_end": "03/08/2569",
+   "budget": 2805600.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_2.jsp?tor_project_id=69079450069",
+   "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
+   "matched_keywords": [
+    "จัดกิจกรรม"
+   ],
+   "score": 2,
+   "fit": "เกี่ยวข้องน้อย",
+   "hits": [
+    "จัดกิจกรรม"
    ]
   },
   {
@@ -2219,11 +2101,11 @@
    "date_end": "",
    "budget": 2728000.0,
    "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69079038287&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
    "announce_type": "ประกาศเชิญชวน",
    "matched_keywords": [
     "จัดงาน"
    ],
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/procsearch.sch?pid=69079038287&servlet=gojsp&proc_id=ShowHTMLFile&processFlows=Procure",
    "score": 2,
    "fit": "เกี่ยวข้องน้อย",
    "hits": [
@@ -2238,11 +2120,11 @@
    "date_end": "15/07/2569",
    "budget": 2700000.0,
    "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_2.jsp?tor_project_id=69079079213",
    "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
    "matched_keywords": [
     "จัดกิจกรรม"
    ],
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/procsearch.sch?pid=69079079213&servlet=gojsp&proc_id=ShowHTMLFile&processFlows=Procure",
    "score": 2,
    "fit": "เกี่ยวข้องน้อย",
    "hits": [
@@ -2257,11 +2139,11 @@
    "date_end": "",
    "budget": 2700000.0,
    "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69079079213&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
    "announce_type": "ประกาศเชิญชวน",
    "matched_keywords": [
     "จัดกิจกรรม"
    ],
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/procsearch.sch?pid=69079079213&servlet=gojsp&proc_id=ShowHTMLFile&processFlows=Procure",
    "score": 2,
    "fit": "เกี่ยวข้องน้อย",
    "hits": [
@@ -2276,11 +2158,11 @@
    "date_end": "",
    "budget": 2510000.0,
    "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69079129505&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
    "announce_type": "ประกาศเชิญชวน",
    "matched_keywords": [
     "จัดกิจกรรม"
    ],
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/procsearch.sch?pid=69079129505&servlet=gojsp&proc_id=ShowHTMLFile&processFlows=Procure",
    "score": 2,
    "fit": "เกี่ยวข้องน้อย",
    "hits": [
@@ -2295,11 +2177,11 @@
    "date_end": "14/07/2569",
    "budget": 2500000.0,
    "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_2.jsp?tor_project_id=69079038155",
    "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
    "matched_keywords": [
     "จัดงาน"
    ],
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/procsearch.sch?pid=69079038155&servlet=gojsp&proc_id=ShowHTMLFile&processFlows=Procure",
    "score": 2,
    "fit": "เกี่ยวข้องน้อย",
    "hits": [
@@ -2314,11 +2196,11 @@
    "date_end": "",
    "budget": 2500000.0,
    "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69069408553&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
    "announce_type": "ประกาศเชิญชวน",
    "matched_keywords": [
     "จัดกิจกรรม"
    ],
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/procsearch.sch?pid=69069408553&servlet=gojsp&proc_id=ShowHTMLFile&processFlows=Procure",
    "score": 2,
    "fit": "เกี่ยวข้องน้อย",
    "hits": [
@@ -2333,11 +2215,11 @@
    "date_end": "",
    "budget": 2500000.0,
    "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69079038155&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
    "announce_type": "ประกาศเชิญชวน",
    "matched_keywords": [
     "จัดงาน"
    ],
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/procsearch.sch?pid=69079038155&servlet=gojsp&proc_id=ShowHTMLFile&processFlows=Procure",
    "score": 2,
    "fit": "เกี่ยวข้องน้อย",
    "hits": [
@@ -2352,11 +2234,11 @@
    "date_end": "",
    "budget": 2500000.0,
    "status": "ยกเลิกประกาศเชิญชวน",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69069006287&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
    "announce_type": "ประกาศเชิญชวน",
    "matched_keywords": [
     "จัดงาน"
    ],
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/procsearch.sch?pid=69069006287&servlet=gojsp&proc_id=ShowHTMLFile&processFlows=Procure",
    "score": 2,
    "fit": "เกี่ยวข้องน้อย",
    "hits": [
@@ -2371,11 +2253,11 @@
    "date_end": "",
    "budget": 2482600.0,
    "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69079421832&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
    "announce_type": "ประกาศเชิญชวน",
    "matched_keywords": [
     "จัดงาน"
    ],
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/procsearch.sch?pid=69079421832&servlet=gojsp&proc_id=ShowHTMLFile&processFlows=Procure",
    "score": 2,
    "fit": "เกี่ยวข้องน้อย",
    "hits": [
@@ -2390,11 +2272,11 @@
    "date_end": "",
    "budget": 2482600.0,
    "status": "ยกเลิกประกาศเชิญชวน",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69079362326&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
    "announce_type": "ประกาศเชิญชวน",
    "matched_keywords": [
     "จัดงาน"
    ],
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/procsearch.sch?pid=69079362326&servlet=gojsp&proc_id=ShowHTMLFile&processFlows=Procure",
    "score": 2,
    "fit": "เกี่ยวข้องน้อย",
    "hits": [
@@ -2409,11 +2291,11 @@
    "date_end": "",
    "budget": 2482600.0,
    "status": "ยกเลิกประกาศเชิญชวน",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69079112920&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
    "announce_type": "ประกาศเชิญชวน",
    "matched_keywords": [
     "จัดงาน"
    ],
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/procsearch.sch?pid=69079112920&servlet=gojsp&proc_id=ShowHTMLFile&processFlows=Procure",
    "score": 2,
    "fit": "เกี่ยวข้องน้อย",
    "hits": [
@@ -2428,11 +2310,11 @@
    "date_end": "15/07/2569",
    "budget": 2200000.0,
    "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_2.jsp?tor_project_id=69069113955",
    "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
    "matched_keywords": [
     "จัดกิจกรรม"
    ],
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/procsearch.sch?pid=69069113955&servlet=gojsp&proc_id=ShowHTMLFile&processFlows=Procure",
    "score": 2,
    "fit": "เกี่ยวข้องน้อย",
    "hits": [
@@ -2447,11 +2329,11 @@
    "date_end": "",
    "budget": 2200000.0,
    "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69069113955&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
    "announce_type": "ประกาศเชิญชวน",
    "matched_keywords": [
     "จัดกิจกรรม"
    ],
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/procsearch.sch?pid=69069113955&servlet=gojsp&proc_id=ShowHTMLFile&processFlows=Procure",
    "score": 2,
    "fit": "เกี่ยวข้องน้อย",
    "hits": [
@@ -2466,11 +2348,11 @@
    "date_end": "27/07/2569",
    "budget": 2000000.0,
    "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_2.jsp?tor_project_id=69079247314",
    "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
    "matched_keywords": [
     "จัดงาน"
    ],
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/procsearch.sch?pid=69079247314&servlet=gojsp&proc_id=ShowHTMLFile&processFlows=Procure",
    "score": 2,
    "fit": "เกี่ยวข้องน้อย",
    "hits": [
@@ -2485,30 +2367,11 @@
    "date_end": "",
    "budget": 2000000.0,
    "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69059282297&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
    "announce_type": "ประกาศเชิญชวน",
    "matched_keywords": [
     "จัดงาน"
    ],
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/procsearch.sch?pid=69059282297&servlet=gojsp&proc_id=ShowHTMLFile&processFlows=Procure",
-   "score": 2,
-   "fit": "เกี่ยวข้องน้อย",
-   "hits": [
-    "จัดงาน"
-   ]
-  },
-  {
-   "pid": "69069543485",
-   "dept": "องค์การบริหารส่วนจังหวัดสงขลา",
-   "title": "ประกวดราคาจ้างจัดงานตามโครงการ Festival Economy for Songkhla MICE City (เทศกาลขับเคลื่อนเมืองสงขลาไมซ์ซิตี้) ?Lighting of Songkhla Lagoon ครั้งที่ 3? ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
-   "date": "01/07/2569",
-   "date_end": "",
-   "budget": 1985000.0,
-   "status": "ระหว่างดำเนินการ",
-   "announce_type": "ประกาศเชิญชวน",
-   "matched_keywords": [
-    "จัดงาน"
-   ],
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/procsearch.sch?pid=69069543485&servlet=gojsp&proc_id=ShowHTMLFile&processFlows=Procure",
    "score": 2,
    "fit": "เกี่ยวข้องน้อย",
    "hits": [
@@ -2523,11 +2386,11 @@
    "date_end": "",
    "budget": 1972545.0,
    "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69079313313&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
    "announce_type": "ประกาศเชิญชวน",
    "matched_keywords": [
     "จัดกิจกรรม"
    ],
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/procsearch.sch?pid=69079313313&servlet=gojsp&proc_id=ShowHTMLFile&processFlows=Procure",
    "score": 2,
    "fit": "เกี่ยวข้องน้อย",
    "hits": [
@@ -2542,11 +2405,11 @@
    "date_end": "",
    "budget": 1950000.0,
    "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69069486558&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
    "announce_type": "ประกาศเชิญชวน",
    "matched_keywords": [
     "นิทรรศการ"
    ],
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/procsearch.sch?pid=69069486558&servlet=gojsp&proc_id=ShowHTMLFile&processFlows=Procure",
    "score": 2,
    "fit": "เกี่ยวข้องน้อย",
    "hits": [
@@ -2561,11 +2424,11 @@
    "date_end": "",
    "budget": 1800000.0,
    "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69079049588&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
    "announce_type": "ประกาศเชิญชวน",
    "matched_keywords": [
     "จัดงาน"
    ],
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/procsearch.sch?pid=69079049588&servlet=gojsp&proc_id=ShowHTMLFile&processFlows=Procure",
    "score": 2,
    "fit": "เกี่ยวข้องน้อย",
    "hits": [
@@ -2580,11 +2443,11 @@
    "date_end": "",
    "budget": 1721500.0,
    "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69079034341&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
    "announce_type": "ประกาศเชิญชวน",
    "matched_keywords": [
     "จัดงาน"
    ],
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/procsearch.sch?pid=69079034341&servlet=gojsp&proc_id=ShowHTMLFile&processFlows=Procure",
    "score": 2,
    "fit": "เกี่ยวข้องน้อย",
    "hits": [
@@ -2599,11 +2462,11 @@
    "date_end": "07/07/2569",
    "budget": 1500000.0,
    "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_2.jsp?tor_project_id=69069364645",
    "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
    "matched_keywords": [
     "จัดกิจกรรม"
    ],
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/procsearch.sch?pid=69069364645&servlet=gojsp&proc_id=ShowHTMLFile&processFlows=Procure",
    "score": 2,
    "fit": "เกี่ยวข้องน้อย",
    "hits": [
@@ -2618,11 +2481,11 @@
    "date_end": "17/07/2569",
    "budget": 1500000.0,
    "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_2.jsp?tor_project_id=69079106962",
    "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
    "matched_keywords": [
     "จัดงาน"
    ],
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/procsearch.sch?pid=69079106962&servlet=gojsp&proc_id=ShowHTMLFile&processFlows=Procure",
    "score": 2,
    "fit": "เกี่ยวข้องน้อย",
    "hits": [
@@ -2637,11 +2500,11 @@
    "date_end": "",
    "budget": 1500000.0,
    "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69069364645&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
    "announce_type": "ประกาศเชิญชวน",
    "matched_keywords": [
     "จัดกิจกรรม"
    ],
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/procsearch.sch?pid=69069364645&servlet=gojsp&proc_id=ShowHTMLFile&processFlows=Procure",
    "score": 2,
    "fit": "เกี่ยวข้องน้อย",
    "hits": [
@@ -2656,11 +2519,11 @@
    "date_end": "",
    "budget": 1500000.0,
    "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69069543734&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
    "announce_type": "ประกาศเชิญชวน",
    "matched_keywords": [
     "จัดกิจกรรม"
    ],
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/procsearch.sch?pid=69069543734&servlet=gojsp&proc_id=ShowHTMLFile&processFlows=Procure",
    "score": 2,
    "fit": "เกี่ยวข้องน้อย",
    "hits": [
@@ -2675,11 +2538,11 @@
    "date_end": "",
    "budget": 1500000.0,
    "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69079106962&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
    "announce_type": "ประกาศเชิญชวน",
    "matched_keywords": [
     "จัดงาน"
    ],
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/procsearch.sch?pid=69079106962&servlet=gojsp&proc_id=ShowHTMLFile&processFlows=Procure",
    "score": 2,
    "fit": "เกี่ยวข้องน้อย",
    "hits": [
@@ -2694,11 +2557,11 @@
    "date_end": "",
    "budget": 1450000.0,
    "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69079321194&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
    "announce_type": "ประกาศเชิญชวน",
    "matched_keywords": [
     "จัดกิจกรรม"
    ],
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/procsearch.sch?pid=69079321194&servlet=gojsp&proc_id=ShowHTMLFile&processFlows=Procure",
    "score": 2,
    "fit": "เกี่ยวข้องน้อย",
    "hits": [
@@ -2713,11 +2576,11 @@
    "date_end": "",
    "budget": 1350000.0,
    "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69079317252&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
    "announce_type": "ประกาศเชิญชวน",
    "matched_keywords": [
     "จัดงาน"
    ],
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/procsearch.sch?pid=69079317252&servlet=gojsp&proc_id=ShowHTMLFile&processFlows=Procure",
    "score": 2,
    "fit": "เกี่ยวข้องน้อย",
    "hits": [
@@ -2732,11 +2595,11 @@
    "date_end": "24/07/2569",
    "budget": 1250000.0,
    "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_2.jsp?tor_project_id=69079392084",
    "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
    "matched_keywords": [
     "เผยแพร่"
    ],
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/procsearch.sch?pid=69079392084&servlet=gojsp&proc_id=ShowHTMLFile&processFlows=Procure",
    "score": 2,
    "fit": "เกี่ยวข้องน้อย",
    "hits": [
@@ -2751,11 +2614,11 @@
    "date_end": "",
    "budget": 1172810.0,
    "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69079195411&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
    "announce_type": "ประกาศเชิญชวน",
    "matched_keywords": [
     "จัดกิจกรรม"
    ],
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/procsearch.sch?pid=69079195411&servlet=gojsp&proc_id=ShowHTMLFile&processFlows=Procure",
    "score": 2,
    "fit": "เกี่ยวข้องน้อย",
    "hits": [
@@ -2770,11 +2633,11 @@
    "date_end": "08/07/2569",
    "budget": 1088000.0,
    "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_2.jsp?tor_project_id=69069461308",
    "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
    "matched_keywords": [
     "จัดงาน"
    ],
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/procsearch.sch?pid=69069461308&servlet=gojsp&proc_id=ShowHTMLFile&processFlows=Procure",
    "score": 2,
    "fit": "เกี่ยวข้องน้อย",
    "hits": [
@@ -2789,11 +2652,30 @@
    "date_end": "22/07/2569",
    "budget": 1065900.0,
    "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_2.jsp?tor_project_id=69079095537",
    "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
    "matched_keywords": [
     "จัดกิจกรรม"
    ],
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/procsearch.sch?pid=69079095537&servlet=gojsp&proc_id=ShowHTMLFile&processFlows=Procure",
+   "score": 2,
+   "fit": "เกี่ยวข้องน้อย",
+   "hits": [
+    "จัดกิจกรรม"
+   ]
+  },
+  {
+   "pid": "69079095537",
+   "dept": "จังหวัดตาก",
+   "title": "ประกวดราคาจ้างโครงการส่งเสริมการท่องเที่ยวเชิงกีฬาและสุขภาพจังหวัดตาก กิจกรรมส่งเสริมการจัดกิจกรรมการแข่งขันวิ่งเทรล ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "23/07/2569",
+   "date_end": "",
+   "budget": 1065900.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69079095537&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
+   "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "จัดกิจกรรม"
+   ],
    "score": 2,
    "fit": "เกี่ยวข้องน้อย",
    "hits": [
@@ -2808,30 +2690,11 @@
    "date_end": "",
    "budget": 1062360.0,
    "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69079204496&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
    "announce_type": "ประกาศเชิญชวน",
    "matched_keywords": [
     "จัดกิจกรรม"
    ],
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/procsearch.sch?pid=69079204496&servlet=gojsp&proc_id=ShowHTMLFile&processFlows=Procure",
-   "score": 2,
-   "fit": "เกี่ยวข้องน้อย",
-   "hits": [
-    "จัดกิจกรรม"
-   ]
-  },
-  {
-   "pid": "69069563784",
-   "dept": "สำนักงานปลัดกระทรวงการอุดมศึกษา วิทยาศาสตร์ วิจัยและนวัตกรรม กองทุนพัฒนาผู้ประกอบการเทคโนโลยีและนวัตกรรม",
-   "title": "ประกวดราคาจ้างจ้างเหมาจัดกิจกรรมการพัฒนาแผนธุรกิจเพื่อเตรียมเป็นผู้ประกอบการเทคโนโลยีและนวัตกรรม ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
-   "date": "01/07/2569",
-   "date_end": "",
-   "budget": 1000000.0,
-   "status": "ระหว่างดำเนินการ",
-   "announce_type": "ประกาศเชิญชวน",
-   "matched_keywords": [
-    "จัดกิจกรรม"
-   ],
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/procsearch.sch?pid=69069563784&servlet=gojsp&proc_id=ShowHTMLFile&processFlows=Procure",
    "score": 2,
    "fit": "เกี่ยวข้องน้อย",
    "hits": [
@@ -2846,11 +2709,11 @@
    "date_end": "",
    "budget": 1000000.0,
    "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69079297306&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
    "announce_type": "ประกาศเชิญชวน",
    "matched_keywords": [
     "จัดงาน"
    ],
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/procsearch.sch?pid=69079297306&servlet=gojsp&proc_id=ShowHTMLFile&processFlows=Procure",
    "score": 2,
    "fit": "เกี่ยวข้องน้อย",
    "hits": [
@@ -2865,11 +2728,11 @@
    "date_end": "",
    "budget": 1000000.0,
    "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69079103443&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
    "announce_type": "ประกาศเชิญชวน",
    "matched_keywords": [
     "นิทรรศการ"
    ],
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/procsearch.sch?pid=69079103443&servlet=gojsp&proc_id=ShowHTMLFile&processFlows=Procure",
    "score": 2,
    "fit": "เกี่ยวข้องน้อย",
    "hits": [
@@ -2884,11 +2747,11 @@
    "date_end": "",
    "budget": 958800.0,
    "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69079332440&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
    "announce_type": "ประกาศเชิญชวน",
    "matched_keywords": [
     "จัดงาน"
    ],
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/procsearch.sch?pid=69079332440&servlet=gojsp&proc_id=ShowHTMLFile&processFlows=Procure",
    "score": 2,
    "fit": "เกี่ยวข้องน้อย",
    "hits": [
@@ -2903,11 +2766,11 @@
    "date_end": "",
    "budget": 830000.0,
    "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69079288176&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
    "announce_type": "ประกาศเชิญชวน",
    "matched_keywords": [
     "จัดกิจกรรม"
    ],
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/procsearch.sch?pid=69079288176&servlet=gojsp&proc_id=ShowHTMLFile&processFlows=Procure",
    "score": 2,
    "fit": "เกี่ยวข้องน้อย",
    "hits": [
@@ -2922,34 +2785,15 @@
    "date_end": "",
    "budget": 800000.0,
    "status": "ยกเลิกประกาศเชิญชวน",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69079216567&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
    "announce_type": "ประกาศเชิญชวน",
    "matched_keywords": [
     "จัดงาน"
    ],
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/procsearch.sch?pid=69079216567&servlet=gojsp&proc_id=ShowHTMLFile&processFlows=Procure",
    "score": 2,
    "fit": "เกี่ยวข้องน้อย",
    "hits": [
     "จัดงาน"
-   ]
-  },
-  {
-   "pid": "69069323248",
-   "dept": "จังหวัดหนองคาย",
-   "title": "ประกวดราคาจ้างจัดกิจกรรม ส่งเสริมการท่องเที่ยวเส้นทางศรัทธา ตามรอยเกจิอาจารย์ ภายใตัโครงการส่งเสริมการท่องเที่ยวเพิ่มศักยภาพของบุคลากรด้านการท่องเที่ยวเชิงผสมผสานสู่ความยั่งยืน ประจำปีงบประมาณ พ.ศ. 2569 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
-   "date": "01/07/2569",
-   "date_end": "06/07/2569",
-   "budget": 796000.0,
-   "status": "ระหว่างดำเนินการ",
-   "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
-   "matched_keywords": [
-    "จัดกิจกรรม"
-   ],
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/procsearch.sch?pid=69069323248&servlet=gojsp&proc_id=ShowHTMLFile&processFlows=Procure",
-   "score": 2,
-   "fit": "เกี่ยวข้องน้อย",
-   "hits": [
-    "จัดกิจกรรม"
    ]
   },
   {
@@ -2960,11 +2804,11 @@
    "date_end": "",
    "budget": 796000.0,
    "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69069323248&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
    "announce_type": "ประกาศเชิญชวน",
    "matched_keywords": [
     "จัดกิจกรรม"
    ],
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/procsearch.sch?pid=69069323248&servlet=gojsp&proc_id=ShowHTMLFile&processFlows=Procure",
    "score": 2,
    "fit": "เกี่ยวข้องน้อย",
    "hits": [
@@ -2979,11 +2823,11 @@
    "date_end": "",
    "budget": 788700.0,
    "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69079291937&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
    "announce_type": "ประกาศเชิญชวน",
    "matched_keywords": [
     "จัดงาน"
    ],
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/procsearch.sch?pid=69079291937&servlet=gojsp&proc_id=ShowHTMLFile&processFlows=Procure",
    "score": 2,
    "fit": "เกี่ยวข้องน้อย",
    "hits": [
@@ -2998,11 +2842,11 @@
    "date_end": "",
    "budget": 788700.0,
    "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69079228051&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
    "announce_type": "ประกาศเชิญชวน",
    "matched_keywords": [
     "จัดงาน"
    ],
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/procsearch.sch?pid=69079228051&servlet=gojsp&proc_id=ShowHTMLFile&processFlows=Procure",
    "score": 2,
    "fit": "เกี่ยวข้องน้อย",
    "hits": [
@@ -3017,11 +2861,11 @@
    "date_end": "",
    "budget": 788700.0,
    "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69079044418&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
    "announce_type": "ประกาศเชิญชวน",
    "matched_keywords": [
     "จัดงาน"
    ],
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/procsearch.sch?pid=69079044418&servlet=gojsp&proc_id=ShowHTMLFile&processFlows=Procure",
    "score": 2,
    "fit": "เกี่ยวข้องน้อย",
    "hits": [
@@ -3036,53 +2880,15 @@
    "date_end": "",
    "budget": 788700.0,
    "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69069369969&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
    "announce_type": "ประกาศเชิญชวน",
    "matched_keywords": [
     "จัดงาน"
    ],
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/procsearch.sch?pid=69069369969&servlet=gojsp&proc_id=ShowHTMLFile&processFlows=Procure",
    "score": 2,
    "fit": "เกี่ยวข้องน้อย",
    "hits": [
     "จัดงาน"
-   ]
-  },
-  {
-   "pid": "69069364211",
-   "dept": "จังหวัดพัทลุง",
-   "title": "ประกวดราคาจ้างจัดงานธงฟ้าเยียวยาลดค่าครองชีพประชาชน จังหวัดพัทลุง โครงการเยียวยาลดค่าครองชีพประชาชน ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
-   "date": "01/07/2569",
-   "date_end": "",
-   "budget": 788700.0,
-   "status": "ยกเลิกประกาศเชิญชวน",
-   "announce_type": "ประกาศเชิญชวน",
-   "matched_keywords": [
-    "จัดงาน"
-   ],
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/procsearch.sch?pid=69069364211&servlet=gojsp&proc_id=ShowHTMLFile&processFlows=Procure",
-   "score": 2,
-   "fit": "เกี่ยวข้องน้อย",
-   "hits": [
-    "จัดงาน"
-   ]
-  },
-  {
-   "pid": "69069600097",
-   "dept": "กรมวิทยาศาสตร์บริการ",
-   "title": "ประกวดราคาจ้างจัดนิทรรศการของกรมวิทยาศาสตร์บริการ ภายในงานมหกรรมวิทยาศาสตร์และเทคโนโลยีแห่งชาติ ประจำปี ๒๕๖๙ จำนวน ๑ งาน ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
-   "date": "01/07/2569",
-   "date_end": "06/07/2569",
-   "budget": 780000.0,
-   "status": "ยกเลิกประกาศเชิญชวน",
-   "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
-   "matched_keywords": [
-    "นิทรรศการ"
-   ],
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/procsearch.sch?pid=69069600097&servlet=gojsp&proc_id=ShowHTMLFile&processFlows=Procure",
-   "score": 2,
-   "fit": "เกี่ยวข้องน้อย",
-   "hits": [
-    "นิทรรศการ"
    ]
   },
   {
@@ -3093,11 +2899,11 @@
    "date_end": "",
    "budget": 780000.0,
    "status": "ยกเลิกประกาศเชิญชวน",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69069600097&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
    "announce_type": "ประกาศเชิญชวน",
    "matched_keywords": [
     "นิทรรศการ"
    ],
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/procsearch.sch?pid=69069600097&servlet=gojsp&proc_id=ShowHTMLFile&processFlows=Procure",
    "score": 2,
    "fit": "เกี่ยวข้องน้อย",
    "hits": [
@@ -3112,11 +2918,11 @@
    "date_end": "",
    "budget": 766610.0,
    "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69079421047&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
    "announce_type": "ประกาศเชิญชวน",
    "matched_keywords": [
     "จัดกิจกรรม"
    ],
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/procsearch.sch?pid=69079421047&servlet=gojsp&proc_id=ShowHTMLFile&processFlows=Procure",
    "score": 2,
    "fit": "เกี่ยวข้องน้อย",
    "hits": [
@@ -3131,30 +2937,11 @@
    "date_end": "",
    "budget": 766610.0,
    "status": "ยกเลิกประกาศเชิญชวน",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69079387010&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
    "announce_type": "ประกาศเชิญชวน",
    "matched_keywords": [
     "จัดกิจกรรม"
    ],
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/procsearch.sch?pid=69079387010&servlet=gojsp&proc_id=ShowHTMLFile&processFlows=Procure",
-   "score": 2,
-   "fit": "เกี่ยวข้องน้อย",
-   "hits": [
-    "จัดกิจกรรม"
-   ]
-  },
-  {
-   "pid": "69069436996",
-   "dept": "สำนักงานปลัดกระทรวงอุตสาหกรรม",
-   "title": "ประกวดราคาจ้างการจ้างเหมาจัดกิจกรรมถ่ายทอดความสำเร็จของสถานประกอบการตามหลักธรรมาภิบาลสิ่งแวดล้อม ประจำปีงบประมาณ พ.ศ. 2569 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
-   "date": "01/07/2569",
-   "date_end": "06/07/2569",
-   "budget": 760300.0,
-   "status": "ระหว่างดำเนินการ",
-   "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
-   "matched_keywords": [
-    "จัดกิจกรรม"
-   ],
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/procsearch.sch?pid=69069436996&servlet=gojsp&proc_id=ShowHTMLFile&processFlows=Procure",
    "score": 2,
    "fit": "เกี่ยวข้องน้อย",
    "hits": [
@@ -3169,11 +2956,11 @@
    "date_end": "",
    "budget": 760300.0,
    "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69069436996&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
    "announce_type": "ประกาศเชิญชวน",
    "matched_keywords": [
     "จัดกิจกรรม"
    ],
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/procsearch.sch?pid=69069436996&servlet=gojsp&proc_id=ShowHTMLFile&processFlows=Procure",
    "score": 2,
    "fit": "เกี่ยวข้องน้อย",
    "hits": [
@@ -3188,11 +2975,11 @@
    "date_end": "",
    "budget": 750000.0,
    "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69079036790&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
    "announce_type": "ประกาศเชิญชวน",
    "matched_keywords": [
     "จัดกิจกรรม"
    ],
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/procsearch.sch?pid=69079036790&servlet=gojsp&proc_id=ShowHTMLFile&processFlows=Procure",
    "score": 2,
    "fit": "เกี่ยวข้องน้อย",
    "hits": [
@@ -3207,11 +2994,11 @@
    "date_end": "23/07/2569",
    "budget": 700000.0,
    "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_2.jsp?tor_project_id=69069354829",
    "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
    "matched_keywords": [
     "จัดกิจกรรม"
    ],
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/procsearch.sch?pid=69069354829&servlet=gojsp&proc_id=ShowHTMLFile&processFlows=Procure",
    "score": 2,
    "fit": "เกี่ยวข้องน้อย",
    "hits": [
@@ -3226,11 +3013,11 @@
    "date_end": "07/07/2569",
    "budget": 630000.0,
    "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_2.jsp?tor_project_id=69079030143",
    "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
    "matched_keywords": [
     "จัดกิจกรรม"
    ],
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/procsearch.sch?pid=69079030143&servlet=gojsp&proc_id=ShowHTMLFile&processFlows=Procure",
    "score": 2,
    "fit": "เกี่ยวข้องน้อย",
    "hits": [
@@ -3245,11 +3032,11 @@
    "date_end": "",
    "budget": 630000.0,
    "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69079030143&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
    "announce_type": "ประกาศเชิญชวน",
    "matched_keywords": [
     "จัดกิจกรรม"
    ],
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/procsearch.sch?pid=69079030143&servlet=gojsp&proc_id=ShowHTMLFile&processFlows=Procure",
    "score": 2,
    "fit": "เกี่ยวข้องน้อย",
    "hits": [
@@ -3264,11 +3051,11 @@
    "date_end": "",
    "budget": 608600.0,
    "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69079455781&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
    "announce_type": "ประกาศเชิญชวน",
    "matched_keywords": [
     "จัดงาน"
    ],
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/procsearch.sch?pid=69079455781&servlet=gojsp&proc_id=ShowHTMLFile&processFlows=Procure",
    "score": 2,
    "fit": "เกี่ยวข้องน้อย",
    "hits": [
@@ -3283,11 +3070,11 @@
    "date_end": "",
    "budget": 1000000.0,
    "status": "ยกเลิกประกาศเชิญชวน",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69079174608&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
    "announce_type": "ประกาศเชิญชวน",
    "matched_keywords": [
     "นิทรรศการ"
    ],
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/procsearch.sch?pid=69079174608&servlet=gojsp&proc_id=ShowHTMLFile&processFlows=Procure",
    "score": 1,
    "fit": "เกี่ยวข้องน้อย",
    "hits": [

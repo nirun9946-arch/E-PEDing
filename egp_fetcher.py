@@ -173,12 +173,36 @@ def search_egp(opener, keyword: str, announce_type: str, sdate: str, edate: str,
 # ---------------------------------------------------------------- Parser
 ROW_RE = re.compile(
     r'<tr id="trDetail\d+".*?<td align="left">(?P<dept>[^<]*)</td>.*?'
-    r"showPopupFile\w*\('(?P<pid>[^']*)'[^)]*\)\">(?P<title>.*?)</span>.*?"
+    r"(?P<func>showPopup\w*)\((?P<args>[^)]*)\)\">(?P<title>.*?)</span>.*?"
     r'<td align="center">(?P<date>[\d/]+)(?:<br>&nbsp;-&nbsp;(?P<date_end>[\d/]+))?&nbsp;</td>.*?'
     r'<td align="right">(?P<money>[\d,.]+|)&nbsp;?</td>.*?'
     r'<td align="center">(?P<status>[^<]*)</td>',
     re.S,
 )
+
+# หน้า e-GP เปิดประกาศผ่าน JS popup — เราจำลอง URL เดียวกันเพื่อให้ลิงก์คลิกเปิดประกาศจริงได้
+# ร่าง TOR/ประกาศที่มี arg เดียว -> FPRO9951A_2.jsp ; ประกาศเชิญชวน (8 args) -> FPRO9951A_3.jsp
+POPUP_A2 = {"showPopupFileNew", "showPopupFile"}
+POPUP_A4 = {"showPopup150Type9", "showPopupFile3"}   # วงเงินสูง ใช้เทมเพลต A_4
+
+
+def build_announce_link(func: str, args: list[str]) -> str:
+    base = BASE + "/egp2procmainWeb/jsp/"
+    pid = args[0] if args else ""
+    if func in POPUP_A2 or len(args) < 8:
+        return base + "FPRO9951A_2.jsp?tor_project_id=" + urllib.parse.quote(pid)
+    jsp = "FPRO9951A_4.jsp" if func in POPUP_A4 else "FPRO9951A_3.jsp"
+    q = urllib.parse.urlencode({
+        "tor_project_id": args[0],
+        "invite_templateType": args[1],
+        "invite_announceFlag": args[2],
+        "invite_itemNo": args[3],
+        "invite_seqno": args[4],
+        "invite_methodId": args[5],
+        "intvite_docAnnounceType": args[6],   # (สะกดตามระบบ e-GP)
+        "invite_announceId": args[7],
+    })
+    return base + jsp + "?" + q
 
 
 def clean(s: str) -> str:
@@ -193,14 +217,17 @@ def parse_rows(page_html: str) -> list[dict]:
         # ตัด "(เลขที่โครงการ : xxx)" ท้ายชื่อ
         title = re.sub(r"\s*\(เลขที่โครงการ\s*:\s*\d+\)\s*$", "", title)
         money_s = m.group("money").replace(",", "")
+        args = re.findall(r"'([^']*)'", m.group("args"))
+        pid = args[0] if args else ""
         rows.append({
-            "pid": m.group("pid"),
+            "pid": pid,
             "dept": clean(m.group("dept")),
             "title": title,
             "date": m.group("date"),
             "date_end": m.group("date_end") or "",
             "budget": float(money_s) if money_s else 0.0,
             "status": clean(m.group("status")),
+            "link": build_announce_link(m.group("func"), args),
         })
     return rows
 
@@ -253,8 +280,6 @@ def main():
                         continue
                     row["announce_type"] = atype_name
                     row["matched_keywords"] = [kw]
-                    row["link"] = (SEARCH_URL + "?pid=" + row["pid"] +
-                                   "&servlet=gojsp&proc_id=ShowHTMLFile&processFlows=Procure")
                     projects[key] = row
                 if len(rows) < 50:
                     break
