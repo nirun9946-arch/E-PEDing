@@ -1,5 +1,5 @@
 {
- "fetched_at": "23/07/2569 09:30",
+ "fetched_at": "23/07/2569 09:34",
  "range": {
   "from": "02/07/2569",
   "to": "23/07/2569"
@@ -2676,25 +2676,6 @@
    "matched_keywords": [
     "จัดกิจกรรม"
    ],
-   "score": 2,
-   "fit": "เกี่ยวข้องน้อย",
-   "hits": [
-    "จัดกิจกรรม"
-   ]
-  },
-  {
-   "pid": "69079095537",
-   "dept": "จังหวัดตาก",
-   "title": "ประกวดราคาจ้างโครงการส่งเสริมการท่องเที่ยวเชิงกีฬาและสุขภาพจังหวัดตาก กิจกรรมส่งเสริมการจัดกิจกรรมการแข่งขันวิ่งเทรล ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
-   "date": "23/07/2569",
-   "date_end": "",
-   "budget": 1065900.0,
-   "status": "ระหว่างดำเนินการ",
-   "announce_type": "ประกาศเชิญชวน",
-   "matched_keywords": [
-    "จัดกิจกรรม"
-   ],
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/procsearch.sch?pid=69079095537&servlet=gojsp&proc_id=ShowHTMLFile&processFlows=Procure",
    "score": 2,
    "fit": "เกี่ยวข้องน้อย",
    "hits": [
