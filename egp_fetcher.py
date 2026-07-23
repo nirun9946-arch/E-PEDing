@@ -286,8 +286,20 @@ def main():
             print(f"  - {atype_name} | '{kw}' : {found_kw} รายการ")
 
     # ให้คะแนนและคัดกรอง
+    def tor_still_open(p: dict) -> bool:
+        """ร่าง TOR ที่เลยวันสิ้นสุดรับฟังคำวิจารณ์แล้ว ยื่นไม่ทัน ไม่เอาเข้าเว็บ"""
+        if "TOR" not in p["announce_type"] or not p.get("date_end"):
+            return True
+        try:
+            dd, mm, yy = (int(x) for x in p["date_end"].split("/"))
+            return datetime.date(yy - 543, mm, dd) >= today
+        except ValueError:
+            return True
+
     items = []
     for p in projects.values():
+        if not tor_still_open(p):
+            continue
         score, hits = score_project(p["title"])
         for kw in p["matched_keywords"]:
             if kw not in hits:

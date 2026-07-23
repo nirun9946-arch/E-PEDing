@@ -50,6 +50,8 @@
       radial-gradient(110% 80% at -8% 18%, #2a2a26 0%, transparent 52%),
       linear-gradient(175deg,#171716 0%,#0a0a09 62%,#000 100%);
   }
+  /* วิดีโอพื้นหลัง — ถ้าโหลดไม่ได้ พื้นไล่เฉดของ .hero ยังอยู่ข้างหลังเสมอ */
+  .hero-video{position:absolute;inset:0;width:100%;height:100%;object-fit:cover}
   .hero-veil{position:absolute;inset:0;pointer-events:none;
     background:linear-gradient(to bottom,rgba(0,0,0,.3) 0%,transparent 42%,rgba(0,0,0,.6) 100%)}
 
@@ -251,6 +253,8 @@
 <!-- ================= HERO ================= -->
 <div class="hero-pad">
   <div class="hero">
+    <video class="hero-video" autoplay loop muted playsinline
+           src="https://d8j0ntlcm91z4.cloudfront.net/user_38xzZboKViGWJOttwIXH07lWA1P/hf_20260405_170732_8a9ccda6-5cff-4628-b164-059c500a2b41.mp4"></video>
     <div class="noise-overlay"></div>
     <div class="hero-veil"></div>
 
@@ -416,12 +420,19 @@ function revealStats(){
   });
 }
 
+// ร่าง TOR ที่เลยวันสิ้นสุดรับฟังคำวิจารณ์แล้ว = ยื่นความเห็นไม่ทันแล้ว ไม่ต้องแสดง
+function stillOpen(x){
+  if(!x.announce_type.includes('TOR')) return true;
+  if(!x.date_end) return true;
+  return daysAgo(x.date_end) <= 0;
+}
+
 function render(){
   const q = document.getElementById('q').value.trim().toLowerCase();
   const fit = document.getElementById('fit').value;
   const at = document.getElementById('atype').value;
   const minb = +document.getElementById('minb').value;
-  let list = D.items.filter(x =>
+  let list = D.items.filter(x => stillOpen(x) &&
     (!q || x.title.toLowerCase().includes(q) || x.dept.toLowerCase().includes(q)) &&
     (!fit || x.fit===fit) && (!at || x.announce_type===at) && x.budget>=minb);
 
