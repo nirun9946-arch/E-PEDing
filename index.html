@@ -56,8 +56,11 @@
   .hero-video{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;
     opacity:0;transition:opacity 1s ease}
   .hero-video.on{opacity:1}
+  /* วิดีโอพื้นหลังสว่างมาก ต้องกดให้มืดพอที่ตัวหนังสือครีมจะอ่านออกทุกเฟรม */
   .hero-veil{position:absolute;inset:0;pointer-events:none;
-    background:linear-gradient(to bottom,rgba(0,0,0,.3) 0%,transparent 42%,rgba(0,0,0,.6) 100%)}
+    background:
+      linear-gradient(to bottom,rgba(0,0,0,.5) 0%,rgba(0,0,0,.2) 30%,rgba(0,0,0,.72) 72%,rgba(0,0,0,.92) 100%),
+      linear-gradient(to right,rgba(0,0,0,.55) 0%,rgba(0,0,0,.1) 55%,rgba(0,0,0,.35) 100%)}
 
   /* แถบยี่ห้อห้อยจากขอบบน */
   .navpill{
@@ -76,12 +79,16 @@
   .brand{
     font-size:clamp(3.6rem,20vw,15rem);font-weight:400;line-height:.85;letter-spacing:-.06em;
     color:var(--cream);position:relative;display:inline-block;
+    text-shadow:0 2px 30px rgba(0,0,0,.85),0 1px 4px rgba(0,0,0,.6);
   }
   .brand .star{position:absolute;top:.06em;right:-.32em;font-size:.28em;font-weight:300;line-height:1;color:var(--cream-dim)}
   .brand-sub{font-family:var(--serif);font-style:italic;font-size:clamp(1.3rem,4.4vw,2.9rem);
-    color:var(--cream-dim);line-height:1;letter-spacing:-.01em;margin-top:2px;display:block}
-  .hero-note{font-size:.86rem;line-height:1.35;color:var(--cream-dim);max-width:44ch}
-  .hero-meta{font-size:.72rem;color:var(--cream-faint);margin-top:10px;letter-spacing:.01em}
+    color:var(--cream-dim);line-height:1;letter-spacing:-.01em;margin-top:2px;display:block;
+    text-shadow:0 2px 18px rgba(0,0,0,.8)}
+  .hero-note{font-size:.86rem;line-height:1.35;color:rgba(225,224,204,.86);max-width:44ch;
+    text-shadow:0 1px 12px rgba(0,0,0,.85)}
+  .hero-meta{font-size:.72rem;color:var(--cream-dim);margin-top:10px;letter-spacing:.01em;
+    text-shadow:0 1px 10px rgba(0,0,0,.85)}
 
   /* ปุ่ม */
   .btns{display:flex;gap:9px;flex-wrap:wrap;align-items:center;margin-top:14px}
