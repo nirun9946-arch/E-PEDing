@@ -3,6 +3,8 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!-- GitHub Pages สั่งแคช 10 นาที ทำให้เปิดแล้วยังเห็นของเก่า จึงขอให้เบราว์เซอร์เช็คใหม่ทุกครั้ง -->
+<meta http-equiv="Cache-Control" content="no-cache, must-revalidate">
 <title>E-peding — งานภาครัฐที่เนชั่นบิดได้</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -521,6 +523,20 @@ document.querySelectorAll('thead th').forEach(th=>th.onclick=()=>{
   el.addEventListener(el.tagName==='INPUT'?'input':'change',render);
 });
 render();
+
+// เบราว์เซอร์อาจหยิบ data.js เก่าจากแคช (GitHub Pages สั่งแคช 10 นาที)
+// จึงเช็คเงียบ ๆ ตอนเปิดหน้า ถ้ามีชุดใหม่กว่าก็สลับให้เองโดยผู้ใช้ไม่ต้องกดอะไร
+(function(){
+  const s = document.createElement('script');
+  s.src = 'data.js?t=' + Date.now();
+  s.onload = () => {
+    if(!window.EGP_DATA || window.EGP_DATA.fetched_at === D.fetched_at) return;
+    D = window.EGP_DATA;
+    setMeta();
+    render();
+  };
+  document.head.appendChild(s);
+})();
 
 /* ---------- อนิเมชันตอนเข้าหน้า ---------- */
 
