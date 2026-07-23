@@ -50,8 +50,10 @@
       radial-gradient(110% 80% at -8% 18%, #2a2a26 0%, transparent 52%),
       linear-gradient(175deg,#171716 0%,#0a0a09 62%,#000 100%);
   }
-  /* วิดีโอพื้นหลัง — ถ้าโหลดไม่ได้ พื้นไล่เฉดของ .hero ยังอยู่ข้างหลังเสมอ */
-  .hero-video{position:absolute;inset:0;width:100%;height:100%;object-fit:cover}
+  /* วิดีโอพื้นหลัง — โปร่งไว้ก่อน เฟดขึ้นเมื่อโหลดพร้อม; พลาดเมื่อไรพื้นไล่เฉดของ .hero รับหน้าที่ต่อ */
+  .hero-video{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;
+    opacity:0;transition:opacity 1s ease}
+  .hero-video.on{opacity:1}
   .hero-veil{position:absolute;inset:0;pointer-events:none;
     background:linear-gradient(to bottom,rgba(0,0,0,.3) 0%,transparent 42%,rgba(0,0,0,.6) 100%)}
 
@@ -253,7 +255,7 @@
 <!-- ================= HERO ================= -->
 <div class="hero-pad">
   <div class="hero">
-    <video class="hero-video" autoplay loop muted playsinline
+    <video class="hero-video" autoplay loop muted playsinline preload="auto"
            src="https://d8j0ntlcm91z4.cloudfront.net/user_38xzZboKViGWJOttwIXH07lWA1P/hf_20260405_170732_8a9ccda6-5cff-4628-b164-059c500a2b41.mp4"></video>
     <div class="noise-overlay"></div>
     <div class="hero-veil"></div>
@@ -546,6 +548,23 @@ function buildPull(el){
 }
 
 document.querySelectorAll('.pull').forEach(buildPull);
+
+// วิดีโอ hero: เฟดขึ้นเมื่อพร้อม ถ้าค้างเกิน 6 วิ ให้ดึงไฟล์เองแล้วป้อนผ่าน blob
+(function(){
+  const hv = document.querySelector('.hero-video');
+  if(!hv) return;
+  const show = () => { hv.classList.add('on'); hv.play().catch(()=>{}); };
+  hv.addEventListener('loadeddata', show, {once:true});
+  const srcUrl = hv.src;
+  setTimeout(async () => {
+    if(hv.readyState >= 2) return;
+    try{
+      const b = await fetch(srcUrl).then(r => { if(!r.ok) throw 0; return r.blob(); });
+      hv.src = URL.createObjectURL(b);
+      hv.load();
+    }catch{}   // โหลดไม่ได้ก็ปล่อยพื้นไล่เฉดทำงานแทน
+  }, 6000);
+})();
 
 const io = new IntersectionObserver((entries)=>{
   entries.forEach(en=>{
