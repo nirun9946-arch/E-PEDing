@@ -1,10 +1,10 @@
 {
- "fetched_at": "24/07/2569 12:39",
+ "fetched_at": "24/07/2569 16:20",
  "range": {
   "from": "03/07/2569",
   "to": "24/07/2569"
  },
- "total": 119,
+ "total": 123,
  "requests": 33,
  "items": [
   {
@@ -239,6 +239,28 @@
     "ประชาสัมพันธ์",
     "ผลิตสื่อ",
     "สื่อสังคมออนไลน์"
+   ]
+  },
+  {
+   "pid": "69069583686",
+   "dept": "การทางพิเศษแห่งประเทศไทย",
+   "title": "ประกวดราคาจ้างจัดทำสื่อโฆษณาประชาสัมพันธ์ภาพลักษณ์องค์กรของการทางพิเศษแห่งประเทศไทย ปี 2569-2571 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "24/07/2569",
+   "date_end": "",
+   "budget": 21000000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69069583686&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
+   "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "ประชาสัมพันธ์",
+    "โฆษณา"
+   ],
+   "score": 9,
+   "fit": "เหมาะมาก",
+   "hits": [
+    "ประชาสัมพันธ์",
+    "โฆษณา",
+    "ภาพลักษณ์"
    ]
   },
   {
@@ -536,6 +558,27 @@
    "hits": [
     "ประชาสัมพันธ์",
     "จัดกิจกรรม"
+   ]
+  },
+  {
+   "pid": "69079516135",
+   "dept": "สำนักงานคณะกรรมการกำกับกิจการพลังงาน",
+   "title": "ประกวดราคาจ้างออกแบบ จัดทำ บริหารจัดการบูธนิทรรศการและสื่อประชาสัมพันธ์ ในงาน Gastech 2026 ประเทศไทย ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "24/07/2569",
+   "date_end": "",
+   "budget": 4000000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69079516135&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
+   "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "ประชาสัมพันธ์",
+    "นิทรรศการ"
+   ],
+   "score": 5,
+   "fit": "น่าสนใจ",
+   "hits": [
+    "ประชาสัมพันธ์",
+    "นิทรรศการ"
    ]
   },
   {
@@ -2324,6 +2367,25 @@
    ]
   },
   {
+   "pid": "69079498318",
+   "dept": "จังหวัดยะลา",
+   "title": "ประกวดราคาจ้างดำเนินการจัดงานมหกรรมส่งเสริมและกระตุ้นการบริโภคผลไม้ชายแดนภาคใต้ ภายใต้โครงการพัฒนาศักยภาพการค้าเพื่อเศรษฐกิจฐานรากจังหวัดชายแดนภาคใต้ ประจำปีงบประมาณ พ.ศ. 2569 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "24/07/2569",
+   "date_end": "",
+   "budget": 611500.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69079498318&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
+   "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "จัดงาน"
+   ],
+   "score": 2,
+   "fit": "เกี่ยวข้องน้อย",
+   "hits": [
+    "จัดงาน"
+   ]
+  },
+  {
    "pid": "69079455781",
    "dept": "จังหวัดตาก",
    "title": "ประกวดราคาจ้างจ้างเหมาจัดงานเทศกาล ชิม ชม ช๊อป อะโวคาโด จังหวัดตาก ตากมีดี City of Avocado, Agri Craft โครงการส่งเสริมการผลิต การแปรรูปสินค้าทางการเกษตรอะโวคาโด ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
@@ -2332,6 +2394,25 @@
    "budget": 608600.0,
    "status": "ระหว่างดำเนินการ",
    "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69079455781&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
+   "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "จัดงาน"
+   ],
+   "score": 2,
+   "fit": "เกี่ยวข้องน้อย",
+   "hits": [
+    "จัดงาน"
+   ]
+  },
+  {
+   "pid": "69079494381",
+   "dept": "จังหวัดนครสวรรค์",
+   "title": "ประกวดราคาจ้างเหมาจัดงานวันสาธิตการใช้เทคโนโลยีการผลิตอ้อยโรงงานแบบครบวงจร โครงการพัฒนาและส่งเสริมด้านการเกษตรและอุตสาหกรรมฐานชีวภาพ (BCG Economy) ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "24/07/2569",
+   "date_end": "",
+   "budget": 590000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69079494381&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
    "announce_type": "ประกาศเชิญชวน",
    "matched_keywords": [
     "จัดงาน"
