@@ -1,10 +1,10 @@
 {
- "fetched_at": "24/07/2569 16:20",
+ "fetched_at": "24/07/2569 18:20",
  "range": {
   "from": "03/07/2569",
   "to": "24/07/2569"
  },
- "total": 123,
+ "total": 125,
  "requests": 33,
  "items": [
   {
@@ -579,6 +579,26 @@
    "hits": [
     "ประชาสัมพันธ์",
     "นิทรรศการ"
+   ]
+  },
+  {
+   "pid": "69079337199",
+   "dept": "การรถไฟฟ้าขนส่งมวลชนแห่งประเทศไทย",
+   "title": "ประกวดราคาจ้างจัดกิจกรรมสื่อมวลชนสัมพันธ์ ประจำปีงบประมาณ 2569 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "24/07/2569",
+   "date_end": "",
+   "budget": 3000000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69079337199&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
+   "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "จัดกิจกรรม"
+   ],
+   "score": 5,
+   "fit": "น่าสนใจ",
+   "hits": [
+    "จัดกิจกรรม",
+    "สื่อมวลชน"
    ]
   },
   {
@@ -1178,6 +1198,25 @@
    "budget": 9500000.0,
    "status": "ระหว่างดำเนินการ",
    "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69069428241&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
+   "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "จัดงาน"
+   ],
+   "score": 2,
+   "fit": "เกี่ยวข้องน้อย",
+   "hits": [
+    "จัดงาน"
+   ]
+  },
+  {
+   "pid": "69069163290",
+   "dept": "สถาบันวิจัยและพัฒนาอัญมณีและเครื่องประดับแห่งชาติ (องค์การมหาชน)",
+   "title": "ประกวดราคาจ้างจัดงานแสดงสินค้าเทศกาลนานาชาติพลอยและเครื่องประดับจันทบุรี 2026 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "24/07/2569",
+   "date_end": "",
+   "budget": 8700000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69069163290&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
    "announce_type": "ประกาศเชิญชวน",
    "matched_keywords": [
     "จัดงาน"
