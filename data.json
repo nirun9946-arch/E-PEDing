@@ -1,10 +1,10 @@
 {
- "fetched_at": "26/07/2569 18:02",
+ "fetched_at": "27/07/2569 13:08",
  "range": {
-  "from": "05/07/2569",
-  "to": "26/07/2569"
+  "from": "06/07/2569",
+  "to": "27/07/2569"
  },
- "total": 115,
+ "total": 116,
  "requests": 33,
  "items": [
   {
@@ -869,6 +869,25 @@
    "budget": 5000000.0,
    "status": "ระหว่างดำเนินการ",
    "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69079434768&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
+   "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "ประชาสัมพันธ์"
+   ],
+   "score": 3,
+   "fit": "น่าสนใจ",
+   "hits": [
+    "ประชาสัมพันธ์"
+   ]
+  },
+  {
+   "pid": "69079253828",
+   "dept": "กรมส่งเสริมการค้าระหว่างประเทศ",
+   "title": "ประกวดราคาจ้างโครงการประชาสัมพันธ์เพื่อสร้างมูลค่าเพิ่มแก่สินค้าและบริการของไทย ภายใต้ยุทธศาสตร์ซอฟต์พาวเวอร์แห่งชาติ ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "27/07/2569",
+   "date_end": "",
+   "budget": 4200000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69079253828&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
    "announce_type": "ประกาศเชิญชวน",
    "matched_keywords": [
     "ประชาสัมพันธ์"
