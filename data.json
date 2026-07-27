@@ -1,10 +1,10 @@
 {
- "fetched_at": "27/07/2569 17:39",
+ "fetched_at": "27/07/2569 19:46",
  "range": {
   "from": "06/07/2569",
   "to": "27/07/2569"
  },
- "total": 122,
+ "total": 123,
  "requests": 33,
  "items": [
   {
@@ -1075,6 +1075,25 @@
    "fit": "เกี่ยวข้องน้อย",
    "hits": [
     "นิทรรศการ"
+   ]
+  },
+  {
+   "pid": "69079173455",
+   "dept": "สำนักงานปลัดกระทรวงวัฒนธรรม",
+   "title": "ประกวดราคาจ้างจ้างจัดงานมหกรรมวัฒนธรรมแห่งชาติ วิถีถิ่น วิถีไทย ประจำปีงบประมาณ พ.ศ. 2569 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "27/07/2569",
+   "date_end": "",
+   "budget": 21510000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69079173455&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
+   "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "จัดงาน"
+   ],
+   "score": 2,
+   "fit": "เกี่ยวข้องน้อย",
+   "hits": [
+    "จัดงาน"
    ]
   },
   {
