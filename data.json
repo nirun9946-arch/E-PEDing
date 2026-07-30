@@ -1,10 +1,10 @@
 {
- "fetched_at": "29/07/2569 18:44",
+ "fetched_at": "30/07/2569 12:28",
  "range": {
-  "from": "08/07/2569",
-  "to": "29/07/2569"
+  "from": "09/07/2569",
+  "to": "30/07/2569"
  },
- "total": 102,
+ "total": 97,
  "requests": 32,
  "items": [
   {
@@ -607,26 +607,6 @@
    ]
   },
   {
-   "pid": "69069447227",
-   "dept": "สำนักงานธนานุเคราะห์",
-   "title": "ประกวดราคาจ้างโฆษณาผ่านช่องทางอื่นและโฆษณาผ่านช่องทางหลัก สื่อหลักสำนักข่าว ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
-   "date": "08/07/2569",
-   "date_end": "",
-   "budget": 2000000.0,
-   "status": "ระหว่างดำเนินการ",
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69069447227&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
-   "announce_type": "ประกาศเชิญชวน",
-   "matched_keywords": [
-    "โฆษณา"
-   ],
-   "score": 5,
-   "fit": "น่าสนใจ",
-   "hits": [
-    "โฆษณา",
-    "ข่าว"
-   ]
-  },
-  {
    "pid": "69079253862",
    "dept": "สำนักงานส่งเสริมเศรษฐกิจสร้างสรรค์ (องค์การมหาชน)",
    "title": "ประกวดราคาจ้างจัดกิจกรรมกระตุ้นและสร้างการรับรู้เศรษฐกิจสร้างสรรค์เพื่อเตรียมความพร้อมการเปิดแหล่งบ่มเพาะธุรกิจสร้างสรรค์ NEW TCDC ปัตตานี ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
@@ -851,25 +831,6 @@
    "budget": 2980000.0,
    "status": "ระหว่างดำเนินการ",
    "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69079313816&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
-   "announce_type": "ประกาศเชิญชวน",
-   "matched_keywords": [
-    "ประชาสัมพันธ์"
-   ],
-   "score": 3,
-   "fit": "น่าสนใจ",
-   "hits": [
-    "ประชาสัมพันธ์"
-   ]
-  },
-  {
-   "pid": "69069115947",
-   "dept": "กระทรวงการต่างประเทศ",
-   "title": "ประกวดราคาจ้างทำสื่อประชาสัมพันธ์ข้อมูลเกี่ยวกับรูปแบบการนิติกรณ์เอกสารแบบ Apostille สำหรับสาธารณชน ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
-   "date": "08/07/2569",
-   "date_end": "",
-   "budget": 1600000.0,
-   "status": "ระหว่างดำเนินการ",
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69069115947&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
    "announce_type": "ประกาศเชิญชวน",
    "matched_keywords": [
     "ประชาสัมพันธ์"
@@ -1508,25 +1469,6 @@
    ]
   },
   {
-   "pid": "69069364645",
-   "dept": "โรงเรียนนครสวรรค์",
-   "title": "ประกวดราคาจ้างจัดกิจกรรมศึกษาดูงานต่างประเทศ (Multilingual Program) โครงการห้องเรียนพิเศษพหุภาษา (MP) ณ สาธารณรัฐประชาชนจีน ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
-   "date": "08/07/2569",
-   "date_end": "",
-   "budget": 1500000.0,
-   "status": "ระหว่างดำเนินการ",
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69069364645&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
-   "announce_type": "ประกาศเชิญชวน",
-   "matched_keywords": [
-    "จัดกิจกรรม"
-   ],
-   "score": 2,
-   "fit": "เกี่ยวข้องน้อย",
-   "hits": [
-    "จัดกิจกรรม"
-   ]
-  },
-  {
    "pid": "69079106962",
    "dept": "จังหวัดมหาสารคาม",
    "title": "ประกวดราคาจ้างเหมาจัดงานมหกรรมส่งเสริมสุขภาพปลอดภัยห่างไกลโรค NCDs จำนวน ๑ โครงการ ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
@@ -1907,25 +1849,6 @@
    ]
   },
   {
-   "pid": "69069436996",
-   "dept": "สำนักงานปลัดกระทรวงอุตสาหกรรม",
-   "title": "ประกวดราคาจ้างการจ้างเหมาจัดกิจกรรมถ่ายทอดความสำเร็จของสถานประกอบการตามหลักธรรมาภิบาลสิ่งแวดล้อม ประจำปีงบประมาณ พ.ศ. 2569 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
-   "date": "08/07/2569",
-   "date_end": "",
-   "budget": 760300.0,
-   "status": "ระหว่างดำเนินการ",
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69069436996&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
-   "announce_type": "ประกาศเชิญชวน",
-   "matched_keywords": [
-    "จัดกิจกรรม"
-   ],
-   "score": 2,
-   "fit": "เกี่ยวข้องน้อย",
-   "hits": [
-    "จัดกิจกรรม"
-   ]
-  },
-  {
    "pid": "69079036790",
    "dept": "โรงเรียนอนุบาลภูเก็ต",
    "title": "ประกวดราคาจ้างเหมาบริการจัดกิจกรรมทัศนศึกษาแหล่งเรียนรู้ต่างประเทศ ณ สิงคโปร์ ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
@@ -1934,25 +1857,6 @@
    "budget": 750000.0,
    "status": "ระหว่างดำเนินการ",
    "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69079036790&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
-   "announce_type": "ประกาศเชิญชวน",
-   "matched_keywords": [
-    "จัดกิจกรรม"
-   ],
-   "score": 2,
-   "fit": "เกี่ยวข้องน้อย",
-   "hits": [
-    "จัดกิจกรรม"
-   ]
-  },
-  {
-   "pid": "69079030143",
-   "dept": "โรงเรียนศรียาภัย",
-   "title": "ประกวดราคาจ้างเหมาจัดกิจกรรม English Camp (ค่ายยกระดับความรู้และทักษะภาษาอังกฤษ) ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
-   "date": "08/07/2569",
-   "date_end": "",
-   "budget": 630000.0,
-   "status": "ระหว่างดำเนินการ",
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69079030143&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
    "announce_type": "ประกาศเชิญชวน",
    "matched_keywords": [
     "จัดกิจกรรม"
