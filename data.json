@@ -1,10 +1,10 @@
 {
- "fetched_at": "31/07/2569 12:54",
+ "fetched_at": "31/07/2569 16:42",
  "range": {
   "from": "10/07/2569",
   "to": "31/07/2569"
  },
- "total": 97,
+ "total": 101,
  "requests": 32,
  "items": [
   {
@@ -784,6 +784,25 @@
    ]
   },
   {
+   "pid": "69079544052",
+   "dept": "องค์การบริหารส่วนจังหวัดชลบุรี",
+   "title": "ประกวดราคาจ้างโครงการจัดทำเอกสารประชาสัมพันธ์ในรูปแบบปฏิทิน ประจำปีพุทธศักราช ๒๕๗๐ ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "31/07/2569",
+   "date_end": "05/08/2569",
+   "budget": 3700000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_2.jsp?tor_project_id=69079544052",
+   "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
+   "matched_keywords": [
+    "ประชาสัมพันธ์"
+   ],
+   "score": 3,
+   "fit": "น่าสนใจ",
+   "hits": [
+    "ประชาสัมพันธ์"
+   ]
+  },
+  {
    "pid": "69069228981",
    "dept": "กองวิจัยพัฒนาเมล็ดพันธุ์พืช กรมวิชาการเกษตร",
    "title": "ประกวดราคาจ้างประชาสัมพันธ์พันธุ์พืชและปัจจัยการผลิตกรมวิชาการเกษตรผ่านสื่อดิจิทัล ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
@@ -1085,6 +1104,25 @@
    "fit": "เกี่ยวข้องน้อย",
    "hits": [
     "จัดกิจกรรม"
+   ]
+  },
+  {
+   "pid": "69079201313",
+   "dept": "จังหวัดนครปฐม",
+   "title": "ประกวดราคาจ้างเหมาจัดงานแสดงและจำหน่าย และเจรจาธุรกิจ Offline Online สินค้าเกษตร เกษตรแปรรูป และอุตสาหกรรมเกษตร ของกลุ่มจังหวัดภาคกลางปริมณฑล ภายใต้โครงการพัฒนาการผลิตภาคการเกษตร อุตสาหกรรมด้วยระบบเทคโนโลยีอัจฉริยะ กิจกรรมการยกระดับศักยภาพและส่งเสริมด้านการตลาดผู้ประกอบการสินค้าเกษตร เกษตรแปรรูป และอุตสาหกรรมเกษตร กลุ่มจังหวัดภาคกลางปริมณฑล ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "31/07/2569",
+   "date_end": "05/08/2569",
+   "budget": 4500000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_2.jsp?tor_project_id=69079201313",
+   "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
+   "matched_keywords": [
+    "จัดงาน"
+   ],
+   "score": 2,
+   "fit": "เกี่ยวข้องน้อย",
+   "hits": [
+    "จัดงาน"
    ]
   },
   {
@@ -1582,6 +1620,25 @@
    ]
   },
   {
+   "pid": "69079573356",
+   "dept": "กรุงเทพมหานคร",
+   "title": "ประกวดราคาจ้างเหมารถยนต์โดยสาร ขนาด 40 ที่นั่งขึ้นไป แบบไป-กลับ จำนวน 14 คัน จำนวน 5 วัน ตามโครงการเข้าร่วมแข่งขันทักษะวิชาการและการจัดงานมหกรรมการจัดการศึกษาท้องถิ่น ระดับประเทศ ประจำปีงบประมาณ พ.ศ.2569 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "31/07/2569",
+   "date_end": "",
+   "budget": 1253000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69079573356&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
+   "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "จัดงาน"
+   ],
+   "score": 2,
+   "fit": "เกี่ยวข้องน้อย",
+   "hits": [
+    "จัดงาน"
+   ]
+  },
+  {
    "pid": "69079095537",
    "dept": "จังหวัดตาก",
    "title": "ประกวดราคาจ้างโครงการส่งเสริมการท่องเที่ยวเชิงกีฬาและสุขภาพจังหวัดตาก กิจกรรมส่งเสริมการจัดกิจกรรมการแข่งขันวิ่งเทรล ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
@@ -1666,6 +1723,25 @@
    "budget": 958800.0,
    "status": "ระหว่างดำเนินการ",
    "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69079332440&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
+   "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "จัดงาน"
+   ],
+   "score": 2,
+   "fit": "เกี่ยวข้องน้อย",
+   "hits": [
+    "จัดงาน"
+   ]
+  },
+  {
+   "pid": "69079596718",
+   "dept": "จังหวัดขอนแก่น",
+   "title": "ประกวดราคาจ้างเหมาจัดงานประกวดและจำหน่ายผลิตภัณฑ์ผ้าไหมย้อมคูน ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "31/07/2569",
+   "date_end": "",
+   "budget": 837100.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69079596718&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
    "announce_type": "ประกาศเชิญชวน",
    "matched_keywords": [
     "จัดงาน"
