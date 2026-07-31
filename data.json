@@ -1,10 +1,10 @@
 {
- "fetched_at": "31/07/2569 16:42",
+ "fetched_at": "31/07/2569 18:42",
  "range": {
   "from": "10/07/2569",
   "to": "31/07/2569"
  },
- "total": 101,
+ "total": 103,
  "requests": 32,
  "items": [
   {
@@ -1069,6 +1069,25 @@
    ]
   },
   {
+   "pid": "69069382966",
+   "dept": "สำนักงานคณะกรรมการอาหารและยา",
+   "title": "ประกวดราคาจ้างจัดงานมอบรางวัล อย. ควอลิตี้ อวอร์ด ประจำปีงบประมาณ พ.ศ. ๒๕๖๙ ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "31/07/2569",
+   "date_end": "",
+   "budget": 4960000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69069382966&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
+   "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "จัดงาน"
+   ],
+   "score": 2,
+   "fit": "เกี่ยวข้องน้อย",
+   "hits": [
+    "จัดงาน"
+   ]
+  },
+  {
    "pid": "69039590984",
    "dept": "สำนักงานพัฒนาเทคโนโลยีอวกาศและภูมิสารสนเทศ (องค์การมหาชน)",
    "title": "ประกวดราคาจ้างเหมาดำเนินการจัดงานประชุมและสัมมนาด้านอวกาศ ประจำปี พ.ศ 2569 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
@@ -1636,6 +1655,25 @@
    "fit": "เกี่ยวข้องน้อย",
    "hits": [
     "จัดงาน"
+   ]
+  },
+  {
+   "pid": "69079392084",
+   "dept": "สำนักงานพัฒนาเศรษฐกิจจากฐานชีวภาพ (องค์การมหาชน)",
+   "title": "ประกวดราคาจ้างพัฒนาฐานข้อมูล website เพื่อเผยแพร่ข้อมูลด้านการท่องเที่ยวบนฐานความหลากหลายทางชีวภาพ และขยายผลจากผลลัพธ์โครงการ ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "31/07/2569",
+   "date_end": "",
+   "budget": 1250000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69079392084&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
+   "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "เผยแพร่"
+   ],
+   "score": 2,
+   "fit": "เกี่ยวข้องน้อย",
+   "hits": [
+    "เผยแพร่"
    ]
   },
   {
