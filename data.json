@@ -1,10 +1,10 @@
 {
- "fetched_at": "03/08/2569 13:01",
+ "fetched_at": "03/08/2569 17:39",
  "range": {
   "from": "13/07/2569",
   "to": "03/08/2569"
  },
- "total": 94,
+ "total": 98,
  "requests": 32,
  "items": [
   {
@@ -408,6 +408,27 @@
    ]
   },
   {
+   "pid": "69079600125",
+   "dept": "องค์การบริหารจัดการก๊าซเรือนกระจก (องค์การมหาชน)",
+   "title": "ประกวดราคาจ้างทำสื่อประชาสัมพันธ์คลิปวิดีโองานรับรองฉลากคาร์บอน ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "03/08/2569",
+   "date_end": "",
+   "budget": 950000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69079600125&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
+   "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "ประชาสัมพันธ์"
+   ],
+   "score": 7,
+   "fit": "เหมาะมาก",
+   "hits": [
+    "ประชาสัมพันธ์",
+    "คลิป",
+    "วิดีโอ"
+   ]
+  },
+  {
    "pid": "69079320294",
    "dept": "สำนักงานคณะกรรมการกำกับกิจการพลังงาน",
    "title": "ประกวดราคาจ้างจัดทำสื่อประชาสัมพันธ์สร้างภาพลักษณ์องค์กร ปี พ.ศ. 2570 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
@@ -783,6 +804,25 @@
    "fit": "น่าสนใจ",
    "hits": [
     "ประชาสัมพันธ์"
+   ]
+  },
+  {
+   "pid": "69059406794",
+   "dept": "จุฬาลงกรณ์มหาวิทยาลัย",
+   "title": "ประกวดราคาจ้างผลิตและสร้างสรรค์สื่อวีดิทัศน์ Student Showcase ประจำปีงบประมาณ ๒๕๖๙ จำนวน ๑ งาน ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "03/08/2569",
+   "date_end": "",
+   "budget": 900000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69059406794&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
+   "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "วีดิทัศน์"
+   ],
+   "score": 3,
+   "fit": "น่าสนใจ",
+   "hits": [
+    "วีดิทัศน์"
    ]
   },
   {
@@ -1356,6 +1396,25 @@
    ]
   },
   {
+   "pid": "69079518942",
+   "dept": "เมืองพัทยา",
+   "title": "ประกวดราคาจ้างโครงการส่งเสริมการจัดประชุมและนิทรรศการ Pattaya MICE City งาน Incentive Travel and Convention Meeting Asia, IT and CMA Asia and CTW Asia-Pacific ๒๐๒๖ ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "03/08/2569",
+   "date_end": "06/08/2569",
+   "budget": 1700000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_2.jsp?tor_project_id=69079518942",
+   "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
+   "matched_keywords": [
+    "นิทรรศการ"
+   ],
+   "score": 2,
+   "fit": "เกี่ยวข้องน้อย",
+   "hits": [
+    "นิทรรศการ"
+   ]
+  },
+  {
    "pid": "69079541391",
    "dept": "บริษัท ปตท. จำกัด (มหาชน)",
    "title": "ประกวดราคาจ้างจัดจ้างเหมาบริการบำรุงรักษาและขับรถบัสนิทรรศการโรงแยกก๊าซ (Big Blue Bus) ปี 2570-2571 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
@@ -1581,6 +1640,25 @@
    "fit": "เกี่ยวข้องน้อย",
    "hits": [
     "จัดงาน"
+   ]
+  },
+  {
+   "pid": "69079352544",
+   "dept": "กรมท่าอากาศยาน",
+   "title": "ประกวดราคาจ้างจัดนิทรรศการและพิธีเปิดอาคารที่พักผู้โดยสารหลังใหม่ท่าอากาศยานกระบี่ ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "03/08/2569",
+   "date_end": "",
+   "budget": 1000000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69079352544&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
+   "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "นิทรรศการ"
+   ],
+   "score": 2,
+   "fit": "เกี่ยวข้องน้อย",
+   "hits": [
+    "นิทรรศการ"
    ]
   },
   {
