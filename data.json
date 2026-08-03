@@ -1,10 +1,10 @@
 {
- "fetched_at": "03/08/2569 09:47",
+ "fetched_at": "03/08/2569 13:01",
  "range": {
   "from": "13/07/2569",
   "to": "03/08/2569"
  },
- "total": 93,
+ "total": 94,
  "requests": 32,
  "items": [
   {
@@ -31,6 +31,31 @@
     "สื่อสังคมออนไลน์",
     "เนื้อหา",
     "รณรงค์"
+   ]
+  },
+  {
+   "pid": "69079069085",
+   "dept": "การทางพิเศษแห่งประเทศไทย",
+   "title": "ประกวดราคาจ้างผลิตและเผยแพร่เพื่อการโฆษณาประชาสัมพันธ์การดำเนินงานของ กทพ. ผ่านทางสื่อสังคมออนไลน์แอปพลิเคชัน TikTok ของ Influencer ประจำปีงบประมาณ 2569 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "03/08/2569",
+   "date_end": "",
+   "budget": 1500000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69079069085&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
+   "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "ประชาสัมพันธ์",
+    "เผยแพร่",
+    "โฆษณา"
+   ],
+   "score": 15,
+   "fit": "เหมาะมาก",
+   "hits": [
+    "ประชาสัมพันธ์",
+    "เผยแพร่",
+    "โฆษณา",
+    "สื่อสังคมออนไลน์",
+    "influencer"
    ]
   },
   {
