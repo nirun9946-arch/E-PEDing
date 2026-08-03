@@ -1,10 +1,10 @@
 {
- "fetched_at": "02/08/2569 18:02",
+ "fetched_at": "03/08/2569 09:47",
  "range": {
-  "from": "12/07/2569",
-  "to": "02/08/2569"
+  "from": "13/07/2569",
+  "to": "03/08/2569"
  },
- "total": 92,
+ "total": 93,
  "requests": 32,
  "items": [
   {
@@ -1328,6 +1328,25 @@
    "fit": "เกี่ยวข้องน้อย",
    "hits": [
     "จัดกิจกรรม"
+   ]
+  },
+  {
+   "pid": "69079541391",
+   "dept": "บริษัท ปตท. จำกัด (มหาชน)",
+   "title": "ประกวดราคาจ้างจัดจ้างเหมาบริการบำรุงรักษาและขับรถบัสนิทรรศการโรงแยกก๊าซ (Big Blue Bus) ปี 2570-2571 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "03/08/2569",
+   "date_end": "",
+   "budget": 1643520.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69079541391&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
+   "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "นิทรรศการ"
+   ],
+   "score": 2,
+   "fit": "เกี่ยวข้องน้อย",
+   "hits": [
+    "นิทรรศการ"
    ]
   },
   {
