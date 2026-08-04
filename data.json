@@ -1,10 +1,10 @@
 {
- "fetched_at": "04/08/2569 16:39",
+ "fetched_at": "04/08/2569 18:42",
  "range": {
   "from": "14/07/2569",
   "to": "04/08/2569"
  },
- "total": 105,
+ "total": 107,
  "requests": 32,
  "items": [
   {
@@ -963,6 +963,25 @@
    ]
   },
   {
+   "pid": "69079143692",
+   "dept": "สำนักงานปลัดกระทรวงวัฒนธรรม",
+   "title": "ประกวดราคาจ้างจัดแสดงนิทรรศการศิลปะ ณ หอศิลป์แห่งชาติ ประจำปีงบประมาณ พ.ศ. 2569 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "04/08/2569",
+   "date_end": "",
+   "budget": 98358000.0,
+   "status": "ยกเลิกประกาศเชิญชวน",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69079143692&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
+   "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "นิทรรศการ"
+   ],
+   "score": 2,
+   "fit": "เกี่ยวข้องน้อย",
+   "hits": [
+    "นิทรรศการ"
+   ]
+  },
+  {
    "pid": "69079173455",
    "dept": "สำนักงานปลัดกระทรวงวัฒนธรรม",
    "title": "ประกวดราคาจ้างจ้างจัดงานมหกรรมวัฒนธรรมแห่งชาติ วิถีถิ่น วิถีไทย ประจำปีงบประมาณ พ.ศ. 2569 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
@@ -1682,6 +1701,25 @@
    "fit": "เกี่ยวข้องน้อย",
    "hits": [
     "จัดงาน"
+   ]
+  },
+  {
+   "pid": "69089048989",
+   "dept": "สำนักงานคณะกรรมการนโยบายเขตพัฒนาพิเศษภาคตะวันออก",
+   "title": "ประกวดราคาจ้างจัดกิจกรรมสัมมนาเชิงปฏิบัติการและกิจกรรมสัมพันธ์ประจำปีงบประมาณ พ.ศ. 2569 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "04/08/2569",
+   "date_end": "",
+   "budget": 1300000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69089048989&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
+   "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "จัดกิจกรรม"
+   ],
+   "score": 2,
+   "fit": "เกี่ยวข้องน้อย",
+   "hits": [
+    "จัดกิจกรรม"
    ]
   },
   {
