@@ -1,10 +1,10 @@
 {
- "fetched_at": "05/08/2569 16:35",
+ "fetched_at": "05/08/2569 18:40",
  "range": {
   "from": "15/07/2569",
   "to": "05/08/2569"
  },
- "total": 101,
+ "total": 102,
  "requests": 32,
  "items": [
   {
@@ -850,6 +850,25 @@
    "status": "ระหว่างดำเนินการ",
    "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_2.jsp?tor_project_id=69069404289",
    "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
+   "matched_keywords": [
+    "ประชาสัมพันธ์"
+   ],
+   "score": 3,
+   "fit": "น่าสนใจ",
+   "hits": [
+    "ประชาสัมพันธ์"
+   ]
+  },
+  {
+   "pid": "69089085279",
+   "dept": "จังหวัดน่าน",
+   "title": "ประกวดราคาจ้างโครงการขับเคลื่อนเมืองน่านสู่การเป็นเครือข่ายเมืองสร้างสรรค์ กิจกรรมหลัก การสร้างเครือข่ายเมืองสร้างสรรค์ กิจกรรมย่อย ประชาสัมพันธ์การขับเคลื่อนเมืองสร้างสรรค์ ผ่านช่องทางต่างๆ ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "05/08/2569",
+   "date_end": "",
+   "budget": 1000000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69089085279&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
+   "announce_type": "ประกาศเชิญชวน",
    "matched_keywords": [
     "ประชาสัมพันธ์"
    ],
