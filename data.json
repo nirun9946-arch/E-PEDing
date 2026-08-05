@@ -1,10 +1,10 @@
 {
- "fetched_at": "05/08/2569 12:34",
+ "fetched_at": "05/08/2569 16:35",
  "range": {
   "from": "15/07/2569",
   "to": "05/08/2569"
  },
- "total": 97,
+ "total": 101,
  "requests": 32,
  "items": [
   {
@@ -586,6 +586,26 @@
    ]
   },
   {
+   "pid": "69089061996",
+   "dept": "สำนักงานการตรวจเงินแผ่นดิน",
+   "title": "ประกวดราคาจ้างจ้างทำสื่อประชาสัมพันธ์ จำนวน ๖ รายการ ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "05/08/2569",
+   "date_end": "",
+   "budget": 600000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69089061996&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
+   "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "ประชาสัมพันธ์"
+   ],
+   "score": 5,
+   "fit": "น่าสนใจ",
+   "hits": [
+    "ประชาสัมพันธ์",
+    "รายการ"
+   ]
+  },
+  {
    "pid": "69059082948",
    "dept": "มหาวิทยาลัยนครพนม",
    "title": "ประกวดราคาจ้างโครงการจ้างเหมาจัดงานจำหน่ายสินค้าและนิทรรศการระดับพื้นที่และระดับประเทศ ของโครงการพัฒนาเศรษฐกิจฐานรากและชุมชนเข้มแข็ง (นวัตกรรมยกระดับสินค้าเกษตรและการแปรรูปสินค้าเกษตรสู่การสร้างมูลค่าทางเศรษฐกิจฐานราก (โรงงานต้นแบบ) จำนวน 1 งาน ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
@@ -726,6 +746,25 @@
    ]
   },
   {
+   "pid": "69079527098",
+   "dept": "สำนักงานกองทุนหมู่บ้านและชุมชนเมืองแห่งชาติ",
+   "title": "ประกวดราคาจ้างโครงการสื่อสร้างสรรค์และการประชาสัมพันธ์ออนไลน์กองทุนหมู่บ้านและชุมชนเมืองแห่งชาติ ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "05/08/2569",
+   "date_end": "10/08/2569",
+   "budget": 4000000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_2.jsp?tor_project_id=69079527098",
+   "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
+   "matched_keywords": [
+    "ประชาสัมพันธ์"
+   ],
+   "score": 3,
+   "fit": "น่าสนใจ",
+   "hits": [
+    "ประชาสัมพันธ์"
+   ]
+  },
+  {
    "pid": "69079544052",
    "dept": "องค์การบริหารส่วนจังหวัดชลบุรี",
    "title": "ประกวดราคาจ้างโครงการจัดทำเอกสารประชาสัมพันธ์ในรูปแบบปฏิทิน ประจำปีพุทธศักราช ๒๕๗๐ ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
@@ -734,6 +773,25 @@
    "budget": 3700000.0,
    "status": "ระหว่างดำเนินการ",
    "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_2.jsp?tor_project_id=69079544052",
+   "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
+   "matched_keywords": [
+    "ประชาสัมพันธ์"
+   ],
+   "score": 3,
+   "fit": "น่าสนใจ",
+   "hits": [
+    "ประชาสัมพันธ์"
+   ]
+  },
+  {
+   "pid": "69079563283",
+   "dept": "สำนักงานกองทุนหมู่บ้านและชุมชนเมืองแห่งชาติ",
+   "title": "ประกวดราคาจ้างโครงการประชาสัมพันธ์ศักยภาพผลิตภัณฑ์กองทุนหมู่บ้านและชุมชนเมืองระดับตำบลที่โดดเด่นในกิจกรรมระดับประเทศ ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "05/08/2569",
+   "date_end": "10/08/2569",
+   "budget": 3000000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_2.jsp?tor_project_id=69079563283",
    "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
    "matched_keywords": [
     "ประชาสัมพันธ์"
@@ -773,6 +831,25 @@
    "status": "ระหว่างดำเนินการ",
    "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69059502093&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
    "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "ประชาสัมพันธ์"
+   ],
+   "score": 3,
+   "fit": "น่าสนใจ",
+   "hits": [
+    "ประชาสัมพันธ์"
+   ]
+  },
+  {
+   "pid": "69069404289",
+   "dept": "องค์การบริหารส่วนจังหวัดเพชรบูรณ์",
+   "title": "ประกวดราคาจ้างโครงการจัดทำคู่มือประชาสัมพันธ์การท่องเที่ยวจังหวัดเพชรบูรณ์ ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "05/08/2569",
+   "date_end": "10/08/2569",
+   "budget": 1500000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_2.jsp?tor_project_id=69069404289",
+   "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
    "matched_keywords": [
     "ประชาสัมพันธ์"
    ],
