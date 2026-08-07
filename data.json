@@ -1,10 +1,10 @@
 {
- "fetched_at": "07/08/2569 15:13",
+ "fetched_at": "07/08/2569 17:29",
  "range": {
   "from": "17/07/2569",
   "to": "07/08/2569"
  },
- "total": 96,
+ "total": 99,
  "requests": 32,
  "items": [
   {
@@ -815,6 +815,25 @@
    ]
   },
   {
+   "pid": "69079544052",
+   "dept": "องค์การบริหารส่วนจังหวัดชลบุรี",
+   "title": "ประกวดราคาจ้างโครงการจัดทำเอกสารประชาสัมพันธ์ในรูปแบบปฏิทิน ประจำปีพุทธศักราช ๒๕๗๐ ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "07/08/2569",
+   "date_end": "",
+   "budget": 3700000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69079544052&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
+   "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "ประชาสัมพันธ์"
+   ],
+   "score": 3,
+   "fit": "น่าสนใจ",
+   "hits": [
+    "ประชาสัมพันธ์"
+   ]
+  },
+  {
    "pid": "69079563283",
    "dept": "สำนักงานกองทุนหมู่บ้านและชุมชนเมืองแห่งชาติ",
    "title": "ประกวดราคาจ้างโครงการประชาสัมพันธ์ศักยภาพผลิตภัณฑ์กองทุนหมู่บ้านและชุมชนเมืองระดับตำบลที่โดดเด่นในกิจกรรมระดับประเทศ ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
@@ -823,6 +842,25 @@
    "budget": 3000000.0,
    "status": "ระหว่างดำเนินการ",
    "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_2.jsp?tor_project_id=69079563283",
+   "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
+   "matched_keywords": [
+    "ประชาสัมพันธ์"
+   ],
+   "score": 3,
+   "fit": "น่าสนใจ",
+   "hits": [
+    "ประชาสัมพันธ์"
+   ]
+  },
+  {
+   "pid": "69089123711",
+   "dept": "องค์การบริหารส่วนจังหวัดพิษณุโลก",
+   "title": "ประกวดราคาจ้างโครงการส่งเสริมและประชาสัมพันธ์การท่องเที่ยวจังหวัดพิษณุโลก กิจกรรมการจัดแสดงอากาศยานไร้คนขับ น่านนทีราชศรัทธา Nan River of Glory (566 004) ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "07/08/2569",
+   "date_end": "13/08/2569",
+   "budget": 2745620.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_2.jsp?tor_project_id=69089123711",
    "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
    "matched_keywords": [
     "ประชาสัมพันธ์"
@@ -1382,6 +1420,25 @@
    "fit": "เกี่ยวข้องน้อย",
    "hits": [
     "จัดงาน"
+   ]
+  },
+  {
+   "pid": "69089037464",
+   "dept": "สำนักควบคุม ป้องกันและบำบัดโรคสัตว์ กรมปศุสัตว์",
+   "title": "ประกวดราคาจ้างดำเนินการจัดกิจกรรมในวันป้องกันโรคพิษสุนัขบ้าโลก ปี พ.ศ. 2569 (World Rabies Day 2026) จำนวน 1 งาน ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "07/08/2569",
+   "date_end": "",
+   "budget": 1999500.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69089037464&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
+   "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "จัดกิจกรรม"
+   ],
+   "score": 2,
+   "fit": "เกี่ยวข้องน้อย",
+   "hits": [
+    "จัดกิจกรรม"
    ]
   },
   {
