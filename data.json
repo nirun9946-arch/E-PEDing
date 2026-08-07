@@ -1,10 +1,10 @@
 {
- "fetched_at": "07/08/2569 11:40",
+ "fetched_at": "07/08/2569 15:13",
  "range": {
   "from": "17/07/2569",
   "to": "07/08/2569"
  },
- "total": 93,
+ "total": 96,
  "requests": 32,
  "items": [
   {
@@ -620,6 +620,25 @@
    ]
   },
   {
+   "pid": "69089146276",
+   "dept": "กรมการศาสนา",
+   "title": "ประกวดราคาจ้างจัดจ้างผลิตสื่อเสริมสร้างคุณธรรมจริยธรรม ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "07/08/2569",
+   "date_end": "13/08/2569",
+   "budget": 1084300.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_2.jsp?tor_project_id=69089146276",
+   "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
+   "matched_keywords": [
+    "ผลิตสื่อ"
+   ],
+   "score": 4,
+   "fit": "น่าสนใจ",
+   "hits": [
+    "ผลิตสื่อ"
+   ]
+  },
+  {
    "pid": "69069131775",
    "dept": "คณะแพทยศาสตร์ จุฬาลงกรณ์มหาวิทยาลัย",
    "title": "ประกวดราคาจ้างทำ Online Learning Platform ด้านการจัดซื้อจัดจ้างผลิตสื่อการเรียนการสอน จำนวน 1 งาน ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
@@ -853,6 +872,25 @@
    ]
   },
   {
+   "pid": "69079251962",
+   "dept": "มหาวิทยาลัยธรรมศาสตร์ ศูนย์รังสิต",
+   "title": "ประกวดราคาจ้างเหมาดำเนินการด้านประชาสัมพันธ์ มหาวิทยาลัยธรรมศาสตร์ ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "07/08/2569",
+   "date_end": "13/08/2569",
+   "budget": 1400000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_2.jsp?tor_project_id=69079251962",
+   "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
+   "matched_keywords": [
+    "ประชาสัมพันธ์"
+   ],
+   "score": 3,
+   "fit": "น่าสนใจ",
+   "hits": [
+    "ประชาสัมพันธ์"
+   ]
+  },
+  {
    "pid": "69089085279",
    "dept": "จังหวัดน่าน",
    "title": "ประกวดราคาจ้างโครงการขับเคลื่อนเมืองน่านสู่การเป็นเครือข่ายเมืองสร้างสรรค์ กิจกรรมหลัก การสร้างเครือข่ายเมืองสร้างสรรค์ กิจกรรมย่อย ประชาสัมพันธ์การขับเคลื่อนเมืองสร้างสรรค์ ผ่านช่องทางต่างๆ ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
@@ -1049,7 +1087,7 @@
    "date": "04/08/2569",
    "date_end": "",
    "budget": 7600000.0,
-   "status": "ระหว่างดำเนินการ",
+   "status": "ยกเลิกประกาศเชิญชวน",
    "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69079436993&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
    "announce_type": "ประกาศเชิญชวน",
    "matched_keywords": [
@@ -1108,6 +1146,25 @@
    "budget": 4960000.0,
    "status": "ระหว่างดำเนินการ",
    "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69069382966&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
+   "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "จัดงาน"
+   ],
+   "score": 2,
+   "fit": "เกี่ยวข้องน้อย",
+   "hits": [
+    "จัดงาน"
+   ]
+  },
+  {
+   "pid": "69069482241",
+   "dept": "เทศบาลนครสุราษฎร์ธานี",
+   "title": "ประกวดราคาจ้างโครงการจ้างเหมาจัดงานประเพณีชักพระ ทอดผ้าป่า และแข่งเรือยาว ประจำปี 2569 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "07/08/2569",
+   "date_end": "",
+   "budget": 4865000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69069482241&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
    "announce_type": "ประกาศเชิญชวน",
    "matched_keywords": [
     "จัดงาน"
