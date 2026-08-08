@@ -1,10 +1,10 @@
 {
- "fetched_at": "07/08/2569 17:29",
+ "fetched_at": "08/08/2569 10:54",
  "range": {
-  "from": "17/07/2569",
-  "to": "07/08/2569"
+  "from": "18/07/2569",
+  "to": "08/08/2569"
  },
- "total": 99,
+ "total": 95,
  "requests": 32,
  "items": [
   {
@@ -133,28 +133,6 @@
    ]
   },
   {
-   "pid": "69069311225",
-   "dept": "การรถไฟแห่งประเทศไทย",
-   "title": "ประกวดราคาจ้างจ้างผลิตสื่อประชาสัมพันธ์เพื่อสื่อสารภาพลักษณ์เชิงรุกของการรถไฟฯ ในยุคดิจิทัล ประจำปี 2569 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
-   "date": "04/08/2569",
-   "date_end": "07/08/2569",
-   "budget": 10000000.0,
-   "status": "ระหว่างดำเนินการ",
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_2.jsp?tor_project_id=69069311225",
-   "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
-   "matched_keywords": [
-    "ประชาสัมพันธ์",
-    "ผลิตสื่อ"
-   ],
-   "score": 10,
-   "fit": "เหมาะมาก",
-   "hits": [
-    "ประชาสัมพันธ์",
-    "ผลิตสื่อ",
-    "ภาพลักษณ์"
-   ]
-  },
-  {
    "pid": "69079071096",
    "dept": "สำนักงานคณะกรรมการการเลือกตั้ง",
    "title": "ประกวดราคาจ้างผลิตสื่อและประชาสัมพันธ์ผ่านสื่อสังคมออนไลน์ผ่านแพลตฟอร์มต่าง ๆ ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
@@ -196,27 +174,6 @@
     "ประชาสัมพันธ์",
     "โฆษณา",
     "ภาพลักษณ์"
-   ]
-  },
-  {
-   "pid": "69069496683",
-   "dept": "การรถไฟแห่งประเทศไทย",
-   "title": "ประกวดราคาจ้างบริหารจัดการประชาสัมพันธ์เพื่อสร้างภาพลักษณ์และการสื่อสารองค์กรรวมถึง การจัดการวิกฤตด้านภาพลักษณ์ของการรถไฟฯ ประจำปี 2569 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
-   "date": "04/08/2569",
-   "date_end": "07/08/2569",
-   "budget": 8000000.0,
-   "status": "ระหว่างดำเนินการ",
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_2.jsp?tor_project_id=69069496683",
-   "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
-   "matched_keywords": [
-    "ประชาสัมพันธ์"
-   ],
-   "score": 9,
-   "fit": "เหมาะมาก",
-   "hits": [
-    "ประชาสัมพันธ์",
-    "ภาพลักษณ์",
-    "สื่อสารองค์กร"
    ]
   },
   {
@@ -701,25 +658,6 @@
    ]
   },
   {
-   "pid": "69069440806",
-   "dept": "การรถไฟแห่งประเทศไทย",
-   "title": "ประกวดราคาจ้างบริหารการประชาสัมพันธ์โครงการ Train เที่ยวไทย สบายกว่าที่คิด ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
-   "date": "04/08/2569",
-   "date_end": "07/08/2569",
-   "budget": 11000000.0,
-   "status": "ระหว่างดำเนินการ",
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_2.jsp?tor_project_id=69069440806",
-   "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
-   "matched_keywords": [
-    "ประชาสัมพันธ์"
-   ],
-   "score": 3,
-   "fit": "น่าสนใจ",
-   "hits": [
-    "ประชาสัมพันธ์"
-   ]
-  },
-  {
    "pid": "69089134735",
    "dept": "จังหวัดชลบุรี",
    "title": "ประกวดราคาจ้างโครงการส่งเสริมและประชาสัมพันธ์การท่องเที่ยวและบริการ กิจกรรมหลัก สีสันอีอีซี (Colors of EEC) เพื่อส่งเสริมและประชาสัมพันธ์การท่องเที่ยว กลุ่มจังหวัดภาคตะวันออก 1 EEC in Green Season ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
@@ -1116,6 +1054,25 @@
    "fit": "เกี่ยวข้องน้อย",
    "hits": [
     "จัดกิจกรรม"
+   ]
+  },
+  {
+   "pid": "69089155880",
+   "dept": "องค์การบริหารส่วนจังหวัดพิจิตร",
+   "title": "ประกวดราคาจ้างเหมาจัดพิธีเปิด-ปิด และจัดสถานที่โครงการส่งเสริมการจัดงานประเพณีเพื่อกระตุ้นการท่องเที่ยวจังหวัดพิจิตร กิจกรรมประเพณีแข่งขันเรือยาวจังหวัดพิจิตร ชิงถ้วยพระราชทานพระบาทสมเด็จพระเจ้าอยู่หัว ประจำปี 2569 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "07/08/2569",
+   "date_end": "",
+   "budget": 7600000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69089155880&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
+   "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "จัดงาน"
+   ],
+   "score": 2,
+   "fit": "เกี่ยวข้องน้อย",
+   "hits": [
+    "จัดงาน"
    ]
   },
   {
@@ -1537,25 +1494,6 @@
    ]
   },
   {
-   "pid": "69079321194",
-   "dept": "สำนักงานปลัดกระทรวงการอุดมศึกษา วิทยาศาสตร์ วิจัยและนวัตกรรม กองทุนพัฒนาผู้ประกอบการเทคโนโลยีและนวัตกรรม",
-   "title": "ประกวดราคาจ้างเหมาจัดกิจกรรมพัฒนาความร่วมมือทางธุรกิจและการลงทุน (TED Unicorn Lab) ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
-   "date": "17/07/2569",
-   "date_end": "",
-   "budget": 1450000.0,
-   "status": "ระหว่างดำเนินการ",
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69079321194&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
-   "announce_type": "ประกาศเชิญชวน",
-   "matched_keywords": [
-    "จัดกิจกรรม"
-   ],
-   "score": 2,
-   "fit": "เกี่ยวข้องน้อย",
-   "hits": [
-    "จัดกิจกรรม"
-   ]
-  },
-  {
    "pid": "69079560762",
    "dept": "จังหวัดอ่างทอง",
    "title": "ประกวดราคาจ้างเหมาจัดงานแสดงและจำหน่ายสินค้าและเชื่อมโยงจับคู่เจรจาธุรกิจการค้า (Business Matching) ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
@@ -1564,25 +1502,6 @@
    "budget": 1448190.0,
    "status": "ระหว่างดำเนินการ",
    "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69079560762&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
-   "announce_type": "ประกาศเชิญชวน",
-   "matched_keywords": [
-    "จัดงาน"
-   ],
-   "score": 2,
-   "fit": "เกี่ยวข้องน้อย",
-   "hits": [
-    "จัดงาน"
-   ]
-  },
-  {
-   "pid": "69079317252",
-   "dept": "สำนักงานปลัดกระทรวงสาธารณสุข",
-   "title": "ประกวดราคาจ้างจ้างเหมาการจัดงานประชุมวิชาการ และแสดงผลงานการยกระดับระบบบริการสุขภาพดิจิทัล (Digitai Health Forum) กระทรวงสาธารณสุข ประจำปีงบประมาณ พ.ศ. 2569 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
-   "date": "17/07/2569",
-   "date_end": "",
-   "budget": 1350000.0,
-   "status": "ระหว่างดำเนินการ",
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69079317252&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
    "announce_type": "ประกาศเชิญชวน",
    "matched_keywords": [
     "จัดงาน"
@@ -1771,7 +1690,7 @@
    "date": "31/07/2569",
    "date_end": "",
    "budget": 837100.0,
-   "status": "ระหว่างดำเนินการ",
+   "status": "ยกเลิกประกาศเชิญชวน",
    "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69079596718&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
    "announce_type": "ประกาศเชิญชวน",
    "matched_keywords": [
