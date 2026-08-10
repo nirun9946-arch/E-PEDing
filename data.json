@@ -1,10 +1,10 @@
 {
- "fetched_at": "10/08/2569 11:17",
+ "fetched_at": "10/08/2569 15:26",
  "range": {
   "from": "20/07/2569",
   "to": "10/08/2569"
  },
- "total": 96,
+ "total": 97,
  "requests": 32,
  "items": [
   {
@@ -658,6 +658,25 @@
    ]
   },
   {
+   "pid": "69089135799",
+   "dept": "กรมส่งเสริมการเรียนรู้",
+   "title": "ประกวดราคาจ้างโครงการการประชาสัมพันธ์การประกวดออกแบบ ห้องสมุดแห่งการอ่าน พลิกโฉมศูนย์การเรียนรู้ตลอดชีวิตประจำจังหวัด (เฟสที่ ๑) ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "10/08/2569",
+   "date_end": "14/08/2569",
+   "budget": 10000000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_2.jsp?tor_project_id=69089135799",
+   "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
+   "matched_keywords": [
+    "ประชาสัมพันธ์"
+   ],
+   "score": 3,
+   "fit": "น่าสนใจ",
+   "hits": [
+    "ประชาสัมพันธ์"
+   ]
+  },
+  {
    "pid": "69089134735",
    "dept": "จังหวัดชลบุรี",
    "title": "ประกวดราคาจ้างโครงการส่งเสริมและประชาสัมพันธ์การท่องเที่ยวและบริการ กิจกรรมหลัก สีสันอีอีซี (Colors of EEC) เพื่อส่งเสริมและประชาสัมพันธ์การท่องเที่ยว กลุ่มจังหวัดภาคตะวันออก 1 EEC in Green Season ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
@@ -1291,7 +1310,7 @@
    "date": "23/07/2569",
    "date_end": "",
    "budget": 2500000.0,
-   "status": "ระหว่างดำเนินการ",
+   "status": "ยกเลิกประกาศเชิญชวน",
    "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69079119826&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
    "announce_type": "ประกาศเชิญชวน",
    "matched_keywords": [
