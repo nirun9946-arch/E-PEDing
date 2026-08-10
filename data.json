@@ -1,10 +1,10 @@
 {
- "fetched_at": "10/08/2569 15:26",
+ "fetched_at": "10/08/2569 17:46",
  "range": {
   "from": "20/07/2569",
   "to": "10/08/2569"
  },
- "total": 97,
+ "total": 101,
  "requests": 32,
  "items": [
   {
@@ -373,6 +373,26 @@
    ]
   },
   {
+   "pid": "69069165277",
+   "dept": "สถาบันวิจัยและพัฒนาอัญมณีและเครื่องประดับแห่งชาติ (องค์การมหาชน)",
+   "title": "ประกวดราคาจ้างประชาสัมพันธ์ภาพลักษณ์งานแสดงสินค้าเทศกาลนานาชาติพลอยและเครื่องประดับจันทบุรี 2026 International Chanthaburi Gems and Jewelry Festival 2026 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "10/08/2569",
+   "date_end": "",
+   "budget": 4000000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69069165277&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
+   "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "ประชาสัมพันธ์"
+   ],
+   "score": 6,
+   "fit": "เหมาะมาก",
+   "hits": [
+    "ประชาสัมพันธ์",
+    "ภาพลักษณ์"
+   ]
+  },
+  {
    "pid": "69069325091",
    "dept": "สำนักงานปลัดกระทรวงยุติธรรม",
    "title": "ประกวดราคาจ้างโครงการประชาสัมพันธ์และสร้างการรับรู้ภารกิจกองทุนยุติธรรม ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
@@ -491,6 +511,26 @@
    "hits": [
     "จัดงาน",
     "สร้างการรับรู้"
+   ]
+  },
+  {
+   "pid": "69079220689",
+   "dept": "องค์การบริหารส่วนจังหวัดกระบี่",
+   "title": "ประกวดราคาจ้างโครงการจ้างทำวารสารเพื่อการประชาสัมพันธ์องค์การบริหารส่วนจังหวัดกระบี่รายเดือน เหลืองกระบี่ ประจำปีงบประมาณ พ.ศ. 2570 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "10/08/2569",
+   "date_end": "14/08/2569",
+   "budget": 1050000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_2.jsp?tor_project_id=69079220689",
+   "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
+   "matched_keywords": [
+    "ประชาสัมพันธ์"
+   ],
+   "score": 5,
+   "fit": "น่าสนใจ",
+   "hits": [
+    "ประชาสัมพันธ์",
+    "วารสาร"
    ]
   },
   {
@@ -655,6 +695,25 @@
     "โฆษณา",
     "สื่อออนไลน์",
     "รณรงค์"
+   ]
+  },
+  {
+   "pid": "69079225922",
+   "dept": "สำนักงานคณะกรรมการกิจการกระจายเสียง กิจการโทรทัศน์ และกิจการโทรคมนาคมแห่งชาติ",
+   "title": "ประกวดราคาจ้างออกแบบและจัดทำสื่อประชาสัมพันธ์ (ชุดปีใหม่ 2570) ของสำนักงาน กสทช. ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "10/08/2569",
+   "date_end": "",
+   "budget": 10325000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69079225922&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
+   "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "ประชาสัมพันธ์"
+   ],
+   "score": 3,
+   "fit": "น่าสนใจ",
+   "hits": [
+    "ประชาสัมพันธ์"
    ]
   },
   {
@@ -1464,6 +1523,25 @@
    "budget": 1536000.0,
    "status": "ระหว่างดำเนินการ",
    "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69079369722&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
+   "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "จัดกิจกรรม"
+   ],
+   "score": 2,
+   "fit": "เกี่ยวข้องน้อย",
+   "hits": [
+    "จัดกิจกรรม"
+   ]
+  },
+  {
+   "pid": "69089103820",
+   "dept": "สำนักงานปลัดกระทรวงการอุดมศึกษา วิทยาศาสตร์ วิจัยและนวัตกรรม",
+   "title": "ประกวดราคาจ้างเหมาจัดกิจกรรมเชื่อมโยงโอกาสให้ผู้รับทุนกับพันธมิตรใน Ecosystem (TED Club Networking 2026) ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "10/08/2569",
+   "date_end": "",
+   "budget": 1500000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69089103820&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
    "announce_type": "ประกาศเชิญชวน",
    "matched_keywords": [
     "จัดกิจกรรม"
