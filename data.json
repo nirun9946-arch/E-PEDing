@@ -1,10 +1,10 @@
 {
- "fetched_at": "11/08/2569 15:11",
+ "fetched_at": "11/08/2569 17:27",
  "range": {
   "from": "21/07/2569",
   "to": "11/08/2569"
  },
- "total": 90,
+ "total": 97,
  "requests": 32,
  "items": [
   {
@@ -504,6 +504,26 @@
    ]
   },
   {
+   "pid": "69089203049",
+   "dept": "บริษัท รถไฟฟ้า ร.ฟ.ท. จำกัด",
+   "title": "ประกวดราคาจ้างจ้างจัดกิจกรรมขอบคุณสื่อมวลชน ประจำปี ๒๕๖๙ ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "11/08/2569",
+   "date_end": "",
+   "budget": 1000000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69089203049&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
+   "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "จัดกิจกรรม"
+   ],
+   "score": 5,
+   "fit": "น่าสนใจ",
+   "hits": [
+    "จัดกิจกรรม",
+    "สื่อมวลชน"
+   ]
+  },
+  {
    "pid": "69089061996",
    "dept": "สำนักงานการตรวจเงินแผ่นดิน",
    "title": "ประกวดราคาจ้างจ้างทำสื่อประชาสัมพันธ์ จำนวน ๖ รายการ ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
@@ -797,6 +817,25 @@
    ]
   },
   {
+   "pid": "69089209667",
+   "dept": "จังหวัดอำนาจเจริญ",
+   "title": "ประกวดราคาจ้างโครงการส่งเสริมการประชาสัมพันธ์และการตลาดด้านการท่องเที่ยวและกีฬา กลุ่มจังหวัดภาคตะวันออกเฉียงเหนือ ตอนล่าง ๒ (โขง ชี มูล) กิจกรรม การแข่งขันปั่นจักรยานพิชิตภูสิงห์ - ภูผาผึ้ง อำนาจเจริญ ๒๐๒๖ ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "11/08/2569",
+   "date_end": "",
+   "budget": 2000000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69089209667&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
+   "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "ประชาสัมพันธ์"
+   ],
+   "score": 3,
+   "fit": "น่าสนใจ",
+   "hits": [
+    "ประชาสัมพันธ์"
+   ]
+  },
+  {
    "pid": "69079251962",
    "dept": "มหาวิทยาลัยธรรมศาสตร์ ศูนย์รังสิต",
    "title": "ประกวดราคาจ้างเหมาดำเนินการด้านประชาสัมพันธ์ มหาวิทยาลัยธรรมศาสตร์ ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
@@ -870,6 +909,25 @@
    "fit": "น่าสนใจ",
    "hits": [
     "วีดิทัศน์"
+   ]
+  },
+  {
+   "pid": "69089071114",
+   "dept": "สำนักงานปลัดกระทรวงวัฒนธรรม",
+   "title": "ประกวดราคาจ้างจ้างจัดแสดงนิทรรศการศิลปะ ณ หอศิลป์แห่งชาติ ประจำปีงบประมาณ พ.ศ. 2569 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "11/08/2569",
+   "date_end": "",
+   "budget": 98358000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69089071114&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
+   "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "นิทรรศการ"
+   ],
+   "score": 2,
+   "fit": "เกี่ยวข้องน้อย",
+   "hits": [
+    "นิทรรศการ"
    ]
   },
   {
@@ -1015,6 +1073,25 @@
    "status": "ยกเลิกประกาศเชิญชวน",
    "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69079436993&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
    "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "จัดงาน"
+   ],
+   "score": 2,
+   "fit": "เกี่ยวข้องน้อย",
+   "hits": [
+    "จัดงาน"
+   ]
+  },
+  {
+   "pid": "69089123985",
+   "dept": "กองทุนพัฒนาสื่อปลอดภัยและสร้างสรรค์",
+   "title": "ประกวดราคาจ้างจัดงานมหกรรมสื่อปลอดภัยและสร้างสรรค์ และเวทีรางวัลสื่อปลอดภัยและสร้างสรรค์ ปี 2569 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "11/08/2569",
+   "date_end": "17/08/2569",
+   "budget": 6000000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_2.jsp?tor_project_id=69089123985",
+   "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
    "matched_keywords": [
     "จัดงาน"
    ],
@@ -1193,6 +1270,44 @@
    "fit": "เกี่ยวข้องน้อย",
    "hits": [
     "นิทรรศการ"
+   ]
+  },
+  {
+   "pid": "69079450069",
+   "dept": "คณะบริหารธุรกิจ มหาวิทยาลัยเกษตรศาสตร์",
+   "title": "ประกวดราคาจ้างจ้างเหมาบริษัททัวร์ในการจัดกิจกรรมโครงการเสริมสร้างการเรียนรู้ศึกษาดูงาน ณ จังหวัดฮอกไกโด ประเทศญี่ปุ่น ของนิสิตโครงการหลักสูตรบริหารธุรกิจบัณฑิต (หลักสูตรนานาชาติ) คณะบริหารธุรกิจ มหาวิทยาลัยเกษตรศาสตร์ ระหว่างวันที่ ๖ ถึง ๑๑ กันยายน ๒๕๖๙ ณ ประเทศญี่ปุ่น จำนวน ๑ งาน ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "11/08/2569",
+   "date_end": "17/08/2569",
+   "budget": 2805600.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_2.jsp?tor_project_id=69079450069",
+   "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
+   "matched_keywords": [
+    "จัดกิจกรรม"
+   ],
+   "score": 2,
+   "fit": "เกี่ยวข้องน้อย",
+   "hits": [
+    "จัดกิจกรรม"
+   ]
+  },
+  {
+   "pid": "69089156707",
+   "dept": "องค์การบริหารส่วนจังหวัดลำพูน",
+   "title": "ประกวดราคาจ้างจัดกิจกรรมงานเทศกาลโคมแสนดวงที่เมืองลำพูน ประจำปี ๒๕๖๙ ตามโครงการสืบสานวัฒนธรรมประเพณีโคมยี่เป็งในจังหวัดลำพูน ระหว่างวันที่ ๒๕ กันยายน - ๑๕ ธันวาคม ๒๕๖๙ ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "11/08/2569",
+   "date_end": "17/08/2569",
+   "budget": 2500000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_2.jsp?tor_project_id=69089156707",
+   "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
+   "matched_keywords": [
+    "จัดกิจกรรม"
+   ],
+   "score": 2,
+   "fit": "เกี่ยวข้องน้อย",
+   "hits": [
+    "จัดกิจกรรม"
    ]
   },
   {
@@ -1763,6 +1878,25 @@
    "fit": "เกี่ยวข้องน้อย",
    "hits": [
     "จัดงาน"
+   ]
+  },
+  {
+   "pid": "69079354152",
+   "dept": "กรมส่งเสริมอุตสาหกรรม",
+   "title": "ประกวดราคาจ้างกิจกรรมการเผยแพร่การใช้เทคโนโลยีเกษตรอุตสาหกรรมอัจฉริยะ ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "11/08/2569",
+   "date_end": "",
+   "budget": 550000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69079354152&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
+   "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "เผยแพร่"
+   ],
+   "score": 2,
+   "fit": "เกี่ยวข้องน้อย",
+   "hits": [
+    "เผยแพร่"
    ]
   },
   {
