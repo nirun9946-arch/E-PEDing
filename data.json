@@ -1,10 +1,10 @@
 {
- "fetched_at": "14/08/2569 15:12",
+ "fetched_at": "14/08/2569 17:36",
  "range": {
   "from": "24/07/2569",
   "to": "14/08/2569"
  },
- "total": 87,
+ "total": 89,
  "requests": 32,
  "items": [
   {
@@ -485,6 +485,25 @@
    ]
   },
   {
+   "pid": "69089146276",
+   "dept": "กรมการศาสนา",
+   "title": "ประกวดราคาจ้างจัดจ้างผลิตสื่อเสริมสร้างคุณธรรมจริยธรรม ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "14/08/2569",
+   "date_end": "",
+   "budget": 1084300.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69089146276&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
+   "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "ผลิตสื่อ"
+   ],
+   "score": 4,
+   "fit": "น่าสนใจ",
+   "hits": [
+    "ผลิตสื่อ"
+   ]
+  },
+  {
    "pid": "69059125666",
    "dept": "สำนักงานประกันสังคม",
    "title": "ประกวดราคาจ้างโครงการยกระดับการประชาสัมพันธ์สำนักงานประกันสังคมสู่ความสำเร็จ ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
@@ -688,6 +707,25 @@
    "budget": 3700000.0,
    "status": "ระหว่างดำเนินการ",
    "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69079544052&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
+   "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "ประชาสัมพันธ์"
+   ],
+   "score": 3,
+   "fit": "น่าสนใจ",
+   "hits": [
+    "ประชาสัมพันธ์"
+   ]
+  },
+  {
+   "pid": "69089123711",
+   "dept": "องค์การบริหารส่วนจังหวัดพิษณุโลก",
+   "title": "ประกวดราคาจ้างโครงการส่งเสริมและประชาสัมพันธ์การท่องเที่ยวจังหวัดพิษณุโลก กิจกรรมการจัดแสดงอากาศยานไร้คนขับ น่านนทีราชศรัทธา Nan River of Glory (566 004) ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "14/08/2569",
+   "date_end": "",
+   "budget": 2745620.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69089123711&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
    "announce_type": "ประกาศเชิญชวน",
    "matched_keywords": [
     "ประชาสัมพันธ์"
