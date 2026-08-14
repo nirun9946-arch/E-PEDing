@@ -1,10 +1,10 @@
 {
- "fetched_at": "14/08/2569 11:27",
+ "fetched_at": "14/08/2569 15:12",
  "range": {
   "from": "24/07/2569",
   "to": "14/08/2569"
  },
- "total": 85,
+ "total": 87,
  "requests": 32,
  "items": [
   {
@@ -464,6 +464,27 @@
    ]
   },
   {
+   "pid": "69089123389",
+   "dept": "สำนักงานศิลปวัฒนธรรมร่วมสมัย",
+   "title": "ประกวดราคาจ้างจัดนิทรรศการแสดงผลงานของโครงการอุดหนุนและส่งเสริมวรรณกรรมร่วมสมัยเพื่อเผยแพร่สู่เวทีนานาชาติ ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "14/08/2569",
+   "date_end": "",
+   "budget": 2136060.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69089123389&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
+   "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "เผยแพร่",
+    "นิทรรศการ"
+   ],
+   "score": 4,
+   "fit": "น่าสนใจ",
+   "hits": [
+    "เผยแพร่",
+    "นิทรรศการ"
+   ]
+  },
+  {
    "pid": "69059125666",
    "dept": "สำนักงานประกันสังคม",
    "title": "ประกวดราคาจ้างโครงการยกระดับการประชาสัมพันธ์สำนักงานประกันสังคมสู่ความสำเร็จ ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
@@ -706,6 +727,25 @@
    "status": "ระหว่างดำเนินการ",
    "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69089209667&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
    "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "ประชาสัมพันธ์"
+   ],
+   "score": 3,
+   "fit": "น่าสนใจ",
+   "hits": [
+    "ประชาสัมพันธ์"
+   ]
+  },
+  {
+   "pid": "69089263340",
+   "dept": "จังหวัดศรีสะเกษ",
+   "title": "ประกวดราคาจ้างโครงการส่งเสริมการประชาสัมพันธ์และกิจกรรมการท่องเที่ยว กิจกรรม พัฒนาแหล่งท่องเที่ยว เพื่อเชื่อมโยงกิจกรรมการท่องเที่ยว อำเภอขุขันธ์ ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "14/08/2569",
+   "date_end": "19/08/2569",
+   "budget": 1975000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_2.jsp?tor_project_id=69089263340",
+   "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
    "matched_keywords": [
     "ประชาสัมพันธ์"
    ],
