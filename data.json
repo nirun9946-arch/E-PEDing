@@ -1,10 +1,10 @@
 {
- "fetched_at": "17/08/2569 14:49",
+ "fetched_at": "17/08/2569 17:08",
  "range": {
   "from": "27/07/2569",
   "to": "17/08/2569"
  },
- "total": 82,
+ "total": 87,
  "requests": 32,
  "items": [
   {
@@ -362,6 +362,26 @@
    ]
   },
   {
+   "pid": "69079220689",
+   "dept": "องค์การบริหารส่วนจังหวัดกระบี่",
+   "title": "ประกวดราคาจ้างโครงการจ้างทำวารสารเพื่อการประชาสัมพันธ์องค์การบริหารส่วนจังหวัดกระบี่รายเดือน เหลืองกระบี่ ประจำปีงบประมาณ พ.ศ. 2570 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "17/08/2569",
+   "date_end": "",
+   "budget": 1050000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69079220689&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
+   "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "ประชาสัมพันธ์"
+   ],
+   "score": 5,
+   "fit": "น่าสนใจ",
+   "hits": [
+    "ประชาสัมพันธ์",
+    "วารสาร"
+   ]
+  },
+  {
    "pid": "69089110314",
    "dept": "บริษัท ธนารักษ์พัฒนาสินทรัพย์ จำกัด",
    "title": "ประกวดราคาจ้างจัดกิจกรรมประกวดสื่อประชาสัมพันธ์ ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
@@ -463,6 +483,26 @@
    ]
   },
   {
+   "pid": "69089166502",
+   "dept": "กรมส่งเสริมการค้าระหว่างประเทศ",
+   "title": "ประกวดราคาจ้างโครงการประชาสัมพันธ์และส่งเสริมภาพลักษณ์อาหารไทย และร้านอาหาร Thai SELECT ในภูมิภาคอเมริกาฝั่งตะวันตก ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "17/08/2569",
+   "date_end": "20/08/2569",
+   "budget": 32000000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_2.jsp?tor_project_id=69089166502",
+   "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
+   "matched_keywords": [
+    "ประชาสัมพันธ์"
+   ],
+   "score": 3,
+   "fit": "น่าสนใจ",
+   "hits": [
+    "ประชาสัมพันธ์",
+    "ภาพลักษณ์"
+   ]
+  },
+  {
    "pid": "69059125666",
    "dept": "สำนักงานประกันสังคม",
    "title": "ประกวดราคาจ้างโครงการยกระดับการประชาสัมพันธ์สำนักงานประกันสังคมสู่ความสำเร็จ ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
@@ -533,6 +573,25 @@
    "budget": 10325000.0,
    "status": "ระหว่างดำเนินการ",
    "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69079225922&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
+   "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "ประชาสัมพันธ์"
+   ],
+   "score": 3,
+   "fit": "น่าสนใจ",
+   "hits": [
+    "ประชาสัมพันธ์"
+   ]
+  },
+  {
+   "pid": "69089135799",
+   "dept": "กรมส่งเสริมการเรียนรู้",
+   "title": "ประกวดราคาจ้างโครงการการประชาสัมพันธ์การประกวดออกแบบ ห้องสมุดแห่งการอ่าน พลิกโฉมศูนย์การเรียนรู้ตลอดชีวิตประจำจังหวัด (เฟสที่ ๑) ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "17/08/2569",
+   "date_end": "",
+   "budget": 10000000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69089135799&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
    "announce_type": "ประกาศเชิญชวน",
    "matched_keywords": [
     "ประชาสัมพันธ์"
@@ -1133,6 +1192,25 @@
    ]
   },
   {
+   "pid": "69089319233",
+   "dept": "กรมกิจการสตรีและสถาบันครอบครัว",
+   "title": "ประกวดราคาจ้างจัดงานสตรีกับงานหัตถกรรมจากผ้าสู่การพัฒนาคุณภาพชีวิต ประจำปี ๒๕๖๙ ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "17/08/2569",
+   "date_end": "",
+   "budget": 2500000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69089319233&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
+   "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "จัดงาน"
+   ],
+   "score": 2,
+   "fit": "เกี่ยวข้องน้อย",
+   "hits": [
+    "จัดงาน"
+   ]
+  },
+  {
    "pid": "69089202101",
    "dept": "บริษัท ปตท. จำกัด (มหาชน)",
    "title": "ประกวดราคาจ้างจัดกิจกรรมผู้ถือหุ้นเยี่ยมชมกิจการของ ปตท. ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
@@ -1453,6 +1531,25 @@
    "fit": "เกี่ยวข้องน้อย",
    "hits": [
     "จัดกิจกรรม"
+   ]
+  },
+  {
+   "pid": "69089320216",
+   "dept": "สำนักงานกองทุนสนับสนุนการสร้างเสริมสุขภาพ",
+   "title": "ประกวดราคาจ้างจัดนิทรรศการสุขภาวะทุกช่วงวัย สานต่อพระราชปณิธานพระบรมราชชนก WELL-BEING JOURNEY ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "17/08/2569",
+   "date_end": "",
+   "budget": 1000000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69089320216&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
+   "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "นิทรรศการ"
+   ],
+   "score": 2,
+   "fit": "เกี่ยวข้องน้อย",
+   "hits": [
+    "นิทรรศการ"
    ]
   },
   {
