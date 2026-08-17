@@ -1,10 +1,10 @@
 {
- "fetched_at": "16/08/2569 16:55",
+ "fetched_at": "17/08/2569 10:32",
  "range": {
-  "from": "26/07/2569",
-  "to": "16/08/2569"
+  "from": "27/07/2569",
+  "to": "17/08/2569"
  },
- "total": 80,
+ "total": 81,
  "requests": 32,
  "items": [
   {
@@ -1016,6 +1016,25 @@
    "fit": "เกี่ยวข้องน้อย",
    "hits": [
     "จัดงาน"
+   ]
+  },
+  {
+   "pid": "69089217375",
+   "dept": "บริษัท ปตท. จำกัด (มหาชน)",
+   "title": "ประกวดราคาจ้างจัดกิจกรรมวันเด็ก กลุ่ม ปตท. ประจำปี 2570 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "17/08/2569",
+   "date_end": "",
+   "budget": 4300000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69089217375&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
+   "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "จัดกิจกรรม"
+   ],
+   "score": 2,
+   "fit": "เกี่ยวข้องน้อย",
+   "hits": [
+    "จัดกิจกรรม"
    ]
   },
   {
