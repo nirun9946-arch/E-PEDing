@@ -1,10 +1,10 @@
 {
- "fetched_at": "17/08/2569 10:32",
+ "fetched_at": "17/08/2569 14:49",
  "range": {
   "from": "27/07/2569",
   "to": "17/08/2569"
  },
- "total": 81,
+ "total": 82,
  "requests": 32,
  "items": [
   {
@@ -1179,6 +1179,25 @@
    "budget": 1999500.0,
    "status": "ระหว่างดำเนินการ",
    "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69089037464&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
+   "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "จัดกิจกรรม"
+   ],
+   "score": 2,
+   "fit": "เกี่ยวข้องน้อย",
+   "hits": [
+    "จัดกิจกรรม"
+   ]
+  },
+  {
+   "pid": "69089344889",
+   "dept": "โรงเรียนหาดใหญ่วิทยาลัย",
+   "title": "ประกวดราคาจ้างเหมาทัวร์ในการจัดกิจกรรมค่ายวิชาการบูรณาการทักษะ และกิจกรรม Block Course ของนักเรียนะดับชั้นมัธยมศึกษาปีที่ ๕ โครงการ SMA จากหาดใหญ่ - กรุงเทพมหานคร ระหว่างวันที่ ๕ - ๘ พฤศจิกายน ๒๕๖๙ ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "17/08/2569",
+   "date_end": "",
+   "budget": 1760000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69089344889&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
    "announce_type": "ประกาศเชิญชวน",
    "matched_keywords": [
     "จัดกิจกรรม"
