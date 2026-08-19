@@ -1,10 +1,10 @@
 {
- "fetched_at": "18/08/2569 17:01",
+ "fetched_at": "19/08/2569 10:30",
  "range": {
-  "from": "28/07/2569",
-  "to": "18/08/2569"
+  "from": "29/07/2569",
+  "to": "19/08/2569"
  },
- "total": 86,
+ "total": 89,
  "requests": 32,
  "items": [
   {
@@ -260,6 +260,49 @@
     "ประชาสัมพันธ์",
     "เผยแพร่",
     "โฆษณา"
+   ]
+  },
+  {
+   "pid": "69089229972",
+   "dept": "คณะแพทยศาสตร์โรงพยาบาลรามาธิบดี มหาวิทยาลัยมหิดล",
+   "title": "ประกวดราคาจ้างผลิตรายการภายใต้ชื่อ รายการลัดคิวหมอรามาฯ เผยแพร่ทาง Facebook Live และ Youtube Live ของสถานีโทรทัศน์รามาแชนแนล ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "18/08/2569",
+   "date_end": "21/08/2569",
+   "budget": 7500000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_2.jsp?tor_project_id=69089229972",
+   "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
+   "matched_keywords": [
+    "เผยแพร่",
+    "โทรทัศน์"
+   ],
+   "score": 7,
+   "fit": "เหมาะมาก",
+   "hits": [
+    "โทรทัศน์",
+    "เผยแพร่",
+    "รายการ"
+   ]
+  },
+  {
+   "pid": "69089370661",
+   "dept": "กองทุนพัฒนาสื่อปลอดภัยและสร้างสรรค์",
+   "title": "ประกวดราคาจ้างจัดทำสารคดีทางโทรทัศน์ โครงการหลวงกับคุณภาพชีวิตกลุ่มชาติพันธ์ุ ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "18/08/2569",
+   "date_end": "",
+   "budget": 5000000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69089370661&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
+   "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "โทรทัศน์",
+    "สารคดี"
+   ],
+   "score": 7,
+   "fit": "เหมาะมาก",
+   "hits": [
+    "โทรทัศน์",
+    "สารคดี"
    ]
   },
   {
@@ -609,6 +652,25 @@
    ]
   },
   {
+   "pid": "69089081534",
+   "dept": "การไฟฟ้าฝ่ายผลิตแห่งประเทศไทย",
+   "title": "ประกวดราคาจ้างเหมาบริการเพื่อทำงานประชาสัมพันธ์ ประจำปี 2570 เลขที่ หจก4. 39/2569 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "19/08/2569",
+   "date_end": "24/08/2569",
+   "budget": 15839664.96,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_2.jsp?tor_project_id=69089081534",
+   "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
+   "matched_keywords": [
+    "ประชาสัมพันธ์"
+   ],
+   "score": 3,
+   "fit": "น่าสนใจ",
+   "hits": [
+    "ประชาสัมพันธ์"
+   ]
+  },
+  {
    "pid": "69069440806",
    "dept": "การรถไฟแห่งประเทศไทย",
    "title": "ประกวดราคาจ้างบริหารการประชาสัมพันธ์โครงการ Train เที่ยวไทย สบายกว่าที่คิด ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
@@ -656,25 +718,6 @@
    "status": "ระหว่างดำเนินการ",
    "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69089135799&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
    "announce_type": "ประกาศเชิญชวน",
-   "matched_keywords": [
-    "ประชาสัมพันธ์"
-   ],
-   "score": 3,
-   "fit": "น่าสนใจ",
-   "hits": [
-    "ประชาสัมพันธ์"
-   ]
-  },
-  {
-   "pid": "69089134735",
-   "dept": "จังหวัดชลบุรี",
-   "title": "ประกวดราคาจ้างโครงการส่งเสริมและประชาสัมพันธ์การท่องเที่ยวและบริการ กิจกรรมหลัก สีสันอีอีซี (Colors of EEC) เพื่อส่งเสริมและประชาสัมพันธ์การท่องเที่ยว กลุ่มจังหวัดภาคตะวันออก 1 EEC in Green Season ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
-   "date": "06/08/2569",
-   "date_end": "18/08/2569",
-   "budget": 6897000.0,
-   "status": "ระหว่างดำเนินการ",
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_2.jsp?tor_project_id=69089134735",
-   "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
    "matched_keywords": [
     "ประชาสัมพันธ์"
    ],
@@ -914,6 +957,25 @@
    ]
   },
   {
+   "pid": "69089295346",
+   "dept": "เมืองพัทยา",
+   "title": "ประกวดราคาจ้างเหมาจัดทำวีดิทัศน์แนะนำเมืองพัทยา ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "18/08/2569",
+   "date_end": "21/08/2569",
+   "budget": 800000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_2.jsp?tor_project_id=69089295346",
+   "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
+   "matched_keywords": [
+    "วีดิทัศน์"
+   ],
+   "score": 3,
+   "fit": "น่าสนใจ",
+   "hits": [
+    "วีดิทัศน์"
+   ]
+  },
+  {
    "pid": "69089352224",
    "dept": "คณะแพทยศาสตร์โรงพยาบาลรามาธิบดี มหาวิทยาลัยมหิดล",
    "title": "ประกวดราคาจ้างบริหาร กำกับดูแล และพัฒนาเว็บไซต์ของสถานีโทรทัศน์รามาแชนแนล จำนวน 1 งาน ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
@@ -977,7 +1039,7 @@
    "date": "07/08/2569",
    "date_end": "",
    "budget": 7600000.0,
-   "status": "ระหว่างดำเนินการ",
+   "status": "ยกเลิกประกาศเชิญชวน",
    "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69089155880&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
    "announce_type": "ประกาศเชิญชวน",
    "matched_keywords": [
@@ -1120,6 +1182,25 @@
    "fit": "เกี่ยวข้องน้อย",
    "hits": [
     "จัดกิจกรรม"
+   ]
+  },
+  {
+   "pid": "69089371547",
+   "dept": "สำนักงานส่งเสริมเศรษฐกิจสร้างสรรค์ (องค์การมหาชน)",
+   "title": "ประกวดราคาจ้างบริหารจัดการและจัดทำนิทรรศการ Showcase แสดงศักยภาพเศรษฐกิจสร้างสรรค์ไทยสู่เวทีการประชุม IMF-World Bank Annual Meetings 2026 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "18/08/2569",
+   "date_end": "",
+   "budget": 3500000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69089371547&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
+   "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "นิทรรศการ"
+   ],
+   "score": 2,
+   "fit": "เกี่ยวข้องน้อย",
+   "hits": [
+    "นิทรรศการ"
    ]
   },
   {
@@ -1281,7 +1362,7 @@
    "date": "07/08/2569",
    "date_end": "",
    "budget": 1999500.0,
-   "status": "ระหว่างดำเนินการ",
+   "status": "ยกเลิกประกาศเชิญชวน",
    "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69089037464&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
    "announce_type": "ประกาศเชิญชวน",
    "matched_keywords": [
@@ -1607,25 +1688,6 @@
    "status": "ยกเลิกประกาศเชิญชวน",
    "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69079596718&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
    "announce_type": "ประกาศเชิญชวน",
-   "matched_keywords": [
-    "จัดงาน"
-   ],
-   "score": 2,
-   "fit": "เกี่ยวข้องน้อย",
-   "hits": [
-    "จัดงาน"
-   ]
-  },
-  {
-   "pid": "69079602718",
-   "dept": "สำนักงานคณะกรรมการอาหารและยา",
-   "title": "ประกวดราคาจ้างการจ้างจัดงานส่งเสริมผู้ประกอบการนำเข้าผลิตภัณฑ์สุขภาพ ตามวิธีการที่ดีในการนำหรือสั่งผลิตภัณฑ์สุขภาพเข้ามาในราชอาณาจักร (GIP Plus) ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
-   "date": "13/08/2569",
-   "date_end": "18/08/2569",
-   "budget": 800000.0,
-   "status": "ระหว่างดำเนินการ",
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_2.jsp?tor_project_id=69079602718",
-   "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
    "matched_keywords": [
     "จัดงาน"
    ],
