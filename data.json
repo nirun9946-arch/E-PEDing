@@ -1,10 +1,10 @@
 {
- "fetched_at": "19/08/2569 10:30",
+ "fetched_at": "19/08/2569 14:37",
  "range": {
   "from": "29/07/2569",
   "to": "19/08/2569"
  },
- "total": 89,
+ "total": 92,
  "requests": 32,
  "items": [
   {
@@ -880,6 +880,25 @@
    ]
   },
   {
+   "pid": "69079251962",
+   "dept": "มหาวิทยาลัยธรรมศาสตร์ ศูนย์รังสิต",
+   "title": "ประกวดราคาจ้างเหมาดำเนินการด้านประชาสัมพันธ์ มหาวิทยาลัยธรรมศาสตร์ ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "19/08/2569",
+   "date_end": "",
+   "budget": 1400000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69079251962&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
+   "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "ประชาสัมพันธ์"
+   ],
+   "score": 3,
+   "fit": "น่าสนใจ",
+   "hits": [
+    "ประชาสัมพันธ์"
+   ]
+  },
+  {
    "pid": "69089085279",
    "dept": "จังหวัดน่าน",
    "title": "ประกวดราคาจ้างโครงการขับเคลื่อนเมืองน่านสู่การเป็นเครือข่ายเมืองสร้างสรรค์ กิจกรรมหลัก การสร้างเครือข่ายเมืองสร้างสรรค์ กิจกรรมย่อย ประชาสัมพันธ์การขับเคลื่อนเมืองสร้างสรรค์ ผ่านช่องทางต่างๆ ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
@@ -1060,6 +1079,25 @@
    "budget": 7600000.0,
    "status": "ยกเลิกประกาศเชิญชวน",
    "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69079436993&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
+   "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "จัดงาน"
+   ],
+   "score": 2,
+   "fit": "เกี่ยวข้องน้อย",
+   "hits": [
+    "จัดงาน"
+   ]
+  },
+  {
+   "pid": "69089123985",
+   "dept": "กองทุนพัฒนาสื่อปลอดภัยและสร้างสรรค์",
+   "title": "ประกวดราคาจ้างจัดงานมหกรรมสื่อปลอดภัยและสร้างสรรค์ และเวทีรางวัลสื่อปลอดภัยและสร้างสรรค์ ปี 2569 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "19/08/2569",
+   "date_end": "",
+   "budget": 6000000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69089123985&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
    "announce_type": "ประกาศเชิญชวน",
    "matched_keywords": [
     "จัดงาน"
@@ -1384,6 +1422,25 @@
    "status": "ระหว่างดำเนินการ",
    "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69089344889&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
    "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "จัดกิจกรรม"
+   ],
+   "score": 2,
+   "fit": "เกี่ยวข้องน้อย",
+   "hits": [
+    "จัดกิจกรรม"
+   ]
+  },
+  {
+   "pid": "69089284322",
+   "dept": "สำนักงานปลัดกระทรวงการอุดมศึกษา วิทยาศาสตร์ วิจัยและนวัตกรรม",
+   "title": "ประกวดราคาจ้างเหมาจัดกิจกรรม MHESI Innovative Teacher Awards 2026 ครูนวัตกรผู้ขับเคลื่อนพื้นที่ชุมชนสู่เมืองนวัตกรรมการเรียนรู้ ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "19/08/2569",
+   "date_end": "24/08/2569",
+   "budget": 1700000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_2.jsp?tor_project_id=69089284322",
+   "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
    "matched_keywords": [
     "จัดกิจกรรม"
    ],
