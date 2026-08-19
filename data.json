@@ -1,10 +1,10 @@
 {
- "fetched_at": "19/08/2569 14:37",
+ "fetched_at": "19/08/2569 17:02",
  "range": {
   "from": "29/07/2569",
   "to": "19/08/2569"
  },
- "total": 92,
+ "total": 93,
  "requests": 32,
  "items": [
   {
@@ -527,6 +527,25 @@
    "hits": [
     "ประชาสัมพันธ์",
     "รายการ"
+   ]
+  },
+  {
+   "pid": "69089370564",
+   "dept": "กองทุนพัฒนาสื่อปลอดภัยและสร้างสรรค์",
+   "title": "ประกวดราคาจ้างจัดเวทีสร้างการเรียนรู้และการพัฒนาศักยภาพผู้ผลิตสื่อสำหรับเด็กและเยาวชน ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "19/08/2569",
+   "date_end": "",
+   "budget": 5000000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69089370564&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
+   "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "ผลิตสื่อ"
+   ],
+   "score": 4,
+   "fit": "น่าสนใจ",
+   "hits": [
+    "ผลิตสื่อ"
    ]
   },
   {
