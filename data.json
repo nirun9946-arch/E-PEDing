@@ -1,10 +1,10 @@
 {
- "fetched_at": "20/08/2569 10:29",
+ "fetched_at": "20/08/2569 14:39",
  "range": {
   "from": "30/07/2569",
   "to": "20/08/2569"
  },
- "total": 96,
+ "total": 100,
  "requests": 33,
  "items": [
   {
@@ -348,6 +348,26 @@
    ]
   },
   {
+   "pid": "69069428521",
+   "dept": "องค์การบริหารส่วนจังหวัดสมุทรปราการ",
+   "title": "ประกวดราคาจ้างโครงการเสริมสร้างภาพลักษณ์และประชาสัมพันธ์การท่องเที่ยวจังหวัดสมุทรปราการ ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "20/08/2569",
+   "date_end": "25/08/2569",
+   "budget": 10000000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_2.jsp?tor_project_id=69069428521",
+   "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
+   "matched_keywords": [
+    "ประชาสัมพันธ์"
+   ],
+   "score": 6,
+   "fit": "เหมาะมาก",
+   "hits": [
+    "ประชาสัมพันธ์",
+    "ภาพลักษณ์"
+   ]
+  },
+  {
    "pid": "69079320294",
    "dept": "สำนักงานคณะกรรมการกำกับกิจการพลังงาน",
    "title": "ประกวดราคาจ้างจัดทำสื่อประชาสัมพันธ์สร้างภาพลักษณ์องค์กร ปี พ.ศ. 2570 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
@@ -507,6 +527,26 @@
    "hits": [
     "จัดกิจกรรม",
     "สื่อมวลชน"
+   ]
+  },
+  {
+   "pid": "69089350408",
+   "dept": "กรมการค้าต่างประเทศ",
+   "title": "ประกวดราคาจ้างการจัดกิจกรรมสร้างภาพลักษณ์และการตระหนักรู้สินค้านวัตกรรมข้าวและพืชเศรษฐกิจหลักไทยสู่ตลาดโลกในงานแสดงสินค้า Foodex Saudi 2026 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "20/08/2569",
+   "date_end": "25/08/2569",
+   "budget": 662000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_2.jsp?tor_project_id=69089350408",
+   "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
+   "matched_keywords": [
+    "จัดกิจกรรม"
+   ],
+   "score": 5,
+   "fit": "น่าสนใจ",
+   "hits": [
+    "จัดกิจกรรม",
+    "ภาพลักษณ์"
    ]
   },
   {
@@ -1793,6 +1833,25 @@
    ]
   },
   {
+   "pid": "69089320627",
+   "dept": "กรมอุตสาหกรรมพื้นฐานและการเหมืองแร่",
+   "title": "ประกวดราคาจ้างจัดงานมอบรางวัลเหมืองแร่สีเขียว ประจำปี 2569 (Green Mining Award 2026) ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "20/08/2569",
+   "date_end": "",
+   "budget": 900000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69089320627&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
+   "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "จัดงาน"
+   ],
+   "score": 2,
+   "fit": "เกี่ยวข้องน้อย",
+   "hits": [
+    "จัดงาน"
+   ]
+  },
+  {
    "pid": "69079596718",
    "dept": "จังหวัดขอนแก่น",
    "title": "ประกวดราคาจ้างเหมาจัดงานประกวดและจำหน่ายผลิตภัณฑ์ผ้าไหมย้อมคูน ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
@@ -1847,6 +1906,25 @@
    "fit": "เกี่ยวข้องน้อย",
    "hits": [
     "จัดงาน"
+   ]
+  },
+  {
+   "pid": "69069354829",
+   "dept": "สำนักงานคณะกรรมการกิจการกระจายเสียง กิจการโทรทัศน์ และกิจการโทรคมนาคมแห่งชาติ",
+   "title": "ประกวดราคาจ้างจัดกิจกรรมแข่งขันกีฬาสีภายใน ประจำปี 2569 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "20/08/2569",
+   "date_end": "",
+   "budget": 700000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69069354829&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
+   "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "จัดกิจกรรม"
+   ],
+   "score": 2,
+   "fit": "เกี่ยวข้องน้อย",
+   "hits": [
+    "จัดกิจกรรม"
    ]
   },
   {
