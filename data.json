@@ -1,10 +1,10 @@
 {
- "fetched_at": "21/08/2569 10:36",
+ "fetched_at": "21/08/2569 14:40",
  "range": {
   "from": "31/07/2569",
   "to": "21/08/2569"
  },
- "total": 100,
+ "total": 102,
  "requests": 33,
  "items": [
   {
@@ -281,6 +281,29 @@
     "ประชาสัมพันธ์",
     "เผยแพร่",
     "โฆษณา"
+   ]
+  },
+  {
+   "pid": "69089338995",
+   "dept": "สำนักงานพัฒนารัฐบาลดิจิทัล (องค์การมหาชน)",
+   "title": "ประกวดราคาจ้างงานจ้างผลิตและเผยแพร่เนื้อหาเพื่อส่งเสริมและสร้างความเข้าใจการพัฒนารัฐบาลดิจิทัล ผ่านรายการออนไลน์ในรูปแบบสื่อเสียงประชาสัมพันธ์ (Podcast) ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "21/08/2569",
+   "date_end": "",
+   "budget": 745000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69089338995&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
+   "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "ประชาสัมพันธ์",
+    "เผยแพร่"
+   ],
+   "score": 8,
+   "fit": "เหมาะมาก",
+   "hits": [
+    "ประชาสัมพันธ์",
+    "เผยแพร่",
+    "รายการ",
+    "เนื้อหา"
    ]
   },
   {
@@ -1468,6 +1491,25 @@
    "fit": "เกี่ยวข้องน้อย",
    "hits": [
     "จัดงาน"
+   ]
+  },
+  {
+   "pid": "69089443171",
+   "dept": "สำนักควบคุม ป้องกันและบำบัดโรคสัตว์ กรมปศุสัตว์",
+   "title": "ประกวดราคาจ้างดำเนินการจัดกิจกรรมในวันป้องกันโรคพิษสุนัขบ้าโลก ปี พ.ศ. 2569 (World Rabies Day 2026) จำนวน 1 งาน ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "21/08/2569",
+   "date_end": "",
+   "budget": 1999500.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69089443171&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
+   "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "จัดกิจกรรม"
+   ],
+   "score": 2,
+   "fit": "เกี่ยวข้องน้อย",
+   "hits": [
+    "จัดกิจกรรม"
    ]
   },
   {
