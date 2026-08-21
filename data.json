@@ -1,10 +1,10 @@
 {
- "fetched_at": "21/08/2569 14:40",
+ "fetched_at": "21/08/2569 17:04",
  "range": {
   "from": "31/07/2569",
   "to": "21/08/2569"
  },
- "total": 102,
+ "total": 104,
  "requests": 33,
  "items": [
   {
@@ -923,6 +923,25 @@
    ]
   },
   {
+   "pid": "69089414015",
+   "dept": "กองทุนพัฒนาสื่อปลอดภัยและสร้างสรรค์",
+   "title": "ประกวดราคาจ้างจัดประชาสัมพันธ์และเตรียมความพร้อมผู้ขอรับทุนกองทุนพัฒนาสื่อปลอดภัยและสร้างสรรค์ ประจำปี 2570 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "21/08/2569",
+   "date_end": "",
+   "budget": 2000000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69089414015&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
+   "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "ประชาสัมพันธ์"
+   ],
+   "score": 3,
+   "fit": "น่าสนใจ",
+   "hits": [
+    "ประชาสัมพันธ์"
+   ]
+  },
+  {
    "pid": "69089209667",
    "dept": "จังหวัดอำนาจเจริญ",
    "title": "ประกวดราคาจ้างโครงการส่งเสริมการประชาสัมพันธ์และการตลาดด้านการท่องเที่ยวและกีฬา กลุ่มจังหวัดภาคตะวันออกเฉียงเหนือ ตอนล่าง ๒ (โขง ชี มูล) กิจกรรม การแข่งขันปั่นจักรยานพิชิตภูสิงห์ - ภูผาผึ้ง อำนาจเจริญ ๒๐๒๖ ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
@@ -1624,6 +1643,25 @@
    "fit": "เกี่ยวข้องน้อย",
    "hits": [
     "จัดงาน"
+   ]
+  },
+  {
+   "pid": "69069170821",
+   "dept": "สถาบันวิจัยและพัฒนาอัญมณีและเครื่องประดับแห่งชาติ (องค์การมหาชน)",
+   "title": "ประกวดราคาจ้างการจัดกิจกรรมการเชิญผู้ซื้อ คณะผู้แทนการค้า การจับคู่เจรจาธุรกิจ สำหรับงานเทศกาลนานาชาติพลอยและเครื่องประดับจันทบุรี 2026 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "21/08/2569",
+   "date_end": "",
+   "budget": 1500000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69069170821&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
+   "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "จัดกิจกรรม"
+   ],
+   "score": 2,
+   "fit": "เกี่ยวข้องน้อย",
+   "hits": [
+    "จัดกิจกรรม"
    ]
   },
   {
