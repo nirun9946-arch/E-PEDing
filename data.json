@@ -1,10 +1,10 @@
 {
- "fetched_at": "21/08/2569 17:04",
+ "fetched_at": "22/08/2569 10:25",
  "range": {
-  "from": "31/07/2569",
-  "to": "21/08/2569"
+  "from": "01/08/2569",
+  "to": "22/08/2569"
  },
- "total": 104,
+ "total": 90,
  "requests": 33,
  "items": [
   {
@@ -83,30 +83,6 @@
     "เผยแพร่",
     "สื่อออนไลน์",
     "เนื้อหา"
-   ]
-  },
-  {
-   "pid": "69079481304",
-   "dept": "องค์การขนส่งมวลชนกรุงเทพ",
-   "title": "ประกวดราคาจ้างผลิตและเผยแพร่ผ่านสื่อโทรทัศน์ เพื่อประชาสัมพันธ์นโยบายขององค์การขนส่งมวลชนกรุงเทพ (ขสมก.) ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
-   "date": "31/07/2569",
-   "date_end": "",
-   "budget": 1980000.0,
-   "status": "ระหว่างดำเนินการ",
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69079481304&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
-   "announce_type": "ประกาศเชิญชวน",
-   "matched_keywords": [
-    "ประชาสัมพันธ์",
-    "เผยแพร่",
-    "โทรทัศน์"
-   ],
-   "score": 13,
-   "fit": "เหมาะมาก",
-   "hits": [
-    "ประชาสัมพันธ์",
-    "สื่อโทรทัศน์",
-    "โทรทัศน์",
-    "เผยแพร่"
    ]
   },
   {
@@ -219,6 +195,28 @@
    ]
   },
   {
+   "pid": "69089112674",
+   "dept": "กรมชลประทาน",
+   "title": "ประกวดราคาจ้างจัดทำโครงการผลิตและเผยแพร่สื่อประชาสัมพันธ์เพื่อสร้างการรับรู้งานด้านการพัฒนาแหล่งน้ำและบริหารจัดการน้ำ ตามยุทธศาสตร์กรมชลประทาน ประจำปีงบประมาณ พ.ศ. 2569 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "21/08/2569",
+   "date_end": "",
+   "budget": 4954880.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69089112674&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
+   "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "ประชาสัมพันธ์",
+    "เผยแพร่"
+   ],
+   "score": 8,
+   "fit": "เหมาะมาก",
+   "hits": [
+    "ประชาสัมพันธ์",
+    "เผยแพร่",
+    "สร้างการรับรู้"
+   ]
+  },
+  {
    "pid": "69089096348",
    "dept": "บริษัท ธนารักษ์พัฒนาสินทรัพย์ จำกัด",
    "title": "ประกวดราคาจ้างงานจ้างประชาสัมพันธ์ข่าวสารผ่านสื่อมวลชน ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
@@ -237,27 +235,6 @@
     "ประชาสัมพันธ์",
     "ข่าว",
     "สื่อมวลชน"
-   ]
-  },
-  {
-   "pid": "69089216762",
-   "dept": "คณะแพทยศาสตร์โรงพยาบาลรามาธิบดี มหาวิทยาลัยมหิดล",
-   "title": "ประกวดราคาจ้างบริหาร กำกับดูแล และพัฒนาสื่อโซเชียลมีเดียต่างๆ ของสถานีโทรทัศน์รามาแชนแนล จำนวน 1 งาน ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
-   "date": "18/08/2569",
-   "date_end": "21/08/2569",
-   "budget": 1916000.0,
-   "status": "ระหว่างดำเนินการ",
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_2.jsp?tor_project_id=69089216762",
-   "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
-   "matched_keywords": [
-    "โทรทัศน์"
-   ],
-   "score": 8,
-   "fit": "เหมาะมาก",
-   "hits": [
-    "โทรทัศน์",
-    "โซเชียลมีเดีย",
-    "โซเชียล"
    ]
   },
   {
@@ -304,28 +281,6 @@
     "เผยแพร่",
     "รายการ",
     "เนื้อหา"
-   ]
-  },
-  {
-   "pid": "69089229972",
-   "dept": "คณะแพทยศาสตร์โรงพยาบาลรามาธิบดี มหาวิทยาลัยมหิดล",
-   "title": "ประกวดราคาจ้างผลิตรายการภายใต้ชื่อ รายการลัดคิวหมอรามาฯ เผยแพร่ทาง Facebook Live และ Youtube Live ของสถานีโทรทัศน์รามาแชนแนล ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
-   "date": "18/08/2569",
-   "date_end": "21/08/2569",
-   "budget": 7500000.0,
-   "status": "ระหว่างดำเนินการ",
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_2.jsp?tor_project_id=69089229972",
-   "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
-   "matched_keywords": [
-    "เผยแพร่",
-    "โทรทัศน์"
-   ],
-   "score": 7,
-   "fit": "เหมาะมาก",
-   "hits": [
-    "โทรทัศน์",
-    "เผยแพร่",
-    "รายการ"
    ]
   },
   {
@@ -885,25 +840,6 @@
    ]
   },
   {
-   "pid": "69059502093",
-   "dept": "สำนักงานพัฒนาเทคโนโลยีอวกาศและภูมิสารสนเทศ (องค์การมหาชน)",
-   "title": "ประกวดราคาจ้างเหมาดำเนินการประชาสัมพันธ์ งาน Thailand Space Expo 2026 (R2026-000173) ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
-   "date": "31/07/2569",
-   "date_end": "",
-   "budget": 2500000.0,
-   "status": "ระหว่างดำเนินการ",
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69059502093&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
-   "announce_type": "ประกาศเชิญชวน",
-   "matched_keywords": [
-    "ประชาสัมพันธ์"
-   ],
-   "score": 3,
-   "fit": "น่าสนใจ",
-   "hits": [
-    "ประชาสัมพันธ์"
-   ]
-  },
-  {
    "pid": "69059108976",
    "dept": "จังหวัดนครปฐม",
    "title": "ประกวดราคาจ้างโครงการพัฒนานครปฐมให้เป็นศูนย์กลางเศรษฐกิจภาคกลาง และภาคตะวันตก กิจกรรมพัฒนาศักยภาพผู้ผลิต ผู้ประกอบการ OTOP และผลิตภัณฑ์ OTOP เพื่อส่งเสริมตลาดเชิงรุก กิจกรรมย่อยที่ 4 จัดแสดงสินค้าและประชาสัมพันธ์ผลิตภัณฑ์ OTOP ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
@@ -1037,25 +973,6 @@
    ]
   },
   {
-   "pid": "69079483647",
-   "dept": "สำนักงานคณะกรรมการกำกับหลักทรัพย์และตลาดหลักทรัพย์",
-   "title": "ประกวดราคาจ้างจัดทำแผนงานและดำเนินงานประชาสัมพันธ์เว็บไซต์รู้เรื่องเงิน.com เฟส 5 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
-   "date": "31/07/2569",
-   "date_end": "",
-   "budget": 1000000.0,
-   "status": "ระหว่างดำเนินการ",
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69079483647&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
-   "announce_type": "ประกาศเชิญชวน",
-   "matched_keywords": [
-    "ประชาสัมพันธ์"
-   ],
-   "score": 3,
-   "fit": "น่าสนใจ",
-   "hits": [
-    "ประชาสัมพันธ์"
-   ]
-  },
-  {
    "pid": "69089371066",
    "dept": "กองทุนพัฒนาสื่อปลอดภัยและสร้างสรรค์",
    "title": "ประกวดราคาจ้างศึกษาแนวทางในการพัฒนาแพลตฟอร์มกลางเพื่อเผยแพร่เนื้อหาสื่อปลอดภัยและสร้างสรรค์ ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
@@ -1092,44 +1009,6 @@
    "fit": "น่าสนใจ",
    "hits": [
     "วีดิทัศน์"
-   ]
-  },
-  {
-   "pid": "69089295346",
-   "dept": "เมืองพัทยา",
-   "title": "ประกวดราคาจ้างเหมาจัดทำวีดิทัศน์แนะนำเมืองพัทยา ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
-   "date": "18/08/2569",
-   "date_end": "21/08/2569",
-   "budget": 800000.0,
-   "status": "ระหว่างดำเนินการ",
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_2.jsp?tor_project_id=69089295346",
-   "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
-   "matched_keywords": [
-    "วีดิทัศน์"
-   ],
-   "score": 3,
-   "fit": "น่าสนใจ",
-   "hits": [
-    "วีดิทัศน์"
-   ]
-  },
-  {
-   "pid": "69089352224",
-   "dept": "คณะแพทยศาสตร์โรงพยาบาลรามาธิบดี มหาวิทยาลัยมหิดล",
-   "title": "ประกวดราคาจ้างบริหาร กำกับดูแล และพัฒนาเว็บไซต์ของสถานีโทรทัศน์รามาแชนแนล จำนวน 1 งาน ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
-   "date": "18/08/2569",
-   "date_end": "21/08/2569",
-   "budget": 720000.0,
-   "status": "ระหว่างดำเนินการ",
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_2.jsp?tor_project_id=69089352224",
-   "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
-   "matched_keywords": [
-    "โทรทัศน์"
-   ],
-   "score": 3,
-   "fit": "น่าสนใจ",
-   "hits": [
-    "โทรทัศน์"
    ]
   },
   {
@@ -1247,25 +1126,6 @@
    ]
   },
   {
-   "pid": "69069382966",
-   "dept": "สำนักงานคณะกรรมการอาหารและยา",
-   "title": "ประกวดราคาจ้างจัดงานมอบรางวัล อย. ควอลิตี้ อวอร์ด ประจำปีงบประมาณ พ.ศ. ๒๕๖๙ ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
-   "date": "31/07/2569",
-   "date_end": "",
-   "budget": 4960000.0,
-   "status": "ระหว่างดำเนินการ",
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69069382966&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
-   "announce_type": "ประกาศเชิญชวน",
-   "matched_keywords": [
-    "จัดงาน"
-   ],
-   "score": 2,
-   "fit": "เกี่ยวข้องน้อย",
-   "hits": [
-    "จัดงาน"
-   ]
-  },
-  {
    "pid": "69069482241",
    "dept": "เทศบาลนครสุราษฎร์ธานี",
    "title": "ประกวดราคาจ้างโครงการจ้างเหมาจัดงานประเพณีชักพระ ทอดผ้าป่า และแข่งเรือยาว ประจำปี 2569 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
@@ -1282,25 +1142,6 @@
    "fit": "เกี่ยวข้องน้อย",
    "hits": [
     "จัดงาน"
-   ]
-  },
-  {
-   "pid": "69059301270",
-   "dept": "การไฟฟ้านครหลวง",
-   "title": "ประกวดราคาจ้างจัดกิจกรรมมอบของที่ระลึกสำหรับพนักงานเกษียณอายุ ประจำปี 2569 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
-   "date": "31/07/2569",
-   "date_end": "",
-   "budget": 4511120.0,
-   "status": "ระหว่างดำเนินการ",
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69059301270&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
-   "announce_type": "ประกาศเชิญชวน",
-   "matched_keywords": [
-    "จัดกิจกรรม"
-   ],
-   "score": 2,
-   "fit": "เกี่ยวข้องน้อย",
-   "hits": [
-    "จัดกิจกรรม"
    ]
   },
   {
@@ -1418,25 +1259,6 @@
    ]
   },
   {
-   "pid": "69089349488",
-   "dept": "องค์การบริหารส่วนจังหวัดนนทบุรี",
-   "title": "ประกวดราคาจ้างจัดกิจกรรมงานสิ่งแวดล้อมศึกษา Green Clean โรงเรียนสีเขียว ปีที่ ๘ ตามโครงการคลองสวยน้ำใส (ครั้งที่ ๒) ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
-   "date": "18/08/2569",
-   "date_end": "21/08/2569",
-   "budget": 2700000.0,
-   "status": "ระหว่างดำเนินการ",
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_2.jsp?tor_project_id=69089349488",
-   "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
-   "matched_keywords": [
-    "จัดกิจกรรม"
-   ],
-   "score": 2,
-   "fit": "เกี่ยวข้องน้อย",
-   "hits": [
-    "จัดกิจกรรม"
-   ]
-  },
-  {
    "pid": "69089156707",
    "dept": "องค์การบริหารส่วนจังหวัดลำพูน",
    "title": "ประกวดราคาจ้างจัดกิจกรรมงานเทศกาลโคมแสนดวงที่เมืองลำพูน ประจำปี ๒๕๖๙ ตามโครงการสืบสานวัฒนธรรมประเพณีโคมยี่เป็งในจังหวัดลำพูน ระหว่างวันที่ ๒๕ กันยายน - ๑๕ ธันวาคม ๒๕๖๙ ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
@@ -1491,25 +1313,6 @@
    "fit": "เกี่ยวข้องน้อย",
    "hits": [
     "จัดกิจกรรม"
-   ]
-  },
-  {
-   "pid": "69079247314",
-   "dept": "จังหวัดพระนครศรีอยุธยาโดยที่ทำการปกครองอำเภอท่าเรือ",
-   "title": "ประกวดราคาจ้างจ้างเหมาจัดงานนครน้อย ๒๔๖๐ อาร์ตแอนด์คัลเจอร์ ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
-   "date": "31/07/2569",
-   "date_end": "",
-   "budget": 2000000.0,
-   "status": "ระหว่างดำเนินการ",
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69079247314&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
-   "announce_type": "ประกาศเชิญชวน",
-   "matched_keywords": [
-    "จัดงาน"
-   ],
-   "score": 2,
-   "fit": "เกี่ยวข้องน้อย",
-   "hits": [
-    "จัดงาน"
    ]
   },
   {
@@ -1760,44 +1563,6 @@
    ]
   },
   {
-   "pid": "69079573356",
-   "dept": "กรุงเทพมหานคร",
-   "title": "ประกวดราคาจ้างเหมารถยนต์โดยสาร ขนาด 40 ที่นั่งขึ้นไป แบบไป-กลับ จำนวน 14 คัน จำนวน 5 วัน ตามโครงการเข้าร่วมแข่งขันทักษะวิชาการและการจัดงานมหกรรมการจัดการศึกษาท้องถิ่น ระดับประเทศ ประจำปีงบประมาณ พ.ศ.2569 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
-   "date": "31/07/2569",
-   "date_end": "",
-   "budget": 1253000.0,
-   "status": "ระหว่างดำเนินการ",
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69079573356&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
-   "announce_type": "ประกาศเชิญชวน",
-   "matched_keywords": [
-    "จัดงาน"
-   ],
-   "score": 2,
-   "fit": "เกี่ยวข้องน้อย",
-   "hits": [
-    "จัดงาน"
-   ]
-  },
-  {
-   "pid": "69079392084",
-   "dept": "สำนักงานพัฒนาเศรษฐกิจจากฐานชีวภาพ (องค์การมหาชน)",
-   "title": "ประกวดราคาจ้างพัฒนาฐานข้อมูล website เพื่อเผยแพร่ข้อมูลด้านการท่องเที่ยวบนฐานความหลากหลายทางชีวภาพ และขยายผลจากผลลัพธ์โครงการ ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
-   "date": "31/07/2569",
-   "date_end": "",
-   "budget": 1250000.0,
-   "status": "ระหว่างดำเนินการ",
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69079392084&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
-   "announce_type": "ประกาศเชิญชวน",
-   "matched_keywords": [
-    "เผยแพร่"
-   ],
-   "score": 2,
-   "fit": "เกี่ยวข้องน้อย",
-   "hits": [
-    "เผยแพร่"
-   ]
-  },
-  {
    "pid": "69089425736",
    "dept": "สำนักงานคณะกรรมการป้องกันและปราบปรามการทุจริตแห่งชาติ",
    "title": "ประกวดราคาจ้างเหมาพิมพ์หนังสือ จำนวน 7,000 เล่ม ตามโครงการส่งเสริมและเผยแพร่ความรู้ในการปฏิบัติงานตามพระราชบัญญัติประกอบรัฐธรรมนูญว่าด้วยการป้องกันและปราบปรามการทุจริต พ.ศ. 2561 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
@@ -1931,25 +1696,6 @@
    ]
   },
   {
-   "pid": "69079596718",
-   "dept": "จังหวัดขอนแก่น",
-   "title": "ประกวดราคาจ้างเหมาจัดงานประกวดและจำหน่ายผลิตภัณฑ์ผ้าไหมย้อมคูน ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
-   "date": "31/07/2569",
-   "date_end": "",
-   "budget": 837100.0,
-   "status": "ยกเลิกประกาศเชิญชวน",
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69079596718&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
-   "announce_type": "ประกาศเชิญชวน",
-   "matched_keywords": [
-    "จัดงาน"
-   ],
-   "score": 2,
-   "fit": "เกี่ยวข้องน้อย",
-   "hits": [
-    "จัดงาน"
-   ]
-  },
-  {
    "pid": "69089074827",
    "dept": "องค์การบริหารไนท์ซาฟารี (องค์การมหาชน)",
    "title": "ประกวดราคาจ้างจัดกิจกรรมสร้างกระแสการท่องเที่ยวไนท์ซาฟารี นอกสถานที่ ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
@@ -2042,25 +1788,6 @@
    "fit": "เกี่ยวข้องน้อย",
    "hits": [
     "เผยแพร่"
-   ]
-  },
-  {
-   "pid": "69079519789",
-   "dept": "สำนักงานปลัดกระทรวงการอุดมศึกษา วิทยาศาสตร์ วิจัยและนวัตกรรม กองทุนพัฒนาผู้ประกอบการเทคโนโลยีและนวัตกรรม",
-   "title": "ประกวดราคาจ้างเหมาจัดกิจกรรมส่งเสริมโอกาสความร่วมมือทางธุรกิจและนวัตกรรมแก่ผู้ประกอบการ ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
-   "date": "31/07/2569",
-   "date_end": "",
-   "budget": 550000.0,
-   "status": "ระหว่างดำเนินการ",
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69079519789&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
-   "announce_type": "ประกาศเชิญชวน",
-   "matched_keywords": [
-    "จัดกิจกรรม"
-   ],
-   "score": 2,
-   "fit": "เกี่ยวข้องน้อย",
-   "hits": [
-    "จัดกิจกรรม"
    ]
   }
  ]
