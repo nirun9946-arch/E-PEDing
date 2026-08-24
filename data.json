@@ -1,11 +1,11 @@
 {
- "fetched_at": "24/08/2569 15:02",
+ "fetched_at": "24/08/2569 17:14",
  "range": {
   "from": "03/08/2569",
   "to": "24/08/2569"
  },
- "total": 91,
- "requests": 23,
+ "total": 103,
+ "requests": 33,
  "items": [
   {
    "pid": "69069167199",
@@ -46,7 +46,8 @@
    "announce_type": "ประกาศเชิญชวน",
    "matched_keywords": [
     "ประชาสัมพันธ์",
-    "เผยแพร่"
+    "เผยแพร่",
+    "โฆษณา"
    ],
    "score": 15,
    "fit": "เหมาะมาก",
@@ -151,6 +152,29 @@
    ]
   },
   {
+   "pid": "69089215614",
+   "dept": "กรมพัฒนาที่ดิน",
+   "title": "ประกวดราคาจ้างผลิตสื่อและเผยแพร่ประชาสัมพันธ์ภารกิจเทคโนโลยีและนวัตกรรมด้านการพัฒนาที่ดินประจำปีงบประมาณ พ.ศ.2569 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "24/08/2569",
+   "date_end": "",
+   "budget": 4000000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69089215614&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
+   "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "ประชาสัมพันธ์",
+    "ผลิตสื่อ",
+    "เผยแพร่"
+   ],
+   "score": 9,
+   "fit": "เหมาะมาก",
+   "hits": [
+    "ประชาสัมพันธ์",
+    "ผลิตสื่อ",
+    "เผยแพร่"
+   ]
+  },
+  {
    "pid": "69089218680",
    "dept": "กรมชลประทาน",
    "title": "ประกวดราคาจ้างจัดทำโครงการจ้างจัดนิทรรศการส่งเสริมภาพลักษณ์องค์กรและสร้างการรับรู้งานชลประทานเชิงรุก ประจำปีงบประมาณ พ.ศ 2569 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
@@ -237,6 +261,27 @@
    ]
   },
   {
+   "pid": "69089216762",
+   "dept": "คณะแพทยศาสตร์โรงพยาบาลรามาธิบดี มหาวิทยาลัยมหิดล",
+   "title": "ประกวดราคาจ้างบริหาร กำกับดูแล และพัฒนาสื่อโซเชียลมีเดียต่างๆ ของสถานีโทรทัศน์รามาแชนแนล จำนวน 1 งาน ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "24/08/2569",
+   "date_end": "",
+   "budget": 1916000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69089216762&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
+   "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "โทรทัศน์"
+   ],
+   "score": 8,
+   "fit": "เหมาะมาก",
+   "hits": [
+    "โทรทัศน์",
+    "โซเชียลมีเดีย",
+    "โซเชียล"
+   ]
+  },
+  {
    "pid": "69079183523",
    "dept": "การทางพิเศษแห่งประเทศไทย",
    "title": "ประกวดราคาจ้างผลิตและเผยแพร่เพื่อการโฆษณาประชาสัมพันธ์การดำเนินงานของ กทพ. ผ่านสื่อนอกบ้าน OOH (Out of Home Media) ประจำปีงบประมาณ ๒๕๖๙ ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
@@ -248,7 +293,8 @@
    "announce_type": "ประกาศเชิญชวน",
    "matched_keywords": [
     "ประชาสัมพันธ์",
-    "เผยแพร่"
+    "เผยแพร่",
+    "โฆษณา"
    ],
    "score": 8,
    "fit": "เหมาะมาก",
@@ -282,6 +328,28 @@
    ]
   },
   {
+   "pid": "69089229972",
+   "dept": "คณะแพทยศาสตร์โรงพยาบาลรามาธิบดี มหาวิทยาลัยมหิดล",
+   "title": "ประกวดราคาจ้างผลิตรายการภายใต้ชื่อ รายการลัดคิวหมอรามาฯ เผยแพร่ทาง Facebook Live และ Youtube Live ของสถานีโทรทัศน์รามาแชนแนล ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "24/08/2569",
+   "date_end": "",
+   "budget": 7500000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69089229972&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
+   "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "เผยแพร่",
+    "โทรทัศน์"
+   ],
+   "score": 7,
+   "fit": "เหมาะมาก",
+   "hits": [
+    "โทรทัศน์",
+    "เผยแพร่",
+    "รายการ"
+   ]
+  },
+  {
    "pid": "69089370661",
    "dept": "กองทุนพัฒนาสื่อปลอดภัยและสร้างสรรค์",
    "title": "ประกวดราคาจ้างจัดทำสารคดีทางโทรทัศน์ โครงการหลวงกับคุณภาพชีวิตกลุ่มชาติพันธ์ุ ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
@@ -292,7 +360,8 @@
    "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69089370661&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
    "announce_type": "ประกาศเชิญชวน",
    "matched_keywords": [
-    "โทรทัศน์"
+    "โทรทัศน์",
+    "สารคดี"
    ],
    "score": 7,
    "fit": "เหมาะมาก",
@@ -485,6 +554,26 @@
    ]
   },
   {
+   "pid": "69079360203",
+   "dept": "องค์การบริหารส่วนจังหวัดสมุทรปราการ",
+   "title": "ประกวดราคาจ้างจัดทำสื่อประชาสัมพันธ์ตามโครงการรณรงค์ประชาสัมพันธ์ต้านภัยยาเสพติด ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "24/08/2569",
+   "date_end": "",
+   "budget": 1000000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69079360203&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
+   "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "ประชาสัมพันธ์"
+   ],
+   "score": 5,
+   "fit": "น่าสนใจ",
+   "hits": [
+    "ประชาสัมพันธ์",
+    "รณรงค์"
+   ]
+  },
+  {
    "pid": "69089110314",
    "dept": "บริษัท ธนารักษ์พัฒนาสินทรัพย์ จำกัด",
    "title": "ประกวดราคาจ้างจัดกิจกรรมประกวดสื่อประชาสัมพันธ์ ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
@@ -526,6 +615,26 @@
    ]
   },
   {
+   "pid": "69089350408",
+   "dept": "กรมการค้าต่างประเทศ",
+   "title": "ประกวดราคาจ้างการจัดกิจกรรมสร้างภาพลักษณ์และการตระหนักรู้สินค้านวัตกรรมข้าวและพืชเศรษฐกิจหลักไทยสู่ตลาดโลกในงานแสดงสินค้า Foodex Saudi 2026 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "20/08/2569",
+   "date_end": "25/08/2569",
+   "budget": 662000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_2.jsp?tor_project_id=69089350408",
+   "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
+   "matched_keywords": [
+    "จัดกิจกรรม"
+   ],
+   "score": 5,
+   "fit": "น่าสนใจ",
+   "hits": [
+    "จัดกิจกรรม",
+    "ภาพลักษณ์"
+   ]
+  },
+  {
    "pid": "69089061996",
    "dept": "สำนักงานการตรวจเงินแผ่นดิน",
    "title": "ประกวดราคาจ้างจ้างทำสื่อประชาสัมพันธ์ จำนวน ๖ รายการ ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
@@ -543,6 +652,25 @@
    "hits": [
     "ประชาสัมพันธ์",
     "รายการ"
+   ]
+  },
+  {
+   "pid": "69089522067",
+   "dept": "กองทุนพัฒนาสื่อปลอดภัยและสร้างสรรค์",
+   "title": "ประกวดราคาจ้างจัดอบรมเพื่อผลิตสื่อสร้างสรรค์ สำหรับกลุ่มมัธยมศึกษา ภายใต้หัวข้อ Young Media Creators ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "24/08/2569",
+   "date_end": "",
+   "budget": 5000000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69089522067&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
+   "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "ผลิตสื่อ"
+   ],
+   "score": 4,
+   "fit": "น่าสนใจ",
+   "hits": [
+    "ผลิตสื่อ"
    ]
   },
   {
@@ -624,6 +752,26 @@
    ]
   },
   {
+   "pid": "69089166502",
+   "dept": "กรมส่งเสริมการค้าระหว่างประเทศ",
+   "title": "ประกวดราคาจ้างโครงการประชาสัมพันธ์และส่งเสริมภาพลักษณ์อาหารไทย และร้านอาหาร Thai SELECT ในภูมิภาคอเมริกาฝั่งตะวันตก ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "24/08/2569",
+   "date_end": "",
+   "budget": 32000000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69089166502&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
+   "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "ประชาสัมพันธ์"
+   ],
+   "score": 3,
+   "fit": "น่าสนใจ",
+   "hits": [
+    "ประชาสัมพันธ์",
+    "ภาพลักษณ์"
+   ]
+  },
+  {
    "pid": "69059125666",
    "dept": "สำนักงานประกันสังคม",
    "title": "ประกวดราคาจ้างโครงการยกระดับการประชาสัมพันธ์สำนักงานประกันสังคมสู่ความสำเร็จ ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
@@ -654,7 +802,8 @@
    "announce_type": "ประกาศเชิญชวน",
    "matched_keywords": [
     "ประชาสัมพันธ์",
-    "สื่อออนไลน์"
+    "สื่อออนไลน์",
+    "โฆษณา"
    ],
    "score": 3,
    "fit": "น่าสนใจ",
@@ -742,6 +891,25 @@
    ]
   },
   {
+   "pid": "69089324838",
+   "dept": "มหาวิทยาลัยสุโขทัยธรรมาธิราช",
+   "title": "ประกวดราคาเช่าช่องสัญญาณสถานีวิทยุและโทรทัศน์เพื่อการศึกษา ประจำปีงบประมาณ พ.ศ. 2570 (ตั้งแต่วันที่ 1 ตุลาคม 2569 ถึงวันที่ 30 กันยายน 2570) ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "24/08/2569",
+   "date_end": "27/08/2569",
+   "budget": 8000000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_2.jsp?tor_project_id=69089324838",
+   "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
+   "matched_keywords": [
+    "โทรทัศน์"
+   ],
+   "score": 3,
+   "fit": "น่าสนใจ",
+   "hits": [
+    "โทรทัศน์"
+   ]
+  },
+  {
    "pid": "69089134735",
    "dept": "จังหวัดชลบุรี",
    "title": "ประกวดราคาจ้างโครงการส่งเสริมและประชาสัมพันธ์การท่องเที่ยวและบริการ กิจกรรมหลัก สีสันอีอีซี (Colors of EEC) เพื่อส่งเสริมและประชาสัมพันธ์การท่องเที่ยว กลุ่มจังหวัดภาคตะวันออก 1 EEC in Green Season ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
@@ -789,6 +957,25 @@
    "status": "ระหว่างดำเนินการ",
    "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69079544052&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
    "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "ประชาสัมพันธ์"
+   ],
+   "score": 3,
+   "fit": "น่าสนใจ",
+   "hits": [
+    "ประชาสัมพันธ์"
+   ]
+  },
+  {
+   "pid": "69069388743",
+   "dept": "จังหวัดสิงห์บุรี",
+   "title": "ประกวดราคาจ้างโครงการส่งเสริมประชาสัมพันธ์ด้านการท่องเที่ยวผ่านเรื่องเล่าจังหวัดสิงห์บุรี กิจกรรมหลักส่งเสริมการท่องเที่ยวเชิงประวัติศาสตร์และวิถีชีวิต กิจกรรมย่อยส่งเสริมการท่องเที่ยว เทศกาลสักการะพระพรหม เมืองสิงห์บุรี ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "24/08/2569",
+   "date_end": "27/08/2569",
+   "budget": 3000000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_2.jsp?tor_project_id=69069388743",
+   "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
    "matched_keywords": [
     "ประชาสัมพันธ์"
    ],
@@ -987,6 +1174,44 @@
    "hits": [
     "เผยแพร่",
     "เนื้อหา"
+   ]
+  },
+  {
+   "pid": "69059406794",
+   "dept": "จุฬาลงกรณ์มหาวิทยาลัย",
+   "title": "ประกวดราคาจ้างผลิตและสร้างสรรค์สื่อวีดิทัศน์ Student Showcase ประจำปีงบประมาณ ๒๕๖๙ จำนวน ๑ งาน ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "03/08/2569",
+   "date_end": "",
+   "budget": 900000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69059406794&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
+   "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "วีดิทัศน์"
+   ],
+   "score": 3,
+   "fit": "น่าสนใจ",
+   "hits": [
+    "วีดิทัศน์"
+   ]
+  },
+  {
+   "pid": "69089352224",
+   "dept": "คณะแพทยศาสตร์โรงพยาบาลรามาธิบดี มหาวิทยาลัยมหิดล",
+   "title": "ประกวดราคาจ้างบริหาร กำกับดูแล และพัฒนาเว็บไซต์ของสถานีโทรทัศน์รามาแชนแนล จำนวน 1 งาน ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "24/08/2569",
+   "date_end": "",
+   "budget": 720000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69089352224&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
+   "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "โทรทัศน์"
+   ],
+   "score": 3,
+   "fit": "น่าสนใจ",
+   "hits": [
+    "โทรทัศน์"
    ]
   },
   {
@@ -1379,6 +1604,25 @@
    "status": "ระหว่างดำเนินการ",
    "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69089344889&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
    "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "จัดกิจกรรม"
+   ],
+   "score": 2,
+   "fit": "เกี่ยวข้องน้อย",
+   "hits": [
+    "จัดกิจกรรม"
+   ]
+  },
+  {
+   "pid": "69089284322",
+   "dept": "สำนักงานปลัดกระทรวงการอุดมศึกษา วิทยาศาสตร์ วิจัยและนวัตกรรม",
+   "title": "ประกวดราคาจ้างเหมาจัดกิจกรรม MHESI Innovative Teacher Awards 2026 ครูนวัตกรผู้ขับเคลื่อนพื้นที่ชุมชนสู่เมืองนวัตกรรมการเรียนรู้ ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "19/08/2569",
+   "date_end": "24/08/2569",
+   "budget": 1700000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_2.jsp?tor_project_id=69089284322",
+   "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
    "matched_keywords": [
     "จัดกิจกรรม"
    ],
