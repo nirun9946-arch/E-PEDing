@@ -1,10 +1,10 @@
 {
- "fetched_at": "23/08/2569 16:56",
+ "fetched_at": "24/08/2569 10:37",
  "range": {
-  "from": "02/08/2569",
-  "to": "23/08/2569"
+  "from": "03/08/2569",
+  "to": "24/08/2569"
  },
- "total": 90,
+ "total": 92,
  "requests": 33,
  "items": [
   {
@@ -1297,6 +1297,25 @@
    ]
   },
   {
+   "pid": "69089365402",
+   "dept": "การเคหะแห่งชาติ",
+   "title": "ประกวดราคาจ้างโครงการพัฒนาระบบสารสนเทศที่อยู่อาศัยและบริการเผยแพร่ ปีงบประมาณ 2569 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "24/08/2569",
+   "date_end": "",
+   "budget": 2427500.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69089365402&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
+   "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "เผยแพร่"
+   ],
+   "score": 2,
+   "fit": "เกี่ยวข้องน้อย",
+   "hits": [
+    "เผยแพร่"
+   ]
+  },
+  {
    "pid": "69089202101",
    "dept": "บริษัท ปตท. จำกัด (มหาชน)",
    "title": "ประกวดราคาจ้างจัดกิจกรรมผู้ถือหุ้นเยี่ยมชมกิจการของ ปตท. ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
@@ -1446,6 +1465,25 @@
    "fit": "เกี่ยวข้องน้อย",
    "hits": [
     "จัดงาน"
+   ]
+  },
+  {
+   "pid": "69089474527",
+   "dept": "สำนักงานจัดการทรัพย์สิน จุฬาลงกรณ์มหาวิทยาลัย",
+   "title": "ประกวดราคาจ้างจัดกิจกรรมวันครบรอบสยามสแควร์ (Siam Square Anniversary) ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "24/08/2569",
+   "date_end": "",
+   "budget": 1500000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69089474527&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
+   "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "จัดกิจกรรม"
+   ],
+   "score": 2,
+   "fit": "เกี่ยวข้องน้อย",
+   "hits": [
+    "จัดกิจกรรม"
    ]
   },
   {
