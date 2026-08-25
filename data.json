@@ -1,10 +1,10 @@
 {
- "fetched_at": "25/08/2569 14:42",
+ "fetched_at": "25/08/2569 17:03",
  "range": {
   "from": "04/08/2569",
   "to": "25/08/2569"
  },
- "total": 96,
+ "total": 100,
  "requests": 33,
  "items": [
   {
@@ -427,6 +427,27 @@
    ]
   },
   {
+   "pid": "69089268852",
+   "dept": "กรมหม่อนไหม",
+   "title": "ประกวดราคาจ้างจัดงานโครงการประชาสัมพันธ์และส่งเสริมการจำหน่ายผ้าไหมและผลิตภัณฑ์หม่อนไหมสัญจร ณ กรุงเทพมหานครและจังหวัดนนทบุรี ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "25/08/2569",
+   "date_end": "",
+   "budget": 9000000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69089268852&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
+   "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "ประชาสัมพันธ์",
+    "จัดงาน"
+   ],
+   "score": 5,
+   "fit": "น่าสนใจ",
+   "hits": [
+    "ประชาสัมพันธ์",
+    "จัดงาน"
+   ]
+  },
+  {
    "pid": "69079554405",
    "dept": "การไฟฟ้านครหลวง",
    "title": "ประกวดราคาจ้างจัดซื้อช่องทางการเผยแพร่สื่อประชาสัมพันธ์ผ่าน LINE Official Account Package ประจำปี 2570 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
@@ -566,6 +587,26 @@
    "hits": [
     "จัดกิจกรรม",
     "สื่อมวลชน"
+   ]
+  },
+  {
+   "pid": "69089445180",
+   "dept": "มหาวิทยาลัยสงขลานครินทร์",
+   "title": "ประกวดราคาจ้างจ้างทำของที่ระลึก โครงการสร้างการรับรู้การจัดกิจกรรมเฉลิมฉลองในวาระเข้าสู่ปีที่ 60 มหาวิทยาลัยสงขลานครินทร์ ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "25/08/2569",
+   "date_end": "",
+   "budget": 700000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69089445180&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
+   "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "จัดกิจกรรม"
+   ],
+   "score": 5,
+   "fit": "น่าสนใจ",
+   "hits": [
+    "จัดกิจกรรม",
+    "สร้างการรับรู้"
    ]
   },
   {
@@ -1340,6 +1381,25 @@
    ]
   },
   {
+   "pid": "69089472902",
+   "dept": "สำนักงานปลัดกระทรวงยุติธรรม",
+   "title": "ประกวดราคาจ้างจัดนิทรรศการเทิดพระเกียรติสมเด็จพระเจ้าลูกเธอ เจ้าฟ้าพัชรกิติยาภา นเรนทิราเทพยวดี กรมหลวงราชสาริณีสิริพัชร มหาวัชรราชธิดา ระหว่างการประชุมสหประชาชาติ ว่าด้วยการป้องกันอาชญากรรมและความยุติธรรมทางอาญา สมัยที่ ๑๕ ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "25/08/2569",
+   "date_end": "",
+   "budget": 3500000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69089472902&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
+   "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "นิทรรศการ"
+   ],
+   "score": 2,
+   "fit": "เกี่ยวข้องน้อย",
+   "hits": [
+    "นิทรรศการ"
+   ]
+  },
+  {
    "pid": "69089371547",
    "dept": "สำนักงานส่งเสริมเศรษฐกิจสร้างสรรค์ (องค์การมหาชน)",
    "title": "ประกวดราคาจ้างบริหารจัดการและจัดทำนิทรรศการ Showcase แสดงศักยภาพเศรษฐกิจสร้างสรรค์ไทยสู่เวทีการประชุม IMF-World Bank Annual Meetings 2026 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
@@ -1508,6 +1568,25 @@
    "fit": "เกี่ยวข้องน้อย",
    "hits": [
     "จัดกิจกรรม"
+   ]
+  },
+  {
+   "pid": "69089566357",
+   "dept": "สำนักงานเศรษฐกิจอุตสาหกรรม",
+   "title": "ประกวดราคาจ้างการจัดงานประจำปี สศอ. (OIE Forum) พ.ศ. ๒๕๖๙ ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "25/08/2569",
+   "date_end": "",
+   "budget": 2000000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69089566357&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
+   "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "จัดงาน"
+   ],
+   "score": 2,
+   "fit": "เกี่ยวข้องน้อย",
+   "hits": [
+    "จัดงาน"
    ]
   },
   {
