@@ -1,10 +1,10 @@
 {
- "fetched_at": "28/08/2569 21:35",
+ "fetched_at": "29/08/2569 02:14",
  "range": {
-  "from": "07/08/2569",
-  "to": "28/08/2569"
+  "from": "08/08/2569",
+  "to": "29/08/2569"
  },
- "total": 99,
+ "total": 94,
  "requests": 33,
  "items": [
   {
@@ -893,25 +893,6 @@
    ]
   },
   {
-   "pid": "69079544052",
-   "dept": "องค์การบริหารส่วนจังหวัดชลบุรี",
-   "title": "ประกวดราคาจ้างโครงการจัดทำเอกสารประชาสัมพันธ์ในรูปแบบปฏิทิน ประจำปีพุทธศักราช ๒๕๗๐ ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
-   "date": "07/08/2569",
-   "date_end": "",
-   "budget": 3700000.0,
-   "status": "ระหว่างดำเนินการ",
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69079544052&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
-   "announce_type": "ประกาศเชิญชวน",
-   "matched_keywords": [
-    "ประชาสัมพันธ์"
-   ],
-   "score": 3,
-   "fit": "น่าสนใจ",
-   "hits": [
-    "ประชาสัมพันธ์"
-   ]
-  },
-  {
    "pid": "69079563283",
    "dept": "สำนักงานกองทุนหมู่บ้านและชุมชนเมืองแห่งชาติ",
    "title": "ประกวดราคาจ้างโครงการประชาสัมพันธ์ศักยภาพผลิตภัณฑ์กองทุนหมู่บ้านและชุมชนเมืองระดับตำบลที่โดดเด่นในกิจกรรมระดับประเทศ ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
@@ -1217,25 +1198,6 @@
    ]
   },
   {
-   "pid": "69089155880",
-   "dept": "องค์การบริหารส่วนจังหวัดพิจิตร",
-   "title": "ประกวดราคาจ้างเหมาจัดพิธีเปิด-ปิด และจัดสถานที่โครงการส่งเสริมการจัดงานประเพณีเพื่อกระตุ้นการท่องเที่ยวจังหวัดพิจิตร กิจกรรมประเพณีแข่งขันเรือยาวจังหวัดพิจิตร ชิงถ้วยพระราชทานพระบาทสมเด็จพระเจ้าอยู่หัว ประจำปี 2569 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
-   "date": "07/08/2569",
-   "date_end": "",
-   "budget": 7600000.0,
-   "status": "ยกเลิกประกาศเชิญชวน",
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69089155880&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
-   "announce_type": "ประกาศเชิญชวน",
-   "matched_keywords": [
-    "จัดงาน"
-   ],
-   "score": 2,
-   "fit": "เกี่ยวข้องน้อย",
-   "hits": [
-    "จัดงาน"
-   ]
-  },
-  {
    "pid": "69089577695",
    "dept": "กองทุนพัฒนาสื่อปลอดภัยและสร้างสรรค์",
    "title": "ประกวดราคาจ้างจัดงานนครแห่งมรดกโลกปลุกพลังวัฒนธรรมใต้ผ่านสื่อปลอดภัยและสร้างสรรค์ ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
@@ -1263,25 +1225,6 @@
    "budget": 6000000.0,
    "status": "ระหว่างดำเนินการ",
    "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69089123985&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
-   "announce_type": "ประกาศเชิญชวน",
-   "matched_keywords": [
-    "จัดงาน"
-   ],
-   "score": 2,
-   "fit": "เกี่ยวข้องน้อย",
-   "hits": [
-    "จัดงาน"
-   ]
-  },
-  {
-   "pid": "69069482241",
-   "dept": "เทศบาลนครสุราษฎร์ธานี",
-   "title": "ประกวดราคาจ้างโครงการจ้างเหมาจัดงานประเพณีชักพระ ทอดผ้าป่า และแข่งเรือยาว ประจำปี 2569 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
-   "date": "07/08/2569",
-   "date_end": "",
-   "budget": 4865000.0,
-   "status": "ระหว่างดำเนินการ",
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69069482241&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
    "announce_type": "ประกาศเชิญชวน",
    "matched_keywords": [
     "จัดงาน"
@@ -1366,25 +1309,6 @@
    "fit": "เกี่ยวข้องน้อย",
    "hits": [
     "จัดงาน"
-   ]
-  },
-  {
-   "pid": "69089031219",
-   "dept": "กรมพัฒนาที่ดิน",
-   "title": "ประกวดราคาจ้างจัดนิทรรศการ เนื่องในงานมหกรรมการเกษตร โตโยต้า ฟาร์ม เอ็กซ์โป 2026 (Toyota Farm Expo 2026) ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
-   "date": "07/08/2569",
-   "date_end": "",
-   "budget": 2812000.0,
-   "status": "ระหว่างดำเนินการ",
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69089031219&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
-   "announce_type": "ประกาศเชิญชวน",
-   "matched_keywords": [
-    "นิทรรศการ"
-   ],
-   "score": 2,
-   "fit": "เกี่ยวข้องน้อย",
-   "hits": [
-    "นิทรรศการ"
    ]
   },
   {
@@ -1548,25 +1472,6 @@
    "budget": 1999500.0,
    "status": "ระหว่างดำเนินการ",
    "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69089443171&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
-   "announce_type": "ประกาศเชิญชวน",
-   "matched_keywords": [
-    "จัดกิจกรรม"
-   ],
-   "score": 2,
-   "fit": "เกี่ยวข้องน้อย",
-   "hits": [
-    "จัดกิจกรรม"
-   ]
-  },
-  {
-   "pid": "69089037464",
-   "dept": "สำนักควบคุม ป้องกันและบำบัดโรคสัตว์ กรมปศุสัตว์",
-   "title": "ประกวดราคาจ้างดำเนินการจัดกิจกรรมในวันป้องกันโรคพิษสุนัขบ้าโลก ปี พ.ศ. 2569 (World Rabies Day 2026) จำนวน 1 งาน ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
-   "date": "07/08/2569",
-   "date_end": "",
-   "budget": 1999500.0,
-   "status": "ยกเลิกประกาศเชิญชวน",
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69089037464&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
    "announce_type": "ประกาศเชิญชวน",
    "matched_keywords": [
     "จัดกิจกรรม"
