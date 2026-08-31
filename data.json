@@ -1,10 +1,10 @@
 {
- "fetched_at": "31/08/2569 21:45",
+ "fetched_at": "01/09/2569 00:15",
  "range": {
-  "from": "10/08/2569",
-  "to": "31/08/2569"
+  "from": "11/08/2569",
+  "to": "01/09/2569"
  },
- "total": 100,
+ "total": 93,
  "requests": 33,
  "items": [
   {
@@ -334,47 +334,6 @@
    "hits": [
     "ประชาสัมพันธ์",
     "ภาพลักษณ์"
-   ]
-  },
-  {
-   "pid": "69069165277",
-   "dept": "สถาบันวิจัยและพัฒนาอัญมณีและเครื่องประดับแห่งชาติ (องค์การมหาชน)",
-   "title": "ประกวดราคาจ้างประชาสัมพันธ์ภาพลักษณ์งานแสดงสินค้าเทศกาลนานาชาติพลอยและเครื่องประดับจันทบุรี 2026 International Chanthaburi Gems and Jewelry Festival 2026 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
-   "date": "10/08/2569",
-   "date_end": "",
-   "budget": 4000000.0,
-   "status": "ระหว่างดำเนินการ",
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69069165277&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
-   "announce_type": "ประกาศเชิญชวน",
-   "matched_keywords": [
-    "ประชาสัมพันธ์"
-   ],
-   "score": 6,
-   "fit": "เหมาะมาก",
-   "hits": [
-    "ประชาสัมพันธ์",
-    "ภาพลักษณ์"
-   ]
-  },
-  {
-   "pid": "69089499678",
-   "dept": "การท่าเรือแห่งประเทศไทย",
-   "title": "ประกวดราคาจ้างจัดทำโครงการลงโฆษณาประชาสัมพันธ์ของท่าเรือแหลมฉบังในสื่อวิทยุกระจายเสียง ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
-   "date": "26/08/2569",
-   "date_end": "31/08/2569",
-   "budget": 2000000.0,
-   "status": "ระหว่างดำเนินการ",
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_2.jsp?tor_project_id=69089499678",
-   "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
-   "matched_keywords": [
-    "ประชาสัมพันธ์",
-    "โฆษณา"
-   ],
-   "score": 6,
-   "fit": "เหมาะมาก",
-   "hits": [
-    "ประชาสัมพันธ์",
-    "โฆษณา"
    ]
   },
   {
@@ -846,25 +805,6 @@
    "budget": 11000000.0,
    "status": "ระหว่างดำเนินการ",
    "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69069440806&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
-   "announce_type": "ประกาศเชิญชวน",
-   "matched_keywords": [
-    "ประชาสัมพันธ์"
-   ],
-   "score": 3,
-   "fit": "น่าสนใจ",
-   "hits": [
-    "ประชาสัมพันธ์"
-   ]
-  },
-  {
-   "pid": "69079225922",
-   "dept": "สำนักงานคณะกรรมการกิจการกระจายเสียง กิจการโทรทัศน์ และกิจการโทรคมนาคมแห่งชาติ",
-   "title": "ประกวดราคาจ้างออกแบบและจัดทำสื่อประชาสัมพันธ์ (ชุดปีใหม่ 2570) ของสำนักงาน กสทช. ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
-   "date": "10/08/2569",
-   "date_end": "",
-   "budget": 10325000.0,
-   "status": "ระหว่างดำเนินการ",
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69079225922&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
    "announce_type": "ประกาศเชิญชวน",
    "matched_keywords": [
     "ประชาสัมพันธ์"
@@ -1675,44 +1615,6 @@
    ]
   },
   {
-   "pid": "69089103820",
-   "dept": "สำนักงานปลัดกระทรวงการอุดมศึกษา วิทยาศาสตร์ วิจัยและนวัตกรรม",
-   "title": "ประกวดราคาจ้างเหมาจัดกิจกรรมเชื่อมโยงโอกาสให้ผู้รับทุนกับพันธมิตรใน Ecosystem (TED Club Networking 2026) ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
-   "date": "10/08/2569",
-   "date_end": "",
-   "budget": 1500000.0,
-   "status": "ระหว่างดำเนินการ",
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69089103820&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
-   "announce_type": "ประกาศเชิญชวน",
-   "matched_keywords": [
-    "จัดกิจกรรม"
-   ],
-   "score": 2,
-   "fit": "เกี่ยวข้องน้อย",
-   "hits": [
-    "จัดกิจกรรม"
-   ]
-  },
-  {
-   "pid": "69059224072",
-   "dept": "สำนักงานพัฒนาเทคโนโลยีอวกาศและภูมิสารสนเทศ (องค์การมหาชน)",
-   "title": "ประกวดราคาจ้างเหมาจัดกิจกรรมเปิดตัวผลิตภัณฑ์ และบริการของ สทอภ. ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
-   "date": "10/08/2569",
-   "date_end": "",
-   "budget": 1500000.0,
-   "status": "ระหว่างดำเนินการ",
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69059224072&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
-   "announce_type": "ประกาศเชิญชวน",
-   "matched_keywords": [
-    "จัดกิจกรรม"
-   ],
-   "score": 2,
-   "fit": "เกี่ยวข้องน้อย",
-   "hits": [
-    "จัดกิจกรรม"
-   ]
-  },
-  {
    "pid": "69089431425",
    "dept": "เทศบาลตำบลเกาะสีชัง",
    "title": "ประกวดราคาจ้างโครงการจัดงานรำลึก 173 ปี วันคล้ายวันพระราชสมภพสมเด็จพระปิยมหาราช ครั้งที่ 27 ของชาวเกาะสีชัง ประจำปี พ.ศ. 2569 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
@@ -1759,25 +1661,6 @@
    "budget": 1109600.0,
    "status": "ระหว่างดำเนินการ",
    "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69089546145&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
-   "announce_type": "ประกาศเชิญชวน",
-   "matched_keywords": [
-    "จัดกิจกรรม"
-   ],
-   "score": 2,
-   "fit": "เกี่ยวข้องน้อย",
-   "hits": [
-    "จัดกิจกรรม"
-   ]
-  },
-  {
-   "pid": "69089193533",
-   "dept": "สำนักงานปลัดกระทรวงการอุดมศึกษา วิทยาศาสตร์ วิจัยและนวัตกรรม กองทุนพัฒนาผู้ประกอบการเทคโนโลยีและนวัตกรรม",
-   "title": "ประกวดราคาจ้างเหมาจัดกิจกรรมการบ่มเพาะผู้ประกอบการระยะเริ่มต้นเพื่อสร้างโอกาสในการเติบโต ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
-   "date": "10/08/2569",
-   "date_end": "",
-   "budget": 1000000.0,
-   "status": "ระหว่างดำเนินการ",
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69089193533&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
    "announce_type": "ประกาศเชิญชวน",
    "matched_keywords": [
     "จัดกิจกรรม"
@@ -1843,25 +1726,6 @@
    "fit": "เกี่ยวข้องน้อย",
    "hits": [
     "จัดงาน"
-   ]
-  },
-  {
-   "pid": "69089074827",
-   "dept": "องค์การบริหารไนท์ซาฟารี (องค์การมหาชน)",
-   "title": "ประกวดราคาจ้างจัดกิจกรรมสร้างกระแสการท่องเที่ยวไนท์ซาฟารี นอกสถานที่ ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
-   "date": "10/08/2569",
-   "date_end": "",
-   "budget": 800000.0,
-   "status": "ระหว่างดำเนินการ",
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69089074827&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
-   "announce_type": "ประกาศเชิญชวน",
-   "matched_keywords": [
-    "จัดกิจกรรม"
-   ],
-   "score": 2,
-   "fit": "เกี่ยวข้องน้อย",
-   "hits": [
-    "จัดกิจกรรม"
    ]
   },
   {
