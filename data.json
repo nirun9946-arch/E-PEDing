@@ -1,10 +1,10 @@
 {
- "fetched_at": "30/08/2569 21:32",
+ "fetched_at": "31/08/2569 15:57",
  "range": {
-  "from": "09/08/2569",
-  "to": "30/08/2569"
+  "from": "10/08/2569",
+  "to": "31/08/2569"
  },
- "total": 94,
+ "total": 97,
  "requests": 33,
  "items": [
   {
@@ -1160,6 +1160,25 @@
    ]
   },
   {
+   "pid": "69089693844",
+   "dept": "สำนักงานปลัดกระทรวงวัฒนธรรม",
+   "title": "ประกวดราคาจ้างจัดแสดงนิทรรศการศิลปะ ณ หอศิลป์แห่งชาติ ประจำปีงบประมาณ พ.ศ. 2569 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "31/08/2569",
+   "date_end": "03/09/2569",
+   "budget": 98358000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_2.jsp?tor_project_id=69089693844",
+   "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
+   "matched_keywords": [
+    "นิทรรศการ"
+   ],
+   "score": 2,
+   "fit": "เกี่ยวข้องน้อย",
+   "hits": [
+    "นิทรรศการ"
+   ]
+  },
+  {
    "pid": "69089071114",
    "dept": "สำนักงานปลัดกระทรวงวัฒนธรรม",
    "title": "ประกวดราคาจ้างจ้างจัดแสดงนิทรรศการศิลปะ ณ หอศิลป์แห่งชาติ ประจำปีงบประมาณ พ.ศ. 2569 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
@@ -1508,7 +1527,7 @@
    "date": "17/08/2569",
    "date_end": "",
    "budget": 1760000.0,
-   "status": "ระหว่างดำเนินการ",
+   "status": "ยกเลิกประกาศเชิญชวน",
    "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69089344889&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
    "announce_type": "ประกาศเชิญชวน",
    "matched_keywords": [
@@ -1673,6 +1692,25 @@
    ]
   },
   {
+   "pid": "69089546145",
+   "dept": "โรงเรียนหาดใหญ่วิทยาลัยสมบูรณ์กุลกันยา",
+   "title": "ประกวดราคาจ้างโครงการจ้างเหมาจัดกิจกรรมแลกเปลี่ยนภาษาและวัฒนธรรมให้กับนักเรียนในโครงการห้องเรียนพิเศษ SMA ม.3 1 และ ม.3 2 ณ ประเทศมาเลเซียและประเทศสิงคโปร์ ระหว่างวันที่ 29 กันยายน 2569 ถึง 3 ตุลาคม 2569 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "31/08/2569",
+   "date_end": "",
+   "budget": 1109600.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69089546145&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
+   "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "จัดกิจกรรม"
+   ],
+   "score": 2,
+   "fit": "เกี่ยวข้องน้อย",
+   "hits": [
+    "จัดกิจกรรม"
+   ]
+  },
+  {
    "pid": "69089193533",
    "dept": "สำนักงานปลัดกระทรวงการอุดมศึกษา วิทยาศาสตร์ วิจัยและนวัตกรรม กองทุนพัฒนาผู้ประกอบการเทคโนโลยีและนวัตกรรม",
    "title": "ประกวดราคาจ้างเหมาจัดกิจกรรมการบ่มเพาะผู้ประกอบการระยะเริ่มต้นเพื่อสร้างโอกาสในการเติบโต ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
@@ -1765,6 +1803,25 @@
    "fit": "เกี่ยวข้องน้อย",
    "hits": [
     "จัดกิจกรรม"
+   ]
+  },
+  {
+   "pid": "69089494292",
+   "dept": "สำนักงานส่งเสริมการจัดประชุมและนิทรรศการ (องค์การมหาชน)",
+   "title": "ประกวดราคาจ้างกิจกรรมเพื่อขอรับรองสิทธิ์การจัดงานระดับ A1 - จ้างเหมาบริการปรับปรุงเอกสารการขอรับรองสิทธิ์ฯ (Recognition Dossier) ภายใต้โครงการการเป็นเจ้าภาพจัดงานมหกรรมพืชสวนโลก พ.ศ. 2572 จังหวัดนครราชสีมา ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "31/08/2569",
+   "date_end": "",
+   "budget": 800000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69089494292&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
+   "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "จัดงาน"
+   ],
+   "score": 2,
+   "fit": "เกี่ยวข้องน้อย",
+   "hits": [
+    "จัดงาน"
    ]
   },
   {
