@@ -1,10 +1,10 @@
 {
- "fetched_at": "01/09/2569 15:01",
+ "fetched_at": "01/09/2569 19:19",
  "range": {
   "from": "11/08/2569",
   "to": "01/09/2569"
  },
- "total": 94,
+ "total": 95,
  "requests": 33,
  "items": [
   {
@@ -1264,6 +1264,25 @@
    "budget": 6000000.0,
    "status": "ระหว่างดำเนินการ",
    "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69089123985&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
+   "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "จัดงาน"
+   ],
+   "score": 2,
+   "fit": "เกี่ยวข้องน้อย",
+   "hits": [
+    "จัดงาน"
+   ]
+  },
+  {
+   "pid": "69089664230",
+   "dept": "เทศบาลเมืองเพชรบูรณ์",
+   "title": "ประกวดราคาจ้างเหมาจัดงานประเพณีอุ้มพระดำน้ำประจำปี ๒๕๖๙ (งบเทศบาลฯ) ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "01/09/2569",
+   "date_end": "",
+   "budget": 4310000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69089664230&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
    "announce_type": "ประกาศเชิญชวน",
    "matched_keywords": [
     "จัดงาน"
