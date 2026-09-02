@@ -1,10 +1,10 @@
 {
- "fetched_at": "02/09/2569 18:57",
+ "fetched_at": "02/09/2569 20:50",
  "range": {
   "from": "12/08/2569",
   "to": "02/09/2569"
  },
- "total": 90,
+ "total": 92,
  "requests": 33,
  "items": [
   {
@@ -337,6 +337,27 @@
    "hits": [
     "ประชาสัมพันธ์",
     "โฆษณา"
+   ]
+  },
+  {
+   "pid": "69089737162",
+   "dept": "สถาบันอุทยานการเรียนรู้",
+   "title": "ประกวดราคาจ้างบริหารจัดการสื่อมวลชนเพื่อเผยแพร่เนื้อหาการอ่านและการเรียนรู้ ประจําปีงบประมาณ พ.ศ. ๒๕๗๐ ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "02/09/2569",
+   "date_end": "07/09/2569",
+   "budget": 1000000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_2.jsp?tor_project_id=69089737162",
+   "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
+   "matched_keywords": [
+    "เผยแพร่"
+   ],
+   "score": 6,
+   "fit": "เหมาะมาก",
+   "hits": [
+    "เผยแพร่",
+    "เนื้อหา",
+    "สื่อมวลชน"
    ]
   },
   {
@@ -789,6 +810,25 @@
    "status": "ระหว่างดำเนินการ",
    "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69089134735&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
    "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "ประชาสัมพันธ์"
+   ],
+   "score": 3,
+   "fit": "น่าสนใจ",
+   "hits": [
+    "ประชาสัมพันธ์"
+   ]
+  },
+  {
+   "pid": "69089723388",
+   "dept": "สำนักงานหลักประกันสุขภาพแห่งชาติ",
+   "title": "ประกวดราคาเช่าใช้บริการต่ออายุสมาชิกโปรแกรมสื่อสารประชาสัมพันธ์ผ่าน Line Official Account สปสช. ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "02/09/2569",
+   "date_end": "07/09/2569",
+   "budget": 6794500.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_2.jsp?tor_project_id=69089723388",
+   "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
    "matched_keywords": [
     "ประชาสัมพันธ์"
    ],
