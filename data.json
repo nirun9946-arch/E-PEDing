@@ -1,10 +1,10 @@
 {
- "fetched_at": "03/09/2569 18:55",
+ "fetched_at": "03/09/2569 20:49",
  "range": {
   "from": "13/08/2569",
   "to": "03/09/2569"
  },
- "total": 98,
+ "total": 99,
  "requests": 33,
  "items": [
   {
@@ -1243,6 +1243,25 @@
    "fit": "เกี่ยวข้องน้อย",
    "hits": [
     "นิทรรศการ"
+   ]
+  },
+  {
+   "pid": "69089440259",
+   "dept": "สำนักงานคณะกรรมการอาหารและยา",
+   "title": "ประกวดราคาจ้างจัดงาน ThaiFDA International Health, Wellness and Longevity Innovation Forum 2026 (ThaiFDA WELLNEXT 2026) ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "03/09/2569",
+   "date_end": "",
+   "budget": 20000000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69089440259&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
+   "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "จัดงาน"
+   ],
+   "score": 2,
+   "fit": "เกี่ยวข้องน้อย",
+   "hits": [
+    "จัดงาน"
    ]
   },
   {
