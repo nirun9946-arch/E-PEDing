@@ -1,8 +1,8 @@
 {
- "fetched_at": "02/09/2569 20:50",
+ "fetched_at": "03/09/2569 14:24",
  "range": {
-  "from": "12/08/2569",
-  "to": "02/09/2569"
+  "from": "13/08/2569",
+  "to": "03/09/2569"
  },
  "total": 92,
  "requests": 33,
@@ -299,26 +299,6 @@
    ]
   },
   {
-   "pid": "69089633980",
-   "dept": "สำนักงานกองทุนหมู่บ้านและชุมชนเมืองแห่งชาติ",
-   "title": "ประกวดราคาจ้างโครงการประชาสัมพันธ์สร้างการรับรู้และความเข้าใจ เพื่อขับเคลื่อนโครงการไทยช่วยไทย เพิ่มทุน ดอกเบี้ยคนละครึ่ง ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
-   "date": "28/08/2569",
-   "date_end": "02/09/2569",
-   "budget": 7500000.0,
-   "status": "ระหว่างดำเนินการ",
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_2.jsp?tor_project_id=69089633980",
-   "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
-   "matched_keywords": [
-    "ประชาสัมพันธ์"
-   ],
-   "score": 6,
-   "fit": "เหมาะมาก",
-   "hits": [
-    "ประชาสัมพันธ์",
-    "สร้างการรับรู้"
-   ]
-  },
-  {
    "pid": "69089499678",
    "dept": "การท่าเรือแห่งประเทศไทย",
    "title": "ประกวดราคาจ้างจัดทำโครงการลงโฆษณาประชาสัมพันธ์ของท่าเรือแหลมฉบังในสื่อวิทยุกระจายเสียง ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
@@ -465,6 +445,27 @@
    ]
   },
   {
+   "pid": "69089374199",
+   "dept": "การไฟฟ้านครหลวง",
+   "title": "ประกวดราคาจ้างจ้างเผยแพร่สื่อประชาสัมพันธ์ของการไฟฟ้านครหลวงทางวิทยุ คลื่น Cool Fahrenheit 93 FM ระหว่าง 1 ธันวาคม 2569 - 31 พฤษภาคม 2570 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "03/09/2569",
+   "date_end": "",
+   "budget": 1605000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69089374199&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
+   "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "ประชาสัมพันธ์",
+    "เผยแพร่"
+   ],
+   "score": 5,
+   "fit": "น่าสนใจ",
+   "hits": [
+    "ประชาสัมพันธ์",
+    "เผยแพร่"
+   ]
+  },
+  {
    "pid": "69089273156",
    "dept": "สำนักงานปลัดกระทรวงการอุดมศึกษา วิทยาศาสตร์ วิจัยและนวัตกรรม สำนักงานกองทุนพัฒนาผู้ประกอบการเทคโนโลยีและนวัตกรรม",
    "title": "ประกวดราคาจ้างเหมาจัดกิจกรรมสร้างการรับรู้การดำเนินงานของเครือข่ายร่วมพัฒนาผู้ประกอบการ (TED Fellow) หรือกิจกรรมอื่นๆ เช่น พิธีลงนาม MOU TED Fellow Award ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
@@ -543,26 +544,6 @@
    "hits": [
     "ประชาสัมพันธ์",
     "รณรงค์"
-   ]
-  },
-  {
-   "pid": "69089589818",
-   "dept": "กรมการค้าต่างประเทศ",
-   "title": "ประกวดราคาจ้างการจัดกิจกรรมสร้างภาพลักษณ์และการตระหนักรู้สินค้านวัตกรรมข้าวและพืชเศรษฐกิจหลักไทยสู่ตลาดโลก ในงานแสดงสินค้า Beauty World Middle East 2026 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
-   "date": "28/08/2569",
-   "date_end": "02/09/2569",
-   "budget": 778000.0,
-   "status": "ระหว่างดำเนินการ",
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_2.jsp?tor_project_id=69089589818",
-   "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
-   "matched_keywords": [
-    "จัดกิจกรรม"
-   ],
-   "score": 5,
-   "fit": "น่าสนใจ",
-   "hits": [
-    "จัดกิจกรรม",
-    "ภาพลักษณ์"
    ]
   },
   {
@@ -672,6 +653,25 @@
    "status": "ระหว่างดำเนินการ",
    "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69089136961&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
    "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "ผลิตสื่อ"
+   ],
+   "score": 4,
+   "fit": "น่าสนใจ",
+   "hits": [
+    "ผลิตสื่อ"
+   ]
+  },
+  {
+   "pid": "69099012616",
+   "dept": "มหาวิทยาลัยเทคโนโลยีราชมงคลสุวรรณภูมิ",
+   "title": "ประกวดราคาจ้างเหมาผลิตสื่อการเรียนการสอนแบบออนไลน์ ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "03/09/2569",
+   "date_end": "08/09/2569",
+   "budget": 4000000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_2.jsp?tor_project_id=69099012616",
+   "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
    "matched_keywords": [
     "ผลิตสื่อ"
    ],
@@ -801,6 +801,25 @@
    ]
   },
   {
+   "pid": "69089324838",
+   "dept": "มหาวิทยาลัยสุโขทัยธรรมาธิราช",
+   "title": "ประกวดราคาเช่าช่องสัญญาณสถานีวิทยุและโทรทัศน์เพื่อการศึกษา ประจำปีงบประมาณ พ.ศ. 2570 (ตั้งแต่วันที่ 1 ตุลาคม 2569 ถึงวันที่ 30 กันยายน 2570) ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "03/09/2569",
+   "date_end": "",
+   "budget": 8000000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69089324838&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
+   "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "โทรทัศน์"
+   ],
+   "score": 3,
+   "fit": "น่าสนใจ",
+   "hits": [
+    "โทรทัศน์"
+   ]
+  },
+  {
    "pid": "69089134735",
    "dept": "จังหวัดชลบุรี",
    "title": "ประกวดราคาจ้างโครงการส่งเสริมและประชาสัมพันธ์การท่องเที่ยวและบริการ กิจกรรมหลัก สีสันอีอีซี (Colors of EEC) เพื่อส่งเสริมและประชาสัมพันธ์การท่องเที่ยว กลุ่มจังหวัดภาคตะวันออก 1 EEC in Green Season ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
@@ -877,15 +896,15 @@
    ]
   },
   {
-   "pid": "69089489461",
-   "dept": "เมืองพัทยา",
-   "title": "ประกวดราคาจ้างเหมาจัดทำปฏิทินตั้งโต๊ะเพื่อการประชาสัมพันธ์ ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
-   "date": "28/08/2569",
-   "date_end": "02/09/2569",
-   "budget": 2250000.0,
+   "pid": "69059108976",
+   "dept": "จังหวัดนครปฐม",
+   "title": "ประกวดราคาจ้างโครงการพัฒนานครปฐมให้เป็นศูนย์กลางเศรษฐกิจภาคกลาง และภาคตะวันตก กิจกรรมพัฒนาศักยภาพผู้ผลิต ผู้ประกอบการ OTOP และผลิตภัณฑ์ OTOP เพื่อส่งเสริมตลาดเชิงรุก กิจกรรมย่อยที่ 4 จัดแสดงสินค้าและประชาสัมพันธ์ผลิตภัณฑ์ OTOP ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "19/08/2569",
+   "date_end": "",
+   "budget": 2214000.0,
    "status": "ระหว่างดำเนินการ",
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_2.jsp?tor_project_id=69089489461",
-   "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69059108976&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
+   "announce_type": "ประกาศเชิญชวน",
    "matched_keywords": [
     "ประชาสัมพันธ์"
    ],
@@ -896,14 +915,14 @@
    ]
   },
   {
-   "pid": "69059108976",
-   "dept": "จังหวัดนครปฐม",
-   "title": "ประกวดราคาจ้างโครงการพัฒนานครปฐมให้เป็นศูนย์กลางเศรษฐกิจภาคกลาง และภาคตะวันตก กิจกรรมพัฒนาศักยภาพผู้ผลิต ผู้ประกอบการ OTOP และผลิตภัณฑ์ OTOP เพื่อส่งเสริมตลาดเชิงรุก กิจกรรมย่อยที่ 4 จัดแสดงสินค้าและประชาสัมพันธ์ผลิตภัณฑ์ OTOP ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
-   "date": "19/08/2569",
+   "pid": "69099066499",
+   "dept": "สำนักงานเลขาธิการวุฒิสภา",
+   "title": "ประกวดราคาจ้างเหมาบริการในการปฏิบัติงานประชาสัมพันธ์ผ่านช่องทางอิเล็กทรอนิกส์ ประจำปีงบประมาณ พ.ศ. 2570 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "02/09/2569",
    "date_end": "",
-   "budget": 2214000.0,
+   "budget": 2200000.0,
    "status": "ระหว่างดำเนินการ",
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69059108976&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69099066499&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
    "announce_type": "ประกาศเชิญชวน",
    "matched_keywords": [
     "ประชาสัมพันธ์"
@@ -1122,25 +1141,6 @@
    "fit": "เกี่ยวข้องน้อย",
    "hits": [
     "นิทรรศการ"
-   ]
-  },
-  {
-   "pid": "69089440259",
-   "dept": "สำนักงานคณะกรรมการอาหารและยา",
-   "title": "ประกวดราคาจ้างจัดงาน ThaiFDA International Health, Wellness and Longevity Innovation Forum 2026 (ThaiFDA WELLNEXT 2026) ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
-   "date": "28/08/2569",
-   "date_end": "02/09/2569",
-   "budget": 20000000.0,
-   "status": "ระหว่างดำเนินการ",
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_2.jsp?tor_project_id=69089440259",
-   "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
-   "matched_keywords": [
-    "จัดงาน"
-   ],
-   "score": 2,
-   "fit": "เกี่ยวข้องน้อย",
-   "hits": [
-    "จัดงาน"
    ]
   },
   {
