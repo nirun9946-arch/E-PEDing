@@ -1,10 +1,10 @@
 {
- "fetched_at": "03/09/2569 14:24",
+ "fetched_at": "03/09/2569 18:55",
  "range": {
   "from": "13/08/2569",
   "to": "03/09/2569"
  },
- "total": 92,
+ "total": 98,
  "requests": 33,
  "items": [
   {
@@ -77,6 +77,49 @@
     "ประชาสัมพันธ์",
     "ผลิตสื่อ",
     "เผยแพร่"
+   ]
+  },
+  {
+   "pid": "69089622755",
+   "dept": "การกีฬาแห่งประเทศไทย",
+   "title": "ประกวดราคาจ้างผลิตสื่อประชาสัมพันธ์ส่งเสริมกีฬามวยไทยและการท่องเที่ยวสำหรับเยาวชนและครอบครัว รายการ ลูกไม้มวยไทย (The Next Gen Fighter) ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "03/09/2569",
+   "date_end": "",
+   "budget": 2000000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69089622755&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
+   "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "ประชาสัมพันธ์",
+    "ผลิตสื่อ"
+   ],
+   "score": 9,
+   "fit": "เหมาะมาก",
+   "hits": [
+    "ประชาสัมพันธ์",
+    "ผลิตสื่อ",
+    "รายการ"
+   ]
+  },
+  {
+   "pid": "69089218680",
+   "dept": "กรมชลประทาน",
+   "title": "ประกวดราคาจ้างจัดทำโครงการจ้างจัดนิทรรศการส่งเสริมภาพลักษณ์องค์กรและสร้างการรับรู้งานชลประทานเชิงรุก ประจำปีงบประมาณ พ.ศ 2569 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "03/09/2569",
+   "date_end": "",
+   "budget": 9511840.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69089218680&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
+   "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "นิทรรศการ"
+   ],
+   "score": 8,
+   "fit": "เหมาะมาก",
+   "hits": [
+    "นิทรรศการ",
+    "ภาพลักษณ์",
+    "สร้างการรับรู้"
    ]
   },
   {
@@ -445,6 +488,27 @@
    ]
   },
   {
+   "pid": "69099085873",
+   "dept": "บริษัท ไทยแลนด์ พริวิเลจ คาร์ด จำกัด",
+   "title": "ประกวดราคาจ้างโครงการจ้างจัดกิจกรรมด้านการประชาสัมพันธ์ประจำปี ๒๕๗๐ ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "03/09/2569",
+   "date_end": "08/09/2569",
+   "budget": 3000000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_2.jsp?tor_project_id=69099085873",
+   "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
+   "matched_keywords": [
+    "ประชาสัมพันธ์",
+    "จัดกิจกรรม"
+   ],
+   "score": 5,
+   "fit": "น่าสนใจ",
+   "hits": [
+    "ประชาสัมพันธ์",
+    "จัดกิจกรรม"
+   ]
+  },
+  {
    "pid": "69089374199",
    "dept": "การไฟฟ้านครหลวง",
    "title": "ประกวดราคาจ้างจ้างเผยแพร่สื่อประชาสัมพันธ์ของการไฟฟ้านครหลวงทางวิทยุ คลื่น Cool Fahrenheit 93 FM ระหว่าง 1 ธันวาคม 2569 - 31 พฤษภาคม 2570 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
@@ -663,6 +727,25 @@
    ]
   },
   {
+   "pid": "69099068487",
+   "dept": "มหาวิทยาลัยมหามกุฏราชวิทยาลัย",
+   "title": "ประกวดราคาจ้างผลิตสื่อการเรียนรู้อิเล็กทรอนิกส์ (E-Learning) หลักสูตรนักธรรมและธรรมศึกษา ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "03/09/2569",
+   "date_end": "",
+   "budget": 4800000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69099068487&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
+   "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "ผลิตสื่อ"
+   ],
+   "score": 4,
+   "fit": "น่าสนใจ",
+   "hits": [
+    "ผลิตสื่อ"
+   ]
+  },
+  {
    "pid": "69099012616",
    "dept": "มหาวิทยาลัยเทคโนโลยีราชมงคลสุวรรณภูมิ",
    "title": "ประกวดราคาจ้างเหมาผลิตสื่อการเรียนการสอนแบบออนไลน์ ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
@@ -847,6 +930,25 @@
    "budget": 6794500.0,
    "status": "ระหว่างดำเนินการ",
    "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_2.jsp?tor_project_id=69089723388",
+   "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
+   "matched_keywords": [
+    "ประชาสัมพันธ์"
+   ],
+   "score": 3,
+   "fit": "น่าสนใจ",
+   "hits": [
+    "ประชาสัมพันธ์"
+   ]
+  },
+  {
+   "pid": "69079527098",
+   "dept": "สำนักงานกองทุนหมู่บ้านและชุมชนเมืองแห่งชาติ",
+   "title": "ประกวดราคาจ้างโครงการสื่อสร้างสรรค์และการประชาสัมพันธ์ออนไลน์กองทุนหมู่บ้านและชุมชนเมืองแห่งชาติ ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "03/09/2569",
+   "date_end": "08/09/2569",
+   "budget": 4000000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_2.jsp?tor_project_id=69079527098",
    "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
    "matched_keywords": [
     "ประชาสัมพันธ์"
@@ -1513,6 +1615,25 @@
    "budget": 1900000.0,
    "status": "ระหว่างดำเนินการ",
    "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69089438139&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
+   "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "จัดกิจกรรม"
+   ],
+   "score": 2,
+   "fit": "เกี่ยวข้องน้อย",
+   "hits": [
+    "จัดกิจกรรม"
+   ]
+  },
+  {
+   "pid": "69099068904",
+   "dept": "โรงเรียนหาดใหญ่วิทยาลัย",
+   "title": "ประกวดราคาจ้างเหมาทัวร์ในการจัดกิจกรรมค่ายวิชาการบูรณาการทักษะ และกิจกรรม Block Course ของนักเรียนระดับชั้นมัธยมศึกษาปีที่ ๕ โครงการ SMA จากหาดใหญ่ กรุงเทพมหานคร ระหว่างวันที่ ๕ - ๘ พฤศจิกายน ๒๕๖๙ ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "03/09/2569",
+   "date_end": "",
+   "budget": 1760000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69099068904&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
    "announce_type": "ประกาศเชิญชวน",
    "matched_keywords": [
     "จัดกิจกรรม"
