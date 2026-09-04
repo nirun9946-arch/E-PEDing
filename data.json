@@ -1,10 +1,10 @@
 {
- "fetched_at": "04/09/2569 14:26",
+ "fetched_at": "04/09/2569 20:44",
  "range": {
   "from": "14/08/2569",
   "to": "04/09/2569"
  },
- "total": 96,
+ "total": 99,
  "requests": 33,
  "items": [
   {
@@ -313,6 +313,26 @@
    "hits": [
     "ประชาสัมพันธ์",
     "ภาพลักษณ์"
+   ]
+  },
+  {
+   "pid": "69089633980",
+   "dept": "สำนักงานกองทุนหมู่บ้านและชุมชนเมืองแห่งชาติ",
+   "title": "ประกวดราคาจ้างโครงการประชาสัมพันธ์สร้างการรับรู้และความเข้าใจ เพื่อขับเคลื่อนโครงการไทยช่วยไทย เพิ่มทุน ดอกเบี้ยคนละครึ่ง ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "04/09/2569",
+   "date_end": "",
+   "budget": 7500000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69089633980&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
+   "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "ประชาสัมพันธ์"
+   ],
+   "score": 6,
+   "fit": "เหมาะมาก",
+   "hits": [
+    "ประชาสัมพันธ์",
+    "สร้างการรับรู้"
    ]
   },
   {
@@ -1182,6 +1202,25 @@
    ]
   },
   {
+   "pid": "69099053625",
+   "dept": "เทศบาลตำบลป่าโมก",
+   "title": "ประกวดราคาจ้างโครงการประชาสัมพันธ์และการตลาดเพื่อการท่องเที่ยว กิจกรรมการแข่งขันเรือยาวประเพณี ประจำปี 2569 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "04/09/2569",
+   "date_end": "09/09/2569",
+   "budget": 1000000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_2.jsp?tor_project_id=69099053625",
+   "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
+   "matched_keywords": [
+    "ประชาสัมพันธ์"
+   ],
+   "score": 3,
+   "fit": "น่าสนใจ",
+   "hits": [
+    "ประชาสัมพันธ์"
+   ]
+  },
+  {
    "pid": "69089371066",
    "dept": "กองทุนพัฒนาสื่อปลอดภัยและสร้างสรรค์",
    "title": "ประกวดราคาจ้างศึกษาแนวทางในการพัฒนาแพลตฟอร์มกลางเพื่อเผยแพร่เนื้อหาสื่อปลอดภัยและสร้างสรรค์ ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
@@ -1237,6 +1276,25 @@
    "fit": "น่าสนใจ",
    "hits": [
     "โทรทัศน์"
+   ]
+  },
+  {
+   "pid": "69089693844",
+   "dept": "สำนักงานปลัดกระทรวงวัฒนธรรม",
+   "title": "ประกวดราคาจ้างจัดแสดงนิทรรศการศิลปะ ณ หอศิลป์แห่งชาติ ประจำปีงบประมาณ พ.ศ. 2569 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "04/09/2569",
+   "date_end": "",
+   "budget": 98358000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69089693844&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
+   "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "นิทรรศการ"
+   ],
+   "score": 2,
+   "fit": "เกี่ยวข้องน้อย",
+   "hits": [
+    "นิทรรศการ"
    ]
   },
   {
