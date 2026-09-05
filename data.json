@@ -1,10 +1,10 @@
 {
- "fetched_at": "04/09/2569 20:44",
+ "fetched_at": "05/09/2569 14:07",
  "range": {
-  "from": "14/08/2569",
-  "to": "04/09/2569"
+  "from": "15/08/2569",
+  "to": "05/09/2569"
  },
- "total": 99,
+ "total": 92,
  "requests": 33,
  "items": [
   {
@@ -524,26 +524,6 @@
    ]
   },
   {
-   "pid": "69089273156",
-   "dept": "สำนักงานปลัดกระทรวงการอุดมศึกษา วิทยาศาสตร์ วิจัยและนวัตกรรม สำนักงานกองทุนพัฒนาผู้ประกอบการเทคโนโลยีและนวัตกรรม",
-   "title": "ประกวดราคาจ้างเหมาจัดกิจกรรมสร้างการรับรู้การดำเนินงานของเครือข่ายร่วมพัฒนาผู้ประกอบการ (TED Fellow) หรือกิจกรรมอื่นๆ เช่น พิธีลงนาม MOU TED Fellow Award ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
-   "date": "14/08/2569",
-   "date_end": "",
-   "budget": 1500000.0,
-   "status": "ระหว่างดำเนินการ",
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69089273156&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
-   "announce_type": "ประกาศเชิญชวน",
-   "matched_keywords": [
-    "จัดกิจกรรม"
-   ],
-   "score": 5,
-   "fit": "น่าสนใจ",
-   "hits": [
-    "จัดกิจกรรม",
-    "สร้างการรับรู้"
-   ]
-  },
-  {
    "pid": "69089675151",
    "dept": "กรมหม่อนไหม",
    "title": "ประกวดราคาจ้างจัดงานโครงการประชาสัมพันธ์และส่งเสริมการจำหน่ายผ้าไหมและผลิตภัณฑ์หม่อนไหมดี 4 ภาค งาน มหกรรมหม่อนไหมดี 4 ภาค ประจำปี 2569 จังหวัดขอนแก่น ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
@@ -800,27 +780,6 @@
    ]
   },
   {
-   "pid": "69089123389",
-   "dept": "สำนักงานศิลปวัฒนธรรมร่วมสมัย",
-   "title": "ประกวดราคาจ้างจัดนิทรรศการแสดงผลงานของโครงการอุดหนุนและส่งเสริมวรรณกรรมร่วมสมัยเพื่อเผยแพร่สู่เวทีนานาชาติ ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
-   "date": "14/08/2569",
-   "date_end": "",
-   "budget": 2136060.0,
-   "status": "ระหว่างดำเนินการ",
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69089123389&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
-   "announce_type": "ประกาศเชิญชวน",
-   "matched_keywords": [
-    "เผยแพร่",
-    "นิทรรศการ"
-   ],
-   "score": 4,
-   "fit": "น่าสนใจ",
-   "hits": [
-    "เผยแพร่",
-    "นิทรรศการ"
-   ]
-  },
-  {
    "pid": "69089130840",
    "dept": "คณะแพทยศาสตร์ จุฬาลงกรณ์มหาวิทยาลัย",
    "title": "ประกวดราคาจ้างทำ Online Learning Platform ด้านการจัดซื้อจัดจ้างผลิตสื่อการเรียนการสอน จำนวน ๒๐๐ ชิ้นงาน ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
@@ -829,25 +788,6 @@
    "budget": 2000000.0,
    "status": "ระหว่างดำเนินการ",
    "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69089130840&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
-   "announce_type": "ประกาศเชิญชวน",
-   "matched_keywords": [
-    "ผลิตสื่อ"
-   ],
-   "score": 4,
-   "fit": "น่าสนใจ",
-   "hits": [
-    "ผลิตสื่อ"
-   ]
-  },
-  {
-   "pid": "69089146276",
-   "dept": "กรมการศาสนา",
-   "title": "ประกวดราคาจ้างจัดจ้างผลิตสื่อเสริมสร้างคุณธรรมจริยธรรม ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
-   "date": "14/08/2569",
-   "date_end": "",
-   "budget": 1084300.0,
-   "status": "ระหว่างดำเนินการ",
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69089146276&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
    "announce_type": "ประกาศเชิญชวน",
    "matched_keywords": [
     "ผลิตสื่อ"
@@ -1012,25 +952,6 @@
    ]
   },
   {
-   "pid": "69089123711",
-   "dept": "องค์การบริหารส่วนจังหวัดพิษณุโลก",
-   "title": "ประกวดราคาจ้างโครงการส่งเสริมและประชาสัมพันธ์การท่องเที่ยวจังหวัดพิษณุโลก กิจกรรมการจัดแสดงอากาศยานไร้คนขับ น่านนทีราชศรัทธา Nan River of Glory (566 004) ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
-   "date": "14/08/2569",
-   "date_end": "",
-   "budget": 2745620.0,
-   "status": "ระหว่างดำเนินการ",
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69089123711&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
-   "announce_type": "ประกาศเชิญชวน",
-   "matched_keywords": [
-    "ประชาสัมพันธ์"
-   ],
-   "score": 3,
-   "fit": "น่าสนใจ",
-   "hits": [
-    "ประชาสัมพันธ์"
-   ]
-  },
-  {
    "pid": "69059108976",
    "dept": "จังหวัดนครปฐม",
    "title": "ประกวดราคาจ้างโครงการพัฒนานครปฐมให้เป็นศูนย์กลางเศรษฐกิจภาคกลาง และภาคตะวันตก กิจกรรมพัฒนาศักยภาพผู้ผลิต ผู้ประกอบการ OTOP และผลิตภัณฑ์ OTOP เพื่อส่งเสริมตลาดเชิงรุก กิจกรรมย่อยที่ 4 จัดแสดงสินค้าและประชาสัมพันธ์ผลิตภัณฑ์ OTOP ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
@@ -1115,25 +1036,6 @@
    "budget": 1545200.0,
    "status": "ระหว่างดำเนินการ",
    "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69089649385&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
-   "announce_type": "ประกาศเชิญชวน",
-   "matched_keywords": [
-    "ประชาสัมพันธ์"
-   ],
-   "score": 3,
-   "fit": "น่าสนใจ",
-   "hits": [
-    "ประชาสัมพันธ์"
-   ]
-  },
-  {
-   "pid": "69069404289",
-   "dept": "องค์การบริหารส่วนจังหวัดเพชรบูรณ์",
-   "title": "ประกวดราคาจ้างโครงการจัดทำคู่มือประชาสัมพันธ์การท่องเที่ยวจังหวัดเพชรบูรณ์ ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
-   "date": "14/08/2569",
-   "date_end": "",
-   "budget": 1500000.0,
-   "status": "ระหว่างดำเนินการ",
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69069404289&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
    "announce_type": "ประกาศเชิญชวน",
    "matched_keywords": [
     "ประชาสัมพันธ์"
@@ -1564,25 +1466,6 @@
    ]
   },
   {
-   "pid": "69089202101",
-   "dept": "บริษัท ปตท. จำกัด (มหาชน)",
-   "title": "ประกวดราคาจ้างจัดกิจกรรมผู้ถือหุ้นเยี่ยมชมกิจการของ ปตท. ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
-   "date": "14/08/2569",
-   "date_end": "",
-   "budget": 2100000.0,
-   "status": "ระหว่างดำเนินการ",
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69089202101&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
-   "announce_type": "ประกาศเชิญชวน",
-   "matched_keywords": [
-    "จัดกิจกรรม"
-   ],
-   "score": 2,
-   "fit": "เกี่ยวข้องน้อย",
-   "hits": [
-    "จัดกิจกรรม"
-   ]
-  },
-  {
    "pid": "69079236300",
    "dept": "เทศบาลเมืองชลบุรี",
    "title": "ประกวดราคาจ้างโครงการจัดงานประเพณีวิ่งควายจังหวัดชลบุรี ประจำปี พ.ศ.๒๕๖๙ ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
@@ -1922,25 +1805,6 @@
    "fit": "เกี่ยวข้องน้อย",
    "hits": [
     "จัดกิจกรรม"
-   ]
-  },
-  {
-   "pid": "69089322713",
-   "dept": "จังหวัดนนทบุรี",
-   "title": "ประกวดราคาจ้างดำเนินการโครงการ BCG Model สู่ความยั่งยืน กิจกรรมการจัดแสดงนิทรรศการ BCG Model จังหวัดนนทบุรีและจัดจำหน่ายผลิตภัณฑ์ OTOP/ผลิตภัณฑ์ชุมชน ของจังหวัดนนทบุรี ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
-   "date": "14/08/2569",
-   "date_end": "",
-   "budget": 700000.0,
-   "status": "ระหว่างดำเนินการ",
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69089322713&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
-   "announce_type": "ประกาศเชิญชวน",
-   "matched_keywords": [
-    "นิทรรศการ"
-   ],
-   "score": 2,
-   "fit": "เกี่ยวข้องน้อย",
-   "hits": [
-    "นิทรรศการ"
    ]
   },
   {
