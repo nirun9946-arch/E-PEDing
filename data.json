@@ -1,10 +1,10 @@
 {
- "fetched_at": "06/09/2569 20:06",
+ "fetched_at": "07/09/2569 14:34",
  "range": {
-  "from": "16/08/2569",
-  "to": "06/09/2569"
+  "from": "17/08/2569",
+  "to": "07/09/2569"
  },
- "total": 92,
+ "total": 95,
  "requests": 33,
  "items": [
   {
@@ -354,6 +354,26 @@
    "hits": [
     "ประชาสัมพันธ์",
     "โฆษณา"
+   ]
+  },
+  {
+   "pid": "69089463812",
+   "dept": "สำนักงานคณะกรรมการส่งเสริมการลงทุน",
+   "title": "ประกวดราคาจ้างเหมาประชาสัมพันธ์และบริหารจัดการสื่อสังคมออนไลน์ (Social Media) ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "07/09/2569",
+   "date_end": "10/09/2569",
+   "budget": 1500000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_2.jsp?tor_project_id=69089463812",
+   "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
+   "matched_keywords": [
+    "ประชาสัมพันธ์"
+   ],
+   "score": 6,
+   "fit": "เหมาะมาก",
+   "hits": [
+    "ประชาสัมพันธ์",
+    "สื่อสังคมออนไลน์"
    ]
   },
   {
@@ -1722,6 +1742,44 @@
    "status": "ระหว่างดำเนินการ",
    "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69089545186&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
    "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "จัดกิจกรรม"
+   ],
+   "score": 2,
+   "fit": "เกี่ยวข้องน้อย",
+   "hits": [
+    "จัดกิจกรรม"
+   ]
+  },
+  {
+   "pid": "69099154552",
+   "dept": "โรงเรียนเตรียมอุดมศึกษาพัฒนาการ นนทบุรี",
+   "title": "ประกวดราคาจ้างจัดกิจกรรมค่ายพัฒนาศักยภาพด้านวิทยาศาสตร์ คณิตศาสตร์ และ STEM เชิงวิศวกรรมและปัญญาประดิษฐ์ Junior Innovators Camp ระดับชั้นมัธยมศึกษาปีที่ 1-3 จำนวน 216 คน ครูผู้ควบคุม 16 คน รวม 232 คน ณ จังหวัดเพชรบุรี ระหว่างวันที่ 27-29 พฤศจิกายน 2569 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "07/09/2569",
+   "date_end": "10/09/2569",
+   "budget": 907200.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_2.jsp?tor_project_id=69099154552",
+   "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
+   "matched_keywords": [
+    "จัดกิจกรรม"
+   ],
+   "score": 2,
+   "fit": "เกี่ยวข้องน้อย",
+   "hits": [
+    "จัดกิจกรรม"
+   ]
+  },
+  {
+   "pid": "69099150684",
+   "dept": "โรงเรียนเตรียมอุดมศึกษาพัฒนาการ นนทบุรี",
+   "title": "ประกวดราคาจ้างจัดกิจกรรมค่ายพัฒนาศักยภาพด้านวิทยาศาสตร์ คณิตศาสตร์ และ STEM เชิงวิศวกรรมและปัญญาประดิษฐ์ Junior Innovators Camp ระดับชั้นมัธยมศึกษาปีที่ 1-3 ณ จังหวัดเพชรบุรี ระหว่างวันที่ 27-29 พฤศจิกายน 2569 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "07/09/2569",
+   "date_end": "10/09/2569",
+   "budget": 907200.0,
+   "status": "ยกเลิกโครงการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_2.jsp?tor_project_id=69099150684",
+   "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
    "matched_keywords": [
     "จัดกิจกรรม"
    ],
