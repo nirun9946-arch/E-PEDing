@@ -1,10 +1,10 @@
 {
- "fetched_at": "07/09/2569 14:34",
+ "fetched_at": "07/09/2569 20:15",
  "range": {
   "from": "17/08/2569",
   "to": "07/09/2569"
  },
- "total": 95,
+ "total": 99,
  "requests": 33,
  "items": [
   {
@@ -207,6 +207,28 @@
    ]
   },
   {
+   "pid": "69099054129",
+   "dept": "สำนักงานเทคโนโลยีและนวัตกรรมด้านชีววิทยาศาสตร์ (องค์การมหาชน)",
+   "title": "ประกวดราคาจ้างจัดจ้างเผยแพร่ประชาสัมพันธ์และสร้างภาพลักษณ์องค์กร (PR) ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "07/09/2569",
+   "date_end": "",
+   "budget": 1000000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69099054129&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
+   "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "ประชาสัมพันธ์",
+    "เผยแพร่"
+   ],
+   "score": 8,
+   "fit": "เหมาะมาก",
+   "hits": [
+    "ประชาสัมพันธ์",
+    "เผยแพร่",
+    "ภาพลักษณ์"
+   ]
+  },
+  {
    "pid": "69089445327",
    "dept": "การไฟฟ้านครหลวง",
    "title": "ประกวดราคาจ้างเผยแพร่สื่อประชาสัมพันธ์ของการไฟฟ้านครหลวงทางสื่อออนไลน์ YouTube Facebook Instagram TikTok และ Streaming ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
@@ -293,6 +315,26 @@
    "hits": [
     "โทรทัศน์",
     "สารคดี"
+   ]
+  },
+  {
+   "pid": "69099177041",
+   "dept": "ธนาคารเพื่อการเกษตรและสหกรณ์การเกษตร",
+   "title": "ประกวดราคาจ้างผลิตสื่อสิ่งพิมพ์เทศกาลปีใหม่ ประจำปี พ.ศ. 2570 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "07/09/2569",
+   "date_end": "10/09/2569",
+   "budget": 38461446.1,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_2.jsp?tor_project_id=69099177041",
+   "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
+   "matched_keywords": [
+    "ผลิตสื่อ"
+   ],
+   "score": 6,
+   "fit": "เหมาะมาก",
+   "hits": [
+    "ผลิตสื่อ",
+    "สื่อสิ่งพิมพ์"
    ]
   },
   {
@@ -519,6 +561,27 @@
    "fit": "น่าสนใจ",
    "hits": [
     "ประชาสัมพันธ์",
+    "จัดกิจกรรม"
+   ]
+  },
+  {
+   "pid": "69099165328",
+   "dept": "กองทุนพัฒนาสื่อปลอดภัยและสร้างสรรค์",
+   "title": "ประกวดราคาจ้างจัดกิจกรรมเวทีเสวนาวิชาการ ทิศทางอุตสาหกรรมสื่อและคอนเทนต์ไทย ปี 2570 โอกาส ความท้าทาย และการขับเคลื่อนเชิงยุทธศาสตร์สู่สากล ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "07/09/2569",
+   "date_end": "",
+   "budget": 1800000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69099165328&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
+   "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "จัดกิจกรรม",
+    "คอนเทนต์"
+   ],
+   "score": 5,
+   "fit": "น่าสนใจ",
+   "hits": [
+    "คอนเทนต์",
     "จัดกิจกรรม"
    ]
   },
@@ -961,6 +1024,25 @@
    "budget": 3000000.0,
    "status": "ระหว่างดำเนินการ",
    "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69079563283&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
+   "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "ประชาสัมพันธ์"
+   ],
+   "score": 3,
+   "fit": "น่าสนใจ",
+   "hits": [
+    "ประชาสัมพันธ์"
+   ]
+  },
+  {
+   "pid": "69089489461",
+   "dept": "เมืองพัทยา",
+   "title": "ประกวดราคาจ้างเหมาจัดทำปฏิทินตั้งโต๊ะเพื่อการประชาสัมพันธ์ ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "07/09/2569",
+   "date_end": "",
+   "budget": 2250000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69089489461&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
    "announce_type": "ประกาศเชิญชวน",
    "matched_keywords": [
     "ประชาสัมพันธ์"
