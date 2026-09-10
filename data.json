@@ -1,10 +1,10 @@
 {
- "fetched_at": "10/09/2569 14:31",
+ "fetched_at": "10/09/2569 19:03",
  "range": {
   "from": "20/08/2569",
   "to": "10/09/2569"
  },
- "total": 91,
+ "total": 95,
  "requests": 34,
  "items": [
   {
@@ -1165,6 +1165,25 @@
    ]
   },
   {
+   "pid": "69099053625",
+   "dept": "เทศบาลตำบลป่าโมก",
+   "title": "ประกวดราคาจ้างโครงการประชาสัมพันธ์และการตลาดเพื่อการท่องเที่ยว กิจกรรมการแข่งขันเรือยาวประเพณี ประจำปี 2569 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "10/09/2569",
+   "date_end": "",
+   "budget": 1000000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69099053625&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
+   "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "ประชาสัมพันธ์"
+   ],
+   "score": 3,
+   "fit": "น่าสนใจ",
+   "hits": [
+    "ประชาสัมพันธ์"
+   ]
+  },
+  {
    "pid": "69089295346",
    "dept": "เมืองพัทยา",
    "title": "ประกวดราคาจ้างเหมาจัดทำวีดิทัศน์แนะนำเมืองพัทยา ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
@@ -1317,6 +1336,25 @@
    ]
   },
   {
+   "pid": "69089518896",
+   "dept": "สำนักงานคณะกรรมการอาหารและยา",
+   "title": "ประกวดราคาจ้างจัดงานด้านผลิตภัณฑ์ยาเพื่อการบำบัดรักษาขั้นสูง (Advanced Therapy Medicinal Products ATMPs) ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "10/09/2569",
+   "date_end": "15/09/2569",
+   "budget": 6000000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_2.jsp?tor_project_id=69089518896",
+   "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
+   "matched_keywords": [
+    "จัดงาน"
+   ],
+   "score": 2,
+   "fit": "เกี่ยวข้องน้อย",
+   "hits": [
+    "จัดงาน"
+   ]
+  },
+  {
    "pid": "69089664230",
    "dept": "เทศบาลเมืองเพชรบูรณ์",
    "title": "ประกวดราคาจ้างเหมาจัดงานประเพณีอุ้มพระดำน้ำประจำปี ๒๕๖๙ (งบเทศบาลฯ) ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
@@ -1447,6 +1485,25 @@
    "fit": "เกี่ยวข้องน้อย",
    "hits": [
     "จัดงาน"
+   ]
+  },
+  {
+   "pid": "69099261424",
+   "dept": "สำนักงานเขตพื้นที่การศึกษามัธยมศึกษานนทบุรี",
+   "title": "ประกวดราคาจ้างโครงการจัดนิทรรศการแสดงผลงานการจัดการศึกษาขั้นพื้นฐาน OBEC Academic Fair 2026 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "10/09/2569",
+   "date_end": "",
+   "budget": 2000000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69099261424&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
+   "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "นิทรรศการ"
+   ],
+   "score": 2,
+   "fit": "เกี่ยวข้องน้อย",
+   "hits": [
+    "นิทรรศการ"
    ]
   },
   {
@@ -1743,6 +1800,25 @@
    "budget": 900000.0,
    "status": "ระหว่างดำเนินการ",
    "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69089320627&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
+   "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "จัดงาน"
+   ],
+   "score": 2,
+   "fit": "เกี่ยวข้องน้อย",
+   "hits": [
+    "จัดงาน"
+   ]
+  },
+  {
+   "pid": "69099233778",
+   "dept": "กองทุนการออมแห่งชาติ (กอช.)",
+   "title": "ประกวดราคาจ้างเหมาบริการจัดงานวันออมแห่งชาติ ประจำปี 2569 กองทุนการออมแห่งชาติ ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "10/09/2569",
+   "date_end": "",
+   "budget": 800000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69099233778&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
    "announce_type": "ประกาศเชิญชวน",
    "matched_keywords": [
     "จัดงาน"
