@@ -1,10 +1,10 @@
 {
- "fetched_at": "11/09/2569 14:30",
+ "fetched_at": "11/09/2569 19:01",
  "range": {
   "from": "21/08/2569",
   "to": "11/09/2569"
  },
- "total": 91,
+ "total": 96,
  "requests": 33,
  "items": [
   {
@@ -300,6 +300,26 @@
    "status": "ระหว่างดำเนินการ",
    "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69069610577&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
    "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "ประชาสัมพันธ์"
+   ],
+   "score": 6,
+   "fit": "เหมาะมาก",
+   "hits": [
+    "ประชาสัมพันธ์",
+    "ภาพลักษณ์"
+   ]
+  },
+  {
+   "pid": "69069455200",
+   "dept": "จังหวัดกระบี่",
+   "title": "ประกวดราคาจ้างโครงการประชาสัมพันธ์และสร้างภาพลักษณ์ที่ดีทางการท่องเที่ยวจังหวัดกระบี่ กิจกรรม เทศกาลอ่าวนางบีทเฟสติวัล (AONANG BEAT FESTIVAL) ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "11/09/2569",
+   "date_end": "16/09/2569",
+   "budget": 3600000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_2.jsp?tor_project_id=69069455200",
+   "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
    "matched_keywords": [
     "ประชาสัมพันธ์"
    ],
@@ -681,6 +701,25 @@
    "hits": [
     "จัดกิจกรรม",
     "ภาพลักษณ์"
+   ]
+  },
+  {
+   "pid": "69099315520",
+   "dept": "กองทุนพัฒนาสื่อปลอดภัยและสร้างสรรค์",
+   "title": "ประกวดราคาจ้างจ้างจัดอบรมเพื่อพัฒนาศักยภาพผู้ผลิตสื่อโดยใช้ปัญญาประดิษฐ์ (AI) สำหรับการผลิตสื่อละครแนวตั้งระยะสั้น (Vertical Short Drama) โดยความร่วมมือกับต่างประเทศ ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "11/09/2569",
+   "date_end": "",
+   "budget": 5000000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69099315520&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
+   "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "ผลิตสื่อ"
+   ],
+   "score": 4,
+   "fit": "น่าสนใจ",
+   "hits": [
+    "ผลิตสื่อ"
    ]
   },
   {
@@ -1277,6 +1316,25 @@
    ]
   },
   {
+   "pid": "69099206597",
+   "dept": "การยางแห่งประเทศไทย",
+   "title": "ประกวดราคาจ้างจัดนิทรรศการงานมหกรรมพืชสวนโลกจังหวัดอุดรธานี พ.ศ. 2569 ของการยางแห่งประเทศไทย ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "11/09/2569",
+   "date_end": "",
+   "budget": 7380000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69099206597&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
+   "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "นิทรรศการ"
+   ],
+   "score": 2,
+   "fit": "เกี่ยวข้องน้อย",
+   "hits": [
+    "นิทรรศการ"
+   ]
+  },
+  {
    "pid": "69089577695",
    "dept": "กองทุนพัฒนาสื่อปลอดภัยและสร้างสรรค์",
    "title": "ประกวดราคาจ้างจัดงานนครแห่งมรดกโลกปลุกพลังวัฒนธรรมใต้ผ่านสื่อปลอดภัยและสร้างสรรค์ ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
@@ -1505,6 +1563,25 @@
    ]
   },
   {
+   "pid": "69099253128",
+   "dept": "ธนาคารอาคารสงเคราะห์",
+   "title": "ประกวดราคาจ้างจัดกิจกรรมโครงการเสริมความรู้บุตรผู้ปฏิบัติงาน เดือนตุลาคม 2569 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "11/09/2569",
+   "date_end": "",
+   "budget": 1950000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69099253128&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
+   "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "จัดกิจกรรม"
+   ],
+   "score": 2,
+   "fit": "เกี่ยวข้องน้อย",
+   "hits": [
+    "จัดกิจกรรม"
+   ]
+  },
+  {
    "pid": "69089438139",
    "dept": "องค์การกระจายเสียงและแพร่ภาพสาธารณะแห่งประเทศไทย(ส.ส.ท.)",
    "title": "ประกวดราคาจ้างจัดกิจกรรม Thai PBS Kids Festival มหัศจรรย์พลังคิดส์ ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
@@ -1552,6 +1629,25 @@
    "status": "ระหว่างดำเนินการ",
    "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69089284322&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
    "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "จัดกิจกรรม"
+   ],
+   "score": 2,
+   "fit": "เกี่ยวข้องน้อย",
+   "hits": [
+    "จัดกิจกรรม"
+   ]
+  },
+  {
+   "pid": "69099181910",
+   "dept": "สำนักงานสลากกินแบ่งรัฐบาล",
+   "title": "ประกวดราคาจ้างจัดกิจกรรมเสริมสร้างสุขภาพให้กับผู้ใช้บริการ GLO Park ประจำปีงบประมาณ 2570 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "11/09/2569",
+   "date_end": "16/09/2569",
+   "budget": 1500000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_2.jsp?tor_project_id=69099181910",
+   "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
    "matched_keywords": [
     "จัดกิจกรรม"
    ],
