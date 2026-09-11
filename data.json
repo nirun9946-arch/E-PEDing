@@ -1,11 +1,11 @@
 {
- "fetched_at": "10/09/2569 20:48",
+ "fetched_at": "11/09/2569 14:30",
  "range": {
-  "from": "20/08/2569",
-  "to": "10/09/2569"
+  "from": "21/08/2569",
+  "to": "11/09/2569"
  },
- "total": 96,
- "requests": 34,
+ "total": 91,
+ "requests": 33,
  "items": [
   {
    "pid": "69089215614",
@@ -251,26 +251,6 @@
    ]
   },
   {
-   "pid": "69099177041",
-   "dept": "ธนาคารเพื่อการเกษตรและสหกรณ์การเกษตร",
-   "title": "ประกวดราคาจ้างผลิตสื่อสิ่งพิมพ์เทศกาลปีใหม่ ประจำปี พ.ศ. 2570 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
-   "date": "07/09/2569",
-   "date_end": "10/09/2569",
-   "budget": 38461446.1,
-   "status": "ระหว่างดำเนินการ",
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_2.jsp?tor_project_id=69099177041",
-   "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
-   "matched_keywords": [
-    "ผลิตสื่อ"
-   ],
-   "score": 6,
-   "fit": "เหมาะมาก",
-   "hits": [
-    "ผลิตสื่อ",
-    "สื่อสิ่งพิมพ์"
-   ]
-  },
-  {
    "pid": "69069428521",
    "dept": "องค์การบริหารส่วนจังหวัดสมุทรปราการ",
    "title": "ประกวดราคาจ้างโครงการเสริมสร้างภาพลักษณ์และประชาสัมพันธ์การท่องเที่ยวจังหวัดสมุทรปราการ ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
@@ -349,26 +329,6 @@
    "hits": [
     "ประชาสัมพันธ์",
     "โฆษณา"
-   ]
-  },
-  {
-   "pid": "69089463812",
-   "dept": "สำนักงานคณะกรรมการส่งเสริมการลงทุน",
-   "title": "ประกวดราคาจ้างเหมาประชาสัมพันธ์และบริหารจัดการสื่อสังคมออนไลน์ (Social Media) ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
-   "date": "07/09/2569",
-   "date_end": "10/09/2569",
-   "budget": 1500000.0,
-   "status": "ระหว่างดำเนินการ",
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_2.jsp?tor_project_id=69089463812",
-   "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
-   "matched_keywords": [
-    "ประชาสัมพันธ์"
-   ],
-   "score": 6,
-   "fit": "เหมาะมาก",
-   "hits": [
-    "ประชาสัมพันธ์",
-    "สื่อสังคมออนไลน์"
    ]
   },
   {
@@ -937,6 +897,25 @@
    ]
   },
   {
+   "pid": "69079527098",
+   "dept": "สำนักงานกองทุนหมู่บ้านและชุมชนเมืองแห่งชาติ",
+   "title": "ประกวดราคาจ้างโครงการสื่อสร้างสรรค์และการประชาสัมพันธ์ออนไลน์กองทุนหมู่บ้านและชุมชนเมืองแห่งชาติ ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "11/09/2569",
+   "date_end": "",
+   "budget": 4000000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69079527098&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
+   "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "ประชาสัมพันธ์"
+   ],
+   "score": 3,
+   "fit": "น่าสนใจ",
+   "hits": [
+    "ประชาสัมพันธ์"
+   ]
+  },
+  {
    "pid": "69099211615",
    "dept": "สำนักงานนวัตกรรมแห่งชาติ (องค์การมหาชน)",
    "title": "ประกวดราคาจ้างจ้างเหมาบริการประชาสัมพันธ์และการสื่อสารทั้งในและต่างประเทศ ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
@@ -983,25 +962,6 @@
    "budget": 3000000.0,
    "status": "ระหว่างดำเนินการ",
    "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69069388743&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
-   "announce_type": "ประกาศเชิญชวน",
-   "matched_keywords": [
-    "ประชาสัมพันธ์"
-   ],
-   "score": 3,
-   "fit": "น่าสนใจ",
-   "hits": [
-    "ประชาสัมพันธ์"
-   ]
-  },
-  {
-   "pid": "69079563283",
-   "dept": "สำนักงานกองทุนหมู่บ้านและชุมชนเมืองแห่งชาติ",
-   "title": "ประกวดราคาจ้างโครงการประชาสัมพันธ์ศักยภาพผลิตภัณฑ์กองทุนหมู่บ้านและชุมชนเมืองระดับตำบลที่โดดเด่นในกิจกรรมระดับประเทศ ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
-   "date": "20/08/2569",
-   "date_end": "",
-   "budget": 3000000.0,
-   "status": "ระหว่างดำเนินการ",
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69079563283&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
    "announce_type": "ประกาศเชิญชวน",
    "matched_keywords": [
     "ประชาสัมพันธ์"
@@ -1078,25 +1038,6 @@
    "budget": 2000000.0,
    "status": "ระหว่างดำเนินการ",
    "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69089414015&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
-   "announce_type": "ประกาศเชิญชวน",
-   "matched_keywords": [
-    "ประชาสัมพันธ์"
-   ],
-   "score": 3,
-   "fit": "น่าสนใจ",
-   "hits": [
-    "ประชาสัมพันธ์"
-   ]
-  },
-  {
-   "pid": "69089263340",
-   "dept": "จังหวัดศรีสะเกษ",
-   "title": "ประกวดราคาจ้างโครงการส่งเสริมการประชาสัมพันธ์และกิจกรรมการท่องเที่ยว กิจกรรม พัฒนาแหล่งท่องเที่ยว เพื่อเชื่อมโยงกิจกรรมการท่องเที่ยว อำเภอขุขันธ์ ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
-   "date": "20/08/2569",
-   "date_end": "",
-   "budget": 1975000.0,
-   "status": "ระหว่างดำเนินการ",
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69089263340&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
    "announce_type": "ประกาศเชิญชวน",
    "matched_keywords": [
     "ประชาสัมพันธ์"
@@ -1621,6 +1562,25 @@
    ]
   },
   {
+   "pid": "69099133255",
+   "dept": "จังหวัดสงขลา",
+   "title": "ประกวดราคาจ้างโครงการส่งเสริมช่องทางการตลาด ผู้ประกอบการ OTOP วิสาหกิจชุมชน และชุมชนท่องเที่ยว กิจกรรม การจัดงานมหัศจรรย์วิถีสมุทรสทิงพระ ยลวิถี โหนด นา เล เสน่ห์สงขลา ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "11/09/2569",
+   "date_end": "16/09/2569",
+   "budget": 1500000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_2.jsp?tor_project_id=69099133255",
+   "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
+   "matched_keywords": [
+    "จัดงาน"
+   ],
+   "score": 2,
+   "fit": "เกี่ยวข้องน้อย",
+   "hits": [
+    "จัดงาน"
+   ]
+  },
+  {
    "pid": "69089680878",
    "dept": "สถาบันวิจัยและพัฒนาอัญมณีและเครื่องประดับแห่งชาติ (องค์การมหาชน)",
    "title": "ประกวดราคาจ้างจัดกิจกรรมแสดงผลสัมฤทธิ์โครงการ พิธีเปิดโครงการต่อเนื่อง และสร้างโอกาสทางธุรกิจให้แก่ผู้ประกอบการที่ได้รับการพัฒนา เพื่อสนับสนุนการยกระดับประเทศไทยสู่ศูนย์กลางการค้าและการผลิตอัญมณีและเครื่องประดับโลกอย่างยั่งยืน (Thailand towards World Sustainable Gem and Jewelry hub) ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
@@ -1776,57 +1736,19 @@
    "pid": "69099154552",
    "dept": "โรงเรียนเตรียมอุดมศึกษาพัฒนาการ นนทบุรี",
    "title": "ประกวดราคาจ้างจัดกิจกรรมค่ายพัฒนาศักยภาพด้านวิทยาศาสตร์ คณิตศาสตร์ และ STEM เชิงวิศวกรรมและปัญญาประดิษฐ์ Junior Innovators Camp ระดับชั้นมัธยมศึกษาปีที่ 1-3 จำนวน 216 คน ครูผู้ควบคุม 16 คน รวม 232 คน ณ จังหวัดเพชรบุรี ระหว่างวันที่ 27-29 พฤศจิกายน 2569 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
-   "date": "07/09/2569",
-   "date_end": "10/09/2569",
-   "budget": 907200.0,
-   "status": "ระหว่างดำเนินการ",
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_2.jsp?tor_project_id=69099154552",
-   "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
-   "matched_keywords": [
-    "จัดกิจกรรม"
-   ],
-   "score": 2,
-   "fit": "เกี่ยวข้องน้อย",
-   "hits": [
-    "จัดกิจกรรม"
-   ]
-  },
-  {
-   "pid": "69099150684",
-   "dept": "โรงเรียนเตรียมอุดมศึกษาพัฒนาการ นนทบุรี",
-   "title": "ประกวดราคาจ้างจัดกิจกรรมค่ายพัฒนาศักยภาพด้านวิทยาศาสตร์ คณิตศาสตร์ และ STEM เชิงวิศวกรรมและปัญญาประดิษฐ์ Junior Innovators Camp ระดับชั้นมัธยมศึกษาปีที่ 1-3 ณ จังหวัดเพชรบุรี ระหว่างวันที่ 27-29 พฤศจิกายน 2569 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
-   "date": "07/09/2569",
-   "date_end": "10/09/2569",
-   "budget": 907200.0,
-   "status": "ยกเลิกโครงการ",
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_2.jsp?tor_project_id=69099150684",
-   "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
-   "matched_keywords": [
-    "จัดกิจกรรม"
-   ],
-   "score": 2,
-   "fit": "เกี่ยวข้องน้อย",
-   "hits": [
-    "จัดกิจกรรม"
-   ]
-  },
-  {
-   "pid": "69089320627",
-   "dept": "กรมอุตสาหกรรมพื้นฐานและการเหมืองแร่",
-   "title": "ประกวดราคาจ้างจัดงานมอบรางวัลเหมืองแร่สีเขียว ประจำปี 2569 (Green Mining Award 2026) ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
-   "date": "20/08/2569",
+   "date": "11/09/2569",
    "date_end": "",
-   "budget": 900000.0,
+   "budget": 907200.0,
    "status": "ระหว่างดำเนินการ",
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69089320627&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69099154552&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
    "announce_type": "ประกาศเชิญชวน",
    "matched_keywords": [
-    "จัดงาน"
+    "จัดกิจกรรม"
    ],
    "score": 2,
    "fit": "เกี่ยวข้องน้อย",
    "hits": [
-    "จัดงาน"
+    "จัดกิจกรรม"
    ]
   },
   {
@@ -1865,25 +1787,6 @@
    "fit": "เกี่ยวข้องน้อย",
    "hits": [
     "จัดงาน"
-   ]
-  },
-  {
-   "pid": "69069354829",
-   "dept": "สำนักงานคณะกรรมการกิจการกระจายเสียง กิจการโทรทัศน์ และกิจการโทรคมนาคมแห่งชาติ",
-   "title": "ประกวดราคาจ้างจัดกิจกรรมแข่งขันกีฬาสีภายใน ประจำปี 2569 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
-   "date": "20/08/2569",
-   "date_end": "",
-   "budget": 700000.0,
-   "status": "ระหว่างดำเนินการ",
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69069354829&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
-   "announce_type": "ประกาศเชิญชวน",
-   "matched_keywords": [
-    "จัดกิจกรรม"
-   ],
-   "score": 2,
-   "fit": "เกี่ยวข้องน้อย",
-   "hits": [
-    "จัดกิจกรรม"
    ]
   },
   {
