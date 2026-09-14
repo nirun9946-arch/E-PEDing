@@ -1,10 +1,10 @@
 {
- "fetched_at": "14/09/2569 15:09",
+ "fetched_at": "14/09/2569 20:36",
  "range": {
   "from": "24/08/2569",
   "to": "14/09/2569"
  },
- "total": 91,
+ "total": 95,
  "requests": 33,
  "items": [
   {
@@ -814,6 +814,25 @@
    ]
   },
   {
+   "pid": "69099277448",
+   "dept": "สำนักงานสลากกินแบ่งรัฐบาล",
+   "title": "ประกวดราคาจ้างผลิตและบริหารจัดการสื่อเพื่อประชาสัมพันธ์ภายในและภายนอก ประจำปีงบประมาณ 2570 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "14/09/2569",
+   "date_end": "17/09/2569",
+   "budget": 35000000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_2.jsp?tor_project_id=69099277448",
+   "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
+   "matched_keywords": [
+    "ประชาสัมพันธ์"
+   ],
+   "score": 3,
+   "fit": "น่าสนใจ",
+   "hits": [
+    "ประชาสัมพันธ์"
+   ]
+  },
+  {
    "pid": "69089166502",
    "dept": "กรมส่งเสริมการค้าระหว่างประเทศ",
    "title": "ประกวดราคาจ้างโครงการประชาสัมพันธ์และส่งเสริมภาพลักษณ์อาหารไทย และร้านอาหาร Thai SELECT ในภูมิภาคอเมริกาฝั่งตะวันตก ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
@@ -935,7 +954,7 @@
    "date": "14/09/2569",
    "date_end": "",
    "budget": 3000000.0,
-   "status": "ระหว่างดำเนินการ",
+   "status": "ยกเลิกประกาศเชิญชวน",
    "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69069389593&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
    "announce_type": "ประกาศเชิญชวน",
    "matched_keywords": [
@@ -1233,6 +1252,25 @@
    ]
   },
   {
+   "pid": "69099204124",
+   "dept": "การกีฬาแห่งประเทศไทย",
+   "title": "ประกวดราคาจ้างจัดงานมอบรางวัล Muaythai For all Excellence Awards 2026 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "14/09/2569",
+   "date_end": "",
+   "budget": 10000000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69099204124&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
+   "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "จัดงาน"
+   ],
+   "score": 2,
+   "fit": "เกี่ยวข้องน้อย",
+   "hits": [
+    "จัดงาน"
+   ]
+  },
+  {
    "pid": "69099206597",
    "dept": "การยางแห่งประเทศไทย",
    "title": "ประกวดราคาจ้างจัดนิทรรศการงานมหกรรมพืชสวนโลกจังหวัดอุดรธานี พ.ศ. 2569 ของการยางแห่งประเทศไทย ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
@@ -1366,6 +1404,25 @@
    ]
   },
   {
+   "pid": "69099260324",
+   "dept": "กรมการเปลี่ยนแปลงสภาพภูมิอากาศและสิ่งแวดล้อม",
+   "title": "ประกวดราคาจ้างจัดกิจกรรมวันสิ่งแวดล้อมไทยประจำปี พ.ศ. 2569 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "14/09/2569",
+   "date_end": "17/09/2569",
+   "budget": 2500000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_2.jsp?tor_project_id=69099260324",
+   "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
+   "matched_keywords": [
+    "จัดกิจกรรม"
+   ],
+   "score": 2,
+   "fit": "เกี่ยวข้องน้อย",
+   "hits": [
+    "จัดกิจกรรม"
+   ]
+  },
+  {
    "pid": "69089365402",
    "dept": "การเคหะแห่งชาติ",
    "title": "ประกวดราคาจ้างโครงการพัฒนาระบบสารสนเทศที่อยู่อาศัยและบริการเผยแพร่ ปีงบประมาณ 2569 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
@@ -1382,6 +1439,25 @@
    "fit": "เกี่ยวข้องน้อย",
    "hits": [
     "เผยแพร่"
+   ]
+  },
+  {
+   "pid": "69099289404",
+   "dept": "กรมการเปลี่ยนแปลงสภาพภูมิอากาศและสิ่งแวดล้อม",
+   "title": "ประกวดราคาจ้างจัดแสดงนิทรรศการการดำเนินงานด้านการเปลี่ยนแปลงสภาพภูมิอากาศของประเทศไทย ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "14/09/2569",
+   "date_end": "17/09/2569",
+   "budget": 2000000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_2.jsp?tor_project_id=69099289404",
+   "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
+   "matched_keywords": [
+    "นิทรรศการ"
+   ],
+   "score": 2,
+   "fit": "เกี่ยวข้องน้อย",
+   "hits": [
+    "นิทรรศการ"
    ]
   },
   {
