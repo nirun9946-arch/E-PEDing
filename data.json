@@ -1,11 +1,11 @@
 {
- "fetched_at": "15/09/2569 15:02",
+ "fetched_at": "15/09/2569 19:27",
  "range": {
   "from": "25/08/2569",
   "to": "15/09/2569"
  },
- "total": 81,
- "requests": 32,
+ "total": 88,
+ "requests": 33,
  "items": [
   {
    "pid": "69089622755",
@@ -59,6 +59,29 @@
    "budget": 3000000.0,
    "status": "ระหว่างดำเนินการ",
    "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69089619486&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
+   "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "ประชาสัมพันธ์",
+    "เผยแพร่",
+    "โทรทัศน์"
+   ],
+   "score": 8,
+   "fit": "เหมาะมาก",
+   "hits": [
+    "ประชาสัมพันธ์",
+    "โทรทัศน์",
+    "เผยแพร่"
+   ]
+  },
+  {
+   "pid": "69099342072",
+   "dept": "กองทุนการออมแห่งชาติ (กอช.)",
+   "title": "ประกวดราคาจ้างเผยแพร่ประชาสัมพันธ์ กอช. ผ่านสถานีวิทยุ และโทรทัศน์ ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "15/09/2569",
+   "date_end": "",
+   "budget": 2500000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69099342072&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
    "announce_type": "ประกาศเชิญชวน",
    "matched_keywords": [
     "ประชาสัมพันธ์",
@@ -189,6 +212,26 @@
    "status": "ระหว่างดำเนินการ",
    "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69069610577&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
    "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "ประชาสัมพันธ์"
+   ],
+   "score": 6,
+   "fit": "เหมาะมาก",
+   "hits": [
+    "ประชาสัมพันธ์",
+    "ภาพลักษณ์"
+   ]
+  },
+  {
+   "pid": "69069455200",
+   "dept": "จังหวัดกระบี่",
+   "title": "ประกวดราคาจ้างโครงการประชาสัมพันธ์และสร้างภาพลักษณ์ที่ดีทางการท่องเที่ยวจังหวัดกระบี่ กิจกรรม เทศกาลอ่าวนางบีทเฟสติวัล (AONANG BEAT FESTIVAL) ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "11/09/2569",
+   "date_end": "16/09/2569",
+   "budget": 3600000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_2.jsp?tor_project_id=69069455200",
+   "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
    "matched_keywords": [
     "ประชาสัมพันธ์"
    ],
@@ -518,7 +561,7 @@
    "date": "28/08/2569",
    "date_end": "",
    "budget": 662000.0,
-   "status": "ระหว่างดำเนินการ",
+   "status": "ยกเลิกประกาศเชิญชวน",
    "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69089350408&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
    "announce_type": "ประกาศเชิญชวน",
    "matched_keywords": [
@@ -646,6 +689,25 @@
    "fit": "น่าสนใจ",
    "hits": [
     "ผลิตสื่อ"
+   ]
+  },
+  {
+   "pid": "69099277448",
+   "dept": "สำนักงานสลากกินแบ่งรัฐบาล",
+   "title": "ประกวดราคาจ้างผลิตและบริหารจัดการสื่อเพื่อประชาสัมพันธ์ภายในและภายนอก ประจำปีงบประมาณ 2570 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "14/09/2569",
+   "date_end": "17/09/2569",
+   "budget": 35000000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_2.jsp?tor_project_id=69099277448",
+   "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
+   "matched_keywords": [
+    "ประชาสัมพันธ์"
+   ],
+   "score": 3,
+   "fit": "น่าสนใจ",
+   "hits": [
+    "ประชาสัมพันธ์"
    ]
   },
   {
@@ -896,6 +958,63 @@
    ]
   },
   {
+   "pid": "69099278336",
+   "dept": "การไฟฟ้าฝ่ายผลิตแห่งประเทศไทย",
+   "title": "ประกวดราคาจ้างจ้างบริการเพื่อทำงานประชาสัมพันธ์ ประจำปี 2570 จำนวน 4 อัตรา 1 งาน ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "15/09/2569",
+   "date_end": "",
+   "budget": 1050000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69099278336&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
+   "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "ประชาสัมพันธ์"
+   ],
+   "score": 3,
+   "fit": "น่าสนใจ",
+   "hits": [
+    "ประชาสัมพันธ์"
+   ]
+  },
+  {
+   "pid": "69079123345",
+   "dept": "จังหวัดสมุทรสาคร",
+   "title": "ประกวดราคาจ้างโครงการค่าใช้จ่ายในการบริหารงานจังหวัดแบบบูรณาการ กิจกรรม เพิ่มประสิทธิภาพการบริหารงานเชิงพื้นที่แบบบูรณาการ กิจกรรมย่อย ประชาสัมพันธ์เพื่อส่งเสริมการท่องเที่ยวตามแผนพัฒนาจังหวัดสมุทรสาคร ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "10/09/2569",
+   "date_end": "15/09/2569",
+   "budget": 1000000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_2.jsp?tor_project_id=69079123345",
+   "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
+   "matched_keywords": [
+    "ประชาสัมพันธ์"
+   ],
+   "score": 3,
+   "fit": "น่าสนใจ",
+   "hits": [
+    "ประชาสัมพันธ์"
+   ]
+  },
+  {
+   "pid": "69099287705",
+   "dept": "สำนักงานส่งเสริมเศรษฐกิจดิจิทัล",
+   "title": "ประกวดราคาจ้างจ้างผู้ดำเนินโครงการประชาสัมพันธ์เพื่อขับเคลื่อนเมืองอัจฉริยะประเทศไทย ภายในงาน Thailand Smart City Expo 2026 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "15/09/2569",
+   "date_end": "",
+   "budget": 1000000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69099287705&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
+   "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "ประชาสัมพันธ์"
+   ],
+   "score": 3,
+   "fit": "น่าสนใจ",
+   "hits": [
+    "ประชาสัมพันธ์"
+   ]
+  },
+  {
    "pid": "69099053625",
    "dept": "เทศบาลตำบลป่าโมก",
    "title": "ประกวดราคาจ้างโครงการประชาสัมพันธ์และการตลาดเพื่อการท่องเที่ยว กิจกรรมการแข่งขันเรือยาวประเพณี ประจำปี 2569 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
@@ -1064,6 +1183,25 @@
    "fit": "เกี่ยวข้องน้อย",
    "hits": [
     "จัดงาน"
+   ]
+  },
+  {
+   "pid": "69099393906",
+   "dept": "จังหวัดน่าน",
+   "title": "ประกวดราคาจ้างจัดกิจกรรมสืบสาน รักษา มรดกวัฒนธรรมเรือแข่งเอกลักษณ์น่าน และส่งเสริมงานประเพณีแข่งเรือ จังหวัดน่าน ประจำปีงบประมาณ พ.ศ. 2570 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "15/09/2569",
+   "date_end": "18/09/2569",
+   "budget": 6500000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_2.jsp?tor_project_id=69099393906",
+   "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
+   "matched_keywords": [
+    "จัดกิจกรรม"
+   ],
+   "score": 2,
+   "fit": "เกี่ยวข้องน้อย",
+   "hits": [
+    "จัดกิจกรรม"
    ]
   },
   {
