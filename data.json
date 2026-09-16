@@ -1,10 +1,10 @@
 {
- "fetched_at": "16/09/2569 14:54",
+ "fetched_at": "16/09/2569 19:24",
  "range": {
   "from": "26/08/2569",
   "to": "16/09/2569"
  },
- "total": 79,
+ "total": 81,
  "requests": 33,
  "items": [
   {
@@ -139,6 +139,28 @@
     "ประชาสัมพันธ์",
     "เผยแพร่",
     "สื่อออนไลน์"
+   ]
+  },
+  {
+   "pid": "69099362084",
+   "dept": "องค์การพิพิธภัณฑ์วิทยาศาสตร์แห่งชาติ",
+   "title": "ประกวดราคาจ้างผลิตและเผยแพร่ข่าวประชาสัมพันธ์ อพวช. จำนวน ๑๒ เดือน (ตุลาคม ๒๕๖๙ - กันยายน ๒๕๗๐) ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "16/09/2569",
+   "date_end": "",
+   "budget": 3060000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69099362084&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
+   "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "ประชาสัมพันธ์",
+    "เผยแพร่"
+   ],
+   "score": 7,
+   "fit": "เหมาะมาก",
+   "hits": [
+    "ประชาสัมพันธ์",
+    "เผยแพร่",
+    "ข่าว"
    ]
   },
   {
@@ -436,7 +458,7 @@
    "date": "09/09/2569",
    "date_end": "",
    "budget": 1420000.0,
-   "status": "ระหว่างดำเนินการ",
+   "status": "ยกเลิกประกาศเชิญชวน",
    "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69099239688&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
    "announce_type": "ประกาศเชิญชวน",
    "matched_keywords": [
@@ -645,6 +667,29 @@
    "fit": "น่าสนใจ",
    "hits": [
     "ประชาสัมพันธ์"
+   ]
+  },
+  {
+   "pid": "69099332727",
+   "dept": "กรมการจัดหางาน",
+   "title": "ประกวดราคาจ้างผลิตและเผยแพร่สื่อประชาสัมพันธ์รูปแบบป้ายดิจิทัลบนสถานีรถไฟฟ้า BTS และสื่อโฆษณารถโดยสารประจำทางปรับอากาศ (Bus Media) จำนวน ๑ งาน ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "16/09/2569",
+   "date_end": "21/09/2569",
+   "budget": 18680000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_2.jsp?tor_project_id=69099332727",
+   "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
+   "matched_keywords": [
+    "ประชาสัมพันธ์",
+    "เผยแพร่",
+    "โฆษณา"
+   ],
+   "score": 3,
+   "fit": "น่าสนใจ",
+   "hits": [
+    "ประชาสัมพันธ์",
+    "เผยแพร่",
+    "โฆษณา"
    ]
   },
   {
@@ -1015,7 +1060,7 @@
    "date": "08/09/2569",
    "date_end": "",
    "budget": 16000000.0,
-   "status": "ระหว่างดำเนินการ",
+   "status": "ยกเลิกประกาศเชิญชวน",
    "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69089707855&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
    "announce_type": "ประกาศเชิญชวน",
    "matched_keywords": [
