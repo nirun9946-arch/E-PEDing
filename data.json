@@ -1,10 +1,10 @@
 {
- "fetched_at": "17/09/2569 15:00",
+ "fetched_at": "17/09/2569 19:24",
  "range": {
   "from": "27/08/2569",
   "to": "17/09/2569"
  },
- "total": 81,
+ "total": 83,
  "requests": 33,
  "items": [
   {
@@ -206,6 +206,27 @@
    ]
   },
   {
+   "pid": "69099329612",
+   "dept": "สำนักงานเลขาธิการสภาผู้แทนราษฎร",
+   "title": "ประกวดราคาจ้างเอกชนจัดหาเครื่องแต่งกายสำหรับพิธีกร ผู้ประกาศข่าว และผู้ร่วมรายการ ของสถานีวิทยุกระจายเสียงและวิทยุโทรทัศน์รัฐสภา ประจำปีงบประมาณ พ.ศ. 2570 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "17/09/2569",
+   "date_end": "",
+   "budget": 1700000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69099329612&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
+   "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "โทรทัศน์"
+   ],
+   "score": 7,
+   "fit": "เหมาะมาก",
+   "hits": [
+    "โทรทัศน์",
+    "รายการ",
+    "ข่าว"
+   ]
+  },
+  {
    "pid": "69069428521",
    "dept": "องค์การบริหารส่วนจังหวัดสมุทรปราการ",
    "title": "ประกวดราคาจ้างโครงการเสริมสร้างภาพลักษณ์และประชาสัมพันธ์การท่องเที่ยวจังหวัดสมุทรปราการ ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
@@ -252,8 +273,28 @@
    "date": "08/09/2569",
    "date_end": "",
    "budget": 5000000.0,
-   "status": "ระหว่างดำเนินการ",
+   "status": "ยกเลิกประกาศเชิญชวน",
    "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69069610577&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
+   "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "ประชาสัมพันธ์"
+   ],
+   "score": 6,
+   "fit": "เหมาะมาก",
+   "hits": [
+    "ประชาสัมพันธ์",
+    "ภาพลักษณ์"
+   ]
+  },
+  {
+   "pid": "69069455200",
+   "dept": "จังหวัดกระบี่",
+   "title": "ประกวดราคาจ้างโครงการประชาสัมพันธ์และสร้างภาพลักษณ์ที่ดีทางการท่องเที่ยวจังหวัดกระบี่ กิจกรรม เทศกาลอ่าวนางบีทเฟสติวัล (AONANG BEAT FESTIVAL) ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "17/09/2569",
+   "date_end": "",
+   "budget": 3600000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69069455200&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
    "announce_type": "ประกาศเชิญชวน",
    "matched_keywords": [
     "ประชาสัมพันธ์"
@@ -293,7 +334,7 @@
    "date": "16/09/2569",
    "date_end": "",
    "budget": 1500000.0,
-   "status": "ระหว่างดำเนินการ",
+   "status": "ยกเลิกประกาศเชิญชวน",
    "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69089463812&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
    "announce_type": "ประกาศเชิญชวน",
    "matched_keywords": [
