@@ -1,12 +1,36 @@
 {
- "fetched_at": "20/09/2569 20:43",
+ "fetched_at": "21/09/2569 15:14",
  "range": {
-  "from": "30/08/2569",
-  "to": "20/09/2569"
+  "from": "31/08/2569",
+  "to": "21/09/2569"
  },
- "total": 74,
- "requests": 33,
+ "total": 80,
+ "requests": 32,
  "items": [
+  {
+   "pid": "69099370146",
+   "dept": "สำนักงานคณะกรรมการกำกับและส่งเสริมการประกอบธุรกิจประกันภัย",
+   "title": "ประกวดราคาจ้างผู้ดำเนินงานผลิตสื่อประชาสัมพันธ์เชิงรุก และบริหารจัดการสื่อสังคมออนไลน์เชิงกลยุทธ์ เพื่อเสริมสร้างภาพลักษณ์และยกระดับการสื่อสารองค์กร ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "21/09/2569",
+   "date_end": "",
+   "budget": 3500000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69099370146&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
+   "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "ประชาสัมพันธ์",
+    "ผลิตสื่อ"
+   ],
+   "score": 16,
+   "fit": "เหมาะมาก",
+   "hits": [
+    "ประชาสัมพันธ์",
+    "ผลิตสื่อ",
+    "สื่อสังคมออนไลน์",
+    "ภาพลักษณ์",
+    "สื่อสารองค์กร"
+   ]
+  },
   {
    "pid": "69089706802",
    "dept": "กรมการจัดหางาน",
@@ -394,6 +418,26 @@
     "เผยแพร่",
     "เนื้อหา",
     "สื่อมวลชน"
+   ]
+  },
+  {
+   "pid": "69099354658",
+   "dept": "การไฟฟ้าฝ่ายผลิตแห่งประเทศไทย (กฟผ.) เหมืองแม่เมาะ",
+   "title": "ประกวดราคาจ้างเหมาบริการงานธุรการ งานบริการและงานประชาสัมพันธ์ ประจำปี 2570 จำนวน 2 รายการ ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "21/09/2569",
+   "date_end": "24/09/2569",
+   "budget": 55672643.29,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_2.jsp?tor_project_id=69099354658",
+   "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
+   "matched_keywords": [
+    "ประชาสัมพันธ์"
+   ],
+   "score": 5,
+   "fit": "น่าสนใจ",
+   "hits": [
+    "ประชาสัมพันธ์",
+    "รายการ"
    ]
   },
   {
@@ -1161,6 +1205,25 @@
    ]
   },
   {
+   "pid": "69099393906",
+   "dept": "จังหวัดน่าน",
+   "title": "ประกวดราคาจ้างจัดกิจกรรมสืบสาน รักษา มรดกวัฒนธรรมเรือแข่งเอกลักษณ์น่าน และส่งเสริมงานประเพณีแข่งเรือ จังหวัดน่าน ประจำปีงบประมาณ พ.ศ. 2570 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "21/09/2569",
+   "date_end": "",
+   "budget": 6500000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69099393906&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
+   "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "จัดกิจกรรม"
+   ],
+   "score": 2,
+   "fit": "เกี่ยวข้องน้อย",
+   "hits": [
+    "จัดกิจกรรม"
+   ]
+  },
+  {
    "pid": "69089518896",
    "dept": "สำนักงานคณะกรรมการอาหารและยา",
    "title": "ประกวดราคาจ้างจัดงานด้านผลิตภัณฑ์ยาเพื่อการบำบัดรักษาขั้นสูง (Advanced Therapy Medicinal Products ATMPs) ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
@@ -1332,6 +1395,25 @@
    ]
   },
   {
+   "pid": "69099181910",
+   "dept": "สำนักงานสลากกินแบ่งรัฐบาล",
+   "title": "ประกวดราคาจ้างจัดกิจกรรมเสริมสร้างสุขภาพให้กับผู้ใช้บริการ GLO Park ประจำปีงบประมาณ 2570 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "21/09/2569",
+   "date_end": "",
+   "budget": 1500000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69099181910&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
+   "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "จัดกิจกรรม"
+   ],
+   "score": 2,
+   "fit": "เกี่ยวข้องน้อย",
+   "hits": [
+    "จัดกิจกรรม"
+   ]
+  },
+  {
    "pid": "69089680878",
    "dept": "สถาบันวิจัยและพัฒนาอัญมณีและเครื่องประดับแห่งชาติ (องค์การมหาชน)",
    "title": "ประกวดราคาจ้างจัดกิจกรรมแสดงผลสัมฤทธิ์โครงการ พิธีเปิดโครงการต่อเนื่อง และสร้างโอกาสทางธุรกิจให้แก่ผู้ประกอบการที่ได้รับการพัฒนา เพื่อสนับสนุนการยกระดับประเทศไทยสู่ศูนย์กลางการค้าและการผลิตอัญมณีและเครื่องประดับโลกอย่างยั่งยืน (Thailand towards World Sustainable Gem and Jewelry hub) ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
@@ -1367,6 +1449,25 @@
    "fit": "เกี่ยวข้องน้อย",
    "hits": [
     "จัดกิจกรรม"
+   ]
+  },
+  {
+   "pid": "69099133255",
+   "dept": "จังหวัดสงขลา",
+   "title": "ประกวดราคาจ้างโครงการส่งเสริมช่องทางการตลาด ผู้ประกอบการ OTOP วิสาหกิจชุมชน และชุมชนท่องเที่ยว กิจกรรม การจัดงานมหัศจรรย์วิถีสมุทรสทิงพระ ยลวิถี โหนด นา เล เสน่ห์สงขลา ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "21/09/2569",
+   "date_end": "",
+   "budget": 1500000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69099133255&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
+   "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "จัดงาน"
+   ],
+   "score": 2,
+   "fit": "เกี่ยวข้องน้อย",
+   "hits": [
+    "จัดงาน"
    ]
   },
   {
@@ -1481,6 +1582,25 @@
    "fit": "เกี่ยวข้องน้อย",
    "hits": [
     "จัดงาน"
+   ]
+  },
+  {
+   "pid": "69099294314",
+   "dept": "โรงเรียนกัลยาณีศรีธรรมราช",
+   "title": "ประกวดราคาจ้างจ้างเหมาบริการทัวร์จัดกิจกรรม M.2 Integrated Camp 2569 ณ ค่ายซับใต้ จังหวัดนครราชสีมา ระหว่างวันที่ 6 - 11 ธันวาคม 2569 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "21/09/2569",
+   "date_end": "",
+   "budget": 676000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69099294314&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
+   "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "จัดกิจกรรม"
+   ],
+   "score": 2,
+   "fit": "เกี่ยวข้องน้อย",
+   "hits": [
+    "จัดกิจกรรม"
    ]
   }
  ]
