@@ -1,10 +1,10 @@
 {
- "fetched_at": "22/09/2569 14:57",
+ "fetched_at": "22/09/2569 19:19",
  "range": {
   "from": "01/09/2569",
   "to": "22/09/2569"
  },
- "total": 81,
+ "total": 83,
  "requests": 33,
  "items": [
   {
@@ -55,6 +55,28 @@
     "โทรทัศน์",
     "เผยแพร่",
     "โฆษณา"
+   ]
+  },
+  {
+   "pid": "69099546672",
+   "dept": "สำนักงานเลขาธิการสภาผู้แทนราษฎร",
+   "title": "ประกวดราคาจ้างจ้างบริการดูแลและบำรุงรักษาอุปกรณ์ระบบผลิตรายการและออกอากาศสถานีวิทยุโทรทัศน์รัฐสภา ประจำปีงบประมาณ พ.ศ. ๒๕๗๐ (ตั้งแต่วันที่ ๑ ตุลาคม ๒๕๖๙ ถึงวันที่ ๓๐ กันยายน ๒๕๗๐) ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "22/09/2569",
+   "date_end": "28/09/2569",
+   "budget": 20000000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_2.jsp?tor_project_id=69099546672",
+   "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
+   "matched_keywords": [
+    "โทรทัศน์",
+    "ออกอากาศ"
+   ],
+   "score": 9,
+   "fit": "เหมาะมาก",
+   "hits": [
+    "โทรทัศน์",
+    "ออกอากาศ",
+    "รายการ"
    ]
   },
   {
@@ -152,7 +174,7 @@
    "date": "15/09/2569",
    "date_end": "",
    "budget": 2500000.0,
-   "status": "ระหว่างดำเนินการ",
+   "status": "ยกเลิกประกาศเชิญชวน",
    "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69099342072&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
    "announce_type": "ประกาศเชิญชวน",
    "matched_keywords": [
@@ -685,6 +707,27 @@
    "fit": "น่าสนใจ",
    "hits": [
     "ผลิตสื่อ"
+   ]
+  },
+  {
+   "pid": "69099411485",
+   "dept": "สถาบันข้อมูลขนาดใหญ่ (องค์การมหาชน)",
+   "title": "ประกวดราคาจ้างเหมาบริหารจัดงานประชุมวิชาการ และนิทรรศการ Thailand Health Information Exchange Summit 2027 (THIES 2027) ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "22/09/2569",
+   "date_end": "",
+   "budget": 4520000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69099411485&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
+   "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "จัดงาน",
+    "นิทรรศการ"
+   ],
+   "score": 4,
+   "fit": "น่าสนใจ",
+   "hits": [
+    "จัดงาน",
+    "นิทรรศการ"
    ]
   },
   {
