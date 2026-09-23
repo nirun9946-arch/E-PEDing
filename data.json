@@ -1,10 +1,10 @@
 {
- "fetched_at": "22/09/2569 21:11",
+ "fetched_at": "23/09/2569 14:58",
  "range": {
-  "from": "01/09/2569",
-  "to": "22/09/2569"
+  "from": "02/09/2569",
+  "to": "23/09/2569"
  },
- "total": 83,
+ "total": 81,
  "requests": 33,
  "items": [
   {
@@ -424,6 +424,26 @@
    ]
   },
   {
+   "pid": "69099478552",
+   "dept": "สำนักงานคณะกรรมการส่งเสริมการลงทุน",
+   "title": "ประกวดราคาจ้างเหมาประชาสัมพันธ์และบริหารจัดการสื่อสังคมออนไลน์ (Social Media) ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "23/09/2569",
+   "date_end": "",
+   "budget": 1500000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69099478552&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
+   "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "ประชาสัมพันธ์"
+   ],
+   "score": 6,
+   "fit": "เหมาะมาก",
+   "hits": [
+    "ประชาสัมพันธ์",
+    "สื่อสังคมออนไลน์"
+   ]
+  },
+  {
    "pid": "69089463812",
    "dept": "สำนักงานคณะกรรมการส่งเสริมการลงทุน",
    "title": "ประกวดราคาจ้างเหมาประชาสัมพันธ์และบริหารจัดการสื่อสังคมออนไลน์ (Social Media) ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
@@ -485,27 +505,6 @@
    ]
   },
   {
-   "pid": "69089297518",
-   "dept": "จังหวัดลำพูน",
-   "title": "ประกวดราคาจ้างจัดกิจกรรมการจัดแสดงนวัตกรรมจำหน่ายสินค้า Northern Agriculture and Innovation Fair ภายใต้โครงการการประชาสัมพันธ์และขยายตลาดสินค้าเกษตรกลุ่มจังหวัดภาคเหนือตอนบน ๑ ประจำปีงบประมาณ พ.ศ. ๒๕๖๙ ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
-   "date": "01/09/2569",
-   "date_end": "",
-   "budget": 5977400.0,
-   "status": "ระหว่างดำเนินการ",
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69089297518&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
-   "announce_type": "ประกาศเชิญชวน",
-   "matched_keywords": [
-    "ประชาสัมพันธ์",
-    "จัดกิจกรรม"
-   ],
-   "score": 5,
-   "fit": "น่าสนใจ",
-   "hits": [
-    "ประชาสัมพันธ์",
-    "จัดกิจกรรม"
-   ]
-  },
-  {
    "pid": "69099085873",
    "dept": "บริษัท ไทยแลนด์ พริวิเลจ คาร์ด จำกัด",
    "title": "ประกวดราคาจ้างโครงการจ้างจัดกิจกรรมด้านการประชาสัมพันธ์ประจำปี ๒๕๗๐ ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
@@ -524,26 +523,6 @@
    "hits": [
     "ประชาสัมพันธ์",
     "จัดกิจกรรม"
-   ]
-  },
-  {
-   "pid": "69099046851",
-   "dept": "การไฟฟ้าฝ่ายผลิตแห่งประเทศไทย",
-   "title": "ประกวดราคาจ้างงานจ้างเหมาบริการเพื่อทำงานให้บริการข้อมูลข่าวสารประชาสัมพันธ์ แผนกบำรุงรักษาบริเวณ เขื่อนศรีนครินทร์ ประจำปี 2570 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
-   "date": "17/09/2569",
-   "date_end": "22/09/2569",
-   "budget": 2967428.86,
-   "status": "ระหว่างดำเนินการ",
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_2.jsp?tor_project_id=69099046851",
-   "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
-   "matched_keywords": [
-    "ประชาสัมพันธ์"
-   ],
-   "score": 5,
-   "fit": "น่าสนใจ",
-   "hits": [
-    "ประชาสัมพันธ์",
-    "ข่าว"
    ]
   },
   {
@@ -1156,7 +1135,7 @@
    "date": "08/09/2569",
    "date_end": "",
    "budget": 16000000.0,
-   "status": "ยกเลิกประกาศเชิญชวน",
+   "status": "ระหว่างดำเนินการ",
    "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69089707855&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
    "announce_type": "ประกาศเชิญชวน",
    "matched_keywords": [
@@ -1291,25 +1270,6 @@
    "budget": 6000000.0,
    "status": "ระหว่างดำเนินการ",
    "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69089518896&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
-   "announce_type": "ประกาศเชิญชวน",
-   "matched_keywords": [
-    "จัดงาน"
-   ],
-   "score": 2,
-   "fit": "เกี่ยวข้องน้อย",
-   "hits": [
-    "จัดงาน"
-   ]
-  },
-  {
-   "pid": "69089664230",
-   "dept": "เทศบาลเมืองเพชรบูรณ์",
-   "title": "ประกวดราคาจ้างเหมาจัดงานประเพณีอุ้มพระดำน้ำประจำปี ๒๕๖๙ (งบเทศบาลฯ) ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
-   "date": "01/09/2569",
-   "date_end": "",
-   "budget": 4310000.0,
-   "status": "ระหว่างดำเนินการ",
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69089664230&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
    "announce_type": "ประกาศเชิญชวน",
    "matched_keywords": [
     "จัดงาน"
