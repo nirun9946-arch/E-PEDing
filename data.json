@@ -1,10 +1,10 @@
 {
- "fetched_at": "23/09/2569 14:58",
+ "fetched_at": "23/09/2569 19:32",
  "range": {
   "from": "02/09/2569",
   "to": "23/09/2569"
  },
- "total": 81,
+ "total": 83,
  "requests": 33,
  "items": [
   {
@@ -502,6 +502,27 @@
    "hits": [
     "ประชาสัมพันธ์",
     "รายการ"
+   ]
+  },
+  {
+   "pid": "69099147238",
+   "dept": "สำนักงานเลขาธิการสภาผู้แทนราษฎร",
+   "title": "ประกวดราคาเช่าใช้บริการระบบศูนย์กลางการเผยแพร่การถ่ายทอดสัญญาณบริการภาพและเสียงผ่านโครงข่ายอินเทอร์เน็ตดิจิทัลแพลตฟอร์ม OTT Tpchannel (Content Delivery Network) ของสถานีวิทยุกระจายเสียงและวิทยุโทรทัศน์รัฐสภา ประจำปีงบประมาณ พ.ศ. ๒๕๗๐ ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "23/09/2569",
+   "date_end": "",
+   "budget": 6000000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69099147238&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
+   "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "เผยแพร่",
+    "โทรทัศน์"
+   ],
+   "score": 5,
+   "fit": "น่าสนใจ",
+   "hits": [
+    "โทรทัศน์",
+    "เผยแพร่"
    ]
   },
   {
@@ -1270,6 +1291,25 @@
    "budget": 6000000.0,
    "status": "ระหว่างดำเนินการ",
    "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69089518896&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
+   "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "จัดงาน"
+   ],
+   "score": 2,
+   "fit": "เกี่ยวข้องน้อย",
+   "hits": [
+    "จัดงาน"
+   ]
+  },
+  {
+   "pid": "69099572738",
+   "dept": "จังหวัดอุตรดิตถ์",
+   "title": "ประกวดราคาจ้างการจัดงานตามโครงการ Uttaradit Economy Plus กระตุ้นเศรษฐกิจฐานราก เชื่อมโยงการค้า การท่องเที่ยว ศิลปะและวัฒนธรรม สู่ตลาดสมัยใหม่และตลาดเพื่อนบ้าน ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "23/09/2569",
+   "date_end": "",
+   "budget": 3988600.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69099572738&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
    "announce_type": "ประกาศเชิญชวน",
    "matched_keywords": [
     "จัดงาน"
