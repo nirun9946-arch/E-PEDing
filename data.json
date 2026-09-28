@@ -1,10 +1,10 @@
 {
- "fetched_at": "28/09/2569 15:58",
+ "fetched_at": "28/09/2569 21:52",
  "range": {
   "from": "07/09/2569",
   "to": "28/09/2569"
  },
- "total": 80,
+ "total": 84,
  "requests": 33,
  "items": [
   {
@@ -29,6 +29,32 @@
     "สื่อสังคมออนไลน์",
     "ภาพลักษณ์",
     "สื่อสารองค์กร"
+   ]
+  },
+  {
+   "pid": "69089706802",
+   "dept": "กรมการจัดหางาน",
+   "title": "ประกวดราคาจ้างจ้างผลิตและเผยแพร่สื่อประชาสัมพันธ์รูปแบบสื่อโทรทัศน์ สื่อวิทยุ สื่อโฆษณา ในโรงภาพยนตร์ และสื่อป้ายประชาสัมพันธ์จอดิจิทัล ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "28/09/2569",
+   "date_end": "",
+   "budget": 42460000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69089706802&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
+   "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "ประชาสัมพันธ์",
+    "เผยแพร่",
+    "โทรทัศน์",
+    "โฆษณา"
+   ],
+   "score": 11,
+   "fit": "เหมาะมาก",
+   "hits": [
+    "ประชาสัมพันธ์",
+    "สื่อโทรทัศน์",
+    "โทรทัศน์",
+    "เผยแพร่",
+    "โฆษณา"
    ]
   },
   {
@@ -73,6 +99,29 @@
     "เผยแพร่",
     "โฆษณา",
     "สปอต"
+   ]
+  },
+  {
+   "pid": "69089701396",
+   "dept": "กรมการจัดหางาน",
+   "title": "ประกวดราคาจ้างจ้างผลิตและเผยแพร่สื่อประชาสัมพันธ์รูปแบบสื่อออนไลน์ ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "28/09/2569",
+   "date_end": "",
+   "budget": 16800000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69089701396&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
+   "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "ประชาสัมพันธ์",
+    "เผยแพร่",
+    "สื่อออนไลน์"
+   ],
+   "score": 8,
+   "fit": "เหมาะมาก",
+   "hits": [
+    "ประชาสัมพันธ์",
+    "เผยแพร่",
+    "สื่อออนไลน์"
    ]
   },
   {
@@ -265,6 +314,26 @@
    "hits": [
     "ประชาสัมพันธ์",
     "ภาพลักษณ์"
+   ]
+  },
+  {
+   "pid": "69099684635",
+   "dept": "สำนักงานคณะกรรมการนโยบายที่ดินแห่งชาติ",
+   "title": "ประกวดราคาจ้างโครงการผลิตและพัฒนาสื่อประชาสัมพันธ์ เพื่อสร้างการรับรู้ภารกิจ และผลการดำเนินงานของสำนักงานคณะกรรมการนโยบายที่ดินแห่งชาติ ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "28/09/2569",
+   "date_end": "",
+   "budget": 2200000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69099684635&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
+   "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "ประชาสัมพันธ์"
+   ],
+   "score": 6,
+   "fit": "เหมาะมาก",
+   "hits": [
+    "ประชาสัมพันธ์",
+    "สร้างการรับรู้"
    ]
   },
   {
@@ -993,6 +1062,25 @@
    "status": "ระหว่างดำเนินการ",
    "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69089707855&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
    "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "จัดงาน"
+   ],
+   "score": 2,
+   "fit": "เกี่ยวข้องน้อย",
+   "hits": [
+    "จัดงาน"
+   ]
+  },
+  {
+   "pid": "69099418974",
+   "dept": "เทศบาลนครเชียงใหม่",
+   "title": "ประกวดราคาจ้างจ้างเหมาจัดงานประเพณีเดือนยี่เป็งเชียงใหม่ ประจำปี 2569 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "28/09/2569",
+   "date_end": "01/10/2569",
+   "budget": 15383100.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_2.jsp?tor_project_id=69099418974",
+   "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
    "matched_keywords": [
     "จัดงาน"
    ],
