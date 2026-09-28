@@ -1,10 +1,10 @@
 {
- "fetched_at": "28/09/2569 21:52",
+ "fetched_at": "29/09/2569 00:49",
  "range": {
-  "from": "07/09/2569",
-  "to": "28/09/2569"
+  "from": "08/09/2569",
+  "to": "29/09/2569"
  },
- "total": 84,
+ "total": 80,
  "requests": 33,
  "items": [
   {
@@ -55,28 +55,6 @@
     "โทรทัศน์",
     "เผยแพร่",
     "โฆษณา"
-   ]
-  },
-  {
-   "pid": "69099546672",
-   "dept": "สำนักงานเลขาธิการสภาผู้แทนราษฎร",
-   "title": "ประกวดราคาจ้างจ้างบริการดูแลและบำรุงรักษาอุปกรณ์ระบบผลิตรายการและออกอากาศสถานีวิทยุโทรทัศน์รัฐสภา ประจำปีงบประมาณ พ.ศ. ๒๕๗๐ (ตั้งแต่วันที่ ๑ ตุลาคม ๒๕๖๙ ถึงวันที่ ๓๐ กันยายน ๒๕๗๐) ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
-   "date": "22/09/2569",
-   "date_end": "28/09/2569",
-   "budget": 20000000.0,
-   "status": "ระหว่างดำเนินการ",
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_2.jsp?tor_project_id=69099546672",
-   "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
-   "matched_keywords": [
-    "โทรทัศน์",
-    "ออกอากาศ"
-   ],
-   "score": 9,
-   "fit": "เหมาะมาก",
-   "hits": [
-    "โทรทัศน์",
-    "ออกอากาศ",
-    "รายการ"
    ]
   },
   {
@@ -167,28 +145,6 @@
     "ประชาสัมพันธ์",
     "โทรทัศน์",
     "เผยแพร่"
-   ]
-  },
-  {
-   "pid": "69099054129",
-   "dept": "สำนักงานเทคโนโลยีและนวัตกรรมด้านชีววิทยาศาสตร์ (องค์การมหาชน)",
-   "title": "ประกวดราคาจ้างจัดจ้างเผยแพร่ประชาสัมพันธ์และสร้างภาพลักษณ์องค์กร (PR) ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
-   "date": "07/09/2569",
-   "date_end": "",
-   "budget": 1000000.0,
-   "status": "ระหว่างดำเนินการ",
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69099054129&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
-   "announce_type": "ประกาศเชิญชวน",
-   "matched_keywords": [
-    "ประชาสัมพันธ์",
-    "เผยแพร่"
-   ],
-   "score": 8,
-   "fit": "เหมาะมาก",
-   "hits": [
-    "ประชาสัมพันธ์",
-    "เผยแพร่",
-    "ภาพลักษณ์"
    ]
   },
   {
@@ -519,27 +475,6 @@
    "hits": [
     "ประชาสัมพันธ์",
     "ข่าว"
-   ]
-  },
-  {
-   "pid": "69099165328",
-   "dept": "กองทุนพัฒนาสื่อปลอดภัยและสร้างสรรค์",
-   "title": "ประกวดราคาจ้างจัดกิจกรรมเวทีเสวนาวิชาการ ทิศทางอุตสาหกรรมสื่อและคอนเทนต์ไทย ปี 2570 โอกาส ความท้าทาย และการขับเคลื่อนเชิงยุทธศาสตร์สู่สากล ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
-   "date": "07/09/2569",
-   "date_end": "",
-   "budget": 1800000.0,
-   "status": "ระหว่างดำเนินการ",
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69099165328&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
-   "announce_type": "ประกาศเชิญชวน",
-   "matched_keywords": [
-    "จัดกิจกรรม",
-    "คอนเทนต์"
-   ],
-   "score": 5,
-   "fit": "น่าสนใจ",
-   "hits": [
-    "คอนเทนต์",
-    "จัดกิจกรรม"
    ]
   },
   {
@@ -909,25 +844,6 @@
    "budget": 2506100.0,
    "status": "ระหว่างดำเนินการ",
    "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69099253915&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
-   "announce_type": "ประกาศเชิญชวน",
-   "matched_keywords": [
-    "ประชาสัมพันธ์"
-   ],
-   "score": 3,
-   "fit": "น่าสนใจ",
-   "hits": [
-    "ประชาสัมพันธ์"
-   ]
-  },
-  {
-   "pid": "69089489461",
-   "dept": "เมืองพัทยา",
-   "title": "ประกวดราคาจ้างเหมาจัดทำปฏิทินตั้งโต๊ะเพื่อการประชาสัมพันธ์ ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
-   "date": "07/09/2569",
-   "date_end": "",
-   "budget": 2250000.0,
-   "status": "ระหว่างดำเนินการ",
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69089489461&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
    "announce_type": "ประกาศเชิญชวน",
    "matched_keywords": [
     "ประชาสัมพันธ์"
