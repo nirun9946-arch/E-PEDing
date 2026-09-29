@@ -1,10 +1,10 @@
 {
- "fetched_at": "29/09/2569 00:49",
+ "fetched_at": "29/09/2569 15:58",
  "range": {
   "from": "08/09/2569",
   "to": "29/09/2569"
  },
- "total": 80,
+ "total": 83,
  "requests": 33,
  "items": [
   {
@@ -229,6 +229,28 @@
    "hits": [
     "โทรทัศน์",
     "รายการ",
+    "ข่าว"
+   ]
+  },
+  {
+   "pid": "69099420686",
+   "dept": "สำนักงานคณะกรรมการดิจิทัลเพื่อเศรษฐกิจและสังคมแห่งชาติ (สดช.)",
+   "title": "ประกวดราคาจ้างโครงการเผยแพร่ประชาสัมพันธ์ข้อมูลข่าวสารด้านการพัฒนาดิจิทัลเพื่อเศรษฐกิจและสังคมแก่ประชาชน ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "29/09/2569",
+   "date_end": "",
+   "budget": 900000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69099420686&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
+   "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "ประชาสัมพันธ์",
+    "เผยแพร่"
+   ],
+   "score": 7,
+   "fit": "เหมาะมาก",
+   "hits": [
+    "ประชาสัมพันธ์",
+    "เผยแพร่",
     "ข่าว"
    ]
   },
@@ -628,7 +650,7 @@
    "date": "10/09/2569",
    "date_end": "",
    "budget": 4000000.0,
-   "status": "ระหว่างดำเนินการ",
+   "status": "ยกเลิกประกาศเชิญชวน",
    "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69099012616&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
    "announce_type": "ประกาศเชิญชวน",
    "matched_keywords": [
@@ -937,7 +959,7 @@
    "date": "15/09/2569",
    "date_end": "",
    "budget": 1000000.0,
-   "status": "ระหว่างดำเนินการ",
+   "status": "ยกเลิกประกาศเชิญชวน",
    "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69099287705&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
    "announce_type": "ประกาศเชิญชวน",
    "matched_keywords": [
@@ -1061,6 +1083,25 @@
    "fit": "เกี่ยวข้องน้อย",
    "hits": [
     "จัดงาน"
+   ]
+  },
+  {
+   "pid": "69089713664",
+   "dept": "สำนักงานปลัดกระทรวงการท่องเที่ยวและกีฬา",
+   "title": "ประกวดราคาจ้างจัดกิจกรรมเทศกาลดนตรีจังหวัดตราด SEA TRAT MUSIC FESTIVAL ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "29/09/2569",
+   "date_end": "02/10/2569",
+   "budget": 10000000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_2.jsp?tor_project_id=69089713664",
+   "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
+   "matched_keywords": [
+    "จัดกิจกรรม"
+   ],
+   "score": 2,
+   "fit": "เกี่ยวข้องน้อย",
+   "hits": [
+    "จัดกิจกรรม"
    ]
   },
   {
@@ -1574,6 +1615,25 @@
    "fit": "เกี่ยวข้องน้อย",
    "hits": [
     "จัดงาน"
+   ]
+  },
+  {
+   "pid": "69099703165",
+   "dept": "สำนักงานคณะกรรมการพิเศษเพื่อประสานงานโครงการอันเนื่องมาจากพระราชดำริ",
+   "title": "ประกวดราคาจ้างจ้างจัดแสดงนิทรรศการและกิจกรรมในงาน พรรณไม้งามอร่ามสวนหลวง ร.9 ประจำปีงบประมาณ พ.ศ.2569 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "29/09/2569",
+   "date_end": "",
+   "budget": 680000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69099703165&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
+   "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "นิทรรศการ"
+   ],
+   "score": 2,
+   "fit": "เกี่ยวข้องน้อย",
+   "hits": [
+    "นิทรรศการ"
    ]
   },
   {
