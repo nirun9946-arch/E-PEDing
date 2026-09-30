@@ -1,10 +1,10 @@
 {
- "fetched_at": "29/09/2569 23:07",
+ "fetched_at": "30/09/2569 15:57",
  "range": {
-  "from": "08/09/2569",
-  "to": "29/09/2569"
+  "from": "09/09/2569",
+  "to": "30/09/2569"
  },
- "total": 84,
+ "total": 71,
  "requests": 33,
  "items": [
   {
@@ -170,27 +170,6 @@
    ]
   },
   {
-   "pid": "69099209453",
-   "dept": "สำนักงานนวัตกรรมแห่งชาติ (องค์การมหาชน)",
-   "title": "ประกวดราคาจ้างจ้างเหมาผลิตสื่อวีดิทัศน์และบริหารจัดการช่องยูทูบและติ๊กต๊อกของ สนช. ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
-   "date": "08/09/2569",
-   "date_end": "",
-   "budget": 2500000.0,
-   "status": "ระหว่างดำเนินการ",
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69099209453&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
-   "announce_type": "ประกาศเชิญชวน",
-   "matched_keywords": [
-    "ผลิตสื่อ",
-    "วีดิทัศน์"
-   ],
-   "score": 7,
-   "fit": "เหมาะมาก",
-   "hits": [
-    "ผลิตสื่อ",
-    "วีดิทัศน์"
-   ]
-  },
-  {
    "pid": "69099325896",
    "dept": "สำนักงานเลขาธิการสภาผู้แทนราษฎร",
    "title": "ประกวดราคาจ้างช่างแต่งหน้าทำผมสำหรับพิธีกร ผู้ประกาศข่าว และผู้ร่วมรายการ ของสถานีวิทยุกระจายเสียงและวิทยุโทรทัศน์รัฐสภา ประจำปีงบประมาณ พ.ศ. 2570 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
@@ -252,26 +231,6 @@
     "ประชาสัมพันธ์",
     "เผยแพร่",
     "ข่าว"
-   ]
-  },
-  {
-   "pid": "69069610577",
-   "dept": "องค์การบริหารส่วนจังหวัดพิจิตร",
-   "title": "ประกวดราคาจ้างโครงการประชาสัมพันธ์และส่งเสริมภาพลักษณ์การท่องเที่ยวของจังหวัดพิจิตร (แผนงานการศาสนาวัฒนธรรมและนันทนาการ งานวิชาการวางแผนและส่งเสริมการท่องเที่ยว) ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
-   "date": "08/09/2569",
-   "date_end": "",
-   "budget": 5000000.0,
-   "status": "ยกเลิกประกาศเชิญชวน",
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69069610577&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
-   "announce_type": "ประกาศเชิญชวน",
-   "matched_keywords": [
-    "ประชาสัมพันธ์"
-   ],
-   "score": 6,
-   "fit": "เหมาะมาก",
-   "hits": [
-    "ประชาสัมพันธ์",
-    "ภาพลักษณ์"
    ]
   },
   {
@@ -420,12 +379,12 @@
    "pid": "69099560190",
    "dept": "กองตรวจสอบรับรองมาตรฐานข้าวและผลิตภัณฑ์ กรมการข้าว",
    "title": "ประกวดราคาจ้างจัดงานประชาสัมพันธ์สร้างความเชื่อมั่นในสินค้าข้าวคุณภาพ ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
-   "date": "24/09/2569",
-   "date_end": "29/09/2569",
+   "date": "30/09/2569",
+   "date_end": "",
    "budget": 4000000.0,
    "status": "ระหว่างดำเนินการ",
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_2.jsp?tor_project_id=69099560190",
-   "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69099560190&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
+   "announce_type": "ประกาศเชิญชวน",
    "matched_keywords": [
     "ประชาสัมพันธ์",
     "จัดงาน"
@@ -500,27 +459,6 @@
    ]
   },
   {
-   "pid": "69089561612",
-   "dept": "การไฟฟ้านครหลวง",
-   "title": "ประกวดราคาจ้างงานจ้างเผยแพร่สื่อประชาสัมพันธ์ของการไฟฟ้านครหลวงทางวิทยุคลื่น GREENWAVE ๑๐๖.๕ FM ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
-   "date": "08/09/2569",
-   "date_end": "",
-   "budget": 1605000.0,
-   "status": "ระหว่างดำเนินการ",
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69089561612&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
-   "announce_type": "ประกาศเชิญชวน",
-   "matched_keywords": [
-    "ประชาสัมพันธ์",
-    "เผยแพร่"
-   ],
-   "score": 5,
-   "fit": "น่าสนใจ",
-   "hits": [
-    "ประชาสัมพันธ์",
-    "เผยแพร่"
-   ]
-  },
-  {
    "pid": "69099213328",
    "dept": "กองพัฒนาผลิตภัณฑ์ข้าว กรมการข้าว",
    "title": "ประกวดราคาจ้างเหมาจัดงานประชาสัมพันธ์ข้าวพื้นเมืองไทย Thai Local Rice Fest 2 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
@@ -560,26 +498,6 @@
    "hits": [
     "ประชาสัมพันธ์",
     "จัดงาน"
-   ]
-  },
-  {
-   "pid": "69099486769",
-   "dept": "สำนักงานคณะกรรมการดิจิทัลเพื่อเศรษฐกิจและสังคมแห่งชาติ (สดช.)",
-   "title": "ประกวดราคาจ้างโครงการบำรุงรักษาห้องประชุม สดช. และอุปกรณ์ระบบประชาสัมพันธ์ (Digital Signage) ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
-   "date": "24/09/2569",
-   "date_end": "29/09/2569",
-   "budget": 983700.0,
-   "status": "ระหว่างดำเนินการ",
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_2.jsp?tor_project_id=69099486769",
-   "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
-   "matched_keywords": [
-    "ประชาสัมพันธ์"
-   ],
-   "score": 5,
-   "fit": "น่าสนใจ",
-   "hits": [
-    "ประชาสัมพันธ์",
-    "digital"
    ]
   },
   {
@@ -663,26 +581,6 @@
    ]
   },
   {
-   "pid": "69099206869",
-   "dept": "สำนักงานนวัตกรรมแห่งชาติ (องค์การมหาชน)",
-   "title": "ประกวดราคาจ้างจ้างเหมาจัดทำเนื้อหานวัตกรรมและบริหารจัดการช่องทางสื่อออนไลน์ของ สนช. ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
-   "date": "08/09/2569",
-   "date_end": "",
-   "budget": 3500000.0,
-   "status": "ระหว่างดำเนินการ",
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69099206869&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
-   "announce_type": "ประกาศเชิญชวน",
-   "matched_keywords": [
-    "สื่อออนไลน์"
-   ],
-   "score": 4,
-   "fit": "น่าสนใจ",
-   "hits": [
-    "สื่อออนไลน์",
-    "เนื้อหา"
-   ]
-  },
-  {
    "pid": "69099277448",
    "dept": "สำนักงานสลากกินแบ่งรัฐบาล",
    "title": "ประกวดราคาจ้างผลิตและบริหารจัดการสื่อเพื่อประชาสัมพันธ์ภายในและภายนอก ประจำปีงบประมาณ 2570 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
@@ -725,44 +623,6 @@
    ]
   },
   {
-   "pid": "69099519057",
-   "dept": "การไฟฟ้าฝ่ายผลิตแห่งประเทศไทย",
-   "title": "ประกวดราคาจ้างเหมาบริการเพื่อทำงานประชาสัมพันธ์ งานด้านคอมพิวเตอร์ และงานบริการทั่วไป ประจำปี 2570 เลขที่ หจฟม-ห.(จ)717/2569 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
-   "date": "24/09/2569",
-   "date_end": "29/09/2569",
-   "budget": 10637112.59,
-   "status": "ระหว่างดำเนินการ",
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_2.jsp?tor_project_id=69099519057",
-   "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
-   "matched_keywords": [
-    "ประชาสัมพันธ์"
-   ],
-   "score": 3,
-   "fit": "น่าสนใจ",
-   "hits": [
-    "ประชาสัมพันธ์"
-   ]
-  },
-  {
-   "pid": "69089723388",
-   "dept": "สำนักงานหลักประกันสุขภาพแห่งชาติ",
-   "title": "ประกวดราคาเช่าใช้บริการต่ออายุสมาชิกโปรแกรมสื่อสารประชาสัมพันธ์ผ่าน Line Official Account สปสช. ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
-   "date": "08/09/2569",
-   "date_end": "",
-   "budget": 6794500.0,
-   "status": "ระหว่างดำเนินการ",
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69089723388&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
-   "announce_type": "ประกาศเชิญชวน",
-   "matched_keywords": [
-    "ประชาสัมพันธ์"
-   ],
-   "score": 3,
-   "fit": "น่าสนใจ",
-   "hits": [
-    "ประชาสัมพันธ์"
-   ]
-  },
-  {
    "pid": "69079527098",
    "dept": "สำนักงานกองทุนหมู่บ้านและชุมชนเมืองแห่งชาติ",
    "title": "ประกวดราคาจ้างโครงการสื่อสร้างสรรค์และการประชาสัมพันธ์ออนไลน์กองทุนหมู่บ้านและชุมชนเมืองแห่งชาติ ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
@@ -771,25 +631,6 @@
    "budget": 4000000.0,
    "status": "ระหว่างดำเนินการ",
    "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69079527098&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
-   "announce_type": "ประกาศเชิญชวน",
-   "matched_keywords": [
-    "ประชาสัมพันธ์"
-   ],
-   "score": 3,
-   "fit": "น่าสนใจ",
-   "hits": [
-    "ประชาสัมพันธ์"
-   ]
-  },
-  {
-   "pid": "69099211615",
-   "dept": "สำนักงานนวัตกรรมแห่งชาติ (องค์การมหาชน)",
-   "title": "ประกวดราคาจ้างจ้างเหมาบริการประชาสัมพันธ์และการสื่อสารทั้งในและต่างประเทศ ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
-   "date": "08/09/2569",
-   "date_end": "",
-   "budget": 3250000.0,
-   "status": "ระหว่างดำเนินการ",
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69099211615&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
    "announce_type": "ประกาศเชิญชวน",
    "matched_keywords": [
     "ประชาสัมพันธ์"
@@ -1010,25 +851,6 @@
    ]
   },
   {
-   "pid": "69089707855",
-   "dept": "กรมหม่อนไหม",
-   "title": "ประกวดราคาจ้างจัดงานตรานกยูงพระราชทาน สืบสานตำนานไหมไทย ครั้งที่ 21 ประจำปี 2569 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
-   "date": "08/09/2569",
-   "date_end": "",
-   "budget": 16000000.0,
-   "status": "ระหว่างดำเนินการ",
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69089707855&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
-   "announce_type": "ประกาศเชิญชวน",
-   "matched_keywords": [
-    "จัดงาน"
-   ],
-   "score": 2,
-   "fit": "เกี่ยวข้องน้อย",
-   "hits": [
-    "จัดงาน"
-   ]
-  },
-  {
    "pid": "69099418974",
    "dept": "เทศบาลนครเชียงใหม่",
    "title": "ประกวดราคาจ้างจ้างเหมาจัดงานประเพณีเดือนยี่เป็งเชียงใหม่ ประจำปี 2569 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
@@ -1048,25 +870,6 @@
    ]
   },
   {
-   "pid": "69099568101",
-   "dept": "สำนักงานพัฒนาธุรกรรมทางอิเล็กทรอนิกส์",
-   "title": "ประกวดราคาจ้างจัดกิจกรรมพัฒนาความรู้และทักษะ EDC Trainer ประจำปีงบประมาณ 2570 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
-   "date": "24/09/2569",
-   "date_end": "29/09/2569",
-   "budget": 15000000.0,
-   "status": "ระหว่างดำเนินการ",
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_2.jsp?tor_project_id=69099568101",
-   "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
-   "matched_keywords": [
-    "จัดกิจกรรม"
-   ],
-   "score": 2,
-   "fit": "เกี่ยวข้องน้อย",
-   "hits": [
-    "จัดกิจกรรม"
-   ]
-  },
-  {
    "pid": "69099528319",
    "dept": "จังหวัดกาญจนบุรี",
    "title": "ประกวดราคาจ้างเหมาจัดงานสัปดาห์สะพานข้ามแม่น้ำแควและงานกาชาดจังหวัดกาญจนบุรี ประจำปี 2569 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
@@ -1076,25 +879,6 @@
    "status": "ระหว่างดำเนินการ",
    "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_2.jsp?tor_project_id=69099528319",
    "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
-   "matched_keywords": [
-    "จัดงาน"
-   ],
-   "score": 2,
-   "fit": "เกี่ยวข้องน้อย",
-   "hits": [
-    "จัดงาน"
-   ]
-  },
-  {
-   "pid": "69089265421",
-   "dept": "สำนักงานปลัดกระทรวงศึกษาธิการ",
-   "title": "ประกวดราคาจ้างโครงการการจัดงานประชุมวิชาการการพัฒนาเด็กและเยาวชนในถิ่นทุรกันดารตามพระราชดำริสมเด็จพระกนิษฐาธิราชเจ้ากรมสมเด็จพระเทพรัตนราชสุดา ฯ สยามบรมราชกุมารี ประจำปีงบประมาณ พ.ศ. 2570 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
-   "date": "08/09/2569",
-   "date_end": "",
-   "budget": 15000000.0,
-   "status": "ระหว่างดำเนินการ",
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69089265421&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
-   "announce_type": "ประกาศเชิญชวน",
    "matched_keywords": [
     "จัดงาน"
    ],
@@ -1276,25 +1060,6 @@
    ]
   },
   {
-   "pid": "69099046883",
-   "dept": "กรมธนารักษ์",
-   "title": "ประกวดราคาจ้างปรับปรุงห้องจัดนิทรรศการ ณ พิพิธบางลำพู ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
-   "date": "08/09/2569",
-   "date_end": "",
-   "budget": 2900000.0,
-   "status": "ระหว่างดำเนินการ",
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69099046883&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
-   "announce_type": "ประกาศเชิญชวน",
-   "matched_keywords": [
-    "นิทรรศการ"
-   ],
-   "score": 2,
-   "fit": "เกี่ยวข้องน้อย",
-   "hits": [
-    "นิทรรศการ"
-   ]
-  },
-  {
    "pid": "69099260324",
    "dept": "กรมการเปลี่ยนแปลงสภาพภูมิอากาศและสิ่งแวดล้อม",
    "title": "ประกวดราคาจ้างจัดกิจกรรมวันสิ่งแวดล้อมไทยประจำปี พ.ศ. 2569 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
@@ -1455,25 +1220,6 @@
    "budget": 1500000.0,
    "status": "ระหว่างดำเนินการ",
    "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69089680878&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
-   "announce_type": "ประกาศเชิญชวน",
-   "matched_keywords": [
-    "จัดกิจกรรม"
-   ],
-   "score": 2,
-   "fit": "เกี่ยวข้องน้อย",
-   "hits": [
-    "จัดกิจกรรม"
-   ]
-  },
-  {
-   "pid": "69099166352",
-   "dept": "กองทุนพัฒนาสื่อปลอดภัยและสร้างสรรค์",
-   "title": "ประกวดราคาจ้างจัดกิจกรรม 50 ปี ไทย - เวียดนาม ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
-   "date": "08/09/2569",
-   "date_end": "",
-   "budget": 1500000.0,
-   "status": "ระหว่างดำเนินการ",
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69099166352&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
    "announce_type": "ประกาศเชิญชวน",
    "matched_keywords": [
     "จัดกิจกรรม"
