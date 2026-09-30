@@ -1,10 +1,10 @@
 {
- "fetched_at": "30/09/2569 20:17",
+ "fetched_at": "30/09/2569 23:05",
  "range": {
   "from": "09/09/2569",
   "to": "30/09/2569"
  },
- "total": 77,
+ "total": 78,
  "requests": 33,
  "items": [
   {
@@ -666,6 +666,25 @@
    "hits": [
     "จัดงาน",
     "นิทรรศการ"
+   ]
+  },
+  {
+   "pid": "69099737831",
+   "dept": "กองทุนพัฒนาสื่อปลอดภัยและสร้างสรรค์",
+   "title": "ประกวดราคาจ้างผลิตสื่อสร้างสรรค์ ธรรมะ ทำดี ทำได้ทุกวัน ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "30/09/2569",
+   "date_end": "",
+   "budget": 4000000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69099737831&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
+   "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "ผลิตสื่อ"
+   ],
+   "score": 4,
+   "fit": "น่าสนใจ",
+   "hits": [
+    "ผลิตสื่อ"
    ]
   },
   {
