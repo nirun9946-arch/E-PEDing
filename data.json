@@ -1,10 +1,10 @@
 {
- "fetched_at": "30/09/2569 15:57",
+ "fetched_at": "30/09/2569 20:17",
  "range": {
   "from": "09/09/2569",
   "to": "30/09/2569"
  },
- "total": 71,
+ "total": 77,
  "requests": 33,
  "items": [
   {
@@ -29,6 +29,31 @@
     "สื่อสังคมออนไลน์",
     "ภาพลักษณ์",
     "สื่อสารองค์กร"
+   ]
+  },
+  {
+   "pid": "69099648454",
+   "dept": "กรมการเปลี่ยนแปลงสภาพภูมิอากาศและสิ่งแวดล้อม",
+   "title": "ประกวดราคาจ้างผลิตและเผยแพร่สื่อโทรทัศน์และสื่อออนไลน์ยอดนิยม สร้างการรับรู้ด้านทรัพยากรธรรมชาติสิ่งแวดล้อม และการปรับตัวต่อสภาพภูมิอากาศ ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "30/09/2569",
+   "date_end": "05/10/2569",
+   "budget": 2400000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_2.jsp?tor_project_id=69099648454",
+   "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
+   "matched_keywords": [
+    "เผยแพร่",
+    "โทรทัศน์",
+    "สื่อออนไลน์"
+   ],
+   "score": 16,
+   "fit": "เหมาะมาก",
+   "hits": [
+    "สื่อโทรทัศน์",
+    "โทรทัศน์",
+    "เผยแพร่",
+    "สื่อออนไลน์",
+    "สร้างการรับรู้"
    ]
   },
   {
@@ -170,6 +195,28 @@
    ]
   },
   {
+   "pid": "69099740143",
+   "dept": "กองทุนพัฒนาสื่อปลอดภัยและสร้างสรรค์",
+   "title": "ประกวดราคาจ้างจัดทำสื่อและเผยแพร่ข่าวประชาสัมพันธ์ ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "30/09/2569",
+   "date_end": "",
+   "budget": 3000000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69099740143&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
+   "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "ประชาสัมพันธ์",
+    "เผยแพร่"
+   ],
+   "score": 7,
+   "fit": "เหมาะมาก",
+   "hits": [
+    "ประชาสัมพันธ์",
+    "เผยแพร่",
+    "ข่าว"
+   ]
+  },
+  {
    "pid": "69099325896",
    "dept": "สำนักงานเลขาธิการสภาผู้แทนราษฎร",
    "title": "ประกวดราคาจ้างช่างแต่งหน้าทำผมสำหรับพิธีกร ผู้ประกาศข่าว และผู้ร่วมรายการ ของสถานีวิทยุกระจายเสียงและวิทยุโทรทัศน์รัฐสภา ประจำปีงบประมาณ พ.ศ. 2570 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
@@ -231,6 +278,27 @@
     "ประชาสัมพันธ์",
     "เผยแพร่",
     "ข่าว"
+   ]
+  },
+  {
+   "pid": "69099735415",
+   "dept": "กองทุนพัฒนาสื่อปลอดภัยและสร้างสรรค์",
+   "title": "ประกวดราคาจ้างผลิตและเผยแพร่สารคดีจดหมายเหตุประวัติศาสตร์ ศาสตร์และศิลป์แห่งพระราชพิธีพระบรมโกศ ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "30/09/2569",
+   "date_end": "",
+   "budget": 5000000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69099735415&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
+   "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "เผยแพร่",
+    "สารคดี"
+   ],
+   "score": 6,
+   "fit": "เหมาะมาก",
+   "hits": [
+    "เผยแพร่",
+    "สารคดี"
    ]
   },
   {
@@ -501,6 +569,26 @@
    ]
   },
   {
+   "pid": "69099486769",
+   "dept": "สำนักงานคณะกรรมการดิจิทัลเพื่อเศรษฐกิจและสังคมแห่งชาติ (สดช.)",
+   "title": "ประกวดราคาจ้างโครงการบำรุงรักษาห้องประชุม สดช. และอุปกรณ์ระบบประชาสัมพันธ์ (Digital Signage) ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "30/09/2569",
+   "date_end": "",
+   "budget": 983700.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69099486769&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
+   "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "ประชาสัมพันธ์"
+   ],
+   "score": 5,
+   "fit": "น่าสนใจ",
+   "hits": [
+    "ประชาสัมพันธ์",
+    "digital"
+   ]
+  },
+  {
    "pid": "69069369452",
    "dept": "สำนักงานส่งเสริมเศรษฐกิจสร้างสรรค์ (องค์การมหาชน)",
    "title": "ประกวดราคาจ้างจัดกิจกรรมสร้างสรรค์เพื่อเผยแพร่ผลงานผู้ประกอบการสร้างสรรค์ที่เข้าร่วมโครงการและสร้างโอกาสทางธุรกิจ ภายใต้แนวคิด 5 Senses of Thai Creative SMEs ใน 4 ภูมิภาค ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
@@ -519,6 +607,25 @@
    "hits": [
     "เผยแพร่",
     "จัดกิจกรรม"
+   ]
+  },
+  {
+   "pid": "69099744995",
+   "dept": "กองทุนพัฒนาสื่อปลอดภัยและสร้างสรรค์",
+   "title": "ประกวดราคาจ้างผลิตสื่อสร้างสรรค์เพื่อเสริมสร้างภูมิคุ้มกันและปรับตัวรับมือภาวะวิกฤต (Next Normal ,New Paradigm) ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "30/09/2569",
+   "date_end": "",
+   "budget": 7000000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69099744995&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
+   "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "ผลิตสื่อ"
+   ],
+   "score": 4,
+   "fit": "น่าสนใจ",
+   "hits": [
+    "ผลิตสื่อ"
    ]
   },
   {
@@ -1323,6 +1430,25 @@
    "fit": "เกี่ยวข้องน้อย",
    "hits": [
     "เผยแพร่"
+   ]
+  },
+  {
+   "pid": "69099553062",
+   "dept": "เทศบาลเมืองต้นเปา",
+   "title": "ประกวดราคาจ้างเหมาจัดงานตามโครงการมหกรรมโคมบ้านหนองโค้งและหัตถกรรมสันกำแพง ครั้งที่ ๑๓ ประจำปีงบประมาณ พ.ศ. ๒๕๗๐ ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "30/09/2569",
+   "date_end": "05/10/2569",
+   "budget": 1000000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_2.jsp?tor_project_id=69099553062",
+   "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
+   "matched_keywords": [
+    "จัดงาน"
+   ],
+   "score": 2,
+   "fit": "เกี่ยวข้องน้อย",
+   "hits": [
+    "จัดงาน"
    ]
   },
   {
