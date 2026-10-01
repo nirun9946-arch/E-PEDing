@@ -1,10 +1,10 @@
 {
- "fetched_at": "01/10/2569 16:21",
+ "fetched_at": "01/10/2569 21:08",
  "range": {
   "from": "10/09/2569",
   "to": "01/10/2569"
  },
- "total": 73,
+ "total": 74,
  "requests": 33,
  "items": [
   {
@@ -911,6 +911,25 @@
    "fit": "เกี่ยวข้องน้อย",
    "hits": [
     "จัดงาน"
+   ]
+  },
+  {
+   "pid": "69099568101",
+   "dept": "สำนักงานพัฒนาธุรกรรมทางอิเล็กทรอนิกส์",
+   "title": "ประกวดราคาจ้างจัดกิจกรรมพัฒนาความรู้และทักษะ EDC Trainer ประจำปีงบประมาณ 2570 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "01/10/2569",
+   "date_end": "",
+   "budget": 15000000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69099568101&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
+   "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "จัดกิจกรรม"
+   ],
+   "score": 2,
+   "fit": "เกี่ยวข้องน้อย",
+   "hits": [
+    "จัดกิจกรรม"
    ]
   },
   {
