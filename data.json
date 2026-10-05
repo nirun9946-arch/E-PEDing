@@ -1,10 +1,10 @@
 {
- "fetched_at": "05/10/2569 22:30",
+ "fetched_at": "06/10/2569 01:47",
  "range": {
-  "from": "14/09/2569",
-  "to": "05/10/2569"
+  "from": "15/09/2569",
+  "to": "06/10/2569"
  },
- "total": 70,
+ "total": 67,
  "requests": 33,
  "items": [
   {
@@ -29,31 +29,6 @@
     "สื่อสังคมออนไลน์",
     "ภาพลักษณ์",
     "สื่อสารองค์กร"
-   ]
-  },
-  {
-   "pid": "69099648454",
-   "dept": "กรมการเปลี่ยนแปลงสภาพภูมิอากาศและสิ่งแวดล้อม",
-   "title": "ประกวดราคาจ้างผลิตและเผยแพร่สื่อโทรทัศน์และสื่อออนไลน์ยอดนิยม สร้างการรับรู้ด้านทรัพยากรธรรมชาติสิ่งแวดล้อม และการปรับตัวต่อสภาพภูมิอากาศ ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
-   "date": "30/09/2569",
-   "date_end": "05/10/2569",
-   "budget": 2400000.0,
-   "status": "ระหว่างดำเนินการ",
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_2.jsp?tor_project_id=69099648454",
-   "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
-   "matched_keywords": [
-    "เผยแพร่",
-    "โทรทัศน์",
-    "สื่อออนไลน์"
-   ],
-   "score": 16,
-   "fit": "เหมาะมาก",
-   "hits": [
-    "สื่อโทรทัศน์",
-    "โทรทัศน์",
-    "เผยแพร่",
-    "สื่อออนไลน์",
-    "สร้างการรับรู้"
    ]
   },
   {
@@ -708,25 +683,6 @@
    ]
   },
   {
-   "pid": "69069389593",
-   "dept": "จังหวัดสิงห์บุรี",
-   "title": "ประกวดราคาจ้างโครงการส่งเสริมประชาสัมพันธ์ด้านการท่องเที่ยวผ่านเรื่องเล่าจังหวัดสิงห์บุรี กิจกรรมหลักส่งเสริมการท่องเที่ยวเชิงประวัติศาสตร์และวิถีชีวิต กิจกรรมย่อยส่งเสริมการท่องเที่ยว ตามรอยเสด็จประพาสต้น รัชกาลที่ ๕ ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
-   "date": "14/09/2569",
-   "date_end": "",
-   "budget": 3000000.0,
-   "status": "ยกเลิกประกาศเชิญชวน",
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69069389593&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
-   "announce_type": "ประกาศเชิญชวน",
-   "matched_keywords": [
-    "ประชาสัมพันธ์"
-   ],
-   "score": 3,
-   "fit": "น่าสนใจ",
-   "hits": [
-    "ประชาสัมพันธ์"
-   ]
-  },
-  {
    "pid": "69099181792",
    "dept": "สำนักงานเลขาธิการสภาผู้แทนราษฎร",
    "title": "ประกวดราคาจ้างจ้างบำรุงรักษาและพัฒนาระบบการให้บริการภาพและเสียงผ่านโครงข่ายอินเทอร์เน็ตดิจิทัลแพลตฟอร์ม OTT Tpchannel ของสถานีวิทยุกระจายเสียงและวิทยุโทรทัศน์รัฐสภา ประจำปีงบประมาณ พ.ศ. 2570 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
@@ -898,22 +854,22 @@
    ]
   },
   {
-   "pid": "69099204124",
-   "dept": "การกีฬาแห่งประเทศไทย",
-   "title": "ประกวดราคาจ้างจัดงานมอบรางวัล Muaythai For all Excellence Awards 2026 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
-   "date": "14/09/2569",
+   "pid": "69089713664",
+   "dept": "สำนักงานปลัดกระทรวงการท่องเที่ยวและกีฬา",
+   "title": "ประกวดราคาจ้างจัดกิจกรรมเทศกาลดนตรีจังหวัดตราด SEA TRAT MUSIC FESTIVAL ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "06/10/2569",
    "date_end": "",
    "budget": 10000000.0,
    "status": "ระหว่างดำเนินการ",
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69099204124&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69089713664&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
    "announce_type": "ประกาศเชิญชวน",
    "matched_keywords": [
-    "จัดงาน"
+    "จัดกิจกรรม"
    ],
    "score": 2,
    "fit": "เกี่ยวข้องน้อย",
    "hits": [
-    "จัดงาน"
+    "จัดกิจกรรม"
    ]
   },
   {
@@ -1332,25 +1288,6 @@
    "fit": "เกี่ยวข้องน้อย",
    "hits": [
     "เผยแพร่"
-   ]
-  },
-  {
-   "pid": "69099553062",
-   "dept": "เทศบาลเมืองต้นเปา",
-   "title": "ประกวดราคาจ้างเหมาจัดงานตามโครงการมหกรรมโคมบ้านหนองโค้งและหัตถกรรมสันกำแพง ครั้งที่ ๑๓ ประจำปีงบประมาณ พ.ศ. ๒๕๗๐ ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
-   "date": "30/09/2569",
-   "date_end": "05/10/2569",
-   "budget": 1000000.0,
-   "status": "ระหว่างดำเนินการ",
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_2.jsp?tor_project_id=69099553062",
-   "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
-   "matched_keywords": [
-    "จัดงาน"
-   ],
-   "score": 2,
-   "fit": "เกี่ยวข้องน้อย",
-   "hits": [
-    "จัดงาน"
    ]
   },
   {
