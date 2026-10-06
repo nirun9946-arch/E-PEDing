@@ -1,10 +1,10 @@
 {
- "fetched_at": "06/10/2569 20:53",
+ "fetched_at": "06/10/2569 23:10",
  "range": {
   "from": "15/09/2569",
   "to": "06/10/2569"
  },
- "total": 73,
+ "total": 74,
  "requests": 33,
  "items": [
   {
@@ -980,6 +980,25 @@
    "budget": 6000000.0,
    "status": "ระหว่างดำเนินการ",
    "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69089518896&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
+   "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "จัดงาน"
+   ],
+   "score": 2,
+   "fit": "เกี่ยวข้องน้อย",
+   "hits": [
+    "จัดงาน"
+   ]
+  },
+  {
+   "pid": "69109074649",
+   "dept": "กรมฝนหลวงและการบินเกษตร",
+   "title": "ประกวดราคาจ้างโครงการจัดงานวันพระบิดาแห่งฝนหลวง ประจำปี 2569 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "06/10/2569",
+   "date_end": "",
+   "budget": 5000000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69109074649&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
    "announce_type": "ประกาศเชิญชวน",
    "matched_keywords": [
     "จัดงาน"
