@@ -1,11 +1,11 @@
 {
- "fetched_at": "08/10/2569 16:26",
+ "fetched_at": "08/10/2569 21:21",
  "range": {
   "from": "17/09/2569",
   "to": "08/10/2569"
  },
- "total": 79,
- "requests": 31,
+ "total": 82,
+ "requests": 32,
  "items": [
   {
    "pid": "69099370146",
@@ -55,6 +55,28 @@
     "โทรทัศน์",
     "เผยแพร่",
     "โฆษณา"
+   ]
+  },
+  {
+   "pid": "69099546672",
+   "dept": "สำนักงานเลขาธิการสภาผู้แทนราษฎร",
+   "title": "ประกวดราคาจ้างจ้างบริการดูแลและบำรุงรักษาอุปกรณ์ระบบผลิตรายการและออกอากาศสถานีวิทยุโทรทัศน์รัฐสภา ประจำปีงบประมาณ พ.ศ. ๒๕๗๐ (ตั้งแต่วันที่ ๑ ตุลาคม ๒๕๖๙ ถึงวันที่ ๓๐ กันยายน ๒๕๗๐) ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "08/10/2569",
+   "date_end": "",
+   "budget": 20000000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69099546672&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
+   "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "โทรทัศน์",
+    "ออกอากาศ"
+   ],
+   "score": 9,
+   "fit": "เหมาะมาก",
+   "hits": [
+    "โทรทัศน์",
+    "ออกอากาศ",
+    "รายการ"
    ]
   },
   {
@@ -781,6 +803,25 @@
    ]
   },
   {
+   "pid": "69109099000",
+   "dept": "เทศบาลเมืองป่าตอง",
+   "title": "ประกวดราคาจ้างโครงการจัดทำสื่อประชาสัมพันธ์เทศบาลเมืองป่าตอง ประจำปีงบประมาณ พ.ศ.๒๕๗๐ จำนวน ๑๐ เดือน (ตั้งแต่วันที่ ๑ ธันวาคม ๒๕๖๙ - ๓๐ กันยายน ๒๕๗๐) ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "08/10/2569",
+   "date_end": "",
+   "budget": 1000000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69109099000&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
+   "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "ประชาสัมพันธ์"
+   ],
+   "score": 3,
+   "fit": "น่าสนใจ",
+   "hits": [
+    "ประชาสัมพันธ์"
+   ]
+  },
+  {
    "pid": "69099713919",
    "dept": "สำนักงานส่งเสริมเศรษฐกิจดิจิทัล",
    "title": "ประกวดราคาจ้างผู้ดำเนินโครงการประชาสัมพันธ์เพื่อขับเคลื่อนเมืองอัจฉริยะประเทศไทย ภายในงาน Thailand Smart City Expo 2026 ครั้งที่ 2 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
@@ -1112,6 +1153,25 @@
    "budget": 3470000.0,
    "status": "ระหว่างดำเนินการ",
    "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69099105771&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
+   "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "จัดงาน"
+   ],
+   "score": 2,
+   "fit": "เกี่ยวข้องน้อย",
+   "hits": [
+    "จัดงาน"
+   ]
+  },
+  {
+   "pid": "69109109963",
+   "dept": "จังหวัดพิษณุโลก",
+   "title": "ประกวดราคาจ้างส่งเสริมกิจกรรมและมาตรฐานการท่องเที่ยวเชิงสร้างสรรค์ กิจกรรม เทิดพระเกียรติ ปฐมราชาบดี พ่อขุนศรีอินทราทิตย์ (จ้างเหมาจัดงานเทิดพระเกียรติ ปฐมราชาบดี พ่อขุนศรีอินทราทิตย์) ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "08/10/2569",
+   "date_end": "",
+   "budget": 3338000.0,
+   "status": "ยกเลิกประกาศเชิญชวน",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69109109963&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
    "announce_type": "ประกาศเชิญชวน",
    "matched_keywords": [
     "จัดงาน"
