@@ -1,11 +1,11 @@
 {
- "fetched_at": "07/10/2569 23:50",
+ "fetched_at": "08/10/2569 16:26",
  "range": {
-  "from": "16/09/2569",
-  "to": "07/10/2569"
+  "from": "17/09/2569",
+  "to": "08/10/2569"
  },
- "total": 80,
- "requests": 32,
+ "total": 79,
+ "requests": 31,
  "items": [
   {
    "pid": "69099370146",
@@ -144,28 +144,6 @@
     "ประชาสัมพันธ์",
     "เผยแพร่",
     "ภาพลักษณ์"
-   ]
-  },
-  {
-   "pid": "69099362084",
-   "dept": "องค์การพิพิธภัณฑ์วิทยาศาสตร์แห่งชาติ",
-   "title": "ประกวดราคาจ้างผลิตและเผยแพร่ข่าวประชาสัมพันธ์ อพวช. จำนวน ๑๒ เดือน (ตุลาคม ๒๕๖๙ - กันยายน ๒๕๗๐) ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
-   "date": "16/09/2569",
-   "date_end": "",
-   "budget": 3060000.0,
-   "status": "ระหว่างดำเนินการ",
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69099362084&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
-   "announce_type": "ประกาศเชิญชวน",
-   "matched_keywords": [
-    "ประชาสัมพันธ์",
-    "เผยแพร่"
-   ],
-   "score": 7,
-   "fit": "เหมาะมาก",
-   "hits": [
-    "ประชาสัมพันธ์",
-    "เผยแพร่",
-    "ข่าว"
    ]
   },
   {
@@ -368,26 +346,6 @@
    "budget": 1500000.0,
    "status": "ระหว่างดำเนินการ",
    "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69099478552&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
-   "announce_type": "ประกาศเชิญชวน",
-   "matched_keywords": [
-    "ประชาสัมพันธ์"
-   ],
-   "score": 6,
-   "fit": "เหมาะมาก",
-   "hits": [
-    "ประชาสัมพันธ์",
-    "สื่อสังคมออนไลน์"
-   ]
-  },
-  {
-   "pid": "69089463812",
-   "dept": "สำนักงานคณะกรรมการส่งเสริมการลงทุน",
-   "title": "ประกวดราคาจ้างเหมาประชาสัมพันธ์และบริหารจัดการสื่อสังคมออนไลน์ (Social Media) ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
-   "date": "16/09/2569",
-   "date_end": "",
-   "budget": 1500000.0,
-   "status": "ยกเลิกประกาศเชิญชวน",
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69089463812&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
    "announce_type": "ประกาศเชิญชวน",
    "matched_keywords": [
     "ประชาสัมพันธ์"
@@ -785,25 +743,6 @@
    ]
   },
   {
-   "pid": "69099181792",
-   "dept": "สำนักงานเลขาธิการสภาผู้แทนราษฎร",
-   "title": "ประกวดราคาจ้างจ้างบำรุงรักษาและพัฒนาระบบการให้บริการภาพและเสียงผ่านโครงข่ายอินเทอร์เน็ตดิจิทัลแพลตฟอร์ม OTT Tpchannel ของสถานีวิทยุกระจายเสียงและวิทยุโทรทัศน์รัฐสภา ประจำปีงบประมาณ พ.ศ. 2570 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
-   "date": "16/09/2569",
-   "date_end": "",
-   "budget": 2000000.0,
-   "status": "ระหว่างดำเนินการ",
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69099181792&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
-   "announce_type": "ประกาศเชิญชวน",
-   "matched_keywords": [
-    "โทรทัศน์"
-   ],
-   "score": 3,
-   "fit": "น่าสนใจ",
-   "hits": [
-    "โทรทัศน์"
-   ]
-  },
-  {
    "pid": "69099580115",
    "dept": "จังหวัดตราด",
    "title": "ประกวดราคาจ้างโครงการประชาสัมพันธ์และจัดทำสื่อเพื่อขับเคลื่อนแผนการท่องเที่ยวจังหวัดตราด ประจำปีงบประมาณ พ.ศ. 2569 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
@@ -1032,6 +971,25 @@
    ]
   },
   {
+   "pid": "69109102208",
+   "dept": "สำนักงานพัฒนาธุรกรรมทางอิเล็กทรอนิกส์",
+   "title": "ประกวดราคาจ้างจ้างจัดกิจกรรมการทบทวนและประเมินผลกระทบมูลค่าและขีดความสามารถในการแข่งขันด้านดิจิทัลของการทำธุรกรรมทางอิเล็กทรอนิกส์สำหรับผู้ประกอบการ ภาครัฐและประชาชน พร้อมทั้งการประเมินความพึงพอใจของผู้รับบริการ ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "08/10/2569",
+   "date_end": "14/10/2569",
+   "budget": 5767100.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_2.jsp?tor_project_id=69109102208",
+   "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
+   "matched_keywords": [
+    "จัดกิจกรรม"
+   ],
+   "score": 2,
+   "fit": "เกี่ยวข้องน้อย",
+   "hits": [
+    "จัดกิจกรรม"
+   ]
+  },
+  {
    "pid": "69109074649",
    "dept": "กรมฝนหลวงและการบินเกษตร",
    "title": "ประกวดราคาจ้างโครงการจัดงานวันพระบิดาแห่งฝนหลวง ประจำปี 2569 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
@@ -1133,7 +1091,7 @@
    "date": "23/09/2569",
    "date_end": "",
    "budget": 3988600.0,
-   "status": "ระหว่างดำเนินการ",
+   "status": "ยกเลิกประกาศเชิญชวน",
    "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69099572738&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
    "announce_type": "ประกาศเชิญชวน",
    "matched_keywords": [
@@ -1238,6 +1196,25 @@
    "fit": "เกี่ยวข้องน้อย",
    "hits": [
     "จัดกิจกรรม"
+   ]
+  },
+  {
+   "pid": "69099581296",
+   "dept": "การเคหะแห่งชาติ",
+   "title": "ประกวดราคาจ้างโครงการพัฒนาระบบสารสนเทศที่อยู่อาศัยและบริการเผยแพร่ ปีงบประมาณ 2569 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "08/10/2569",
+   "date_end": "",
+   "budget": 2427500.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69099581296&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
+   "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "เผยแพร่"
+   ],
+   "score": 2,
+   "fit": "เกี่ยวข้องน้อย",
+   "hits": [
+    "เผยแพร่"
    ]
   },
   {
