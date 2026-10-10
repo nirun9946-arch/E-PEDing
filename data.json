@@ -1,10 +1,10 @@
 {
- "fetched_at": "09/10/2569 23:30",
+ "fetched_at": "10/10/2569 15:53",
  "range": {
-  "from": "18/09/2569",
-  "to": "09/10/2569"
+  "from": "19/09/2569",
+  "to": "10/10/2569"
  },
- "total": 90,
+ "total": 80,
  "requests": 32,
  "items": [
   {
@@ -102,28 +102,6 @@
     "โทรทัศน์",
     "ออกอากาศ",
     "รายการ"
-   ]
-  },
-  {
-   "pid": "69099068236",
-   "dept": "การไฟฟ้านครหลวง",
-   "title": "ประกวดราคาจ้างเผยแพร่สปอตโฆษณาของ MEA ทางสื่อรถไฟฟ้า BTS ระหว่างเดือนมีนาคม - มิถุนายน 2570 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
-   "date": "18/09/2569",
-   "date_end": "",
-   "budget": 3000000.0,
-   "status": "ระหว่างดำเนินการ",
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69099068236&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
-   "announce_type": "ประกาศเชิญชวน",
-   "matched_keywords": [
-    "เผยแพร่",
-    "โฆษณา"
-   ],
-   "score": 9,
-   "fit": "เหมาะมาก",
-   "hits": [
-    "เผยแพร่",
-    "โฆษณา",
-    "สปอต"
    ]
   },
   {
@@ -256,28 +234,6 @@
    "hits": [
     "ประชาสัมพันธ์",
     "เผยแพร่",
-    "ข่าว"
-   ]
-  },
-  {
-   "pid": "69109009365",
-   "dept": "กรมควบคุมโรค",
-   "title": "ประกวดราคาจ้างเหมาบริการการเฝ้าระวัง ติดตาม วิเคราะห์ และสรุปภาพรวมความคิดเห็นทางสังคมต่อข้อมูลข่าวสารโรคและภัยสุขภาพที่มีการเผยแพร่ผ่านสื่อออนไลน์ ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
-   "date": "06/10/2569",
-   "date_end": "09/10/2569",
-   "budget": 770000.0,
-   "status": "ระหว่างดำเนินการ",
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_2.jsp?tor_project_id=69109009365",
-   "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
-   "matched_keywords": [
-    "เผยแพร่",
-    "สื่อออนไลน์"
-   ],
-   "score": 7,
-   "fit": "เหมาะมาก",
-   "hits": [
-    "เผยแพร่",
-    "สื่อออนไลน์",
     "ข่าว"
    ]
   },
@@ -548,26 +504,6 @@
    "hits": [
     "เผยแพร่",
     "จัดกิจกรรม"
-   ]
-  },
-  {
-   "pid": "69109026081",
-   "dept": "สำนักงานพัฒนาธุรกรรมทางอิเล็กทรอนิกส์",
-   "title": "ประกวดราคาจ้างจัดกิจกรรมเสริมสร้างความตระหนักรู้ให้ประชาชนในการรับมือปัญหาแพลตฟอร์มออนไลน์ผ่านเครือข่าย ETDA Digital Citizen Trainer (EDC Trainer) ประจำปีงบประมาณ 2570 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
-   "date": "06/10/2569",
-   "date_end": "09/10/2569",
-   "budget": 19500000.0,
-   "status": "ระหว่างดำเนินการ",
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_2.jsp?tor_project_id=69109026081",
-   "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
-   "matched_keywords": [
-    "จัดกิจกรรม"
-   ],
-   "score": 4,
-   "fit": "น่าสนใจ",
-   "hits": [
-    "จัดกิจกรรม",
-    "digital"
    ]
   },
   {
@@ -904,25 +840,6 @@
    ]
   },
   {
-   "pid": "69079123345",
-   "dept": "จังหวัดสมุทรสาคร",
-   "title": "ประกวดราคาจ้างโครงการค่าใช้จ่ายในการบริหารงานจังหวัดแบบบูรณาการ กิจกรรม เพิ่มประสิทธิภาพการบริหารงานเชิงพื้นที่แบบบูรณาการ กิจกรรมย่อย ประชาสัมพันธ์เพื่อส่งเสริมการท่องเที่ยวตามแผนพัฒนาจังหวัดสมุทรสาคร ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
-   "date": "18/09/2569",
-   "date_end": "",
-   "budget": 1000000.0,
-   "status": "ระหว่างดำเนินการ",
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69079123345&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
-   "announce_type": "ประกาศเชิญชวน",
-   "matched_keywords": [
-    "ประชาสัมพันธ์"
-   ],
-   "score": 3,
-   "fit": "น่าสนใจ",
-   "hits": [
-    "ประชาสัมพันธ์"
-   ]
-  },
-  {
    "pid": "69109081192",
    "dept": "การไฟฟ้าฝ่ายผลิตแห่งประเทศไทย",
    "title": "ประกวดราคาจ้างงานจ้างบริการงานประชาสัมพันธ์ ปี 2570 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
@@ -980,25 +897,6 @@
    ]
   },
   {
-   "pid": "69109048552",
-   "dept": "สำนักงานพัฒนาธุรกรรมทางอิเล็กทรอนิกส์",
-   "title": "ประกวดราคาจ้างจัดกิจกรรมพัฒนาทักษะด้านดิจิทัลเพื่อการสร้างรายได้ และจัดกิจกรรม Business Pitching พร้อมส่งเสริมทางการตลาดให้แก่ชุมชน และจัดทำข้อมูลศักยภาพชุมชน (Community Profile) เพื่อการต่อยอด ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
-   "date": "06/10/2569",
-   "date_end": "09/10/2569",
-   "budget": 10000000.0,
-   "status": "ระหว่างดำเนินการ",
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_2.jsp?tor_project_id=69109048552",
-   "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
-   "matched_keywords": [
-    "จัดกิจกรรม"
-   ],
-   "score": 2,
-   "fit": "เกี่ยวข้องน้อย",
-   "hits": [
-    "จัดกิจกรรม"
-   ]
-  },
-  {
    "pid": "69089713664",
    "dept": "สำนักงานปลัดกระทรวงการท่องเที่ยวและกีฬา",
    "title": "ประกวดราคาจ้างจัดกิจกรรมเทศกาลดนตรีจังหวัดตราด SEA TRAT MUSIC FESTIVAL ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
@@ -1053,25 +951,6 @@
    "fit": "เกี่ยวข้องน้อย",
    "hits": [
     "จัดกิจกรรม"
-   ]
-  },
-  {
-   "pid": "69089518896",
-   "dept": "สำนักงานคณะกรรมการอาหารและยา",
-   "title": "ประกวดราคาจ้างจัดงานด้านผลิตภัณฑ์ยาเพื่อการบำบัดรักษาขั้นสูง (Advanced Therapy Medicinal Products ATMPs) ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
-   "date": "18/09/2569",
-   "date_end": "",
-   "budget": 6000000.0,
-   "status": "ระหว่างดำเนินการ",
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69089518896&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
-   "announce_type": "ประกาศเชิญชวน",
-   "matched_keywords": [
-    "จัดงาน"
-   ],
-   "score": 2,
-   "fit": "เกี่ยวข้องน้อย",
-   "hits": [
-    "จัดงาน"
    ]
   },
   {
@@ -1148,25 +1027,6 @@
    "fit": "เกี่ยวข้องน้อย",
    "hits": [
     "จัดงาน"
-   ]
-  },
-  {
-   "pid": "69109061849",
-   "dept": "สำนักงานนโยบายและแผนทรัพยากรธรรมชาติและสิ่งแวดล้อม",
-   "title": "ประกวดราคาจ้างดำเนินโครงการระบบติดตามมติคณะกรรมการสิ่งแวดล้อมแห่งชาติและการเผยแพร่ข้อมูลสู่ประชาชน ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
-   "date": "06/10/2569",
-   "date_end": "09/10/2569",
-   "budget": 4000000.0,
-   "status": "ระหว่างดำเนินการ",
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_2.jsp?tor_project_id=69109061849",
-   "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
-   "matched_keywords": [
-    "เผยแพร่"
-   ],
-   "score": 2,
-   "fit": "เกี่ยวข้องน้อย",
-   "hits": [
-    "เผยแพร่"
    ]
   },
   {
@@ -1607,25 +1467,6 @@
    ]
   },
   {
-   "pid": "69099244794",
-   "dept": "กรุงเทพมหานคร",
-   "title": "ประกวดราคาจ้างบำรุงรักษาระบบเผยแพร่ข้อมูลการจัดซื้อจัดจ้างภาครัฐของหน่วยงานกรุงเทพมหานคร (e-GP BMA) ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
-   "date": "18/09/2569",
-   "date_end": "",
-   "budget": 1116000.0,
-   "status": "ระหว่างดำเนินการ",
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69099244794&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
-   "announce_type": "ประกาศเชิญชวน",
-   "matched_keywords": [
-    "เผยแพร่"
-   ],
-   "score": 2,
-   "fit": "เกี่ยวข้องน้อย",
-   "hits": [
-    "เผยแพร่"
-   ]
-  },
-  {
    "pid": "69109053074",
    "dept": "สำนักงานส่งเสริมเศรษฐกิจสร้างสรรค์ (องค์การมหาชน)",
    "title": "ประกวดราคาจ้างจัดทำนิทรรศการพัฒนาศักยภาพและส่งเสริมคุณค่าผลิตภัณฑ์ด้วยความคิด สร้างสรรค์ กลุ่มงานหัตถกรรมและศิลปะ สำหรับเทศกาลงานออกแบบเชียงใหม่ (Chiang Mai Design Week) ๒๐๒๖ ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
@@ -1683,25 +1524,6 @@
    ]
   },
   {
-   "pid": "69099061790",
-   "dept": "กรมพัฒนาธุรกิจการค้า",
-   "title": "ประกวดราคาจ้างจัดกิจกรรมส่งเสริมไม้ยืนต้นหลักประกันทางธุรกิจ ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
-   "date": "18/09/2569",
-   "date_end": "",
-   "budget": 850000.0,
-   "status": "ระหว่างดำเนินการ",
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69099061790&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
-   "announce_type": "ประกาศเชิญชวน",
-   "matched_keywords": [
-    "จัดกิจกรรม"
-   ],
-   "score": 2,
-   "fit": "เกี่ยวข้องน้อย",
-   "hits": [
-    "จัดกิจกรรม"
-   ]
-  },
-  {
    "pid": "69109103733",
    "dept": "สำนักงานส่งเสริมเศรษฐกิจสร้างสรรค์ (องค์การมหาชน)",
    "title": "ประกวดราคาจ้างจัดกิจกรรมสร้างเครือข่ายธุรกิจสร้างสรรค์ เชื่อมโยงเครือข่ายนานาชาติ (Business Program) ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
@@ -1718,27 +1540,6 @@
    "fit": "เกี่ยวข้องน้อย",
    "hits": [
     "จัดกิจกรรม"
-   ]
-  },
-  {
-   "pid": "69109052386",
-   "dept": "สำนักงานส่งเสริมเศรษฐกิจสร้างสรรค์ (องค์การมหาชน)",
-   "title": "ประกวดราคาจ้างผลิตสื่อและป้ายประชาสัมพันธ์ และบรรยากาศสำหรับเทศกาลงานออกแบบเชียงใหม่ 2569 (Chiang Mai Design Week 2026) ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
-   "date": "06/10/2569",
-   "date_end": "09/10/2569",
-   "budget": 690000.0,
-   "status": "ระหว่างดำเนินการ",
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_2.jsp?tor_project_id=69109052386",
-   "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
-   "matched_keywords": [
-    "ประชาสัมพันธ์",
-    "ผลิตสื่อ"
-   ],
-   "score": 2,
-   "fit": "เกี่ยวข้องน้อย",
-   "hits": [
-    "ประชาสัมพันธ์",
-    "ผลิตสื่อ"
    ]
   },
   {
