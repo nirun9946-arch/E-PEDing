@@ -1,10 +1,10 @@
 {
- "fetched_at": "11/10/2569 22:56",
+ "fetched_at": "12/10/2569 16:40",
  "range": {
-  "from": "20/09/2569",
-  "to": "11/10/2569"
+  "from": "21/09/2569",
+  "to": "12/10/2569"
  },
- "total": 80,
+ "total": 85,
  "requests": 32,
  "items": [
   {
@@ -507,6 +507,26 @@
    ]
   },
   {
+   "pid": "69109026081",
+   "dept": "สำนักงานพัฒนาธุรกรรมทางอิเล็กทรอนิกส์",
+   "title": "ประกวดราคาจ้างจัดกิจกรรมเสริมสร้างความตระหนักรู้ให้ประชาชนในการรับมือปัญหาแพลตฟอร์มออนไลน์ผ่านเครือข่าย ETDA Digital Citizen Trainer (EDC Trainer) ประจำปีงบประมาณ 2570 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "12/10/2569",
+   "date_end": "",
+   "budget": 19500000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69109026081&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
+   "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "จัดกิจกรรม"
+   ],
+   "score": 4,
+   "fit": "น่าสนใจ",
+   "hits": [
+    "จัดกิจกรรม",
+    "digital"
+   ]
+  },
+  {
    "pid": "69109120071",
    "dept": "สำนักงานพัฒนาธุรกรรมทางอิเล็กทรอนิกส์",
    "title": "ประกวดราคาจ้างจัดกิจกรรมพร้อมการประเมินติดตามผลการพัฒนากำลังคนดิจิทัล Digital Workforce และจัดทำแผนพัฒนากำลังคนร่วมกับกรมพัฒนาฝีมือแรงงาน ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
@@ -897,6 +917,25 @@
    ]
   },
   {
+   "pid": "69109048552",
+   "dept": "สำนักงานพัฒนาธุรกรรมทางอิเล็กทรอนิกส์",
+   "title": "ประกวดราคาจ้างจัดกิจกรรมพัฒนาทักษะด้านดิจิทัลเพื่อการสร้างรายได้ และจัดกิจกรรม Business Pitching พร้อมส่งเสริมทางการตลาดให้แก่ชุมชน และจัดทำข้อมูลศักยภาพชุมชน (Community Profile) เพื่อการต่อยอด ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "12/10/2569",
+   "date_end": "",
+   "budget": 10000000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69109048552&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
+   "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "จัดกิจกรรม"
+   ],
+   "score": 2,
+   "fit": "เกี่ยวข้องน้อย",
+   "hits": [
+    "จัดกิจกรรม"
+   ]
+  },
+  {
    "pid": "69089713664",
    "dept": "สำนักงานปลัดกระทรวงการท่องเที่ยวและกีฬา",
    "title": "ประกวดราคาจ้างจัดกิจกรรมเทศกาลดนตรีจังหวัดตราด SEA TRAT MUSIC FESTIVAL ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
@@ -1030,6 +1069,25 @@
    ]
   },
   {
+   "pid": "69109061849",
+   "dept": "สำนักงานนโยบายและแผนทรัพยากรธรรมชาติและสิ่งแวดล้อม",
+   "title": "ประกวดราคาจ้างดำเนินโครงการระบบติดตามมติคณะกรรมการสิ่งแวดล้อมแห่งชาติและการเผยแพร่ข้อมูลสู่ประชาชน ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "12/10/2569",
+   "date_end": "",
+   "budget": 4000000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69109061849&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
+   "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "เผยแพร่"
+   ],
+   "score": 2,
+   "fit": "เกี่ยวข้องน้อย",
+   "hits": [
+    "เผยแพร่"
+   ]
+  },
+  {
    "pid": "69109019721",
    "dept": "องค์การบริหารส่วนจังหวัดสมุทรสงคราม",
    "title": "ประกวดราคาจ้างจัดงานส่งเสริมการท่องเที่ยวเพื่อกระตุ้นเศรษฐกิจในจังหวัดสมุทรสงคราม มหกรรมแสง สี เสียง แห่งเอกราช วีรกรรมกู้ชาติพระเจ้าตากสินมหาราช ณ ค่ายบางกุ้ง ขององค์การบริหารส่วนจังหวัดสมุทรสงครามประจำปี ๒๕๗๐ ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
@@ -1065,6 +1123,25 @@
    "fit": "เกี่ยวข้องน้อย",
    "hits": [
     "จัดงาน"
+   ]
+  },
+  {
+   "pid": "69109150654",
+   "dept": "โรงเรียนปัว",
+   "title": "ประกวดราคาจ้างจ้างเหมาจัดหาครูต่างชาติและจัดกิจกรรมสนับสนุนการเรียนการสอนภาษาอังกฤษ ประจำปีงบประมาณ ๒๕๗๐ ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "12/10/2569",
+   "date_end": "",
+   "budget": 3839000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69109150654&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
+   "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "จัดกิจกรรม"
+   ],
+   "score": 2,
+   "fit": "เกี่ยวข้องน้อย",
+   "hits": [
+    "จัดกิจกรรม"
    ]
   },
   {
@@ -1540,6 +1617,27 @@
    "fit": "เกี่ยวข้องน้อย",
    "hits": [
     "จัดกิจกรรม"
+   ]
+  },
+  {
+   "pid": "69109052386",
+   "dept": "สำนักงานส่งเสริมเศรษฐกิจสร้างสรรค์ (องค์การมหาชน)",
+   "title": "ประกวดราคาจ้างผลิตสื่อและป้ายประชาสัมพันธ์ และบรรยากาศสำหรับเทศกาลงานออกแบบเชียงใหม่ 2569 (Chiang Mai Design Week 2026) ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "12/10/2569",
+   "date_end": "",
+   "budget": 690000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69109052386&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
+   "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "ประชาสัมพันธ์",
+    "ผลิตสื่อ"
+   ],
+   "score": 2,
+   "fit": "เกี่ยวข้องน้อย",
+   "hits": [
+    "ประชาสัมพันธ์",
+    "ผลิตสื่อ"
    ]
   },
   {
