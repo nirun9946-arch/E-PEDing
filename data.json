@@ -1,10 +1,10 @@
 {
- "fetched_at": "13/10/2569 21:47",
+ "fetched_at": "14/10/2569 00:07",
  "range": {
-  "from": "22/09/2569",
-  "to": "13/10/2569"
+  "from": "23/09/2569",
+  "to": "14/10/2569"
  },
- "total": 76,
+ "total": 75,
  "requests": 32,
  "items": [
   {
@@ -539,27 +539,6 @@
    "fit": "น่าสนใจ",
    "hits": [
     "ผลิตสื่อ"
-   ]
-  },
-  {
-   "pid": "69099411485",
-   "dept": "สถาบันข้อมูลขนาดใหญ่ (องค์การมหาชน)",
-   "title": "ประกวดราคาจ้างเหมาบริหารจัดงานประชุมวิชาการ และนิทรรศการ Thailand Health Information Exchange Summit 2027 (THIES 2027) ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
-   "date": "22/09/2569",
-   "date_end": "",
-   "budget": 4520000.0,
-   "status": "ระหว่างดำเนินการ",
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69099411485&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
-   "announce_type": "ประกาศเชิญชวน",
-   "matched_keywords": [
-    "จัดงาน",
-    "นิทรรศการ"
-   ],
-   "score": 4,
-   "fit": "น่าสนใจ",
-   "hits": [
-    "จัดงาน",
-    "นิทรรศการ"
    ]
   },
   {
