@@ -1,10 +1,10 @@
 {
- "fetched_at": "14/10/2569 14:59",
+ "fetched_at": "14/10/2569 19:39",
  "range": {
   "from": "23/09/2569",
   "to": "14/10/2569"
  },
- "total": 76,
+ "total": 78,
  "requests": 32,
  "items": [
   {
@@ -891,6 +891,25 @@
    ]
   },
   {
+   "pid": "69109129535",
+   "dept": "จังหวัดเชียงราย",
+   "title": "ประกวดราคาจ้างจัดงานลอยกระทง ยี่เป็งเชียงแสนแสงศรัทธาแม่น้ำโขง 2569 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "14/10/2569",
+   "date_end": "19/10/2569",
+   "budget": 5700000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_2.jsp?tor_project_id=69109129535",
+   "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
+   "matched_keywords": [
+    "จัดงาน"
+   ],
+   "score": 2,
+   "fit": "เกี่ยวข้องน้อย",
+   "hits": [
+    "จัดงาน"
+   ]
+  },
+  {
    "pid": "69109074649",
    "dept": "กรมฝนหลวงและการบินเกษตร",
    "title": "ประกวดราคาจ้างโครงการจัดงานวันพระบิดาแห่งฝนหลวง ประจำปี 2569 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
@@ -1287,6 +1306,25 @@
    "fit": "เกี่ยวข้องน้อย",
    "hits": [
     "จัดกิจกรรม"
+   ]
+  },
+  {
+   "pid": "69099389810",
+   "dept": "จังหวัดปราจีนบุรี",
+   "title": "ประกวดราคาจ้างเหมาจัดงานมหกรรมเฉลิมฉลองลายพระหัตถ์ เนื่องในโอกาสพระพุทธเจ้าหลวงทรงเสด็จประพาสดงศรีมหาโพธิ์ จังหวัดปราจีนบุรี ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "14/10/2569",
+   "date_end": "",
+   "budget": 1779900.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69099389810&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
+   "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "จัดงาน"
+   ],
+   "score": 2,
+   "fit": "เกี่ยวข้องน้อย",
+   "hits": [
+    "จัดงาน"
    ]
   },
   {
