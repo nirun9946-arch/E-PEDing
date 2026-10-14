@@ -1,10 +1,10 @@
 {
- "fetched_at": "14/10/2569 00:07",
+ "fetched_at": "14/10/2569 14:59",
  "range": {
   "from": "23/09/2569",
   "to": "14/10/2569"
  },
- "total": 75,
+ "total": 76,
  "requests": 32,
  "items": [
   {
@@ -1420,6 +1420,25 @@
    "fit": "เกี่ยวข้องน้อย",
    "hits": [
     "จัดงาน"
+   ]
+  },
+  {
+   "pid": "69109053074",
+   "dept": "สำนักงานส่งเสริมเศรษฐกิจสร้างสรรค์ (องค์การมหาชน)",
+   "title": "ประกวดราคาจ้างจัดทำนิทรรศการพัฒนาศักยภาพและส่งเสริมคุณค่าผลิตภัณฑ์ด้วยความคิด สร้างสรรค์ กลุ่มงานหัตถกรรมและศิลปะ สำหรับเทศกาลงานออกแบบเชียงใหม่ (Chiang Mai Design Week) ๒๐๒๖ ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "14/10/2569",
+   "date_end": "",
+   "budget": 1000000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69109053074&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
+   "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "นิทรรศการ"
+   ],
+   "score": 2,
+   "fit": "เกี่ยวข้องน้อย",
+   "hits": [
+    "นิทรรศการ"
    ]
   },
   {
