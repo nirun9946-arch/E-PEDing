@@ -1,10 +1,10 @@
 {
- "fetched_at": "15/10/2569 14:43",
+ "fetched_at": "15/10/2569 19:27",
  "range": {
   "from": "24/09/2569",
   "to": "15/10/2569"
  },
- "total": 77,
+ "total": 81,
  "requests": 32,
  "items": [
   {
@@ -833,6 +833,25 @@
    ]
   },
   {
+   "pid": "69109125053",
+   "dept": "องค์การบริหารส่วนจังหวัดปทุมธานี",
+   "title": "ประกวดราคาจ้างจัดงานตามโครงการจัดงานแข่งขันเรือยาวประเพณี จังหวัดปทุมธานี ประจำปี 2569 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "15/10/2569",
+   "date_end": "20/10/2569",
+   "budget": 9629000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_2.jsp?tor_project_id=69109125053",
+   "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
+   "matched_keywords": [
+    "จัดงาน"
+   ],
+   "score": 2,
+   "fit": "เกี่ยวข้องน้อย",
+   "hits": [
+    "จัดงาน"
+   ]
+  },
+  {
    "pid": "69109051429",
    "dept": "สำนักงานพัฒนาธุรกรรมทางอิเล็กทรอนิกส์",
    "title": "ประกวดราคาจ้างจัดกิจกรรมส่งเสริมการใช้งานเทคโนโลยีใหม่ และการกำกับดูแลที่จำเป็น เพื่อตอบโจทย์กลุ่มเป้าหมายการพัฒนาธุรกรรมทางอิเล็กทรอนิกส์ ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
@@ -955,6 +974,25 @@
    "budget": 4519000.0,
    "status": "ยกเลิกประกาศเชิญชวน",
    "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69109026192&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
+   "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "จัดงาน"
+   ],
+   "score": 2,
+   "fit": "เกี่ยวข้องน้อย",
+   "hits": [
+    "จัดงาน"
+   ]
+  },
+  {
+   "pid": "69109086030",
+   "dept": "กรมทรัพย์สินทางปัญญา",
+   "title": "ประกวดราคาจ้างจัดงาน Thailand Coffee Fest Year End 2026 และ Thailand Rice Fest 2026 ประจำปีงบประมาณ พ.ศ. 2570 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "15/10/2569",
+   "date_end": "",
+   "budget": 4500000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69109086030&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
    "announce_type": "ประกาศเชิญชวน",
    "matched_keywords": [
     "จัดงาน"
@@ -1289,6 +1327,25 @@
    ]
   },
   {
+   "pid": "69109107878",
+   "dept": "เทศบาลเมืองคลองแห",
+   "title": "ประกวดราคาจ้างโครงการจัดงานประเพณีลอยกระทง ประจำปี ๒๕๖๙ ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "15/10/2569",
+   "date_end": "",
+   "budget": 1800000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69109107878&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
+   "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "จัดงาน"
+   ],
+   "score": 2,
+   "fit": "เกี่ยวข้องน้อย",
+   "hits": [
+    "จัดงาน"
+   ]
+  },
+  {
    "pid": "69099389810",
    "dept": "จังหวัดปราจีนบุรี",
    "title": "ประกวดราคาจ้างเหมาจัดงานมหกรรมเฉลิมฉลองลายพระหัตถ์ เนื่องในโอกาสพระพุทธเจ้าหลวงทรงเสด็จประพาสดงศรีมหาโพธิ์ จังหวัดปราจีนบุรี ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
@@ -1457,6 +1514,25 @@
    "fit": "เกี่ยวข้องน้อย",
    "hits": [
     "นิทรรศการ"
+   ]
+  },
+  {
+   "pid": "69109165036",
+   "dept": "เทศบาลเมืองไทรม้า",
+   "title": "ประกวดราคาจ้างเหมาจัดกิจกรรมลอยประทีปบูชามหานที พร้อมการแสดง แสง เสียง ล่องไปตามริมฝั่งแม่น้ำเจ้าพระยาตลอดแนวชุมชนเมืองไทรม้า ตามโครงการงานวันลอยกระทง ประจำปี ๒๕๖๙ (ปีงบฯ๒๕๗๐) ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "15/10/2569",
+   "date_end": "20/10/2569",
+   "budget": 720000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_2.jsp?tor_project_id=69109165036",
+   "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
+   "matched_keywords": [
+    "จัดกิจกรรม"
+   ],
+   "score": 2,
+   "fit": "เกี่ยวข้องน้อย",
+   "hits": [
+    "จัดกิจกรรม"
    ]
   },
   {
