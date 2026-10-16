@@ -1,10 +1,10 @@
 {
- "fetched_at": "16/10/2569 14:30",
+ "fetched_at": "16/10/2569 19:05",
  "range": {
   "from": "25/09/2569",
   "to": "16/10/2569"
  },
- "total": 76,
+ "total": 79,
  "requests": 32,
  "items": [
   {
@@ -477,6 +477,26 @@
    ]
   },
   {
+   "pid": "69109131466",
+   "dept": "สำนักงานคณะกรรมการป้องกันและปราบปรามการทุจริตแห่งชาติ",
+   "title": "ประกวดราคาจ้างโครงการรณรงค์สร้างกระแสต่อต้านการทุจริตของสำนักงาน ป.ป.ช. กิจกรรมที่ 1 การจัดงานวันต่อต้านคอร์รัปชันสากล (ประเทศไทย) ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "16/10/2569",
+   "date_end": "",
+   "budget": 2951000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69109131466&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
+   "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "จัดงาน"
+   ],
+   "score": 4,
+   "fit": "น่าสนใจ",
+   "hits": [
+    "จัดงาน",
+    "รณรงค์"
+   ]
+  },
+  {
    "pid": "69109068162",
    "dept": "สำนักงานส่งเสริมเศรษฐกิจสร้างสรรค์ (องค์การมหาชน)",
    "title": "ประกวดราคาจ้างรวบรวมข้อมูลผลการจัดกิจกรรมสร้างสรรค์เพื่อเผยแพร่ผลงานผู้ประกอบการสร้างสรรค์และสร้างโอกาสทางธุรกิจ ภายใต้แนวคิด ๕ Senses of Thai Creative SMEs ใน ๔ ภูมิภาค ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
@@ -787,6 +807,25 @@
    ]
   },
   {
+   "pid": "69109215036",
+   "dept": "กรมการค้าภายใน",
+   "title": "ประกวดราคาจ้างจัดกิจกรรมการเชื่อมโยงการท่องเที่ยวในตลาดต้องชม ช่วงเทศกาลลอยกระทงและปีใหม่ ปีงบประมาณ 2570 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "16/10/2569",
+   "date_end": "21/10/2569",
+   "budget": 8000000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_2.jsp?tor_project_id=69109215036",
+   "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
+   "matched_keywords": [
+    "จัดกิจกรรม"
+   ],
+   "score": 2,
+   "fit": "เกี่ยวข้องน้อย",
+   "hits": [
+    "จัดกิจกรรม"
+   ]
+  },
+  {
    "pid": "69109051429",
    "dept": "สำนักงานพัฒนาธุรกรรมทางอิเล็กทรอนิกส์",
    "title": "ประกวดราคาจ้างจัดกิจกรรมส่งเสริมการใช้งานเทคโนโลยีใหม่ และการกำกับดูแลที่จำเป็น เพื่อตอบโจทย์กลุ่มเป้าหมายการพัฒนาธุรกรรมทางอิเล็กทรอนิกส์ ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
@@ -828,8 +867,8 @@
    "pid": "69109129535",
    "dept": "จังหวัดเชียงราย",
    "title": "ประกวดราคาจ้างจัดงานลอยกระทง ยี่เป็งเชียงแสนแสงศรัทธาแม่น้ำโขง 2569 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
-   "date": "14/10/2569",
-   "date_end": "19/10/2569",
+   "date": "16/10/2569",
+   "date_end": "21/10/2569",
    "budget": 5700000.0,
    "status": "ระหว่างดำเนินการ",
    "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_2.jsp?tor_project_id=69109129535",
@@ -1366,6 +1405,25 @@
    "status": "ระหว่างดำเนินการ",
    "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69099415381&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
    "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "จัดงาน"
+   ],
+   "score": 2,
+   "fit": "เกี่ยวข้องน้อย",
+   "hits": [
+    "จัดงาน"
+   ]
+  },
+  {
+   "pid": "69109213689",
+   "dept": "จังหวัดหนองบัวลำภู",
+   "title": "ประกวดราคาจ้างเหมาจัดงาน มหกรรมกาแฟหนองบัวลำภู 2570 (NONG BUA LAMPHU COFFEE FEST 2027) โครงการส่งเสริมการท่องเที่ยวและบริการ เพื่อเพิ่มขีดความสามารถในการแข่งขัน ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "16/10/2569",
+   "date_end": "21/10/2569",
+   "budget": 1000000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_2.jsp?tor_project_id=69109213689",
+   "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
    "matched_keywords": [
     "จัดงาน"
    ],
