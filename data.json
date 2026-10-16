@@ -1,10 +1,10 @@
 {
- "fetched_at": "16/10/2569 19:05",
+ "fetched_at": "16/10/2569 21:10",
  "range": {
   "from": "25/09/2569",
   "to": "16/10/2569"
  },
- "total": 79,
+ "total": 80,
  "requests": 32,
  "items": [
   {
@@ -872,6 +872,25 @@
    "budget": 5700000.0,
    "status": "ระหว่างดำเนินการ",
    "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_2.jsp?tor_project_id=69109129535",
+   "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
+   "matched_keywords": [
+    "จัดงาน"
+   ],
+   "score": 2,
+   "fit": "เกี่ยวข้องน้อย",
+   "hits": [
+    "จัดงาน"
+   ]
+  },
+  {
+   "pid": "69099430845",
+   "dept": "จังหวัดกาญจนบุรี",
+   "title": "ประกวดราคาจ้างโครงการจัดงานสัปดาห์สะพานข้ามแม่น้ำแควและงานกาชาดจังหวัดกาญจนบุรี ประจำปี ๒๕๖๙ ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "16/10/2569",
+   "date_end": "21/10/2569",
+   "budget": 5000000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_2.jsp?tor_project_id=69099430845",
    "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
    "matched_keywords": [
     "จัดงาน"
