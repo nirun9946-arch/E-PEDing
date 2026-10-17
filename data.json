@@ -1,10 +1,10 @@
 {
- "fetched_at": "16/10/2569 21:10",
+ "fetched_at": "17/10/2569 14:11",
  "range": {
-  "from": "25/09/2569",
-  "to": "16/10/2569"
+  "from": "26/09/2569",
+  "to": "17/10/2569"
  },
- "total": 80,
+ "total": 72,
  "requests": 32,
  "items": [
   {
@@ -144,28 +144,6 @@
     "ประชาสัมพันธ์",
     "เผยแพร่",
     "สื่อออนไลน์"
-   ]
-  },
-  {
-   "pid": "69099546456",
-   "dept": "สำนักงานคณะกรรมการกำกับและส่งเสริมการประกอบธุรกิจประกันภัย",
-   "title": "ประกวดราคาจ้างผลิตและเผยแพร่สื่อประชาสัมพันธ์ชุดแพ็กเกจปฏิทิน เพื่อเสริมสร้างภาพลักษณ์องค์กร คปภ. ประจำปี 2570 (OIC Calendar 365 Days of Insurance) ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
-   "date": "25/09/2569",
-   "date_end": "",
-   "budget": 4000000.0,
-   "status": "ระหว่างดำเนินการ",
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69099546456&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
-   "announce_type": "ประกาศเชิญชวน",
-   "matched_keywords": [
-    "ประชาสัมพันธ์",
-    "เผยแพร่"
-   ],
-   "score": 8,
-   "fit": "เหมาะมาก",
-   "hits": [
-    "ประชาสัมพันธ์",
-    "เผยแพร่",
-    "ภาพลักษณ์"
    ]
   },
   {
@@ -338,26 +316,6 @@
    ]
   },
   {
-   "pid": "69099046851",
-   "dept": "การไฟฟ้าฝ่ายผลิตแห่งประเทศไทย",
-   "title": "ประกวดราคาจ้างงานจ้างเหมาบริการเพื่อทำงานให้บริการข้อมูลข่าวสารประชาสัมพันธ์ แผนกบำรุงรักษาบริเวณ เขื่อนศรีนครินทร์ ประจำปี 2570 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
-   "date": "25/09/2569",
-   "date_end": "",
-   "budget": 2967428.86,
-   "status": "ระหว่างดำเนินการ",
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69099046851&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
-   "announce_type": "ประกาศเชิญชวน",
-   "matched_keywords": [
-    "ประชาสัมพันธ์"
-   ],
-   "score": 5,
-   "fit": "น่าสนใจ",
-   "hits": [
-    "ประชาสัมพันธ์",
-    "ข่าว"
-   ]
-  },
-  {
    "pid": "69109088616",
    "dept": "การไฟฟ้าฝ่ายผลิตแห่งประเทศไทย",
    "title": "ประกวดราคาจ้างเหมาบริการเพื่อทำงานธุรการ จำนวน 6 คน และจ้างบริการงานติดตั้งและซ่อมบำรุงอุปกรณ์คอมพิวเตอร์ จำนวน 2 คน และงานจ้างเหมาบริการเพื่อทำงานด้านให้บริการข้อมูลข่าวสารประชาสัมพันธ์ จำนวน 1 คน ประจำปี 2570 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
@@ -375,27 +333,6 @@
    "hits": [
     "ประชาสัมพันธ์",
     "ข่าว"
-   ]
-  },
-  {
-   "pid": "69099213328",
-   "dept": "กองพัฒนาผลิตภัณฑ์ข้าว กรมการข้าว",
-   "title": "ประกวดราคาจ้างเหมาจัดงานประชาสัมพันธ์ข้าวพื้นเมืองไทย Thai Local Rice Fest 2 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
-   "date": "25/09/2569",
-   "date_end": "",
-   "budget": 1500000.0,
-   "status": "ระหว่างดำเนินการ",
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69099213328&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
-   "announce_type": "ประกาศเชิญชวน",
-   "matched_keywords": [
-    "ประชาสัมพันธ์",
-    "จัดงาน"
-   ],
-   "score": 5,
-   "fit": "น่าสนใจ",
-   "hits": [
-    "ประชาสัมพันธ์",
-    "จัดงาน"
    ]
   },
   {
@@ -515,29 +452,6 @@
    "hits": [
     "เผยแพร่",
     "จัดกิจกรรม"
-   ]
-  },
-  {
-   "pid": "69099332727",
-   "dept": "กรมการจัดหางาน",
-   "title": "ประกวดราคาจ้างผลิตและเผยแพร่สื่อประชาสัมพันธ์รูปแบบป้ายดิจิทัลบนสถานีรถไฟฟ้า BTS และสื่อโฆษณารถโดยสารประจำทางปรับอากาศ (Bus Media) จำนวน ๑ งาน ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
-   "date": "25/09/2569",
-   "date_end": "",
-   "budget": 18680000.0,
-   "status": "ระหว่างดำเนินการ",
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69099332727&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
-   "announce_type": "ประกาศเชิญชวน",
-   "matched_keywords": [
-    "ประชาสัมพันธ์",
-    "เผยแพร่",
-    "โฆษณา"
-   ],
-   "score": 3,
-   "fit": "น่าสนใจ",
-   "hits": [
-    "ประชาสัมพันธ์",
-    "เผยแพร่",
-    "โฆษณา"
    ]
   },
   {
@@ -1149,44 +1063,6 @@
    ]
   },
   {
-   "pid": "69099552256",
-   "dept": "องค์การบริหารส่วนจังหวัดสระบุรี",
-   "title": "ประกวดราคาจ้างโครงการจ้างจัดงานประเพณีตักบาตรข้าวต้มลูกโยนจังหวัดสระบุรี ประจำปี พ.ศ. 2569 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
-   "date": "25/09/2569",
-   "date_end": "",
-   "budget": 3000000.0,
-   "status": "ระหว่างดำเนินการ",
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69099552256&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
-   "announce_type": "ประกาศเชิญชวน",
-   "matched_keywords": [
-    "จัดงาน"
-   ],
-   "score": 2,
-   "fit": "เกี่ยวข้องน้อย",
-   "hits": [
-    "จัดงาน"
-   ]
-  },
-  {
-   "pid": "69099260324",
-   "dept": "กรมการเปลี่ยนแปลงสภาพภูมิอากาศและสิ่งแวดล้อม",
-   "title": "ประกวดราคาจ้างจัดกิจกรรมวันสิ่งแวดล้อมไทยประจำปี พ.ศ. 2569 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
-   "date": "25/09/2569",
-   "date_end": "",
-   "budget": 2500000.0,
-   "status": "ระหว่างดำเนินการ",
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69099260324&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
-   "announce_type": "ประกาศเชิญชวน",
-   "matched_keywords": [
-    "จัดกิจกรรม"
-   ],
-   "score": 2,
-   "fit": "เกี่ยวข้องน้อย",
-   "hits": [
-    "จัดกิจกรรม"
-   ]
-  },
-  {
    "pid": "69099581296",
    "dept": "การเคหะแห่งชาติ",
    "title": "ประกวดราคาจ้างโครงการพัฒนาระบบสารสนเทศที่อยู่อาศัยและบริการเผยแพร่ ปีงบประมาณ 2569 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
@@ -1241,25 +1117,6 @@
    "fit": "เกี่ยวข้องน้อย",
    "hits": [
     "จัดกิจกรรม"
-   ]
-  },
-  {
-   "pid": "69099289404",
-   "dept": "กรมการเปลี่ยนแปลงสภาพภูมิอากาศและสิ่งแวดล้อม",
-   "title": "ประกวดราคาจ้างจัดแสดงนิทรรศการการดำเนินงานด้านการเปลี่ยนแปลงสภาพภูมิอากาศของประเทศไทย ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
-   "date": "25/09/2569",
-   "date_end": "",
-   "budget": 2000000.0,
-   "status": "ระหว่างดำเนินการ",
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69099289404&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
-   "announce_type": "ประกาศเชิญชวน",
-   "matched_keywords": [
-    "นิทรรศการ"
-   ],
-   "score": 2,
-   "fit": "เกี่ยวข้องน้อย",
-   "hits": [
-    "นิทรรศการ"
    ]
   },
   {
@@ -1355,25 +1212,6 @@
    "fit": "เกี่ยวข้องน้อย",
    "hits": [
     "จัดกิจกรรม"
-   ]
-  },
-  {
-   "pid": "69099485677",
-   "dept": "จังหวัดภูเก็ต",
-   "title": "ประกวดราคาจ้างโครงการส่งเสริมพัฒนากลไกการตลาดผลิตภัณฑ์ OTOP เพื่อส่งเสริมการท่องเที่ยว กิจกรรมจัดงานมหกรรม OTOP Phuket Road Show 2026 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
-   "date": "25/09/2569",
-   "date_end": "",
-   "budget": 1600000.0,
-   "status": "ระหว่างดำเนินการ",
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69099485677&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
-   "announce_type": "ประกาศเชิญชวน",
-   "matched_keywords": [
-    "จัดงาน"
-   ],
-   "score": 2,
-   "fit": "เกี่ยวข้องน้อย",
-   "hits": [
-    "จัดงาน"
    ]
   },
   {
