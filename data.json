@@ -1,10 +1,10 @@
 {
- "fetched_at": "18/10/2569 20:29",
+ "fetched_at": "19/10/2569 15:05",
  "range": {
-  "from": "27/09/2569",
-  "to": "18/10/2569"
+  "from": "28/09/2569",
+  "to": "19/10/2569"
  },
- "total": 72,
+ "total": 76,
  "requests": 32,
  "items": [
   {
@@ -155,6 +155,28 @@
    "budget": 3000000.0,
    "status": "ระหว่างดำเนินการ",
    "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69099740143&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
+   "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "ประชาสัมพันธ์",
+    "เผยแพร่"
+   ],
+   "score": 7,
+   "fit": "เหมาะมาก",
+   "hits": [
+    "ประชาสัมพันธ์",
+    "เผยแพร่",
+    "ข่าว"
+   ]
+  },
+  {
+   "pid": "69109003977",
+   "dept": "เทศบาลนครหัวหิน",
+   "title": "ประกวดราคาจ้างเผยแพร่ประชาสัมพันธ์ข่าวสารทางสื่อต่างๆ (หนังสือพิมพ์ท้องถิ่น) (กองยุทธศาสตร์และงบประมาณ) ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "19/10/2569",
+   "date_end": "",
+   "budget": 2900000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69109003977&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
    "announce_type": "ประกาศเชิญชวน",
    "matched_keywords": [
     "ประชาสัมพันธ์",
@@ -364,6 +386,26 @@
    "budget": 19500000.0,
    "status": "ระหว่างดำเนินการ",
    "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69109026081&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
+   "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "จัดกิจกรรม"
+   ],
+   "score": 4,
+   "fit": "น่าสนใจ",
+   "hits": [
+    "จัดกิจกรรม",
+    "digital"
+   ]
+  },
+  {
+   "pid": "69109120071",
+   "dept": "สำนักงานพัฒนาธุรกรรมทางอิเล็กทรอนิกส์",
+   "title": "ประกวดราคาจ้างจัดกิจกรรมพร้อมการประเมินติดตามผลการพัฒนากำลังคนดิจิทัล Digital Workforce และจัดทำแผนพัฒนากำลังคนร่วมกับกรมพัฒนาฝีมือแรงงาน ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "19/10/2569",
+   "date_end": "",
+   "budget": 8000000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69109120071&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
    "announce_type": "ประกาศเชิญชวน",
    "matched_keywords": [
     "จัดกิจกรรม"
@@ -1196,6 +1238,25 @@
    ]
   },
   {
+   "pid": "69109063208",
+   "dept": "องค์การบริหารส่วนจังหวัดปทุมธานี",
+   "title": "ประกวดราคาจ้างเหมาจัดงานโครงการจัดงานสืบสานประเพณีลอยกระทง จังหวัดปทุมธานี ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "19/10/2569",
+   "date_end": "22/10/2569",
+   "budget": 1697000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_2.jsp?tor_project_id=69109063208",
+   "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
+   "matched_keywords": [
+    "จัดงาน"
+   ],
+   "score": 2,
+   "fit": "เกี่ยวข้องน้อย",
+   "hits": [
+    "จัดงาน"
+   ]
+  },
+  {
    "pid": "69109011480",
    "dept": "โรงเรียนเบญจมราชูทิศ",
    "title": "ประกวดราคาจ้างจัดกิจกรรมศึกษาแหล่งเรียนรู้นอกห้องเรียน ณ ภาคกลาง - ภาคเหนือ (Historical Tour) ม.3 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
@@ -1357,6 +1418,25 @@
    "status": "ระหว่างดำเนินการ",
    "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_2.jsp?tor_project_id=69109165036",
    "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
+   "matched_keywords": [
+    "จัดกิจกรรม"
+   ],
+   "score": 2,
+   "fit": "เกี่ยวข้องน้อย",
+   "hits": [
+    "จัดกิจกรรม"
+   ]
+  },
+  {
+   "pid": "69109103733",
+   "dept": "สำนักงานส่งเสริมเศรษฐกิจสร้างสรรค์ (องค์การมหาชน)",
+   "title": "ประกวดราคาจ้างจัดกิจกรรมสร้างเครือข่ายธุรกิจสร้างสรรค์ เชื่อมโยงเครือข่ายนานาชาติ (Business Program) ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "19/10/2569",
+   "date_end": "",
+   "budget": 700000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69109103733&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
+   "announce_type": "ประกาศเชิญชวน",
    "matched_keywords": [
     "จัดกิจกรรม"
    ],
