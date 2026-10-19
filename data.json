@@ -1,10 +1,10 @@
 {
- "fetched_at": "19/10/2569 15:05",
+ "fetched_at": "19/10/2569 21:16",
  "range": {
   "from": "28/09/2569",
   "to": "19/10/2569"
  },
- "total": 76,
+ "total": 79,
  "requests": 32,
  "items": [
   {
@@ -991,6 +991,25 @@
    ]
   },
   {
+   "pid": "69109215741",
+   "dept": "จังหวัดอุตรดิตถ์",
+   "title": "ประกวดราคาจ้างการจัดงานตามโครงการ Uttaradit Economy Plus กระตุ้นเศรษฐกิจฐานราก เชื่อมโยงการค้า การท่องเที่ยว ศิลปะและวัฒนธรรม สู่ตลาดสมัยใหม่และตลาดเพื่อนบ้าน ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "19/10/2569",
+   "date_end": "",
+   "budget": 3988600.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69109215741&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
+   "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "จัดงาน"
+   ],
+   "score": 2,
+   "fit": "เกี่ยวข้องน้อย",
+   "hits": [
+    "จัดงาน"
+   ]
+  },
+  {
    "pid": "69109150654",
    "dept": "โรงเรียนปัว",
    "title": "ประกวดราคาจ้างจ้างเหมาจัดหาครูต่างชาติและจัดกิจกรรมสนับสนุนการเรียนการสอนภาษาอังกฤษ ประจำปีงบประมาณ ๒๕๗๐ ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
@@ -1105,6 +1124,25 @@
    ]
   },
   {
+   "pid": "69109202775",
+   "dept": "องค์การบริหารส่วนจังหวัดลำพูน",
+   "title": "ประกวดราคาจ้างเหมาจัดกิจกรรมงานโครงการ Lamphun Tech Week (งานสัปดาห์เทคโนโลยีลำพูน) ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "19/10/2569",
+   "date_end": "",
+   "budget": 2800000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69109202775&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
+   "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "จัดกิจกรรม"
+   ],
+   "score": 2,
+   "fit": "เกี่ยวข้องน้อย",
+   "hits": [
+    "จัดกิจกรรม"
+   ]
+  },
+  {
    "pid": "69099581296",
    "dept": "การเคหะแห่งชาติ",
    "title": "ประกวดราคาจ้างโครงการพัฒนาระบบสารสนเทศที่อยู่อาศัยและบริการเผยแพร่ ปีงบประมาณ 2569 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
@@ -1159,6 +1197,25 @@
    "fit": "เกี่ยวข้องน้อย",
    "hits": [
     "จัดกิจกรรม"
+   ]
+  },
+  {
+   "pid": "69109061064",
+   "dept": "เทศบาลตำบลสุนทรภู่",
+   "title": "ประกวดราคาจ้างโครงการจัดงานวันลอยกระทง ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "19/10/2569",
+   "date_end": "",
+   "budget": 2000000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69109061064&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
+   "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "จัดงาน"
+   ],
+   "score": 2,
+   "fit": "เกี่ยวข้องน้อย",
+   "hits": [
+    "จัดงาน"
    ]
   },
   {
