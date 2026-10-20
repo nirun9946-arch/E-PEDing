@@ -1,10 +1,10 @@
 {
- "fetched_at": "19/10/2569 23:38",
+ "fetched_at": "20/10/2569 14:55",
  "range": {
-  "from": "28/09/2569",
-  "to": "19/10/2569"
+  "from": "29/09/2569",
+  "to": "20/10/2569"
  },
- "total": 79,
+ "total": 76,
  "requests": 32,
  "items": [
   {
@@ -30,32 +30,6 @@
     "เผยแพร่",
     "สื่อออนไลน์",
     "สร้างการรับรู้"
-   ]
-  },
-  {
-   "pid": "69089706802",
-   "dept": "กรมการจัดหางาน",
-   "title": "ประกวดราคาจ้างจ้างผลิตและเผยแพร่สื่อประชาสัมพันธ์รูปแบบสื่อโทรทัศน์ สื่อวิทยุ สื่อโฆษณา ในโรงภาพยนตร์ และสื่อป้ายประชาสัมพันธ์จอดิจิทัล ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
-   "date": "28/09/2569",
-   "date_end": "",
-   "budget": 42460000.0,
-   "status": "ระหว่างดำเนินการ",
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69089706802&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
-   "announce_type": "ประกาศเชิญชวน",
-   "matched_keywords": [
-    "ประชาสัมพันธ์",
-    "เผยแพร่",
-    "โทรทัศน์",
-    "โฆษณา"
-   ],
-   "score": 11,
-   "fit": "เหมาะมาก",
-   "hits": [
-    "ประชาสัมพันธ์",
-    "สื่อโทรทัศน์",
-    "โทรทัศน์",
-    "เผยแพร่",
-    "โฆษณา"
    ]
   },
   {
@@ -121,29 +95,6 @@
     "จัดกิจกรรม",
     "ภาพลักษณ์",
     "สร้างการรับรู้"
-   ]
-  },
-  {
-   "pid": "69089701396",
-   "dept": "กรมการจัดหางาน",
-   "title": "ประกวดราคาจ้างจ้างผลิตและเผยแพร่สื่อประชาสัมพันธ์รูปแบบสื่อออนไลน์ ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
-   "date": "28/09/2569",
-   "date_end": "",
-   "budget": 16800000.0,
-   "status": "ระหว่างดำเนินการ",
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69089701396&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
-   "announce_type": "ประกาศเชิญชวน",
-   "matched_keywords": [
-    "ประชาสัมพันธ์",
-    "เผยแพร่",
-    "สื่อออนไลน์"
-   ],
-   "score": 8,
-   "fit": "เหมาะมาก",
-   "hits": [
-    "ประชาสัมพันธ์",
-    "เผยแพร่",
-    "สื่อออนไลน์"
    ]
   },
   {
@@ -253,46 +204,6 @@
    "hits": [
     "เผยแพร่",
     "สารคดี"
-   ]
-  },
-  {
-   "pid": "69099684635",
-   "dept": "สำนักงานคณะกรรมการนโยบายที่ดินแห่งชาติ",
-   "title": "ประกวดราคาจ้างโครงการผลิตและพัฒนาสื่อประชาสัมพันธ์ เพื่อสร้างการรับรู้ภารกิจ และผลการดำเนินงานของสำนักงานคณะกรรมการนโยบายที่ดินแห่งชาติ ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
-   "date": "28/09/2569",
-   "date_end": "",
-   "budget": 2200000.0,
-   "status": "ระหว่างดำเนินการ",
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69099684635&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
-   "announce_type": "ประกาศเชิญชวน",
-   "matched_keywords": [
-    "ประชาสัมพันธ์"
-   ],
-   "score": 6,
-   "fit": "เหมาะมาก",
-   "hits": [
-    "ประชาสัมพันธ์",
-    "สร้างการรับรู้"
-   ]
-  },
-  {
-   "pid": "69099354658",
-   "dept": "การไฟฟ้าฝ่ายผลิตแห่งประเทศไทย (กฟผ.) เหมืองแม่เมาะ",
-   "title": "ประกวดราคาจ้างเหมาบริการงานธุรการ งานบริการและงานประชาสัมพันธ์ ประจำปี 2570 จำนวน 2 รายการ ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
-   "date": "28/09/2569",
-   "date_end": "",
-   "budget": 55672643.29,
-   "status": "ระหว่างดำเนินการ",
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69099354658&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
-   "announce_type": "ประกาศเชิญชวน",
-   "matched_keywords": [
-    "ประชาสัมพันธ์"
-   ],
-   "score": 5,
-   "fit": "น่าสนใจ",
-   "hits": [
-    "ประชาสัมพันธ์",
-    "รายการ"
    ]
   },
   {
@@ -619,6 +530,25 @@
    "budget": 1000000.0,
    "status": "ระหว่างดำเนินการ",
    "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69099713919&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
+   "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "ประชาสัมพันธ์"
+   ],
+   "score": 3,
+   "fit": "น่าสนใจ",
+   "hits": [
+    "ประชาสัมพันธ์"
+   ]
+  },
+  {
+   "pid": "69109227942",
+   "dept": "การไฟฟ้าฝ่ายผลิตแห่งประเทศไทย",
+   "title": "ประกวดราคาจ้างเหมาบริการเพื่อทำงานประชาสัมพันธ์ เขื่อนรัชชประภา จำนวน 3 คน ประจำปี 2570 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "20/10/2569",
+   "date_end": "",
+   "budget": 815811.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69109227942&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
    "announce_type": "ประกาศเชิญชวน",
    "matched_keywords": [
     "ประชาสัมพันธ์"
@@ -1143,6 +1073,25 @@
    ]
   },
   {
+   "pid": "69109119546",
+   "dept": "การไฟฟ้านครหลวง",
+   "title": "ประกวดราคาจ้างจัดงานวิ่ง MEA SPARK RUN ๒๐๒๗ ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "20/10/2569",
+   "date_end": "",
+   "budget": 2675000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69109119546&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
+   "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "จัดงาน"
+   ],
+   "score": 2,
+   "fit": "เกี่ยวข้องน้อย",
+   "hits": [
+    "จัดงาน"
+   ]
+  },
+  {
    "pid": "69099581296",
    "dept": "การเคหะแห่งชาติ",
    "title": "ประกวดราคาจ้างโครงการพัฒนาระบบสารสนเทศที่อยู่อาศัยและบริการเผยแพร่ ปีงบประมาณ 2569 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
@@ -1352,44 +1301,6 @@
    ]
   },
   {
-   "pid": "69099616508",
-   "dept": "จังหวัดนนทบุรี",
-   "title": "ประกวดราคาจ้างจ้างจัดงานโครงการพัฒนาและยกระดับมาตรฐาน Street Food จังหวัดนนทบุรี (ต่อยอด) ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
-   "date": "28/09/2569",
-   "date_end": "",
-   "budget": 1240366.04,
-   "status": "ระหว่างดำเนินการ",
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69099616508&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
-   "announce_type": "ประกาศเชิญชวน",
-   "matched_keywords": [
-    "จัดงาน"
-   ],
-   "score": 2,
-   "fit": "เกี่ยวข้องน้อย",
-   "hits": [
-    "จัดงาน"
-   ]
-  },
-  {
-   "pid": "69099415381",
-   "dept": "จังหวัดนครสวรรค์",
-   "title": "ประกวดราคาจ้างจ้างเหมาจัดงาน มหกรรมประกวดสัตว์ปากน้ำโพ ครั้งที่ 10 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
-   "date": "28/09/2569",
-   "date_end": "",
-   "budget": 1218600.0,
-   "status": "ระหว่างดำเนินการ",
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69099415381&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
-   "announce_type": "ประกาศเชิญชวน",
-   "matched_keywords": [
-    "จัดงาน"
-   ],
-   "score": 2,
-   "fit": "เกี่ยวข้องน้อย",
-   "hits": [
-    "จัดงาน"
-   ]
-  },
-  {
    "pid": "69109213689",
    "dept": "จังหวัดหนองบัวลำภู",
    "title": "ประกวดราคาจ้างเหมาจัดงาน มหกรรมกาแฟหนองบัวลำภู 2570 (NONG BUA LAMPHU COFFEE FEST 2027) โครงการส่งเสริมการท่องเที่ยวและบริการ เพื่อเพิ่มขีดความสามารถในการแข่งขัน ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
@@ -1463,6 +1374,25 @@
    "fit": "เกี่ยวข้องน้อย",
    "hits": [
     "นิทรรศการ"
+   ]
+  },
+  {
+   "pid": "69109068068",
+   "dept": "สำนักงานปลัดกระทรวงวัฒนธรรม",
+   "title": "ประกวดราคาจ้างจ้างจัดกิจกรรมสืบสานประเพณีบุญจุลกฐิน ถิ่นอุบล คนมีธรรม ภายใต้โครงการพัฒนาศักยภาพรูปแบบทางการท่องเที่ยวของจังหวัดในมิติที่หลากหลาย สืบสานประเพณีวัฒนธรรมและอัตลักษณ์ให้เกิดความสมดุลยั่งยืน กิจกรรมหลัก ส่งเสริมการท่องเที่ยวเชิงวัฒนธรรม ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "20/10/2569",
+   "date_end": "",
+   "budget": 800000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69109068068&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
+   "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "จัดกิจกรรม"
+   ],
+   "score": 2,
+   "fit": "เกี่ยวข้องน้อย",
+   "hits": [
+    "จัดกิจกรรม"
    ]
   },
   {
