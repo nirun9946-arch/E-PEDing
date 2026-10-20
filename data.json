@@ -1,10 +1,10 @@
 {
- "fetched_at": "20/10/2569 14:55",
+ "fetched_at": "20/10/2569 19:31",
  "range": {
   "from": "29/09/2569",
   "to": "20/10/2569"
  },
- "total": 76,
+ "total": 78,
  "requests": 32,
  "items": [
   {
@@ -204,6 +204,27 @@
    "hits": [
     "เผยแพร่",
     "สารคดี"
+   ]
+  },
+  {
+   "pid": "69109094794",
+   "dept": "การไฟฟ้านครหลวง",
+   "title": "ประกวดราคาจ้างเผยแพร่สื่อประชาสัมพันธ์ของการไฟฟ้านครหลวง ทางจอลิฟต์คอนโดมิเนียมและออฟฟิศ ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "20/10/2569",
+   "date_end": "",
+   "budget": 5000000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69109094794&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
+   "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "ประชาสัมพันธ์",
+    "เผยแพร่"
+   ],
+   "score": 5,
+   "fit": "น่าสนใจ",
+   "hits": [
+    "ประชาสัมพันธ์",
+    "เผยแพร่"
    ]
   },
   {
@@ -1336,6 +1357,25 @@
    "fit": "เกี่ยวข้องน้อย",
    "hits": [
     "เผยแพร่"
+   ]
+  },
+  {
+   "pid": "69109248214",
+   "dept": "เทศบาลเมืองป่าตอง",
+   "title": "ประกวดราคาจ้างโครงการจัดงานประเพณีลอยกระทง ประจำปีงบประมาณ พ.ศ.๒๕๗๐ ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "20/10/2569",
+   "date_end": "",
+   "budget": 1000000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69109248214&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
+   "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "จัดงาน"
+   ],
+   "score": 2,
+   "fit": "เกี่ยวข้องน้อย",
+   "hits": [
+    "จัดงาน"
    ]
   },
   {
