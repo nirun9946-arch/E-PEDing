@@ -1,10 +1,10 @@
 {
- "fetched_at": "21/10/2569 14:59",
+ "fetched_at": "21/10/2569 19:41",
  "range": {
   "from": "30/09/2569",
   "to": "21/10/2569"
  },
- "total": 78,
+ "total": 84,
  "requests": 32,
  "items": [
   {
@@ -248,6 +248,27 @@
    ]
   },
   {
+   "pid": "69109035168",
+   "dept": "สำนักงานอัยการสูงสุด",
+   "title": "ประกวดราคาจ้างจัดทำสื่อเผยแพร่ประชาสัมพันธ์งาน สคช. (หมวกและเสื้อกันฝน) เพื่อใช้ในโครงการช่วยเหลือและสนับสนุนโครงการสืบสานพระราชปณิธานและกิจกรรมงานเผยแพร่ความรู้ทางกฎหมายต่าง ๆ แก่ประชาชน สำนักงานอัยการสูงสุด ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "21/10/2569",
+   "date_end": "",
+   "budget": 2743200.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69109035168&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
+   "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "ประชาสัมพันธ์",
+    "เผยแพร่"
+   ],
+   "score": 5,
+   "fit": "น่าสนใจ",
+   "hits": [
+    "ประชาสัมพันธ์",
+    "เผยแพร่"
+   ]
+  },
+  {
    "pid": "69109088616",
    "dept": "การไฟฟ้าฝ่ายผลิตแห่งประเทศไทย",
    "title": "ประกวดราคาจ้างเหมาบริการเพื่อทำงานธุรการ จำนวน 6 คน และจ้างบริการงานติดตั้งและซ่อมบำรุงอุปกรณ์คอมพิวเตอร์ จำนวน 2 คน และงานจ้างเหมาบริการเพื่อทำงานด้านให้บริการข้อมูลข่าวสารประชาสัมพันธ์ จำนวน 1 คน ประจำปี 2570 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
@@ -265,6 +286,27 @@
    "hits": [
     "ประชาสัมพันธ์",
     "ข่าว"
+   ]
+  },
+  {
+   "pid": "69109211925",
+   "dept": "กรมทรัพยากรน้ำ",
+   "title": "ประกวดราคาจ้างค่าใช้จ่ายในการเผยแพร่ประชาสัมพันธ์ด้านทรัพยากรน้ำ ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "21/10/2569",
+   "date_end": "",
+   "budget": 2000000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69109211925&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
+   "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "ประชาสัมพันธ์",
+    "เผยแพร่"
+   ],
+   "score": 5,
+   "fit": "น่าสนใจ",
+   "hits": [
+    "ประชาสัมพันธ์",
+    "เผยแพร่"
    ]
   },
   {
@@ -336,6 +378,25 @@
    "budget": 7000000.0,
    "status": "ระหว่างดำเนินการ",
    "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69099744995&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
+   "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "ผลิตสื่อ"
+   ],
+   "score": 4,
+   "fit": "น่าสนใจ",
+   "hits": [
+    "ผลิตสื่อ"
+   ]
+  },
+  {
+   "pid": "69109283237",
+   "dept": "มหาวิทยาลัยเทคโนโลยีราชมงคลสุวรรณภูมิ",
+   "title": "ประกวดราคาจ้างเหมาผลิตสื่อการเรียนการสอนแบบออนไลน์ (ครั้งที่ ๒) ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "21/10/2569",
+   "date_end": "",
+   "budget": 4000000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69109283237&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
    "announce_type": "ประกาศเชิญชวน",
    "matched_keywords": [
     "ผลิตสื่อ"
@@ -616,6 +677,25 @@
    ]
   },
   {
+   "pid": "69109277732",
+   "dept": "สำนักพัฒนาทรัพยากรมนุษย์และพันธกิจสังคม มหาวิทยาลัยสงขลานครินทร์",
+   "title": "ประกวดราคาจ้างจ้างเหมาบริการจัดกิจกรรมการเจรจาการค้า Roadshow งานแสดงสินค้า Business Networking ในพื้นที่ดำเนินการสาธารณรัฐประชาชนจีน 4 เมือง (เมืองหางโจว เมืองกว่างโจว นครฉงชิ่ง และเมืองเซินเจิ้น) ภายใต้การกำกับของมหาวิทยาลัยสงขลานครินทร์ โครงการ Thai SMEs New Opportunity Gateways ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "21/10/2569",
+   "date_end": "27/10/2569",
+   "budget": 150000000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_2.jsp?tor_project_id=69109277732",
+   "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
+   "matched_keywords": [
+    "จัดกิจกรรม"
+   ],
+   "score": 2,
+   "fit": "เกี่ยวข้องน้อย",
+   "hits": [
+    "จัดกิจกรรม"
+   ]
+  },
+  {
    "pid": "69099568101",
    "dept": "สำนักงานพัฒนาธุรกรรมทางอิเล็กทรอนิกส์",
    "title": "ประกวดราคาจ้างจัดกิจกรรมพัฒนาความรู้และทักษะ EDC Trainer ประจำปีงบประมาณ 2570 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
@@ -730,6 +810,25 @@
    ]
   },
   {
+   "pid": "69109215036",
+   "dept": "กรมการค้าภายใน",
+   "title": "ประกวดราคาจ้างจัดกิจกรรมการเชื่อมโยงการท่องเที่ยวในตลาดต้องชม ช่วงเทศกาลลอยกระทงและปีใหม่ ปีงบประมาณ 2570 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "21/10/2569",
+   "date_end": "",
+   "budget": 8000000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69109215036&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
+   "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "จัดกิจกรรม"
+   ],
+   "score": 2,
+   "fit": "เกี่ยวข้องน้อย",
+   "hits": [
+    "จัดกิจกรรม"
+   ]
+  },
+  {
    "pid": "69109051429",
    "dept": "สำนักงานพัฒนาธุรกรรมทางอิเล็กทรอนิกส์",
    "title": "ประกวดราคาจ้างจัดกิจกรรมส่งเสริมการใช้งานเทคโนโลยีใหม่ และการกำกับดูแลที่จำเป็น เพื่อตอบโจทย์กลุ่มเป้าหมายการพัฒนาธุรกรรมทางอิเล็กทรอนิกส์ ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
@@ -815,6 +914,25 @@
    "status": "ระหว่างดำเนินการ",
    "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_2.jsp?tor_project_id=69099430845",
    "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
+   "matched_keywords": [
+    "จัดงาน"
+   ],
+   "score": 2,
+   "fit": "เกี่ยวข้องน้อย",
+   "hits": [
+    "จัดงาน"
+   ]
+  },
+  {
+   "pid": "69109161238",
+   "dept": "เทศบาลเมืองป่าตอง",
+   "title": "ประกวดราคาจ้างโครงการจัดงานเทศกาลเปิดฤดูการท่องเที่ยวภูเก็ต ณ หาดป่าตอง ครั้งที่ ๔๐ ประจำปี ๒๕๖๙ ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "21/10/2569",
+   "date_end": "",
+   "budget": 5000000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69109161238&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
+   "announce_type": "ประกาศเชิญชวน",
    "matched_keywords": [
     "จัดงาน"
    ],
