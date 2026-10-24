@@ -1,10 +1,10 @@
 {
- "fetched_at": "22/10/2569 14:55",
+ "fetched_at": "24/10/2569 20:32",
  "range": {
-  "from": "01/10/2569",
-  "to": "22/10/2569"
+  "from": "03/10/2569",
+  "to": "24/10/2569"
  },
- "total": 78,
+ "total": 74,
  "requests": 32,
  "items": [
   {
@@ -52,49 +52,6 @@
     "โทรทัศน์",
     "ออกอากาศ",
     "รายการ"
-   ]
-  },
-  {
-   "pid": "69099585386",
-   "dept": "การไฟฟ้าฝ่ายผลิตแห่งประเทศไทย",
-   "title": "ประกวดราคาจ้างงานจ้างเหมาบริการเพื่อทำงานบริการข้อมูลข่าวสารประชาสัมพันธ์ และงานจ้างเหมาบริการการเพื่อทำงานผลิตสื่อ ประจำปี 2570 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
-   "date": "02/10/2569",
-   "date_end": "",
-   "budget": 529608.2,
-   "status": "ระหว่างดำเนินการ",
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69099585386&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
-   "announce_type": "ประกาศเชิญชวน",
-   "matched_keywords": [
-    "ประชาสัมพันธ์",
-    "ผลิตสื่อ"
-   ],
-   "score": 9,
-   "fit": "เหมาะมาก",
-   "hits": [
-    "ประชาสัมพันธ์",
-    "ผลิตสื่อ",
-    "ข่าว"
-   ]
-  },
-  {
-   "pid": "69109173077",
-   "dept": "สำนักงานปลัดกระทรวงวัฒนธรรม",
-   "title": "ประกวดราคาจ้างจัดกิจกรรมมหกรรมส่งเสริมชุดไทยพระราชนิยม ภายใต้โครงการส่งเสริมและสร้างการรับรู้ทางวัฒนธรรมและภาพลักษณ์ความเป็นไทย ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
-   "date": "15/10/2569",
-   "date_end": "22/10/2569",
-   "budget": 200000000.0,
-   "status": "ระหว่างดำเนินการ",
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_2.jsp?tor_project_id=69109173077",
-   "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
-   "matched_keywords": [
-    "จัดกิจกรรม"
-   ],
-   "score": 8,
-   "fit": "เหมาะมาก",
-   "hits": [
-    "จัดกิจกรรม",
-    "ภาพลักษณ์",
-    "สร้างการรับรู้"
    ]
   },
   {
@@ -243,6 +200,26 @@
    "hits": [
     "ประชาสัมพันธ์",
     "เผยแพร่"
+   ]
+  },
+  {
+   "pid": "69109293887",
+   "dept": "กรมประชาสัมพันธ์",
+   "title": "ประกวดราคาจ้างเหมาช่างจัดแต่งทรงผม พร้อมจัดหาอุปกรณ์จัดแต่งผม ตามโครงการดำเนินงานด้านข่าวโทรทัศน์และวิทยุกระจายเสียง ประจำปีงบประมาณ พ.ศ. 2570 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "22/10/2569",
+   "date_end": "",
+   "budget": 1320320.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69109293887&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
+   "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "โทรทัศน์"
+   ],
+   "score": 5,
+   "fit": "น่าสนใจ",
+   "hits": [
+    "โทรทัศน์",
+    "ข่าว"
    ]
   },
   {
@@ -460,25 +437,6 @@
    ]
   },
   {
-   "pid": "69099702287",
-   "dept": "การไฟฟ้าฝ่ายผลิตแห่งประเทศไทย",
-   "title": "ประกวดราคาจ้างงานจ้างบริการเพื่อทำงานประชาสัมพันธ์ ประจำปี 2570 จำนวน 5 คน ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
-   "date": "01/10/2569",
-   "date_end": "",
-   "budget": 1289505.0,
-   "status": "ระหว่างดำเนินการ",
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69099702287&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
-   "announce_type": "ประกาศเชิญชวน",
-   "matched_keywords": [
-    "ประชาสัมพันธ์"
-   ],
-   "score": 3,
-   "fit": "น่าสนใจ",
-   "hits": [
-    "ประชาสัมพันธ์"
-   ]
-  },
-  {
    "pid": "69109134645",
    "dept": "จังหวัดอ่างทอง โดย อำเภอวิเศษชัยชาญ",
    "title": "ประกวดราคาจ้างโครงการการประชาสัมพันธ์และการตลาดเพื่อการท่องเที่ยว กิจกรรมหลัก การส่งเสริมการท่องเที่ยวเชิงเกษตร ประวัติศาสตร์ วัฒนธรรม วิถีชุมชนและการท่องเที่ยวเชิงสร้างสรรค์ กิจกรรม งานสืบสานประเพณีลอยกระทงแม่น้ำน้อย ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
@@ -612,44 +570,6 @@
    ]
   },
   {
-   "pid": "69099568101",
-   "dept": "สำนักงานพัฒนาธุรกรรมทางอิเล็กทรอนิกส์",
-   "title": "ประกวดราคาจ้างจัดกิจกรรมพัฒนาความรู้และทักษะ EDC Trainer ประจำปีงบประมาณ 2570 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
-   "date": "01/10/2569",
-   "date_end": "",
-   "budget": 15000000.0,
-   "status": "ระหว่างดำเนินการ",
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69099568101&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
-   "announce_type": "ประกาศเชิญชวน",
-   "matched_keywords": [
-    "จัดกิจกรรม"
-   ],
-   "score": 2,
-   "fit": "เกี่ยวข้องน้อย",
-   "hits": [
-    "จัดกิจกรรม"
-   ]
-  },
-  {
-   "pid": "69099528319",
-   "dept": "จังหวัดกาญจนบุรี",
-   "title": "ประกวดราคาจ้างเหมาจัดงานสัปดาห์สะพานข้ามแม่น้ำแควและงานกาชาดจังหวัดกาญจนบุรี ประจำปี 2569 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
-   "date": "01/10/2569",
-   "date_end": "",
-   "budget": 15000000.0,
-   "status": "ระหว่างดำเนินการ",
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69099528319&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
-   "announce_type": "ประกาศเชิญชวน",
-   "matched_keywords": [
-    "จัดงาน"
-   ],
-   "score": 2,
-   "fit": "เกี่ยวข้องน้อย",
-   "hits": [
-    "จัดงาน"
-   ]
-  },
-  {
    "pid": "69109048552",
    "dept": "สำนักงานพัฒนาธุรกรรมทางอิเล็กทรอนิกส์",
    "title": "ประกวดราคาจ้างจัดกิจกรรมพัฒนาทักษะด้านดิจิทัลเพื่อการสร้างรายได้ และจัดกิจกรรม Business Pitching พร้อมส่งเสริมทางการตลาดให้แก่ชุมชน และจัดทำข้อมูลศักยภาพชุมชน (Community Profile) เพื่อการต่อยอด ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
@@ -723,6 +643,25 @@
    "fit": "เกี่ยวข้องน้อย",
    "hits": [
     "จัดกิจกรรม"
+   ]
+  },
+  {
+   "pid": "69099182199",
+   "dept": "จังหวัดชุมพร",
+   "title": "ประกวดราคาจ้างประกาศเผยแพร่แผนจัดจ้างเหมาบริการตรวจด้วยเครื่องเอกซเรย์คอมพิวเตอร์ความเร็วสูงแบบไม่น้อยกว่า ๑๒๘ สไลด์ จำนวน ๑ โครงการ ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "22/10/2569",
+   "date_end": "28/10/2569",
+   "budget": 7000000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_2.jsp?tor_project_id=69099182199",
+   "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
+   "matched_keywords": [
+    "เผยแพร่"
+   ],
+   "score": 2,
+   "fit": "เกี่ยวข้องน้อย",
+   "hits": [
+    "เผยแพร่"
    ]
   },
   {
@@ -802,6 +741,44 @@
    ]
   },
   {
+   "pid": "69099550345",
+   "dept": "ศูนย์ส่งเสริมอุตสาหกรรมภาคที่ 5 กรมส่งเสริมอุตสาหกรรม",
+   "title": "ประกวดราคาจ้างจัดกิจกรรมการสร้างโอกาส ทดสอบตลาด การจับคู่ธุรกิจการสรุปผลโครงการ ปิดโครงการ ภายใต้โครงการฟื้นฟูธุรกิจและเสริมความแข็งแกร่ง SMEs (Rebuild SMEs) (กองทุน สสว.) ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "22/10/2569",
+   "date_end": "",
+   "budget": 5000000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69099550345&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
+   "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "จัดกิจกรรม"
+   ],
+   "score": 2,
+   "fit": "เกี่ยวข้องน้อย",
+   "hits": [
+    "จัดกิจกรรม"
+   ]
+  },
+  {
+   "pid": "69099430845",
+   "dept": "จังหวัดกาญจนบุรี",
+   "title": "ประกวดราคาจ้างโครงการจัดงานสัปดาห์สะพานข้ามแม่น้ำแควและงานกาชาดจังหวัดกาญจนบุรี ประจำปี ๒๕๖๙ ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "22/10/2569",
+   "date_end": "",
+   "budget": 5000000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69099430845&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
+   "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "จัดงาน"
+   ],
+   "score": 2,
+   "fit": "เกี่ยวข้องน้อย",
+   "hits": [
+    "จัดงาน"
+   ]
+  },
+  {
    "pid": "69109161238",
    "dept": "เทศบาลเมืองป่าตอง",
    "title": "ประกวดราคาจ้างโครงการจัดงานเทศกาลเปิดฤดูการท่องเที่ยวภูเก็ต ณ หาดป่าตอง ครั้งที่ ๔๐ ประจำปี ๒๕๖๙ ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
@@ -829,44 +806,6 @@
    "budget": 5000000.0,
    "status": "ระหว่างดำเนินการ",
    "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69109074649&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
-   "announce_type": "ประกาศเชิญชวน",
-   "matched_keywords": [
-    "จัดงาน"
-   ],
-   "score": 2,
-   "fit": "เกี่ยวข้องน้อย",
-   "hits": [
-    "จัดงาน"
-   ]
-  },
-  {
-   "pid": "69109037014",
-   "dept": "จังหวัดสุรินทร์",
-   "title": "ประกวดราคาจ้างพัฒนาและยกระดับการท่องเที่ยวและบริการอย่างยั่งยืืน กิจกรรมหลัก การยกระดับการจัดการมหัศจรรย์งานช้างสุรินทร์สู่ระดับโลก กิจกรรมย่อย จ้างเหมาจัดงานแสดงช้างสุรินทร์ ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
-   "date": "02/10/2569",
-   "date_end": "",
-   "budget": 4519000.0,
-   "status": "ระหว่างดำเนินการ",
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69109037014&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
-   "announce_type": "ประกาศเชิญชวน",
-   "matched_keywords": [
-    "จัดงาน"
-   ],
-   "score": 2,
-   "fit": "เกี่ยวข้องน้อย",
-   "hits": [
-    "จัดงาน"
-   ]
-  },
-  {
-   "pid": "69109026192",
-   "dept": "จังหวัดสุรินทร์",
-   "title": "ประกวดราคาจ้างพัฒนาและยกระดับการท่องเที่ยวและบริการอย่างยั่งยืืน กิจกรรมหลัก การยกระดับการจัดการมหัศจรรย์งานช้างสุรินทร์สู่ระดับโลก กิจกรรมย่อย จ้างเหมาจัดงานแสดงช้างสุรินทร์ ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
-   "date": "02/10/2569",
-   "date_end": "",
-   "budget": 4519000.0,
-   "status": "ยกเลิกประกาศเชิญชวน",
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69109026192&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
    "announce_type": "ประกาศเชิญชวน",
    "matched_keywords": [
     "จัดงาน"
@@ -1144,25 +1083,6 @@
    ]
   },
   {
-   "pid": "69099477283",
-   "dept": "สำนักงานคณะกรรมการกิจการกระจายเสียง กิจการโทรทัศน์ และกิจการโทรคมนาคมแห่งชาติ",
-   "title": "ประกวดราคาจ้างจัดกิจกรรม กสทช. สัมพันธ์ ประจำปี 2569 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
-   "date": "01/10/2569",
-   "date_end": "",
-   "budget": 2350000.0,
-   "status": "ระหว่างดำเนินการ",
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69099477283&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
-   "announce_type": "ประกาศเชิญชวน",
-   "matched_keywords": [
-    "จัดกิจกรรม"
-   ],
-   "score": 2,
-   "fit": "เกี่ยวข้องน้อย",
-   "hits": [
-    "จัดกิจกรรม"
-   ]
-  },
-  {
    "pid": "69109059460",
    "dept": "ธนาคารแห่งประเทศไทย",
    "title": "ประกวดราคาจ้างงานจ้างผู้ดำเนินการจัดกิจกรรม BOT Press Trip 2026 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
@@ -1277,25 +1197,6 @@
    ]
   },
   {
-   "pid": "69109063208",
-   "dept": "องค์การบริหารส่วนจังหวัดปทุมธานี",
-   "title": "ประกวดราคาจ้างเหมาจัดงานโครงการจัดงานสืบสานประเพณีลอยกระทง จังหวัดปทุมธานี ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
-   "date": "19/10/2569",
-   "date_end": "22/10/2569",
-   "budget": 1697000.0,
-   "status": "ระหว่างดำเนินการ",
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_2.jsp?tor_project_id=69109063208",
-   "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
-   "matched_keywords": [
-    "จัดงาน"
-   ],
-   "score": 2,
-   "fit": "เกี่ยวข้องน้อย",
-   "hits": [
-    "จัดงาน"
-   ]
-  },
-  {
    "pid": "69109011480",
    "dept": "โรงเรียนเบญจมราชูทิศ",
    "title": "ประกวดราคาจ้างจัดกิจกรรมศึกษาแหล่งเรียนรู้นอกห้องเรียน ณ ภาคกลาง - ภาคเหนือ (Historical Tour) ม.3 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
@@ -1331,6 +1232,25 @@
    "fit": "เกี่ยวข้องน้อย",
    "hits": [
     "จัดกิจกรรม"
+   ]
+  },
+  {
+   "pid": "69109097516",
+   "dept": "จังหวัดขอนแก่น",
+   "title": "ประกวดราคาจ้างโครงการพัฒนาและยกระดับแหล่งท่องเที่ยวตามอัตลักษณ์และวิถีวัฒนธรรมชุมชนเชิงสร้างสรรค์จังหวัดขอนแก่น จ้างเหมาจัดงานมหกรรมศาสตร์ศิลป์ ถิ่นเมืองหมอแคน ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "22/10/2569",
+   "date_end": "28/10/2569",
+   "budget": 1358200.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_2.jsp?tor_project_id=69109097516",
+   "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
+   "matched_keywords": [
+    "จัดงาน"
+   ],
+   "score": 2,
+   "fit": "เกี่ยวข้องน้อย",
+   "hits": [
+    "จัดงาน"
    ]
   },
   {
