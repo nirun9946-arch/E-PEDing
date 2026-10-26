@@ -1,10 +1,10 @@
 {
- "fetched_at": "26/10/2569 15:04",
+ "fetched_at": "26/10/2569 20:49",
  "range": {
   "from": "05/10/2569",
   "to": "26/10/2569"
  },
- "total": 81,
+ "total": 83,
  "requests": 32,
  "items": [
   {
@@ -858,6 +858,25 @@
    ]
   },
   {
+   "pid": "69109259001",
+   "dept": "องค์การบริหารส่วนจังหวัดภูเก็ต",
+   "title": "ประกวดราคาจ้างโครงการจัดงานเทศกาล PHUKET CHRISTMAS COUNTDOWN ๒๐๒๗ เพื่อส่งเสริมและกระตุ้นเศรษฐกิจการท่องเที่ยวจังหวัดภูเก็ต ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "26/10/2569",
+   "date_end": "",
+   "budget": 5000000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69109259001&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
+   "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "จัดงาน"
+   ],
+   "score": 2,
+   "fit": "เกี่ยวข้องน้อย",
+   "hits": [
+    "จัดงาน"
+   ]
+  },
+  {
    "pid": "69099430845",
    "dept": "จังหวัดกาญจนบุรี",
    "title": "ประกวดราคาจ้างโครงการจัดงานสัปดาห์สะพานข้ามแม่น้ำแควและงานกาชาดจังหวัดกาญจนบุรี ประจำปี ๒๕๖๙ ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
@@ -1303,6 +1322,25 @@
    "budget": 1779900.0,
    "status": "ระหว่างดำเนินการ",
    "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69099389810&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
+   "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "จัดงาน"
+   ],
+   "score": 2,
+   "fit": "เกี่ยวข้องน้อย",
+   "hits": [
+    "จัดงาน"
+   ]
+  },
+  {
+   "pid": "69109063208",
+   "dept": "องค์การบริหารส่วนจังหวัดปทุมธานี",
+   "title": "ประกวดราคาจ้างเหมาจัดงานโครงการจัดงานสืบสานประเพณีลอยกระทง จังหวัดปทุมธานี ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "26/10/2569",
+   "date_end": "",
+   "budget": 1697000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69109063208&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
    "announce_type": "ประกาศเชิญชวน",
    "matched_keywords": [
     "จัดงาน"
