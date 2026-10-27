@@ -1,10 +1,10 @@
 {
- "fetched_at": "27/10/2569 15:19",
+ "fetched_at": "27/10/2569 19:57",
  "range": {
   "from": "06/10/2569",
   "to": "27/10/2569"
  },
- "total": 87,
+ "total": 92,
  "requests": 32,
  "items": [
   {
@@ -63,6 +63,28 @@
    "budget": 2900000.0,
    "status": "ระหว่างดำเนินการ",
    "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69109003977&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
+   "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "ประชาสัมพันธ์",
+    "เผยแพร่"
+   ],
+   "score": 7,
+   "fit": "เหมาะมาก",
+   "hits": [
+    "ประชาสัมพันธ์",
+    "เผยแพร่",
+    "ข่าว"
+   ]
+  },
+  {
+   "pid": "69109235442",
+   "dept": "การเคหะแห่งชาติ",
+   "title": "ประกวดราคาจ้างจัดทำโครงการผลิตและเผยแพร่ประชาสัมพันธ์กิจกรรม และข้อมูลข่าวสารผ่าน Social Media facebook การเคหะแห่งชาติ ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "27/10/2569",
+   "date_end": "",
+   "budget": 1000000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69109235442&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
    "announce_type": "ประกาศเชิญชวน",
    "matched_keywords": [
     "ประชาสัมพันธ์",
@@ -668,6 +690,25 @@
    ]
   },
   {
+   "pid": "69099636683",
+   "dept": "สำนักงานพิพิธภัณฑ์เกษตรเฉลิมพระเกียรติพระบาทสมเด็จพระเจ้าอยู่หัว (องค์การมหาชน)",
+   "title": "ประกวดราคาจ้างปรับปรุงนิทรรศการพิพิธภัณฑ์วิถีน้ำ อาคารเฉลิมพระเกียรติพระบาทสมเด็จพระเจ้าอยู่หัว 6 ตำบลคลองหนึ่ง อำเภอคลองหลวง จังหวัดปทุมธานี 1 งาน ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "27/10/2569",
+   "date_end": "30/10/2569",
+   "budget": 28000000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_2.jsp?tor_project_id=69099636683",
+   "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
+   "matched_keywords": [
+    "นิทรรศการ"
+   ],
+   "score": 2,
+   "fit": "เกี่ยวข้องน้อย",
+   "hits": [
+    "นิทรรศการ"
+   ]
+  },
+  {
    "pid": "69109048552",
    "dept": "สำนักงานพัฒนาธุรกรรมทางอิเล็กทรอนิกส์",
    "title": "ประกวดราคาจ้างจัดกิจกรรมพัฒนาทักษะด้านดิจิทัลเพื่อการสร้างรายได้ และจัดกิจกรรม Business Pitching พร้อมส่งเสริมทางการตลาดให้แก่ชุมชน และจัดทำข้อมูลศักยภาพชุมชน (Community Profile) เพื่อการต่อยอด ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
@@ -1048,6 +1089,25 @@
    ]
   },
   {
+   "pid": "69109228483",
+   "dept": "กรุงเทพมหานคร",
+   "title": "ประกวดราคาจ้างค่าใช้จ่ายในการจัดกิจกรรม Bangkok Music Awards 2027 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "27/10/2569",
+   "date_end": "05/11/2569",
+   "budget": 3539650.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_2.jsp?tor_project_id=69109228483",
+   "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
+   "matched_keywords": [
+    "จัดกิจกรรม"
+   ],
+   "score": 2,
+   "fit": "เกี่ยวข้องน้อย",
+   "hits": [
+    "จัดกิจกรรม"
+   ]
+  },
+  {
    "pid": "69099105771",
    "dept": "เทศบาลเมืองตาก",
    "title": "ประกวดราคาจ้างโครงการจัดงานประเพณีลอยกระทงสายไหลประทีป ๑๐๐๐ ดวง ประจำปี ๒๕๖๙ ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
@@ -1257,6 +1317,25 @@
    ]
   },
   {
+   "pid": "69109090648",
+   "dept": "เทศบาลตำบลแพรกษา",
+   "title": "ประกวดราคาจ้างเหมาจัดงานโครงการส่งเสริมการท่องเที่ยวและสืบสานประเพณีลอยกระทง ประจำปี 2569 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "27/10/2569",
+   "date_end": "",
+   "budget": 2000000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69109090648&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
+   "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "จัดงาน"
+   ],
+   "score": 2,
+   "fit": "เกี่ยวข้องน้อย",
+   "hits": [
+    "จัดงาน"
+   ]
+  },
+  {
    "pid": "69109061064",
    "dept": "เทศบาลตำบลสุนทรภู่",
    "title": "ประกวดราคาจ้างโครงการจัดงานวันลอยกระทง ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
@@ -1273,6 +1352,25 @@
    "fit": "เกี่ยวข้องน้อย",
    "hits": [
     "จัดงาน"
+   ]
+  },
+  {
+   "pid": "69089456511",
+   "dept": "สำนักงานคณะกรรมการส่งเสริมการลงทุน",
+   "title": "ประกวดราคาจ้างจัดทำและปรับปรุงข้อมูลเพื่อเผยแพร่บนเว็บไซต์ www.boi.go.th ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "27/10/2569",
+   "date_end": "30/10/2569",
+   "budget": 1900000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_2.jsp?tor_project_id=69089456511",
+   "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
+   "matched_keywords": [
+    "เผยแพร่"
+   ],
+   "score": 2,
+   "fit": "เกี่ยวข้องน้อย",
+   "hits": [
+    "เผยแพร่"
    ]
   },
   {
