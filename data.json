@@ -1,10 +1,10 @@
 {
- "fetched_at": "29/10/2569 15:50",
+ "fetched_at": "29/10/2569 20:56",
  "range": {
   "from": "08/10/2569",
   "to": "29/10/2569"
  },
- "total": 92,
+ "total": 95,
  "requests": 32,
  "items": [
   {
@@ -649,6 +649,25 @@
    ]
   },
   {
+   "pid": "69109178984",
+   "dept": "จังหวัดศรีสะเกษ",
+   "title": "ประกวดราคาจ้างโครงการส่งเสริมการประชาสัมพันธ์และกิจกรรมท่องเที่ยว กิจกรรม Sound of Sisaket กิจกรรม วิจิตรแสง ซาวน์ออฟศรีสะเกษ (Sound of Sisaket The Light up 2026) ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "29/10/2569",
+   "date_end": "",
+   "budget": 1000000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69109178984&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
+   "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "ประชาสัมพันธ์"
+   ],
+   "score": 3,
+   "fit": "น่าสนใจ",
+   "hits": [
+    "ประชาสัมพันธ์"
+   ]
+  },
+  {
    "pid": "69109134645",
    "dept": "จังหวัดอ่างทอง โดย อำเภอวิเศษชัยชาญ",
    "title": "ประกวดราคาจ้างโครงการการประชาสัมพันธ์และการตลาดเพื่อการท่องเที่ยว กิจกรรมหลัก การส่งเสริมการท่องเที่ยวเชิงเกษตร ประวัติศาสตร์ วัฒนธรรม วิถีชุมชนและการท่องเที่ยวเชิงสร้างสรรค์ กิจกรรม งานสืบสานประเพณีลอยกระทงแม่น้ำน้อย ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
@@ -848,6 +867,25 @@
    "status": "ระหว่างดำเนินการ",
    "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69109125053&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
    "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "จัดงาน"
+   ],
+   "score": 2,
+   "fit": "เกี่ยวข้องน้อย",
+   "hits": [
+    "จัดงาน"
+   ]
+  },
+  {
+   "pid": "69109263900",
+   "dept": "องค์การบริหารส่วนจังหวัดกาฬสินธุ์",
+   "title": "ประกวดราคาจ้างจ้างจัดงานโครงการมหกรรมกุ้งก้ามกรามกาฬสินธุ์ ประจำปีงบประมาณ พ.ศ.๒๕๗๐ ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "29/10/2569",
+   "date_end": "03/11/2569",
+   "budget": 9000000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_2.jsp?tor_project_id=69109263900",
+   "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
    "matched_keywords": [
     "จัดงาน"
    ],
@@ -1588,6 +1626,25 @@
    "budget": 1358200.0,
    "status": "ระหว่างดำเนินการ",
    "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69109097516&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
+   "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "จัดงาน"
+   ],
+   "score": 2,
+   "fit": "เกี่ยวข้องน้อย",
+   "hits": [
+    "จัดงาน"
+   ]
+  },
+  {
+   "pid": "69109274597",
+   "dept": "จังหวัดเลย",
+   "title": "ประกวดราคาจ้างเหมาบริการจัดงานประเพณีแห่ต้นกระธูป อำเภอหนองหิน จังหวัดเลย ตามโครงการส่งเสริมการท่องเที่ยวเเละบริการ เพื่อเพิ่มขีดความสามารถในการแข่งขัน กิจกรรม ส่งเสริมการท่องเที่ยวที่ยั่งยืนและงานประเพณีแห่ต้นกระธูป อำเภอหนองหิน จังหวัดเลย ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "29/10/2569",
+   "date_end": "",
+   "budget": 1077500.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69109274597&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
    "announce_type": "ประกาศเชิญชวน",
    "matched_keywords": [
     "จัดงาน"
