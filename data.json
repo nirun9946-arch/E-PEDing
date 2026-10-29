@@ -1,10 +1,10 @@
 {
- "fetched_at": "29/10/2569 20:56",
+ "fetched_at": "29/10/2569 23:23",
  "range": {
   "from": "08/10/2569",
   "to": "29/10/2569"
  },
- "total": 95,
+ "total": 96,
  "requests": 32,
  "items": [
   {
@@ -772,6 +772,25 @@
    "status": "ระหว่างดำเนินการ",
    "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69109081192&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
    "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "ประชาสัมพันธ์"
+   ],
+   "score": 3,
+   "fit": "น่าสนใจ",
+   "hits": [
+    "ประชาสัมพันธ์"
+   ]
+  },
+  {
+   "pid": "69109237621",
+   "dept": "สำนักงานนโยบายและแผนการขนส่งและจราจร",
+   "title": "ประกวดราคาจ้างเหมาดำเนินงานโครงการประชาสัมพันธ์เพื่อสร้างความรู้ ความเข้าใจ และการมีส่วนร่วมต่อการพัฒนาระบบการขนส่งและจราจร ของสำนักงานนโยบายและแผนการขนส่งและจราจร ประจำปีงบประมาณ พ.ศ. 2570 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "29/10/2569",
+   "date_end": "03/11/2569",
+   "budget": 737700.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_2.jsp?tor_project_id=69109237621",
+   "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
    "matched_keywords": [
     "ประชาสัมพันธ์"
    ],
