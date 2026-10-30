@@ -1,10 +1,10 @@
 {
- "fetched_at": "30/10/2569 15:56",
+ "fetched_at": "30/10/2569 20:48",
  "range": {
   "from": "09/10/2569",
   "to": "30/10/2569"
  },
- "total": 92,
+ "total": 95,
  "requests": 32,
  "items": [
   {
@@ -491,6 +491,25 @@
    "fit": "น่าสนใจ",
    "hits": [
     "ประชาสัมพันธ์"
+   ]
+  },
+  {
+   "pid": "69109266059",
+   "dept": "สำนักงานส่งเสริมเศรษฐกิจสร้างสรรค์ (องค์การมหาชน)",
+   "title": "ประกวดราคาจ้างบริหารจัดการกิจกรรมพัฒนาโปรเจ็กต์ สำหรับบุคลากรด้านคอนเทนต์ภาพยนตร์ และซีรีส์ระดับกลาง (Mid-Career Project) ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "30/10/2569",
+   "date_end": "",
+   "budget": 5350000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69109266059&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
+   "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "คอนเทนต์"
+   ],
+   "score": 3,
+   "fit": "น่าสนใจ",
+   "hits": [
+    "คอนเทนต์"
    ]
   },
   {
@@ -1005,6 +1024,25 @@
    "fit": "เกี่ยวข้องน้อย",
    "hits": [
     "จัดกิจกรรม"
+   ]
+  },
+  {
+   "pid": "69109420042",
+   "dept": "จังหวัดประจวบคีรีขันธ์",
+   "title": "ประกวดราคาจ้างเหมาจัดงานมหกรรมดินของพ่อ สานต่อของดีคีรีขันธ์ ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "30/10/2569",
+   "date_end": "",
+   "budget": 5000000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69109420042&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
+   "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "จัดงาน"
+   ],
+   "score": 2,
+   "fit": "เกี่ยวข้องน้อย",
+   "hits": [
+    "จัดงาน"
    ]
   },
   {
@@ -1529,6 +1567,25 @@
    "budget": 1695360.0,
    "status": "ระหว่างดำเนินการ",
    "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69109011480&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
+   "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "จัดกิจกรรม"
+   ],
+   "score": 2,
+   "fit": "เกี่ยวข้องน้อย",
+   "hits": [
+    "จัดกิจกรรม"
+   ]
+  },
+  {
+   "pid": "69109296559",
+   "dept": "สำนักงานส่งเสริมเศรษฐกิจสร้างสรรค์ (องค์การมหาชน)",
+   "title": "ประกวดราคาจ้างจัดกิจกรรมส่งเสริมศักยภาพและต่อยอดอุตสาหกรรมเครื่องหอมและ อุตสาหกรรม Wellness สำหรับเทศกาลงานออกแบบเชียงใหม่ (Chiang Mai Design Week) 2026 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "30/10/2569",
+   "date_end": "",
+   "budget": 1500000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69109296559&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
    "announce_type": "ประกาศเชิญชวน",
    "matched_keywords": [
     "จัดกิจกรรม"
