@@ -1,10 +1,10 @@
 {
- "fetched_at": "02/11/2569 23:47",
+ "fetched_at": "03/11/2569 02:44",
  "range": {
-  "from": "12/10/2569",
-  "to": "02/11/2569"
+  "from": "13/10/2569",
+  "to": "03/11/2569"
  },
- "total": 86,
+ "total": 79,
  "requests": 32,
  "items": [
   {
@@ -332,23 +332,23 @@
    ]
   },
   {
-   "pid": "69109026081",
-   "dept": "สำนักงานพัฒนาธุรกรรมทางอิเล็กทรอนิกส์",
-   "title": "ประกวดราคาจ้างจัดกิจกรรมเสริมสร้างความตระหนักรู้ให้ประชาชนในการรับมือปัญหาแพลตฟอร์มออนไลน์ผ่านเครือข่าย ETDA Digital Citizen Trainer (EDC Trainer) ประจำปีงบประมาณ 2570 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
-   "date": "12/10/2569",
+   "pid": "69109396149",
+   "dept": "กองทุนประกันชีวิต",
+   "title": "ประกวดราคาจ้างผลิตวิดีโอนำเสนอองค์กร (VDO present company) เพื่อการประชาสัมพันธ์กองทุนประกันชีวิต ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "03/11/2569",
    "date_end": "",
-   "budget": 19500000.0,
+   "budget": 200000.0,
    "status": "ระหว่างดำเนินการ",
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69109026081&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69109396149&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
    "announce_type": "ประกาศเชิญชวน",
    "matched_keywords": [
-    "จัดกิจกรรม"
+    "ประชาสัมพันธ์"
    ],
-   "score": 4,
+   "score": 5,
    "fit": "น่าสนใจ",
    "hits": [
-    "จัดกิจกรรม",
-    "digital"
+    "ประชาสัมพันธ์",
+    "วิดีโอ"
    ]
   },
   {
@@ -504,25 +504,6 @@
    "hits": [
     "ประชาสัมพันธ์",
     "สร้างการรับรู้"
-   ]
-  },
-  {
-   "pid": "69109346033",
-   "dept": "สำนักงานปลัดกระทรวงสาธารณสุข",
-   "title": "ประกวดราคาจ้างโครงการสื่อสารประชาสัมพันธ์เชิงรุกเพื่อขับเคลื่อนการพัฒนาระบบสุขภาพ กระทรวงสาธารณสุข ประจำปีงบประมาณ พ.ศ.2570 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
-   "date": "28/10/2569",
-   "date_end": "02/11/2569",
-   "budget": 4000000.0,
-   "status": "ระหว่างดำเนินการ",
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_2.jsp?tor_project_id=69109346033",
-   "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
-   "matched_keywords": [
-    "ประชาสัมพันธ์"
-   ],
-   "score": 3,
-   "fit": "น่าสนใจ",
-   "hits": [
-    "ประชาสัมพันธ์"
    ]
   },
   {
@@ -773,25 +754,6 @@
    ]
   },
   {
-   "pid": "69109048552",
-   "dept": "สำนักงานพัฒนาธุรกรรมทางอิเล็กทรอนิกส์",
-   "title": "ประกวดราคาจ้างจัดกิจกรรมพัฒนาทักษะด้านดิจิทัลเพื่อการสร้างรายได้ และจัดกิจกรรม Business Pitching พร้อมส่งเสริมทางการตลาดให้แก่ชุมชน และจัดทำข้อมูลศักยภาพชุมชน (Community Profile) เพื่อการต่อยอด ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
-   "date": "12/10/2569",
-   "date_end": "",
-   "budget": 10000000.0,
-   "status": "ระหว่างดำเนินการ",
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69109048552&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
-   "announce_type": "ประกาศเชิญชวน",
-   "matched_keywords": [
-    "จัดกิจกรรม"
-   ],
-   "score": 2,
-   "fit": "เกี่ยวข้องน้อย",
-   "hits": [
-    "จัดกิจกรรม"
-   ]
-  },
-  {
    "pid": "69109125053",
    "dept": "องค์การบริหารส่วนจังหวัดปทุมธานี",
    "title": "ประกวดราคาจ้างจัดงานตามโครงการจัดงานแข่งขันเรือยาวประเพณี จังหวัดปทุมธานี ประจำปี 2569 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
@@ -884,25 +846,6 @@
    "fit": "เกี่ยวข้องน้อย",
    "hits": [
     "จัดกิจกรรม"
-   ]
-  },
-  {
-   "pid": "69109362812",
-   "dept": "กองงานพระราชดำริและกิจกรรมพิเศษ กรมปศุสัตว์",
-   "title": "ประกวดราคาจ้างจ้างเหมาโครงการจัดงานอนุรักษ์และพัฒนากระบือปลักไทย ประจำปี พ.ศ. ๒๕๗๐ ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
-   "date": "28/10/2569",
-   "date_end": "02/11/2569",
-   "budget": 5749315.0,
-   "status": "ระหว่างดำเนินการ",
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_2.jsp?tor_project_id=69109362812",
-   "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
-   "matched_keywords": [
-    "จัดงาน"
-   ],
-   "score": 2,
-   "fit": "เกี่ยวข้องน้อย",
-   "hits": [
-    "จัดงาน"
    ]
   },
   {
@@ -1115,25 +1058,6 @@
    ]
   },
   {
-   "pid": "69109061849",
-   "dept": "สำนักงานนโยบายและแผนทรัพยากรธรรมชาติและสิ่งแวดล้อม",
-   "title": "ประกวดราคาจ้างดำเนินโครงการระบบติดตามมติคณะกรรมการสิ่งแวดล้อมแห่งชาติและการเผยแพร่ข้อมูลสู่ประชาชน ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
-   "date": "12/10/2569",
-   "date_end": "",
-   "budget": 4000000.0,
-   "status": "ระหว่างดำเนินการ",
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69109061849&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
-   "announce_type": "ประกาศเชิญชวน",
-   "matched_keywords": [
-    "เผยแพร่"
-   ],
-   "score": 2,
-   "fit": "เกี่ยวข้องน้อย",
-   "hits": [
-    "เผยแพร่"
-   ]
-  },
-  {
    "pid": "69109215741",
    "dept": "จังหวัดอุตรดิตถ์",
    "title": "ประกวดราคาจ้างการจัดงานตามโครงการ Uttaradit Economy Plus กระตุ้นเศรษฐกิจฐานราก เชื่อมโยงการค้า การท่องเที่ยว ศิลปะและวัฒนธรรม สู่ตลาดสมัยใหม่และตลาดเพื่อนบ้าน ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
@@ -1150,25 +1074,6 @@
    "fit": "เกี่ยวข้องน้อย",
    "hits": [
     "จัดงาน"
-   ]
-  },
-  {
-   "pid": "69109150654",
-   "dept": "โรงเรียนปัว",
-   "title": "ประกวดราคาจ้างจ้างเหมาจัดหาครูต่างชาติและจัดกิจกรรมสนับสนุนการเรียนการสอนภาษาอังกฤษ ประจำปีงบประมาณ ๒๕๗๐ ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
-   "date": "12/10/2569",
-   "date_end": "",
-   "budget": 3839000.0,
-   "status": "ระหว่างดำเนินการ",
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69109150654&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
-   "announce_type": "ประกาศเชิญชวน",
-   "matched_keywords": [
-    "จัดกิจกรรม"
-   ],
-   "score": 2,
-   "fit": "เกี่ยวข้องน้อย",
-   "hits": [
-    "จัดกิจกรรม"
    ]
   },
   {
@@ -1199,25 +1104,6 @@
    "budget": 3140000.0,
    "status": "ระหว่างดำเนินการ",
    "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69109097024&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
-   "announce_type": "ประกาศเชิญชวน",
-   "matched_keywords": [
-    "จัดงาน"
-   ],
-   "score": 2,
-   "fit": "เกี่ยวข้องน้อย",
-   "hits": [
-    "จัดงาน"
-   ]
-  },
-  {
-   "pid": "69109156489",
-   "dept": "จังหวัดนนทบุรี",
-   "title": "ประกวดราคาจ้างเหมาบริการจัดงานโครงการอนุรักษ์สืบสานประเพณีลอยกระทง จังหวัดนนทบุรี ประจำปีงบประมาณ พ.ศ. 2570 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
-   "date": "12/10/2569",
-   "date_end": "",
-   "budget": 3000000.0,
-   "status": "ระหว่างดำเนินการ",
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69109156489&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
    "announce_type": "ประกาศเชิญชวน",
    "matched_keywords": [
     "จัดงาน"
@@ -1644,27 +1530,6 @@
    "fit": "เกี่ยวข้องน้อย",
    "hits": [
     "จัดกิจกรรม"
-   ]
-  },
-  {
-   "pid": "69109052386",
-   "dept": "สำนักงานส่งเสริมเศรษฐกิจสร้างสรรค์ (องค์การมหาชน)",
-   "title": "ประกวดราคาจ้างผลิตสื่อและป้ายประชาสัมพันธ์ และบรรยากาศสำหรับเทศกาลงานออกแบบเชียงใหม่ 2569 (Chiang Mai Design Week 2026) ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
-   "date": "12/10/2569",
-   "date_end": "",
-   "budget": 690000.0,
-   "status": "ระหว่างดำเนินการ",
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69109052386&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
-   "announce_type": "ประกาศเชิญชวน",
-   "matched_keywords": [
-    "ประชาสัมพันธ์",
-    "ผลิตสื่อ"
-   ],
-   "score": 2,
-   "fit": "เกี่ยวข้องน้อย",
-   "hits": [
-    "ประชาสัมพันธ์",
-    "ผลิตสื่อ"
    ]
   },
   {
