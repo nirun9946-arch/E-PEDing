@@ -1,10 +1,10 @@
 {
- "fetched_at": "01/11/2569 23:18",
+ "fetched_at": "02/11/2569 16:51",
  "range": {
-  "from": "11/10/2569",
-  "to": "01/11/2569"
+  "from": "12/10/2569",
+  "to": "02/11/2569"
  },
- "total": 83,
+ "total": 85,
  "requests": 32,
  "items": [
   {
@@ -311,6 +311,27 @@
    ]
   },
   {
+   "pid": "69109394757",
+   "dept": "กรมประชาสัมพันธ์",
+   "title": "ประกวดราคาเช่าบริการระบบศูนย์กลางการเผยแพร่การถ่ายทอดสัญญาณบริการภาพและเสียงผ่านโครงข่ายอินเทอร์เน็ตดิจิทัลแฟลตฟอร์ม OTT กรมประชาสัมพันธ์ (Content Delivery Network) ประจำปีงบประมาณ พ.ศ.2570 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "02/11/2569",
+   "date_end": "",
+   "budget": 848975.76,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69109394757&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
+   "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "ประชาสัมพันธ์",
+    "เผยแพร่"
+   ],
+   "score": 5,
+   "fit": "น่าสนใจ",
+   "hits": [
+    "ประชาสัมพันธ์",
+    "เผยแพร่"
+   ]
+  },
+  {
    "pid": "69109026081",
    "dept": "สำนักงานพัฒนาธุรกรรมทางอิเล็กทรอนิกส์",
    "title": "ประกวดราคาจ้างจัดกิจกรรมเสริมสร้างความตระหนักรู้ให้ประชาชนในการรับมือปัญหาแพลตฟอร์มออนไลน์ผ่านเครือข่าย ETDA Digital Citizen Trainer (EDC Trainer) ประจำปีงบประมาณ 2570 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
@@ -502,6 +523,25 @@
    "fit": "น่าสนใจ",
    "hits": [
     "ประชาสัมพันธ์"
+   ]
+  },
+  {
+   "pid": "69109283941",
+   "dept": "สำนักงานส่งเสริมเศรษฐกิจสร้างสรรค์ (องค์การมหาชน)",
+   "title": "ประกวดราคาจ้างบริหารจัดการกิจกรรมพัฒนาบท สำหรับบุคลากรด้านคอนเทนต์ภาพยนตร์ และซีรีส์ระดับกลาง (Mid-Career Story) ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "02/11/2569",
+   "date_end": "",
+   "budget": 3750000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69109283941&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
+   "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "คอนเทนต์"
+   ],
+   "score": 3,
+   "fit": "น่าสนใจ",
+   "hits": [
+    "คอนเทนต์"
    ]
   },
   {
