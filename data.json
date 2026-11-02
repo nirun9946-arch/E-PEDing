@@ -1,10 +1,10 @@
 {
- "fetched_at": "02/11/2569 16:51",
+ "fetched_at": "02/11/2569 23:47",
  "range": {
   "from": "12/10/2569",
   "to": "02/11/2569"
  },
- "total": 85,
+ "total": 86,
  "requests": 32,
  "items": [
   {
@@ -827,6 +827,25 @@
    "fit": "เกี่ยวข้องน้อย",
    "hits": [
     "จัดงาน"
+   ]
+  },
+  {
+   "pid": "69109232352",
+   "dept": "สำนักงานพัฒนาธุรกรรมทางอิเล็กทรอนิกส์",
+   "title": "ประกวดราคาจ้างจัดกิจกรรมการมีส่วนร่วมและการสื่อสารกับกลุ่มผู้มีส่วนได้ส่วนเสีย สำหรับการกำกับดูแลแพลตฟอร์มดิจิทัลและการส่งเสริมการทำธุรกรรมทางอิเล็กทรอนิกส์ ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "02/11/2569",
+   "date_end": "",
+   "budget": 8000000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69109232352&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
+   "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "จัดกิจกรรม"
+   ],
+   "score": 2,
+   "fit": "เกี่ยวข้องน้อย",
+   "hits": [
+    "จัดกิจกรรม"
    ]
   },
   {
