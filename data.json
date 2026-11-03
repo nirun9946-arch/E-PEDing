@@ -1,10 +1,10 @@
 {
- "fetched_at": "03/11/2569 16:56",
+ "fetched_at": "03/11/2569 21:51",
  "range": {
   "from": "13/10/2569",
   "to": "03/11/2569"
  },
- "total": 84,
+ "total": 87,
  "requests": 32,
  "items": [
   {
@@ -185,6 +185,26 @@
    "hits": [
     "ออกอากาศ",
     "ข่าว"
+   ]
+  },
+  {
+   "pid": "69109416065",
+   "dept": "จังหวัดชัยภูมิ",
+   "title": "ประกวดราคาจ้างโครงการส่งเสริมการท่องเที่ยวเชิงธรรมชาติ กิจกรรมส่งเสริมการท่องเที่ยว 3 ฤดู รายการ ประชาสัมพันธ์ส่งเสริมการท่องเที่ยวจังหวัดชัยภูมิ ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "03/11/2569",
+   "date_end": "",
+   "budget": 5000000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69109416065&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
+   "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "ประชาสัมพันธ์"
+   ],
+   "score": 5,
+   "fit": "น่าสนใจ",
+   "hits": [
+    "ประชาสัมพันธ์",
+    "รายการ"
    ]
   },
   {
@@ -926,6 +946,25 @@
    ]
   },
   {
+   "pid": "69109362812",
+   "dept": "กองงานพระราชดำริและกิจกรรมพิเศษ กรมปศุสัตว์",
+   "title": "ประกวดราคาจ้างจ้างเหมาโครงการจัดงานอนุรักษ์และพัฒนากระบือปลักไทย ประจำปี พ.ศ. ๒๕๗๐ ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "03/11/2569",
+   "date_end": "",
+   "budget": 5749315.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69109362812&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
+   "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "จัดงาน"
+   ],
+   "score": 2,
+   "fit": "เกี่ยวข้องน้อย",
+   "hits": [
+    "จัดงาน"
+   ]
+  },
+  {
    "pid": "69109129535",
    "dept": "จังหวัดเชียงราย",
    "title": "ประกวดราคาจ้างจัดงานลอยกระทง ยี่เป็งเชียงแสนแสงศรัทธาแม่น้ำโขง 2569 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
@@ -1619,6 +1658,25 @@
    "status": "ระหว่างดำเนินการ",
    "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69109103733&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
    "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "จัดกิจกรรม"
+   ],
+   "score": 2,
+   "fit": "เกี่ยวข้องน้อย",
+   "hits": [
+    "จัดกิจกรรม"
+   ]
+  },
+  {
+   "pid": "69109061504",
+   "dept": "สำนักงานส่งเสริมเศรษฐกิจสร้างสรรค์ (องค์การมหาชน)",
+   "title": "ประกวดราคาจ้างจัดกิจกรรมพัฒนาย่านเศรษฐกิจสร้างสรรค์และคลัสเตอร์นักสร้างสรรค์ (Creative District Projects) ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "03/11/2569",
+   "date_end": "06/11/2569",
+   "budget": 600000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_2.jsp?tor_project_id=69109061504",
+   "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
    "matched_keywords": [
     "จัดกิจกรรม"
    ],
