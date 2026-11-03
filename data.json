@@ -1,10 +1,10 @@
 {
- "fetched_at": "03/11/2569 21:51",
+ "fetched_at": "04/11/2569 00:16",
  "range": {
-  "from": "13/10/2569",
-  "to": "03/11/2569"
+  "from": "14/10/2569",
+  "to": "04/11/2569"
  },
- "total": 87,
+ "total": 85,
  "requests": 32,
  "items": [
   {
@@ -470,25 +470,6 @@
    ]
   },
   {
-   "pid": "69109025508",
-   "dept": "กรุงเทพมหานคร",
-   "title": "ประกวดราคาจ้างค่าใช้จ่ายในการประชาสัมพันธ์บทบาทของสภากรุงเทพมหานครโดยการมีส่วนร่วมของภาคประชาชน ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
-   "date": "28/10/2569",
-   "date_end": "03/11/2569",
-   "budget": 12626000.0,
-   "status": "ระหว่างดำเนินการ",
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_2.jsp?tor_project_id=69109025508",
-   "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
-   "matched_keywords": [
-    "ประชาสัมพันธ์"
-   ],
-   "score": 3,
-   "fit": "น่าสนใจ",
-   "hits": [
-    "ประชาสัมพันธ์"
-   ]
-  },
-  {
    "pid": "69099469581",
    "dept": "สำนักงานคณะกรรมการกิจการกระจายเสียง กิจการโทรทัศน์ และกิจการโทรคมนาคมแห่งชาติ",
    "title": "ประกวดราคาจ้างออกแบบและจัดทำสื่อประชาสัมพันธ์ (ชุดปีใหม่ 2570) ของสำนักงาน กสทช. ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
@@ -756,25 +737,6 @@
    ]
   },
   {
-   "pid": "69109237621",
-   "dept": "สำนักงานนโยบายและแผนการขนส่งและจราจร",
-   "title": "ประกวดราคาจ้างเหมาดำเนินงานโครงการประชาสัมพันธ์เพื่อสร้างความรู้ ความเข้าใจ และการมีส่วนร่วมต่อการพัฒนาระบบการขนส่งและจราจร ของสำนักงานนโยบายและแผนการขนส่งและจราจร ประจำปีงบประมาณ พ.ศ. 2570 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
-   "date": "29/10/2569",
-   "date_end": "03/11/2569",
-   "budget": 737700.0,
-   "status": "ระหว่างดำเนินการ",
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_2.jsp?tor_project_id=69109237621",
-   "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
-   "matched_keywords": [
-    "ประชาสัมพันธ์"
-   ],
-   "score": 3,
-   "fit": "น่าสนใจ",
-   "hits": [
-    "ประชาสัมพันธ์"
-   ]
-  },
-  {
    "pid": "69109149452",
    "dept": "การไฟฟ้าฝ่ายผลิตแห่งประเทศไทย",
    "title": "ประกวดราคาจ้างงานจ้างเหมาบริการเพื่อทำงานประชาสัมพันธ์ โรงไฟฟ้าบางปะกง ประจำปี 2570 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
@@ -841,25 +803,6 @@
    "status": "ระหว่างดำเนินการ",
    "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69109125053&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
    "announce_type": "ประกาศเชิญชวน",
-   "matched_keywords": [
-    "จัดงาน"
-   ],
-   "score": 2,
-   "fit": "เกี่ยวข้องน้อย",
-   "hits": [
-    "จัดงาน"
-   ]
-  },
-  {
-   "pid": "69109263900",
-   "dept": "องค์การบริหารส่วนจังหวัดกาฬสินธุ์",
-   "title": "ประกวดราคาจ้างจ้างจัดงานโครงการมหกรรมกุ้งก้ามกรามกาฬสินธุ์ ประจำปีงบประมาณ พ.ศ.๒๕๗๐ ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
-   "date": "29/10/2569",
-   "date_end": "03/11/2569",
-   "budget": 9000000.0,
-   "status": "ระหว่างดำเนินการ",
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_2.jsp?tor_project_id=69109263900",
-   "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
    "matched_keywords": [
     "จัดงาน"
    ],
@@ -1486,6 +1429,25 @@
    "budget": 1500000.0,
    "status": "ระหว่างดำเนินการ",
    "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69109296559&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
+   "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "จัดกิจกรรม"
+   ],
+   "score": 2,
+   "fit": "เกี่ยวข้องน้อย",
+   "hits": [
+    "จัดกิจกรรม"
+   ]
+  },
+  {
+   "pid": "68109251220",
+   "dept": "โรงเรียนเบญจมราชูทิศ",
+   "title": "ประกวดราคาจ้างจ้างจัดกิจกรรมค่ายบูรณาการ ณ จังหวัดเชียงใหม่ ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "04/11/2569",
+   "date_end": "",
+   "budget": 1370000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=68109251220&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
    "announce_type": "ประกาศเชิญชวน",
    "matched_keywords": [
     "จัดกิจกรรม"
