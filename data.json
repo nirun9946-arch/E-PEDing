@@ -1,10 +1,10 @@
 {
- "fetched_at": "04/11/2569 00:16",
+ "fetched_at": "04/11/2569 16:44",
  "range": {
   "from": "14/10/2569",
   "to": "04/11/2569"
  },
- "total": 85,
+ "total": 91,
  "requests": 32,
  "items": [
   {
@@ -82,6 +82,27 @@
    ]
   },
   {
+   "pid": "69109417586",
+   "dept": "สำนักงานปลัดกระทรวงพาณิชย์",
+   "title": "ประกวดราคาจ้างโครงการบริหารจัดการสื่อโซเชียลและผลิตสื่อเพื่อสร้างการรับรู้ทุกแพลตฟอร์มของกระทรวงพาณิชย์ ปีงบประมาณ พ.ศ. 2570 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "04/11/2569",
+   "date_end": "09/11/2569",
+   "budget": 3500000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_2.jsp?tor_project_id=69109417586",
+   "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
+   "matched_keywords": [
+    "ผลิตสื่อ"
+   ],
+   "score": 9,
+   "fit": "เหมาะมาก",
+   "hits": [
+    "ผลิตสื่อ",
+    "สร้างการรับรู้",
+    "โซเชียล"
+   ]
+  },
+  {
    "pid": "69109367223",
    "dept": "กรมประชาสัมพันธ์",
    "title": "ประกวดราคาจ้างเหมาผู้ดำเนินรายการข่าว ตามโครงการดำเนินงานด้านข่าวโทรทัศน์และวิทยุกระจายเสียง ประจำปีงบประมาณ พ.ศ. 2570 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
@@ -121,6 +142,48 @@
    "hits": [
     "ประชาสัมพันธ์",
     "เผยแพร่",
+    "ข่าว"
+   ]
+  },
+  {
+   "pid": "69109264834",
+   "dept": "สำนักงานเลขาธิการสภาผู้แทนราษฎร",
+   "title": "ประกวดราคาจ้างช่างแต่งหน้าทำผมสำหรับพิธีกร ผู้ประกาศข่าว และผู้ร่วมรายการ ของสถานีวิทยุกระจายเสียงและวิทยุโทรทัศน์รัฐสภา ประจำปีงบประมาณ พ.ศ. ๒๕๗๐ ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "04/11/2569",
+   "date_end": "",
+   "budget": 1666666.7,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69109264834&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
+   "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "โทรทัศน์"
+   ],
+   "score": 7,
+   "fit": "เหมาะมาก",
+   "hits": [
+    "โทรทัศน์",
+    "รายการ",
+    "ข่าว"
+   ]
+  },
+  {
+   "pid": "69109286018",
+   "dept": "สำนักงานเลขาธิการสภาผู้แทนราษฎร",
+   "title": "ประกวดราคาจ้างเอกชนจัดหาเครื่องแต่งกายสำหรับพิธีกร ผู้ประกาศข่าว และผู้ร่วมรายการ ของสถานีวิทยุกระจายเสียงและวิทยุโทรทัศน์รัฐสภา ประจำปีงบประมาณ พ.ศ. ๒๕๗๐ ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "04/11/2569",
+   "date_end": "",
+   "budget": 1416666.7,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69109286018&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
+   "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "โทรทัศน์"
+   ],
+   "score": 7,
+   "fit": "เหมาะมาก",
+   "hits": [
+    "โทรทัศน์",
+    "รายการ",
     "ข่าว"
    ]
   },
@@ -528,6 +591,25 @@
    ]
   },
   {
+   "pid": "69109304179",
+   "dept": "กรมประชาสัมพันธ์",
+   "title": "ประกวดราคาจ้างเหมาดูแลภูมิทัศน์และบำรุงรักษาต้นไม้ บริเวณสถานที่กรมประชาสัมพันธ์ และอาคารสถาบันพัฒนาการประชาสัมพันธ์ ประจำปีงบประมาณ พ.ศ. 2570 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "04/11/2569",
+   "date_end": "",
+   "budget": 4425900.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69109304179&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
+   "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "ประชาสัมพันธ์"
+   ],
+   "score": 3,
+   "fit": "น่าสนใจ",
+   "hits": [
+    "ประชาสัมพันธ์"
+   ]
+  },
+  {
    "pid": "69109346033",
    "dept": "สำนักงานปลัดกระทรวงสาธารณสุข",
    "title": "ประกวดราคาจ้างโครงการสื่อสารประชาสัมพันธ์เชิงรุกเพื่อขับเคลื่อนการพัฒนาระบบสุขภาพ กระทรวงสาธารณสุข ประจำปีงบประมาณ พ.ศ.2570 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
@@ -563,6 +645,25 @@
    "fit": "น่าสนใจ",
    "hits": [
     "คอนเทนต์"
+   ]
+  },
+  {
+   "pid": "69109416751",
+   "dept": "กรุงเทพมหานคร",
+   "title": "ประกวดราคาจ้างจ้างเหมาตรวจสอบ รวบรวม และวิเคราะห์ข้อมูลในสื่อออนไลน์ ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "04/11/2569",
+   "date_end": "09/11/2569",
+   "budget": 3500000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_2.jsp?tor_project_id=69109416751",
+   "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
+   "matched_keywords": [
+    "สื่อออนไลน์"
+   ],
+   "score": 3,
+   "fit": "น่าสนใจ",
+   "hits": [
+    "สื่อออนไลน์"
    ]
   },
   {
@@ -802,6 +903,25 @@
    "budget": 9629000.0,
    "status": "ระหว่างดำเนินการ",
    "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69109125053&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
+   "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "จัดงาน"
+   ],
+   "score": 2,
+   "fit": "เกี่ยวข้องน้อย",
+   "hits": [
+    "จัดงาน"
+   ]
+  },
+  {
+   "pid": "69109263900",
+   "dept": "องค์การบริหารส่วนจังหวัดกาฬสินธุ์",
+   "title": "ประกวดราคาจ้างจ้างจัดงานโครงการมหกรรมกุ้งก้ามกรามกาฬสินธุ์ ประจำปีงบประมาณ พ.ศ.๒๕๗๐ ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "04/11/2569",
+   "date_end": "",
+   "budget": 9000000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69109263900&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
    "announce_type": "ประกาศเชิญชวน",
    "matched_keywords": [
     "จัดงาน"
