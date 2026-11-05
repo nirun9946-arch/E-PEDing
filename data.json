@@ -1,10 +1,10 @@
 {
- "fetched_at": "05/11/2569 16:48",
+ "fetched_at": "05/11/2569 22:07",
  "range": {
   "from": "15/10/2569",
   "to": "05/11/2569"
  },
- "total": 93,
+ "total": 96,
  "requests": 32,
  "items": [
   {
@@ -100,6 +100,27 @@
     "ผลิตสื่อ",
     "สร้างการรับรู้",
     "โซเชียล"
+   ]
+  },
+  {
+   "pid": "69109173077",
+   "dept": "สำนักงานปลัดกระทรวงวัฒนธรรม",
+   "title": "ประกวดราคาจ้างจัดกิจกรรมมหกรรมส่งเสริมชุดไทยพระราชนิยม ภายใต้โครงการส่งเสริมและสร้างการรับรู้ทางวัฒนธรรมและภาพลักษณ์ความเป็นไทย ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "05/11/2569",
+   "date_end": "10/11/2569",
+   "budget": 200000000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_2.jsp?tor_project_id=69109173077",
+   "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
+   "matched_keywords": [
+    "จัดกิจกรรม"
+   ],
+   "score": 8,
+   "fit": "เหมาะมาก",
+   "hits": [
+    "จัดกิจกรรม",
+    "ภาพลักษณ์",
+    "สร้างการรับรู้"
    ]
   },
   {
@@ -726,6 +747,25 @@
    ]
   },
   {
+   "pid": "69119075088",
+   "dept": "กรมประชาสัมพันธ์",
+   "title": "ประกวดราคาจ้างโครงการจ้างเหมาบริหารจัดการอาคารหอพักสถาบันพัฒนาการประชาสัมพันธ์ (อาคารกระดังงา อาคารการเวก) ประจำปีงบประมาณ พ.ศ. 2570 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "05/11/2569",
+   "date_end": "",
+   "budget": 2640000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69119075088&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
+   "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "ประชาสัมพันธ์"
+   ],
+   "score": 3,
+   "fit": "น่าสนใจ",
+   "hits": [
+    "ประชาสัมพันธ์"
+   ]
+  },
+  {
    "pid": "69109182213",
    "dept": "ธนาคารแห่งประเทศไทย",
    "title": "ประกวดราคาจ้างงานจ้างเหมาบริการงานประชาสัมพันธ์กลาง ของธนาคารแห่งประเทศไทย ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
@@ -913,6 +953,25 @@
    "fit": "เกี่ยวข้องน้อย",
    "hits": [
     "จัดกิจกรรม"
+   ]
+  },
+  {
+   "pid": "69099636683",
+   "dept": "สำนักงานพิพิธภัณฑ์เกษตรเฉลิมพระเกียรติพระบาทสมเด็จพระเจ้าอยู่หัว (องค์การมหาชน)",
+   "title": "ประกวดราคาจ้างปรับปรุงนิทรรศการพิพิธภัณฑ์วิถีน้ำ อาคารเฉลิมพระเกียรติพระบาทสมเด็จพระเจ้าอยู่หัว 6 ตำบลคลองหนึ่ง อำเภอคลองหลวง จังหวัดปทุมธานี 1 งาน ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "05/11/2569",
+   "date_end": "",
+   "budget": 28000000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69099636683&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
+   "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "นิทรรศการ"
+   ],
+   "score": 2,
+   "fit": "เกี่ยวข้องน้อย",
+   "hits": [
+    "นิทรรศการ"
    ]
   },
   {
@@ -1169,7 +1228,7 @@
    "date": "22/10/2569",
    "date_end": "",
    "budget": 5000000.0,
-   "status": "ระหว่างดำเนินการ",
+   "status": "ยกเลิกประกาศเชิญชวน",
    "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69099430845&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
    "announce_type": "ประกาศเชิญชวน",
    "matched_keywords": [
