@@ -1,10 +1,10 @@
 {
- "fetched_at": "05/11/2569 00:28",
+ "fetched_at": "05/11/2569 16:48",
  "range": {
   "from": "15/10/2569",
   "to": "05/11/2569"
  },
- "total": 89,
+ "total": 93,
  "requests": 32,
  "items": [
   {
@@ -164,6 +164,28 @@
     "โทรทัศน์",
     "รายการ",
     "ข่าว"
+   ]
+  },
+  {
+   "pid": "69119039983",
+   "dept": "เทศบาลนครเชียงใหม่",
+   "title": "ประกวดราคาจ้างจ้างเหมาออกแบบ ผลิตและเผยแพร่สื่อประชาสัมพันธ์งานตามนโยบายสำคัญของเทศบาลนครเชียงใหม่ผ่านสังคมออนไลน์ (Social Media) ภายใต้โครงการจ้างเหมาจัดทำและเผยแพร่สื่อประชาสัมพันธ์ ผ่านสื่อดิจิทัลสมัยใหม่ (New Digital Media) ประจำปีงบประมาณ พ.ศ.2570 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "05/11/2569",
+   "date_end": "",
+   "budget": 1665100.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69119039983&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
+   "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "ประชาสัมพันธ์",
+    "เผยแพร่"
+   ],
+   "score": 7,
+   "fit": "เหมาะมาก",
+   "hits": [
+    "ประชาสัมพันธ์",
+    "เผยแพร่",
+    "digital"
    ]
   },
   {
@@ -521,6 +543,25 @@
    "budget": 15000000.0,
    "status": "ระหว่างดำเนินการ",
    "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69109248887&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
+   "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "ประชาสัมพันธ์"
+   ],
+   "score": 3,
+   "fit": "น่าสนใจ",
+   "hits": [
+    "ประชาสัมพันธ์"
+   ]
+  },
+  {
+   "pid": "69109025508",
+   "dept": "กรุงเทพมหานคร",
+   "title": "ประกวดราคาจ้างค่าใช้จ่ายในการประชาสัมพันธ์บทบาทของสภากรุงเทพมหานครโดยการมีส่วนร่วมของภาคประชาชน ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "05/11/2569",
+   "date_end": "",
+   "budget": 12626000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69109025508&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
    "announce_type": "ประกาศเชิญชวน",
    "matched_keywords": [
     "ประชาสัมพันธ์"
@@ -1521,6 +1562,25 @@
    ]
   },
   {
+   "pid": "69119018770",
+   "dept": "การประปานครหลวง",
+   "title": "ประกวดราคาจ้างจัดงานวันเด็กแห่งชาติ ประจำปี ๒๕๗๐ เลขที่ จท.65-2570 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "05/11/2569",
+   "date_end": "10/11/2569",
+   "budget": 1498000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_2.jsp?tor_project_id=69119018770",
+   "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
+   "matched_keywords": [
+    "จัดงาน"
+   ],
+   "score": 2,
+   "fit": "เกี่ยวข้องน้อย",
+   "hits": [
+    "จัดงาน"
+   ]
+  },
+  {
    "pid": "68109251220",
    "dept": "โรงเรียนเบญจมราชูทิศ",
    "title": "ประกวดราคาจ้างจ้างจัดกิจกรรมค่ายบูรณาการ ณ จังหวัดเชียงใหม่ ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
@@ -1624,6 +1684,25 @@
    "budget": 859300.0,
    "status": "ระหว่างดำเนินการ",
    "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69109166865&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
+   "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "จัดกิจกรรม"
+   ],
+   "score": 2,
+   "fit": "เกี่ยวข้องน้อย",
+   "hits": [
+    "จัดกิจกรรม"
+   ]
+  },
+  {
+   "pid": "69119001834",
+   "dept": "สำนักงานส่งเสริมวิสาหกิจขนาดกลางและขนาดย่อม",
+   "title": "ประกวดราคาจ้างจัดกิจกรรมสื่อสารเพื่อขับเคลื่อนแผนปฏิบัติการส่งเสริม SME ประจำปี ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "05/11/2569",
+   "date_end": "",
+   "budget": 800000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69119001834&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
    "announce_type": "ประกาศเชิญชวน",
    "matched_keywords": [
     "จัดกิจกรรม"
