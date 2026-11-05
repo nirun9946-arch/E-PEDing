@@ -1,10 +1,10 @@
 {
- "fetched_at": "05/11/2569 22:07",
+ "fetched_at": "06/11/2569 00:35",
  "range": {
-  "from": "15/10/2569",
-  "to": "05/11/2569"
+  "from": "16/10/2569",
+  "to": "06/11/2569"
  },
- "total": 96,
+ "total": 93,
  "requests": 32,
  "items": [
   {
@@ -1070,25 +1070,6 @@
    ]
   },
   {
-   "pid": "69109102208",
-   "dept": "สำนักงานพัฒนาธุรกรรมทางอิเล็กทรอนิกส์",
-   "title": "ประกวดราคาจ้างจ้างจัดกิจกรรมการทบทวนและประเมินผลกระทบมูลค่าและขีดความสามารถในการแข่งขันด้านดิจิทัลของการทำธุรกรรมทางอิเล็กทรอนิกส์สำหรับผู้ประกอบการ ภาครัฐและประชาชน พร้อมทั้งการประเมินความพึงพอใจของผู้รับบริการ ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
-   "date": "15/10/2569",
-   "date_end": "",
-   "budget": 5767100.0,
-   "status": "ระหว่างดำเนินการ",
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69109102208&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
-   "announce_type": "ประกาศเชิญชวน",
-   "matched_keywords": [
-    "จัดกิจกรรม"
-   ],
-   "score": 2,
-   "fit": "เกี่ยวข้องน้อย",
-   "hits": [
-    "จัดกิจกรรม"
-   ]
-  },
-  {
    "pid": "69109362812",
    "dept": "กองงานพระราชดำริและกิจกรรมพิเศษ กรมปศุสัตว์",
    "title": "ประกวดราคาจ้างจ้างเหมาโครงการจัดงานอนุรักษ์และพัฒนากระบือปลักไทย ประจำปี พ.ศ. ๒๕๗๐ ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
@@ -1279,25 +1260,6 @@
    ]
   },
   {
-   "pid": "69109086030",
-   "dept": "กรมทรัพย์สินทางปัญญา",
-   "title": "ประกวดราคาจ้างจัดงาน Thailand Coffee Fest Year End 2026 และ Thailand Rice Fest 2026 ประจำปีงบประมาณ พ.ศ. 2570 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
-   "date": "15/10/2569",
-   "date_end": "",
-   "budget": 4500000.0,
-   "status": "ยกเลิกประกาศเชิญชวน",
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69109086030&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
-   "announce_type": "ประกาศเชิญชวน",
-   "matched_keywords": [
-    "จัดงาน"
-   ],
-   "score": 2,
-   "fit": "เกี่ยวข้องน้อย",
-   "hits": [
-    "จัดงาน"
-   ]
-  },
-  {
    "pid": "69109328662",
    "dept": "จังหวัดชัยนาท",
    "title": "ประกวดราคาจ้างจัดงานเขื่อนเจ้าพระยารำลึก กิจกรรมหลักส่งเสริมกิจกรรมการท่องเที่ยววิถีชีวิตชุมชนเชิงสร้างสรรค์ ตามโครงการส่งเสริมกิจกรรมท่องเที่ยวและเชื่อมโยงเส้นทางท่องเที่ยว ภายใต้โครงการตามแผนปฏิบัติราชการประจำปีของจังหวัด ประจำปีงบประมาณ พ.ศ. 2570 (งบพัฒนาจังหวัด) ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
@@ -1333,25 +1295,6 @@
    "fit": "เกี่ยวข้องน้อย",
    "hits": [
     "จัดงาน"
-   ]
-  },
-  {
-   "pid": "69109228483",
-   "dept": "กรุงเทพมหานคร",
-   "title": "ประกวดราคาจ้างค่าใช้จ่ายในการจัดกิจกรรม Bangkok Music Awards 2027 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
-   "date": "27/10/2569",
-   "date_end": "05/11/2569",
-   "budget": 3539650.0,
-   "status": "ระหว่างดำเนินการ",
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_2.jsp?tor_project_id=69109228483",
-   "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
-   "matched_keywords": [
-    "จัดกิจกรรม"
-   ],
-   "score": 2,
-   "fit": "เกี่ยวข้องน้อย",
-   "hits": [
-    "จัดกิจกรรม"
    ]
   },
   {
@@ -1515,25 +1458,6 @@
    "budget": 1800000.0,
    "status": "ระหว่างดำเนินการ",
    "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69109066470&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
-   "announce_type": "ประกาศเชิญชวน",
-   "matched_keywords": [
-    "จัดงาน"
-   ],
-   "score": 2,
-   "fit": "เกี่ยวข้องน้อย",
-   "hits": [
-    "จัดงาน"
-   ]
-  },
-  {
-   "pid": "69109107878",
-   "dept": "เทศบาลเมืองคลองแห",
-   "title": "ประกวดราคาจ้างโครงการจัดงานประเพณีลอยกระทง ประจำปี ๒๕๖๙ ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
-   "date": "15/10/2569",
-   "date_end": "",
-   "budget": 1800000.0,
-   "status": "ระหว่างดำเนินการ",
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69109107878&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
    "announce_type": "ประกาศเชิญชวน",
    "matched_keywords": [
     "จัดงาน"
@@ -1751,6 +1675,25 @@
    "fit": "เกี่ยวข้องน้อย",
    "hits": [
     "จัดกิจกรรม"
+   ]
+  },
+  {
+   "pid": "69119046414",
+   "dept": "บริษัท ปตท. จำกัด (มหาชน)",
+   "title": "ประกวดราคาจ้างออกแบบและผลิตบูธนิทรรศการ TEA CORNER ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "06/11/2569",
+   "date_end": "",
+   "budget": 850000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69119046414&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
+   "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "นิทรรศการ"
+   ],
+   "score": 2,
+   "fit": "เกี่ยวข้องน้อย",
+   "hits": [
+    "นิทรรศการ"
    ]
   },
   {
