@@ -1,12 +1,38 @@
 {
- "fetched_at": "06/11/2569 00:35",
+ "fetched_at": "06/11/2569 16:45",
  "range": {
   "from": "16/10/2569",
   "to": "06/11/2569"
  },
- "total": 93,
+ "total": 102,
  "requests": 32,
  "items": [
+  {
+   "pid": "69109377077",
+   "dept": "สำนักงานหลักประกันสุขภาพแห่งชาติ",
+   "title": "ประกวดราคาจ้างผลิตเผยแพร่ข่าว สกู๊ปข่าว และรายการสัมภาษณ์พิเศษ เพื่อสร้างการรับรู้ด้านหลักประกันสุขภาพผ่านสถานีโทรทัศน์ภายใต้การกำกับดูแลของรัฐ ประจำปี 2570 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "06/11/2569",
+   "date_end": "11/11/2569",
+   "budget": 6000000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_2.jsp?tor_project_id=69109377077",
+   "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
+   "matched_keywords": [
+    "เผยแพร่",
+    "โทรทัศน์",
+    "สกู๊ป"
+   ],
+   "score": 17,
+   "fit": "เหมาะมาก",
+   "hits": [
+    "โทรทัศน์",
+    "เผยแพร่",
+    "สกู๊ป",
+    "รายการ",
+    "ข่าว",
+    "สร้างการรับรู้"
+   ]
+  },
   {
    "pid": "69109346475",
    "dept": "สำนักงานคณะกรรมการกำกับและส่งเสริมการประกอบธุรกิจประกันภัย",
@@ -58,6 +84,29 @@
    ]
   },
   {
+   "pid": "69109377323",
+   "dept": "สำนักงานหลักประกันสุขภาพแห่งชาติ",
+   "title": "ประกวดราคาจ้างผลิตและเผยแพร่ข้อมูลข่าวสารหลักประกันสุขภาพเพื่อสร้างการรับรู้สิทธิหลักประกันสุขภาพ ผ่านสื่อสถานีโทรทัศน์ยอดนิยม ประจำปี 2570 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "06/11/2569",
+   "date_end": "11/11/2569",
+   "budget": 6000000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_2.jsp?tor_project_id=69109377323",
+   "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
+   "matched_keywords": [
+    "เผยแพร่",
+    "โทรทัศน์"
+   ],
+   "score": 10,
+   "fit": "เหมาะมาก",
+   "hits": [
+    "โทรทัศน์",
+    "เผยแพร่",
+    "ข่าว",
+    "สร้างการรับรู้"
+   ]
+  },
+  {
    "pid": "69109339798",
    "dept": "จังหวัดขอนแก่น",
    "title": "ประกวดราคาจ้างจ้างเหมาจัดแสดงจัดนิทรรศการเผยแพร่ประชาสัมพันธ์เกี่ยวกับไหมไทย ไหมนานาชาติ และสร้างการรับรู้ขอนแก่นเมืองหัตถกรรมโลกแห่งผ้ามัดหมี่ ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
@@ -78,6 +127,27 @@
     "ประชาสัมพันธ์",
     "เผยแพร่",
     "นิทรรศการ",
+    "สร้างการรับรู้"
+   ]
+  },
+  {
+   "pid": "69109420970",
+   "dept": "สำนักงานคณะกรรมการดิจิทัลเพื่อเศรษฐกิจและสังคมแห่งชาติ (สดช.)",
+   "title": "ประกวดราคาจ้างโครงการประชาสัมพันธ์เพื่อสร้างการรับรู้การดำเนินงานและเสริมสร้างภาพลักษณ์องค์กร กองทุนพัฒนาดิจิทัลเพื่อเศรษฐกิจและสังคม ประจำปีงบประมาณ พ.ศ. 2570 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "06/11/2569",
+   "date_end": "11/11/2569",
+   "budget": 15000000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_2.jsp?tor_project_id=69109420970",
+   "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
+   "matched_keywords": [
+    "ประชาสัมพันธ์"
+   ],
+   "score": 9,
+   "fit": "เหมาะมาก",
+   "hits": [
+    "ประชาสัมพันธ์",
+    "ภาพลักษณ์",
     "สร้างการรับรู้"
    ]
   },
@@ -253,6 +323,27 @@
    ]
   },
   {
+   "pid": "69109294793",
+   "dept": "กรุงเทพมหานคร",
+   "title": "ประกวดราคาจ้างเหมาดำเนินการกิจกรรมประชาสัมพันธ์นโยบายกรุงเทพมหานครทางสถานีโทรทัศน์ ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "06/11/2569",
+   "date_end": "",
+   "budget": 4500000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69109294793&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
+   "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "ประชาสัมพันธ์",
+    "โทรทัศน์"
+   ],
+   "score": 6,
+   "fit": "เหมาะมาก",
+   "hits": [
+    "ประชาสัมพันธ์",
+    "โทรทัศน์"
+   ]
+  },
+  {
    "pid": "69099254868",
    "dept": "สำนักงานคณะกรรมการส่งเสริมการลงทุน",
    "title": "ประกวดราคาจ้างเหมาประชาสัมพันธ์เสริมสร้างภาพลักษณ์ประเทศไทย ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
@@ -352,6 +443,27 @@
    "hits": [
     "ประชาสัมพันธ์",
     "เผยแพร่"
+   ]
+  },
+  {
+   "pid": "69119099749",
+   "dept": "สำนักงานคณะกรรมการส่งเสริมวิทยาศาสตร์ วิจัยและนวัดกรรม (สกสว.)",
+   "title": "ประกวดราคาจ้างผู้ดำเนินการออกแบบ ผลิต ติดตั้ง และบริหารจัดการงานเสวนา นิทรรศการ และกิจกรรมประชาสัมพันธ์ ทิศทางวิจัย X นวัตกรรมไทย 2570 Thailand RISE Index 2026 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "06/11/2569",
+   "date_end": "",
+   "budget": 2400000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69119099749&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
+   "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "ประชาสัมพันธ์",
+    "นิทรรศการ"
+   ],
+   "score": 5,
+   "fit": "น่าสนใจ",
+   "hits": [
+    "ประชาสัมพันธ์",
+    "นิทรรศการ"
    ]
   },
   {
@@ -1298,6 +1410,25 @@
    ]
   },
   {
+   "pid": "69109228483",
+   "dept": "กรุงเทพมหานคร",
+   "title": "ประกวดราคาจ้างค่าใช้จ่ายในการจัดกิจกรรม Bangkok Music Awards 2027 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "06/11/2569",
+   "date_end": "",
+   "budget": 3539650.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69109228483&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
+   "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "จัดกิจกรรม"
+   ],
+   "score": 2,
+   "fit": "เกี่ยวข้องน้อย",
+   "hits": [
+    "จัดกิจกรรม"
+   ]
+  },
+  {
    "pid": "69109097024",
    "dept": "จังหวัดขอนแก่น",
    "title": "ประกวดราคาจ้างโครงการพัฒนาและยกระดับแหล่งท่องเที่ยวตามอัตลักษณ์และวิถีวัฒนธรรมชุมชนเชิงสร้างสรรค์จังหวัดขอนแก่น จ้างเหมาจัดงานแสดงศิลปวัฒนธรรมนานาชาติและอัตลักษณ์วัฒนธรรมพื้นถิ่น ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
@@ -1401,6 +1532,25 @@
    "budget": 2500000.0,
    "status": "ระหว่างดำเนินการ",
    "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69109201492&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
+   "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "จัดกิจกรรม"
+   ],
+   "score": 2,
+   "fit": "เกี่ยวข้องน้อย",
+   "hits": [
+    "จัดกิจกรรม"
+   ]
+  },
+  {
+   "pid": "69109359605",
+   "dept": "สถาบันระหว่างประเทศเพื่อการค้าและการพัฒนา(องค์การมหาชน)",
+   "title": "ประกวดราคาจ้างจัดกิจกรรมโครงการยกระดับการแข่งขันผู้ประกอบการสตรี MSMEs ไทยสู่อาเซียน ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "06/11/2569",
+   "date_end": "",
+   "budget": 2300000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69109359605&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
    "announce_type": "ประกาศเชิญชวน",
    "matched_keywords": [
     "จัดกิจกรรม"
@@ -1564,6 +1714,25 @@
    ]
   },
   {
+   "pid": "69109292649",
+   "dept": "โรงเรียนเบญจมราชูทิศ",
+   "title": "ประกวดราคาจ้างจัดกิจกรรมค่ายบูรณาการ ณ จังหวัดเชียงใหม่ ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "06/11/2569",
+   "date_end": "",
+   "budget": 1370000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69109292649&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
+   "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "จัดกิจกรรม"
+   ],
+   "score": 2,
+   "fit": "เกี่ยวข้องน้อย",
+   "hits": [
+    "จัดกิจกรรม"
+   ]
+  },
+  {
    "pid": "68109251220",
    "dept": "โรงเรียนเบญจมราชูทิศ",
    "title": "ประกวดราคาจ้างจ้างจัดกิจกรรมค่ายบูรณาการ ณ จังหวัดเชียงใหม่ ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
@@ -1592,6 +1761,25 @@
    "status": "ระหว่างดำเนินการ",
    "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69109097516&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
    "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "จัดงาน"
+   ],
+   "score": 2,
+   "fit": "เกี่ยวข้องน้อย",
+   "hits": [
+    "จัดงาน"
+   ]
+  },
+  {
+   "pid": "69119047548",
+   "dept": "กรมการเปลี่ยนแปลงสภาพภูมิอากาศและสิ่งแวดล้อม",
+   "title": "ประกวดราคาจ้างจัดงานประกาศเกียรติคุณตราสัญลักษณ์ G Green ระดับประเทศ ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "06/11/2569",
+   "date_end": "11/11/2569",
+   "budget": 1300000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_2.jsp?tor_project_id=69119047548",
+   "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
    "matched_keywords": [
     "จัดงาน"
    ],
