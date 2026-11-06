@@ -1,10 +1,10 @@
 {
- "fetched_at": "06/11/2569 16:45",
+ "fetched_at": "06/11/2569 21:47",
  "range": {
   "from": "16/10/2569",
   "to": "06/11/2569"
  },
- "total": 102,
+ "total": 104,
  "requests": 32,
  "items": [
   {
@@ -665,6 +665,25 @@
    "hits": [
     "จัดงาน",
     "รณรงค์"
+   ]
+  },
+  {
+   "pid": "69119059232",
+   "dept": "กรมทรัพย์สินทางปัญญา",
+   "title": "ประกวดราคาจ้างดำเนินโครงการขยายโอกาสต่อยอดจากผลงานการประกวดบทเว็บตูนสู่การสร้างสรรค์คอนเทนต์ละครสั้นแนวตั้ง (Vertical Micro-drama) ประจำปีงบประมาณ พ.ศ. 2570 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "06/11/2569",
+   "date_end": "11/11/2569",
+   "budget": 20000000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_2.jsp?tor_project_id=69119059232",
+   "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
+   "matched_keywords": [
+    "คอนเทนต์"
+   ],
+   "score": 3,
+   "fit": "น่าสนใจ",
+   "hits": [
+    "คอนเทนต์"
    ]
   },
   {
@@ -1836,6 +1855,25 @@
    "budget": 1000000.0,
    "status": "ระหว่างดำเนินการ",
    "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69109248214&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
+   "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "จัดงาน"
+   ],
+   "score": 2,
+   "fit": "เกี่ยวข้องน้อย",
+   "hits": [
+    "จัดงาน"
+   ]
+  },
+  {
+   "pid": "69119108151",
+   "dept": "อำเภอศรีสัชนาลัย",
+   "title": "ประกวดราคาจ้างโครงการจัดงาน ย้อนอดีตศรีสัชนาลัย นุ่งผ้าไทย ใส่เงิน ทอง ลายโบราณ ประจำปีงบประมาณ ๒๕๗๐ ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "06/11/2569",
+   "date_end": "",
+   "budget": 900000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69119108151&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
    "announce_type": "ประกาศเชิญชวน",
    "matched_keywords": [
     "จัดงาน"
