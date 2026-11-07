@@ -1,10 +1,10 @@
 {
- "fetched_at": "06/11/2569 23:56",
+ "fetched_at": "07/11/2569 16:07",
  "range": {
-  "from": "16/10/2569",
-  "to": "06/11/2569"
+  "from": "17/10/2569",
+  "to": "07/11/2569"
  },
- "total": 104,
+ "total": 97,
  "requests": 32,
  "items": [
   {
@@ -467,26 +467,6 @@
    ]
   },
   {
-   "pid": "69109088616",
-   "dept": "การไฟฟ้าฝ่ายผลิตแห่งประเทศไทย",
-   "title": "ประกวดราคาจ้างเหมาบริการเพื่อทำงานธุรการ จำนวน 6 คน และจ้างบริการงานติดตั้งและซ่อมบำรุงอุปกรณ์คอมพิวเตอร์ จำนวน 2 คน และงานจ้างเหมาบริการเพื่อทำงานด้านให้บริการข้อมูลข่าวสารประชาสัมพันธ์ จำนวน 1 คน ประจำปี 2570 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
-   "date": "16/10/2569",
-   "date_end": "",
-   "budget": 2268880.64,
-   "status": "ระหว่างดำเนินการ",
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69109088616&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
-   "announce_type": "ประกาศเชิญชวน",
-   "matched_keywords": [
-    "ประชาสัมพันธ์"
-   ],
-   "score": 5,
-   "fit": "น่าสนใจ",
-   "hits": [
-    "ประชาสัมพันธ์",
-    "ข่าว"
-   ]
-  },
-  {
    "pid": "69109211925",
    "dept": "กรมทรัพยากรน้ำ",
    "title": "ประกวดราคาจ้างค่าใช้จ่ายในการเผยแพร่ประชาสัมพันธ์ด้านทรัพยากรน้ำ ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
@@ -645,26 +625,6 @@
    "fit": "น่าสนใจ",
    "hits": [
     "ผลิตสื่อ"
-   ]
-  },
-  {
-   "pid": "69109131466",
-   "dept": "สำนักงานคณะกรรมการป้องกันและปราบปรามการทุจริตแห่งชาติ",
-   "title": "ประกวดราคาจ้างโครงการรณรงค์สร้างกระแสต่อต้านการทุจริตของสำนักงาน ป.ป.ช. กิจกรรมที่ 1 การจัดงานวันต่อต้านคอร์รัปชันสากล (ประเทศไทย) ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
-   "date": "16/10/2569",
-   "date_end": "",
-   "budget": 2951000.0,
-   "status": "ระหว่างดำเนินการ",
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69109131466&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
-   "announce_type": "ประกาศเชิญชวน",
-   "matched_keywords": [
-    "จัดงาน"
-   ],
-   "score": 4,
-   "fit": "น่าสนใจ",
-   "hits": [
-    "จัดงาน",
-    "รณรงค์"
    ]
   },
   {
@@ -1030,44 +990,6 @@
    ]
   },
   {
-   "pid": "69109081192",
-   "dept": "การไฟฟ้าฝ่ายผลิตแห่งประเทศไทย",
-   "title": "ประกวดราคาจ้างงานจ้างบริการงานประชาสัมพันธ์ ปี 2570 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
-   "date": "16/10/2569",
-   "date_end": "",
-   "budget": 746432.0,
-   "status": "ระหว่างดำเนินการ",
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69109081192&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
-   "announce_type": "ประกาศเชิญชวน",
-   "matched_keywords": [
-    "ประชาสัมพันธ์"
-   ],
-   "score": 3,
-   "fit": "น่าสนใจ",
-   "hits": [
-    "ประชาสัมพันธ์"
-   ]
-  },
-  {
-   "pid": "69109149452",
-   "dept": "การไฟฟ้าฝ่ายผลิตแห่งประเทศไทย",
-   "title": "ประกวดราคาจ้างงานจ้างเหมาบริการเพื่อทำงานประชาสัมพันธ์ โรงไฟฟ้าบางปะกง ประจำปี 2570 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
-   "date": "16/10/2569",
-   "date_end": "",
-   "budget": 672759.61,
-   "status": "ระหว่างดำเนินการ",
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69109149452&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
-   "announce_type": "ประกาศเชิญชวน",
-   "matched_keywords": [
-    "ประชาสัมพันธ์"
-   ],
-   "score": 3,
-   "fit": "น่าสนใจ",
-   "hits": [
-    "ประชาสัมพันธ์"
-   ]
-  },
-  {
    "pid": "69109277732",
    "dept": "สำนักพัฒนาทรัพยากรมนุษย์และพันธกิจสังคม มหาวิทยาลัยสงขลานครินทร์",
    "title": "ประกวดราคาจ้างจ้างเหมาบริการจัดกิจกรรมการเจรจาการค้า Roadshow งานแสดงสินค้า Business Networking ในพื้นที่ดำเนินการสาธารณรัฐประชาชนจีน 4 เมือง (เมืองหางโจว เมืองกว่างโจว นครฉงชิ่ง และเมืองเซินเจิ้น) ภายใต้การกำกับของมหาวิทยาลัยสงขลานครินทร์ โครงการ Thai SMEs New Opportunity Gateways ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
@@ -1179,25 +1101,6 @@
    "fit": "เกี่ยวข้องน้อย",
    "hits": [
     "จัดกิจกรรม"
-   ]
-  },
-  {
-   "pid": "69109271990",
-   "dept": "กองทุนพัฒนาสื่อปลอดภัยและสร้างสรรค์",
-   "title": "ประกวดราคาจ้างจัดงานมหกรรมสื่อปลอดภัยและสร้างสรรค์ และเวทีรางวัลสื่อปลอดภัยและสร้างสรรค์ ปี 2569 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
-   "date": "03/11/2569",
-   "date_end": "06/11/2569",
-   "budget": 6000000.0,
-   "status": "ระหว่างดำเนินการ",
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_2.jsp?tor_project_id=69109271990",
-   "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
-   "matched_keywords": [
-    "จัดงาน"
-   ],
-   "score": 2,
-   "fit": "เกี่ยวข้องน้อย",
-   "hits": [
-    "จัดงาน"
    ]
   },
   {
@@ -1657,25 +1560,6 @@
    ]
   },
   {
-   "pid": "69109011480",
-   "dept": "โรงเรียนเบญจมราชูทิศ",
-   "title": "ประกวดราคาจ้างจัดกิจกรรมศึกษาแหล่งเรียนรู้นอกห้องเรียน ณ ภาคกลาง - ภาคเหนือ (Historical Tour) ม.3 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
-   "date": "16/10/2569",
-   "date_end": "",
-   "budget": 1695360.0,
-   "status": "ระหว่างดำเนินการ",
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69109011480&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
-   "announce_type": "ประกาศเชิญชวน",
-   "matched_keywords": [
-    "จัดกิจกรรม"
-   ],
-   "score": 2,
-   "fit": "เกี่ยวข้องน้อย",
-   "hits": [
-    "จัดกิจกรรม"
-   ]
-  },
-  {
    "pid": "69119030834",
    "dept": "ธนาคารเพื่อการส่งออกและนำเข้าแห่งประเทศไทย",
    "title": "ประกวดราคาจ้างผู้ให้บริการจัดกิจกรรมต้อนรับปีใหม่ 2570 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
@@ -2008,25 +1892,6 @@
    "status": "ระหว่างดำเนินการ",
    "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69109103733&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
    "announce_type": "ประกาศเชิญชวน",
-   "matched_keywords": [
-    "จัดกิจกรรม"
-   ],
-   "score": 2,
-   "fit": "เกี่ยวข้องน้อย",
-   "hits": [
-    "จัดกิจกรรม"
-   ]
-  },
-  {
-   "pid": "69109061504",
-   "dept": "สำนักงานส่งเสริมเศรษฐกิจสร้างสรรค์ (องค์การมหาชน)",
-   "title": "ประกวดราคาจ้างจัดกิจกรรมพัฒนาย่านเศรษฐกิจสร้างสรรค์และคลัสเตอร์นักสร้างสรรค์ (Creative District Projects) ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
-   "date": "03/11/2569",
-   "date_end": "06/11/2569",
-   "budget": 600000.0,
-   "status": "ระหว่างดำเนินการ",
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_2.jsp?tor_project_id=69109061504",
-   "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
    "matched_keywords": [
     "จัดกิจกรรม"
    ],
