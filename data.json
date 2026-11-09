@@ -1,10 +1,10 @@
 {
- "fetched_at": "08/11/2569 23:13",
+ "fetched_at": "09/11/2569 17:11",
  "range": {
-  "from": "18/10/2569",
-  "to": "08/11/2569"
+  "from": "19/10/2569",
+  "to": "09/11/2569"
  },
- "total": 97,
+ "total": 101,
  "requests": 32,
  "items": [
   {
@@ -895,6 +895,44 @@
    ]
   },
   {
+   "pid": "69119061376",
+   "dept": "จังหวัดตราด โดยอำเภอแหลมงอบ",
+   "title": "ประกวดราคาจ้างโครงการยกระดับการประชาสัมพันธ์การท่องเที่ยวสู่นานาชาติ กิจกรรมหลัก วันวีรกรรมทหารเรือไทยในยุทธนาวีที่เกาะช้าง ประจำปี 2570 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "09/11/2569",
+   "date_end": "",
+   "budget": 1748000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69119061376&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
+   "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "ประชาสัมพันธ์"
+   ],
+   "score": 3,
+   "fit": "น่าสนใจ",
+   "hits": [
+    "ประชาสัมพันธ์"
+   ]
+  },
+  {
+   "pid": "69109356480",
+   "dept": "การไฟฟ้าฝ่ายผลิตแห่งประเทศไทย",
+   "title": "ประกวดราคาจ้างบริการเพื่อทำงานประชาสัมพันธ์ ประจำปี 2570 เขื่อนสิรินธร เริ่มตั้งแต่วันที่ 1 มกราคม 2570 ถึงวันที่ 31 ธันวาคม 2570 จำนวน 4 คน เลขที่ หจฟอ-ห.(จ.) 24/2569 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "09/11/2569",
+   "date_end": "",
+   "budget": 1513255.2,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69109356480&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
+   "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "ประชาสัมพันธ์"
+   ],
+   "score": 3,
+   "fit": "น่าสนใจ",
+   "hits": [
+    "ประชาสัมพันธ์"
+   ]
+  },
+  {
    "pid": "69109177501",
    "dept": "จังหวัดศรีสะเกษ",
    "title": "ประกวดราคาจ้างโครงการส่งเสริมการประชาสัมพันธ์และกิจกรรมท่องเที่ยว กิจกรรม Sound of Sisaket กิจกรรม Sound of Sisaket 2026 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
@@ -1484,6 +1522,25 @@
    ]
   },
   {
+   "pid": "69119070006",
+   "dept": "องค์การบริหารส่วนจังหวัดนครราชสีมา",
+   "title": "ประกวดราคาจ้างจ้างเหมาจัดงานตามโครงการส่งเสริมการท่องเที่ยว กิจกรรมส่งเสริมการท่องเที่ยว คัลเลอร์ฟูล บอลลูน แฟนตาซี (Colorful balloon Fantasy) ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "09/11/2569",
+   "date_end": "",
+   "budget": 2000000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69119070006&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
+   "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "จัดงาน"
+   ],
+   "score": 2,
+   "fit": "เกี่ยวข้องน้อย",
+   "hits": [
+    "จัดงาน"
+   ]
+  },
+  {
    "pid": "69109090648",
    "dept": "เทศบาลตำบลแพรกษา",
    "title": "ประกวดราคาจ้างเหมาจัดงานโครงการส่งเสริมการท่องเที่ยวและสืบสานประเพณีลอยกระทง ประจำปี 2569 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
@@ -1766,6 +1823,25 @@
    "fit": "เกี่ยวข้องน้อย",
    "hits": [
     "จัดงาน"
+   ]
+  },
+  {
+   "pid": "69109391618",
+   "dept": "จังหวัดนครศรีธรรมราช",
+   "title": "ประกวดราคาจ้างจ้างเหมาบริการจัดกิจกรรมสวดมนต์ข้ามปีบูชาพระบรมธาตุ ประจำปี 2570 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "09/11/2569",
+   "date_end": "",
+   "budget": 861700.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69109391618&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
+   "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "จัดกิจกรรม"
+   ],
+   "score": 2,
+   "fit": "เกี่ยวข้องน้อย",
+   "hits": [
+    "จัดกิจกรรม"
    ]
   },
   {
