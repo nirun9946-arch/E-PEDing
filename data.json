@@ -1,10 +1,10 @@
 {
- "fetched_at": "10/11/2569 22:24",
+ "fetched_at": "11/11/2569 00:15",
  "range": {
-  "from": "20/10/2569",
-  "to": "10/11/2569"
+  "from": "21/10/2569",
+  "to": "11/11/2569"
  },
- "total": 102,
+ "total": 95,
  "requests": 32,
  "items": [
   {
@@ -169,27 +169,6 @@
    "fit": "เหมาะมาก",
    "hits": [
     "ประชาสัมพันธ์",
-    "ภาพลักษณ์",
-    "สร้างการรับรู้"
-   ]
-  },
-  {
-   "pid": "69109173077",
-   "dept": "สำนักงานปลัดกระทรวงวัฒนธรรม",
-   "title": "ประกวดราคาจ้างจัดกิจกรรมมหกรรมส่งเสริมชุดไทยพระราชนิยม ภายใต้โครงการส่งเสริมและสร้างการรับรู้ทางวัฒนธรรมและภาพลักษณ์ความเป็นไทย ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
-   "date": "05/11/2569",
-   "date_end": "10/11/2569",
-   "budget": 200000000.0,
-   "status": "ระหว่างดำเนินการ",
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_2.jsp?tor_project_id=69109173077",
-   "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
-   "matched_keywords": [
-    "จัดกิจกรรม"
-   ],
-   "score": 8,
-   "fit": "เหมาะมาก",
-   "hits": [
-    "จัดกิจกรรม",
     "ภาพลักษณ์",
     "สร้างการรับรู้"
    ]
@@ -380,27 +359,6 @@
    "hits": [
     "ประชาสัมพันธ์",
     "รายการ"
-   ]
-  },
-  {
-   "pid": "69109094794",
-   "dept": "การไฟฟ้านครหลวง",
-   "title": "ประกวดราคาจ้างเผยแพร่สื่อประชาสัมพันธ์ของการไฟฟ้านครหลวง ทางจอลิฟต์คอนโดมิเนียมและออฟฟิศ ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
-   "date": "20/10/2569",
-   "date_end": "",
-   "budget": 5000000.0,
-   "status": "ระหว่างดำเนินการ",
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69109094794&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
-   "announce_type": "ประกาศเชิญชวน",
-   "matched_keywords": [
-    "ประชาสัมพันธ์",
-    "เผยแพร่"
-   ],
-   "score": 5,
-   "fit": "น่าสนใจ",
-   "hits": [
-    "ประชาสัมพันธ์",
-    "เผยแพร่"
    ]
   },
   {
@@ -968,25 +926,6 @@
    ]
   },
   {
-   "pid": "69109227942",
-   "dept": "การไฟฟ้าฝ่ายผลิตแห่งประเทศไทย",
-   "title": "ประกวดราคาจ้างเหมาบริการเพื่อทำงานประชาสัมพันธ์ เขื่อนรัชชประภา จำนวน 3 คน ประจำปี 2570 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
-   "date": "20/10/2569",
-   "date_end": "",
-   "budget": 815811.0,
-   "status": "ระหว่างดำเนินการ",
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69109227942&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
-   "announce_type": "ประกาศเชิญชวน",
-   "matched_keywords": [
-    "ประชาสัมพันธ์"
-   ],
-   "score": 3,
-   "fit": "น่าสนใจ",
-   "hits": [
-    "ประชาสัมพันธ์"
-   ]
-  },
-  {
    "pid": "69109277732",
    "dept": "สำนักพัฒนาทรัพยากรมนุษย์และพันธกิจสังคม มหาวิทยาลัยสงขลานครินทร์",
    "title": "ประกวดราคาจ้างจ้างเหมาบริการจัดกิจกรรมการเจรจาการค้า Roadshow งานแสดงสินค้า Business Networking ในพื้นที่ดำเนินการสาธารณรัฐประชาชนจีน 4 เมือง (เมืองหางโจว เมืองกว่างโจว นครฉงชิ่ง และเมืองเซินเจิ้น) ภายใต้การกำกับของมหาวิทยาลัยสงขลานครินทร์ โครงการ Thai SMEs New Opportunity Gateways ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
@@ -1405,25 +1344,6 @@
    ]
   },
   {
-   "pid": "69109119546",
-   "dept": "การไฟฟ้านครหลวง",
-   "title": "ประกวดราคาจ้างจัดงานวิ่ง MEA SPARK RUN ๒๐๒๗ ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
-   "date": "20/10/2569",
-   "date_end": "",
-   "budget": 2675000.0,
-   "status": "ระหว่างดำเนินการ",
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69109119546&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
-   "announce_type": "ประกาศเชิญชวน",
-   "matched_keywords": [
-    "จัดงาน"
-   ],
-   "score": 2,
-   "fit": "เกี่ยวข้องน้อย",
-   "hits": [
-    "จัดงาน"
-   ]
-  },
-  {
    "pid": "69109201492",
    "dept": "จังหวัดพระนครศรีอยุธยา",
    "title": "ประกวดราคาจ้างเหมาจัดกิจกรรมพัฒนาและส่งเสริมผู้ประกอบการสู่ภูมิภาคอาเซียน ปี ๒๐๒๗ จังหวัดพระนครศรีอยุธยา ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
@@ -1592,25 +1512,6 @@
    "fit": "เกี่ยวข้องน้อย",
    "hits": [
     "จัดกิจกรรม"
-   ]
-  },
-  {
-   "pid": "69119018770",
-   "dept": "การประปานครหลวง",
-   "title": "ประกวดราคาจ้างจัดงานวันเด็กแห่งชาติ ประจำปี ๒๕๗๐ เลขที่ จท.65-2570 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
-   "date": "05/11/2569",
-   "date_end": "10/11/2569",
-   "budget": 1498000.0,
-   "status": "ระหว่างดำเนินการ",
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_2.jsp?tor_project_id=69119018770",
-   "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
-   "matched_keywords": [
-    "จัดงาน"
-   ],
-   "score": 2,
-   "fit": "เกี่ยวข้องน้อย",
-   "hits": [
-    "จัดงาน"
    ]
   },
   {
@@ -1785,25 +1686,6 @@
    ]
   },
   {
-   "pid": "69109248214",
-   "dept": "เทศบาลเมืองป่าตอง",
-   "title": "ประกวดราคาจ้างโครงการจัดงานประเพณีลอยกระทง ประจำปีงบประมาณ พ.ศ.๒๕๗๐ ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
-   "date": "20/10/2569",
-   "date_end": "",
-   "budget": 1000000.0,
-   "status": "ระหว่างดำเนินการ",
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69109248214&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
-   "announce_type": "ประกาศเชิญชวน",
-   "matched_keywords": [
-    "จัดงาน"
-   ],
-   "score": 2,
-   "fit": "เกี่ยวข้องน้อย",
-   "hits": [
-    "จัดงาน"
-   ]
-  },
-  {
    "pid": "69119108151",
    "dept": "อำเภอศรีสัชนาลัย",
    "title": "ประกวดราคาจ้างโครงการจัดงาน ย้อนอดีตศรีสัชนาลัย นุ่งผ้าไทย ใส่เงิน ทอง ลายโบราณ ประจำปีงบประมาณ ๒๕๗๐ ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
@@ -1888,25 +1770,6 @@
    "budget": 800000.0,
    "status": "ระหว่างดำเนินการ",
    "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69119001834&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
-   "announce_type": "ประกาศเชิญชวน",
-   "matched_keywords": [
-    "จัดกิจกรรม"
-   ],
-   "score": 2,
-   "fit": "เกี่ยวข้องน้อย",
-   "hits": [
-    "จัดกิจกรรม"
-   ]
-  },
-  {
-   "pid": "69109068068",
-   "dept": "สำนักงานปลัดกระทรวงวัฒนธรรม",
-   "title": "ประกวดราคาจ้างจ้างจัดกิจกรรมสืบสานประเพณีบุญจุลกฐิน ถิ่นอุบล คนมีธรรม ภายใต้โครงการพัฒนาศักยภาพรูปแบบทางการท่องเที่ยวของจังหวัดในมิติที่หลากหลาย สืบสานประเพณีวัฒนธรรมและอัตลักษณ์ให้เกิดความสมดุลยั่งยืน กิจกรรมหลัก ส่งเสริมการท่องเที่ยวเชิงวัฒนธรรม ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
-   "date": "20/10/2569",
-   "date_end": "",
-   "budget": 800000.0,
-   "status": "ระหว่างดำเนินการ",
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69109068068&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
    "announce_type": "ประกาศเชิญชวน",
    "matched_keywords": [
     "จัดกิจกรรม"
