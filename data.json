@@ -1,10 +1,10 @@
 {
- "fetched_at": "11/11/2569 16:48",
+ "fetched_at": "11/11/2569 21:55",
  "range": {
   "from": "21/10/2569",
   "to": "11/11/2569"
  },
- "total": 101,
+ "total": 104,
  "requests": 32,
  "items": [
   {
@@ -192,6 +192,27 @@
     "ผลิตสื่อ",
     "สร้างการรับรู้",
     "โซเชียล"
+   ]
+  },
+  {
+   "pid": "69109173077",
+   "dept": "สำนักงานปลัดกระทรวงวัฒนธรรม",
+   "title": "ประกวดราคาจ้างจัดกิจกรรมมหกรรมส่งเสริมชุดไทยพระราชนิยม ภายใต้โครงการส่งเสริมและสร้างการรับรู้ทางวัฒนธรรมและภาพลักษณ์ความเป็นไทย ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "11/11/2569",
+   "date_end": "",
+   "budget": 200000000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69109173077&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
+   "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "จัดกิจกรรม"
+   ],
+   "score": 8,
+   "fit": "เหมาะมาก",
+   "hits": [
+    "จัดกิจกรรม",
+    "ภาพลักษณ์",
+    "สร้างการรับรู้"
    ]
   },
   {
@@ -1139,6 +1160,25 @@
    ]
   },
   {
+   "pid": "69109271990",
+   "dept": "กองทุนพัฒนาสื่อปลอดภัยและสร้างสรรค์",
+   "title": "ประกวดราคาจ้างจัดงานมหกรรมสื่อปลอดภัยและสร้างสรรค์ และเวทีรางวัลสื่อปลอดภัยและสร้างสรรค์ ปี 2569 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "11/11/2569",
+   "date_end": "",
+   "budget": 6000000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69109271990&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
+   "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "จัดงาน"
+   ],
+   "score": 2,
+   "fit": "เกี่ยวข้องน้อย",
+   "hits": [
+    "จัดงาน"
+   ]
+  },
+  {
    "pid": "69109362812",
    "dept": "กองงานพระราชดำริและกิจกรรมพิเศษ กรมปศุสัตว์",
    "title": "ประกวดราคาจ้างจ้างเหมาโครงการจัดงานอนุรักษ์และพัฒนากระบือปลักไทย ประจำปี พ.ศ. ๒๕๗๐ ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
@@ -1706,6 +1746,25 @@
    "fit": "เกี่ยวข้องน้อย",
    "hits": [
     "จัดงาน"
+   ]
+  },
+  {
+   "pid": "69109416323",
+   "dept": "สำนักงานประกันสังคม",
+   "title": "ประกวดราคาจ้างขออนุมัติประกาศเผยแพร่แผนการจัดซื้อจัดจ้าง หลักการจ้างเหมารักษาความสะอาดอาคารสำนักงานประกันสังคม ประจำปี 2570 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "11/11/2569",
+   "date_end": "",
+   "budget": 1251600.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69109416323&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
+   "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "เผยแพร่"
+   ],
+   "score": 2,
+   "fit": "เกี่ยวข้องน้อย",
+   "hits": [
+    "เผยแพร่"
    ]
   },
   {
