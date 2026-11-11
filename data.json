@@ -1,10 +1,10 @@
 {
- "fetched_at": "11/11/2569 00:15",
+ "fetched_at": "11/11/2569 16:48",
  "range": {
   "from": "21/10/2569",
   "to": "11/11/2569"
  },
- "total": 95,
+ "total": 101,
  "requests": 32,
  "items": [
   {
@@ -174,6 +174,27 @@
    ]
   },
   {
+   "pid": "69109417586",
+   "dept": "สำนักงานปลัดกระทรวงพาณิชย์",
+   "title": "ประกวดราคาจ้างโครงการบริหารจัดการสื่อโซเชียลและผลิตสื่อเพื่อสร้างการรับรู้ทุกแพลตฟอร์มของกระทรวงพาณิชย์ ปีงบประมาณ พ.ศ. 2570 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "11/11/2569",
+   "date_end": "",
+   "budget": 3500000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69109417586&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
+   "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "ผลิตสื่อ"
+   ],
+   "score": 9,
+   "fit": "เหมาะมาก",
+   "hits": [
+    "ผลิตสื่อ",
+    "สร้างการรับรู้",
+    "โซเชียล"
+   ]
+  },
+  {
    "pid": "69109367223",
    "dept": "กรมประชาสัมพันธ์",
    "title": "ประกวดราคาจ้างเหมาผู้ดำเนินรายการข่าว ตามโครงการดำเนินงานด้านข่าวโทรทัศน์และวิทยุกระจายเสียง ประจำปีงบประมาณ พ.ศ. 2570 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
@@ -319,6 +340,26 @@
    "hits": [
     "ประชาสัมพันธ์",
     "โทรทัศน์"
+   ]
+  },
+  {
+   "pid": "69099254868",
+   "dept": "สำนักงานคณะกรรมการส่งเสริมการลงทุน",
+   "title": "ประกวดราคาจ้างเหมาประชาสัมพันธ์เสริมสร้างภาพลักษณ์ประเทศไทย ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "11/11/2569",
+   "date_end": "",
+   "budget": 3500000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69099254868&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
+   "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "ประชาสัมพันธ์"
+   ],
+   "score": 6,
+   "fit": "เหมาะมาก",
+   "hits": [
+    "ประชาสัมพันธ์",
+    "ภาพลักษณ์"
    ]
   },
   {
@@ -621,6 +662,25 @@
    ]
   },
   {
+   "pid": "69119047505",
+   "dept": "จังหวัดสิงห์บุรี",
+   "title": "ประกวดราคาจ้างโครงการ ส่งเสริมประชาสัมพันธ์ด้านการท่องเที่ยวผ่านเรื่องเล่าจังหวัดสิงห์บุรี กิจกรรมหลัก ส่งเสริมการท่องเที่ยวเชิงประวัติศาสตร์และวิถีชีวิต กิจกรรมส่งเสริมการท่องเที่ยว เทศกาลกินปลาและของดีเมืองสิงห์ ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "11/11/2569",
+   "date_end": "16/11/2569",
+   "budget": 6600000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_2.jsp?tor_project_id=69119047505",
+   "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
+   "matched_keywords": [
+    "ประชาสัมพันธ์"
+   ],
+   "score": 3,
+   "fit": "น่าสนใจ",
+   "hits": [
+    "ประชาสัมพันธ์"
+   ]
+  },
+  {
    "pid": "69109266059",
    "dept": "สำนักงานส่งเสริมเศรษฐกิจสร้างสรรค์ (องค์การมหาชน)",
    "title": "ประกวดราคาจ้างบริหารจัดการกิจกรรมพัฒนาโปรเจ็กต์ สำหรับบุคลากรด้านคอนเทนต์ภาพยนตร์ และซีรีส์ระดับกลาง (Mid-Career Project) ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
@@ -733,6 +793,26 @@
    "fit": "น่าสนใจ",
    "hits": [
     "สื่อออนไลน์"
+   ]
+  },
+  {
+   "pid": "69119157254",
+   "dept": "กรมการค้าต่างประเทศ",
+   "title": "ประกวดราคาจ้างดำเนินโครงการส่งเสริมและประชาสัมพันธ์ภาพลักษณ์ข้าวไทยในงานแสดงสินค้านานาชาติในประเทศ งานแสดงสินค้าอาหาร ๒๕๗๐ (THAIFEX - ANUGA ASIA 2027) ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "11/11/2569",
+   "date_end": "16/11/2569",
+   "budget": 3350000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_2.jsp?tor_project_id=69119157254",
+   "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
+   "matched_keywords": [
+    "ประชาสัมพันธ์"
+   ],
+   "score": 3,
+   "fit": "น่าสนใจ",
+   "hits": [
+    "ประชาสัมพันธ์",
+    "ภาพลักษณ์"
    ]
   },
   {
@@ -1420,6 +1500,25 @@
    ]
   },
   {
+   "pid": "69089456511",
+   "dept": "สำนักงานคณะกรรมการส่งเสริมการลงทุน",
+   "title": "ประกวดราคาจ้างจัดทำและปรับปรุงข้อมูลเพื่อเผยแพร่บนเว็บไซต์ www.boi.go.th ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "11/11/2569",
+   "date_end": "",
+   "budget": 1900000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69089456511&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
+   "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "เผยแพร่"
+   ],
+   "score": 2,
+   "fit": "เกี่ยวข้องน้อย",
+   "hits": [
+    "เผยแพร่"
+   ]
+  },
+  {
    "pid": "69109244031",
    "dept": "องค์การบริหารส่วนจังหวัดชลบุรี",
    "title": "ประกวดราคาจ้างโครงการ ชลบุรี คอฟฟี่ ออน เดอะ บีช บางแสน ประจำปี ๒๕๗๐ Chonburi Coffee on the Beach Bangsaen ๒๐๒๗ กำหนดจัดงานระหว่างวันที่ ๑๕ - ๑๗ มกราคม ๒๕๗๐ ณ บริเวณชายหาดบางแสน ตำบลแสนสุข อำเภอเมืองชลบุรี จังหวัดชลบุรี ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
@@ -1512,6 +1611,25 @@
    "fit": "เกี่ยวข้องน้อย",
    "hits": [
     "จัดกิจกรรม"
+   ]
+  },
+  {
+   "pid": "69119018770",
+   "dept": "การประปานครหลวง",
+   "title": "ประกวดราคาจ้างจัดงานวันเด็กแห่งชาติ ประจำปี ๒๕๗๐ เลขที่ จท.65-2570 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "11/11/2569",
+   "date_end": "",
+   "budget": 1498000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69119018770&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
+   "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "จัดงาน"
+   ],
+   "score": 2,
+   "fit": "เกี่ยวข้องน้อย",
+   "hits": [
+    "จัดงาน"
    ]
   },
   {
