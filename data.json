@@ -1,10 +1,10 @@
 {
- "fetched_at": "12/11/2569 22:45",
+ "fetched_at": "13/11/2569 00:45",
  "range": {
-  "from": "22/10/2569",
-  "to": "12/11/2569"
+  "from": "23/10/2569",
+  "to": "13/11/2569"
  },
- "total": 102,
+ "total": 96,
  "requests": 32,
  "items": [
   {
@@ -485,26 +485,6 @@
    ]
   },
   {
-   "pid": "69109293887",
-   "dept": "กรมประชาสัมพันธ์",
-   "title": "ประกวดราคาจ้างเหมาช่างจัดแต่งทรงผม พร้อมจัดหาอุปกรณ์จัดแต่งผม ตามโครงการดำเนินงานด้านข่าวโทรทัศน์และวิทยุกระจายเสียง ประจำปีงบประมาณ พ.ศ. 2570 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
-   "date": "22/10/2569",
-   "date_end": "",
-   "budget": 1320320.0,
-   "status": "ระหว่างดำเนินการ",
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69109293887&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
-   "announce_type": "ประกาศเชิญชวน",
-   "matched_keywords": [
-    "โทรทัศน์"
-   ],
-   "score": 5,
-   "fit": "น่าสนใจ",
-   "hits": [
-    "โทรทัศน์",
-    "ข่าว"
-   ]
-  },
-  {
    "pid": "69109394757",
    "dept": "กรมประชาสัมพันธ์",
    "title": "ประกวดราคาเช่าบริการระบบศูนย์กลางการเผยแพร่การถ่ายทอดสัญญาณบริการภาพและเสียงผ่านโครงข่ายอินเทอร์เน็ตดิจิทัลแฟลตฟอร์ม OTT กรมประชาสัมพันธ์ (Content Delivery Network) ประจำปีงบประมาณ พ.ศ.2570 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
@@ -573,25 +553,6 @@
    "budget": 12626000.0,
    "status": "ระหว่างดำเนินการ",
    "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69109025508&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
-   "announce_type": "ประกาศเชิญชวน",
-   "matched_keywords": [
-    "ประชาสัมพันธ์"
-   ],
-   "score": 3,
-   "fit": "น่าสนใจ",
-   "hits": [
-    "ประชาสัมพันธ์"
-   ]
-  },
-  {
-   "pid": "69099469581",
-   "dept": "สำนักงานคณะกรรมการกิจการกระจายเสียง กิจการโทรทัศน์ และกิจการโทรคมนาคมแห่งชาติ",
-   "title": "ประกวดราคาจ้างออกแบบและจัดทำสื่อประชาสัมพันธ์ (ชุดปีใหม่ 2570) ของสำนักงาน กสทช. ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
-   "date": "22/10/2569",
-   "date_end": "",
-   "budget": 10325000.0,
-   "status": "ระหว่างดำเนินการ",
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69099469581&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
    "announce_type": "ประกาศเชิญชวน",
    "matched_keywords": [
     "ประชาสัมพันธ์"
@@ -1118,25 +1079,6 @@
    ]
   },
   {
-   "pid": "69109129535",
-   "dept": "จังหวัดเชียงราย",
-   "title": "ประกวดราคาจ้างจัดงานลอยกระทง ยี่เป็งเชียงแสนแสงศรัทธาแม่น้ำโขง 2569 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
-   "date": "22/10/2569",
-   "date_end": "",
-   "budget": 5700000.0,
-   "status": "ระหว่างดำเนินการ",
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69109129535&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
-   "announce_type": "ประกาศเชิญชวน",
-   "matched_keywords": [
-    "จัดงาน"
-   ],
-   "score": 2,
-   "fit": "เกี่ยวข้องน้อย",
-   "hits": [
-    "จัดงาน"
-   ]
-  },
-  {
    "pid": "69119097668",
    "dept": "กรมการค้าภายใน",
    "title": "ประกวดราคาจ้างจัดกิจกรรมเพิ่มทักษะและพัฒนาศักยภาพผู้ประกอบการ เตรียมความพร้อมสู่การค้ายุคใหม่ ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
@@ -1146,25 +1088,6 @@
    "status": "ระหว่างดำเนินการ",
    "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_2.jsp?tor_project_id=69119097668",
    "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
-   "matched_keywords": [
-    "จัดกิจกรรม"
-   ],
-   "score": 2,
-   "fit": "เกี่ยวข้องน้อย",
-   "hits": [
-    "จัดกิจกรรม"
-   ]
-  },
-  {
-   "pid": "69099550345",
-   "dept": "ศูนย์ส่งเสริมอุตสาหกรรมภาคที่ 5 กรมส่งเสริมอุตสาหกรรม",
-   "title": "ประกวดราคาจ้างจัดกิจกรรมการสร้างโอกาส ทดสอบตลาด การจับคู่ธุรกิจการสรุปผลโครงการ ปิดโครงการ ภายใต้โครงการฟื้นฟูธุรกิจและเสริมความแข็งแกร่ง SMEs (Rebuild SMEs) (กองทุน สสว.) ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
-   "date": "22/10/2569",
-   "date_end": "",
-   "budget": 5000000.0,
-   "status": "ยกเลิกประกาศเชิญชวน",
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69099550345&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
-   "announce_type": "ประกาศเชิญชวน",
    "matched_keywords": [
     "จัดกิจกรรม"
    ],
@@ -1240,25 +1163,6 @@
    "budget": 5000000.0,
    "status": "ระหว่างดำเนินการ",
    "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69109259001&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
-   "announce_type": "ประกาศเชิญชวน",
-   "matched_keywords": [
-    "จัดงาน"
-   ],
-   "score": 2,
-   "fit": "เกี่ยวข้องน้อย",
-   "hits": [
-    "จัดงาน"
-   ]
-  },
-  {
-   "pid": "69099430845",
-   "dept": "จังหวัดกาญจนบุรี",
-   "title": "ประกวดราคาจ้างโครงการจัดงานสัปดาห์สะพานข้ามแม่น้ำแควและงานกาชาดจังหวัดกาญจนบุรี ประจำปี ๒๕๖๙ ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
-   "date": "22/10/2569",
-   "date_end": "",
-   "budget": 5000000.0,
-   "status": "ยกเลิกประกาศเชิญชวน",
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69099430845&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
    "announce_type": "ประกาศเชิญชวน",
    "matched_keywords": [
     "จัดงาน"
@@ -1799,25 +1703,6 @@
    "fit": "เกี่ยวข้องน้อย",
    "hits": [
     "จัดกิจกรรม"
-   ]
-  },
-  {
-   "pid": "69109213689",
-   "dept": "จังหวัดหนองบัวลำภู",
-   "title": "ประกวดราคาจ้างเหมาจัดงาน มหกรรมกาแฟหนองบัวลำภู 2570 (NONG BUA LAMPHU COFFEE FEST 2027) โครงการส่งเสริมการท่องเที่ยวและบริการ เพื่อเพิ่มขีดความสามารถในการแข่งขัน ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
-   "date": "22/10/2569",
-   "date_end": "",
-   "budget": 1000000.0,
-   "status": "ระหว่างดำเนินการ",
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69109213689&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
-   "announce_type": "ประกาศเชิญชวน",
-   "matched_keywords": [
-    "จัดงาน"
-   ],
-   "score": 2,
-   "fit": "เกี่ยวข้องน้อย",
-   "hits": [
-    "จัดงาน"
    ]
   },
   {
