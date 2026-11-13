@@ -1,10 +1,10 @@
 {
- "fetched_at": "13/11/2569 16:56",
+ "fetched_at": "13/11/2569 22:04",
  "range": {
   "from": "23/10/2569",
   "to": "13/11/2569"
  },
- "total": 100,
+ "total": 103,
  "requests": 32,
  "items": [
   {
@@ -213,6 +213,28 @@
     "โทรทัศน์",
     "รายการ",
     "ข่าว"
+   ]
+  },
+  {
+   "pid": "69119217465",
+   "dept": "กรมการค้าต่างประเทศ",
+   "title": "ประกวดราคาจ้างการดำเนินโครงการส่งเสริมตลาดและประชาสัมพันธ์ข้าวอินทรีย์ไทย โดยการจัดกิจกรรมรณรงค์การบริโภคข้าวอินทรีย์ไทย Healthy life by Thai Organic Rice ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "13/11/2569",
+   "date_end": "18/11/2569",
+   "budget": 1800000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_2.jsp?tor_project_id=69119217465",
+   "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
+   "matched_keywords": [
+    "ประชาสัมพันธ์",
+    "จัดกิจกรรม"
+   ],
+   "score": 7,
+   "fit": "เหมาะมาก",
+   "hits": [
+    "ประชาสัมพันธ์",
+    "จัดกิจกรรม",
+    "รณรงค์"
    ]
   },
   {
@@ -523,6 +545,26 @@
    "hits": [
     "ประชาสัมพันธ์",
     "วิดีโอ"
+   ]
+  },
+  {
+   "pid": "69119188908",
+   "dept": "กรมส่งเสริมการค้าระหว่างประเทศ",
+   "title": "ประกวดราคาจ้างโครงการประชาสัมพันธ์และส่งเสริมภาพลักษณ์อาหารไทย ร้านอาหารไทย และตราสัญลักษณ์ Thai SELECT ณ ประเทศออสเตรเลีย ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "13/11/2569",
+   "date_end": "18/11/2569",
+   "budget": 28700000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_2.jsp?tor_project_id=69119188908",
+   "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
+   "matched_keywords": [
+    "ประชาสัมพันธ์"
+   ],
+   "score": 3,
+   "fit": "น่าสนใจ",
+   "hits": [
+    "ประชาสัมพันธ์",
+    "ภาพลักษณ์"
    ]
   },
   {
@@ -1220,6 +1262,25 @@
    "budget": 4500000.0,
    "status": "ระหว่างดำเนินการ",
    "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69109308780&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
+   "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "จัดงาน"
+   ],
+   "score": 2,
+   "fit": "เกี่ยวข้องน้อย",
+   "hits": [
+    "จัดงาน"
+   ]
+  },
+  {
+   "pid": "69119192090",
+   "dept": "จังหวัดสกลนคร",
+   "title": "ประกวดราคาจ้างโครงการส่งเสริมงานประเพณีสำคัญจังหวัดสกลนคร ฮีต ๑๒ คอง ๑๔ เที่ยวได้ตลอดปี กิจกรรมหลัก จัดงานประเพณีแห่ดาวคริสต์มาส ประจำปีงบประมาณ พ.ศ. ๒๕๗๐ ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "13/11/2569",
+   "date_end": "",
+   "budget": 4200000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69119192090&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
    "announce_type": "ประกาศเชิญชวน",
    "matched_keywords": [
     "จัดงาน"
