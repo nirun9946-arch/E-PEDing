@@ -1,10 +1,10 @@
 {
- "fetched_at": "13/11/2569 00:45",
+ "fetched_at": "13/11/2569 16:56",
  "range": {
   "from": "23/10/2569",
   "to": "13/11/2569"
  },
- "total": 96,
+ "total": 100,
  "requests": 32,
  "items": [
   {
@@ -1022,6 +1022,25 @@
    ]
   },
   {
+   "pid": "69099182199",
+   "dept": "จังหวัดชุมพร",
+   "title": "ประกวดราคาจ้างประกาศเผยแพร่แผนจัดจ้างเหมาบริการตรวจด้วยเครื่องเอกซเรย์คอมพิวเตอร์ความเร็วสูงแบบไม่น้อยกว่า ๑๒๘ สไลด์ จำนวน ๑ โครงการ ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "13/11/2569",
+   "date_end": "",
+   "budget": 7000000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69099182199&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
+   "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "เผยแพร่"
+   ],
+   "score": 2,
+   "fit": "เกี่ยวข้องน้อย",
+   "hits": [
+    "เผยแพร่"
+   ]
+  },
+  {
    "pid": "69109271990",
    "dept": "กองทุนพัฒนาสื่อปลอดภัยและสร้างสรรค์",
    "title": "ประกวดราคาจ้างจัดงานมหกรรมสื่อปลอดภัยและสร้างสรรค์ และเวทีรางวัลสื่อปลอดภัยและสร้างสรรค์ ปี 2569 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
@@ -1259,6 +1278,25 @@
    "status": "ระหว่างดำเนินการ",
    "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69109097024&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
    "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "จัดงาน"
+   ],
+   "score": 2,
+   "fit": "เกี่ยวข้องน้อย",
+   "hits": [
+    "จัดงาน"
+   ]
+  },
+  {
+   "pid": "69109280194",
+   "dept": "จังหวัดเชียงใหม่",
+   "title": "ประกวดราคาจ้างเหมาจัดงานเทศกาลร่มบ่อสร้าง หัตถกรรมสร้างสรรค์ สีสันนานาชาติ ประจำปีงบประมาณ พ.ศ. ๒๕๗๐ ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "13/11/2569",
+   "date_end": "18/11/2569",
+   "budget": 3000000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_2.jsp?tor_project_id=69109280194",
+   "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
    "matched_keywords": [
     "จัดงาน"
    ],
@@ -1820,6 +1858,25 @@
    ]
   },
   {
+   "pid": "69119168996",
+   "dept": "โรงเรียนเตรียมอุดมศึกษาพัฒนาการ รัชดา",
+   "title": "ประกวดราคาจ้างจ้างเหมาบริการจัดกิจกรรมค่ายส่งเสริมความเป็นเลิศ GSMP ประจำปีงบประมาณ พ.ศ.2570 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "13/11/2569",
+   "date_end": "18/11/2569",
+   "budget": 753000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_2.jsp?tor_project_id=69119168996",
+   "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
+   "matched_keywords": [
+    "จัดกิจกรรม"
+   ],
+   "score": 2,
+   "fit": "เกี่ยวข้องน้อย",
+   "hits": [
+    "จัดกิจกรรม"
+   ]
+  },
+  {
    "pid": "69119174008",
    "dept": "จังหวัดอุตรดิตถ์",
    "title": "ประกวดราคาจ้างเหมาจัดงานมหกรรมศิลปะ ดนตรี และของดีอุตรดิตถ์ ภายใต้แผนปฏิบัติราชการประจำปีของจังหวัดอุตรดิตถ์ ประจำปีงบประมาณ พ.ศ. 2570 โครงการส่งเสริมและพัฒนาการท่องเที่ยวจังหวัดอุตรดิตถ์ ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
@@ -1847,6 +1904,25 @@
    "budget": 640095.0,
    "status": "ระหว่างดำเนินการ",
    "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69119013275&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
+   "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "จัดกิจกรรม"
+   ],
+   "score": 2,
+   "fit": "เกี่ยวข้องน้อย",
+   "hits": [
+    "จัดกิจกรรม"
+   ]
+  },
+  {
+   "pid": "69109061504",
+   "dept": "สำนักงานส่งเสริมเศรษฐกิจสร้างสรรค์ (องค์การมหาชน)",
+   "title": "ประกวดราคาจ้างจัดกิจกรรมพัฒนาย่านเศรษฐกิจสร้างสรรค์และคลัสเตอร์นักสร้างสรรค์ (Creative District Projects) ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "13/11/2569",
+   "date_end": "",
+   "budget": 600000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69109061504&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
    "announce_type": "ประกาศเชิญชวน",
    "matched_keywords": [
     "จัดกิจกรรม"
