@@ -1,10 +1,10 @@
 {
- "fetched_at": "16/11/2569 17:06",
+ "fetched_at": "16/11/2569 23:43",
  "range": {
   "from": "26/10/2569",
   "to": "16/11/2569"
  },
- "total": 107,
+ "total": 111,
  "requests": 32,
  "items": [
   {
@@ -667,6 +667,25 @@
    ]
   },
   {
+   "pid": "69119047505",
+   "dept": "จังหวัดสิงห์บุรี",
+   "title": "ประกวดราคาจ้างโครงการ ส่งเสริมประชาสัมพันธ์ด้านการท่องเที่ยวผ่านเรื่องเล่าจังหวัดสิงห์บุรี กิจกรรมหลัก ส่งเสริมการท่องเที่ยวเชิงประวัติศาสตร์และวิถีชีวิต กิจกรรมส่งเสริมการท่องเที่ยว เทศกาลกินปลาและของดีเมืองสิงห์ ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "16/11/2569",
+   "date_end": "",
+   "budget": 6600000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69119047505&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
+   "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "ประชาสัมพันธ์"
+   ],
+   "score": 3,
+   "fit": "น่าสนใจ",
+   "hits": [
+    "ประชาสัมพันธ์"
+   ]
+  },
+  {
    "pid": "69109266059",
    "dept": "สำนักงานส่งเสริมเศรษฐกิจสร้างสรรค์ (องค์การมหาชน)",
    "title": "ประกวดราคาจ้างบริหารจัดการกิจกรรมพัฒนาโปรเจ็กต์ สำหรับบุคลากรด้านคอนเทนต์ภาพยนตร์ และซีรีส์ระดับกลาง (Mid-Career Project) ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
@@ -848,6 +867,25 @@
    "budget": 2100000.0,
    "status": "ระหว่างดำเนินการ",
    "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69109182213&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
+   "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "ประชาสัมพันธ์"
+   ],
+   "score": 3,
+   "fit": "น่าสนใจ",
+   "hits": [
+    "ประชาสัมพันธ์"
+   ]
+  },
+  {
+   "pid": "69109321385",
+   "dept": "จังหวัดอ่างทอง",
+   "title": "ประกวดราคาจ้างประชาสัมพันธ์และการตลาดเพื่อการท่องเที่ยว กิจกรรมหลักการท่องเที่ยวอย่างสร้างสรรค์ กิจกรรมย่อย Angthong Countdown Festival ๒๐๒๗ ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "16/11/2569",
+   "date_end": "",
+   "budget": 2000000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69109321385&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
    "announce_type": "ประกาศเชิญชวน",
    "matched_keywords": [
     "ประชาสัมพันธ์"
@@ -1077,6 +1115,25 @@
    "status": "ระหว่างดำเนินการ",
    "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69109263900&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
    "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "จัดงาน"
+   ],
+   "score": 2,
+   "fit": "เกี่ยวข้องน้อย",
+   "hits": [
+    "จัดงาน"
+   ]
+  },
+  {
+   "pid": "69119188031",
+   "dept": "องค์การบริหารส่วนจังหวัดสงขลา",
+   "title": "ประกวดราคาจ้างโครงการจัดงานตามรอยหลวงปู่ทวดเหยียบน้ำทะเลจืด (แสงศรัทธาแห่งพะโคะ) ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "16/11/2569",
+   "date_end": "19/11/2569",
+   "budget": 8935000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_2.jsp?tor_project_id=69119188031",
+   "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
    "matched_keywords": [
     "จัดงาน"
    ],
@@ -1856,6 +1913,25 @@
    "status": "ระหว่างดำเนินการ",
    "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69109274597&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
    "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "จัดงาน"
+   ],
+   "score": 2,
+   "fit": "เกี่ยวข้องน้อย",
+   "hits": [
+    "จัดงาน"
+   ]
+  },
+  {
+   "pid": "69109024381",
+   "dept": "กรุงเทพมหานคร",
+   "title": "ประกวดราคาจ้างจัดงานเทิดพระเกียรติสมเด็จพระเจ้าตากสินมหาราช ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "16/11/2569",
+   "date_end": "19/11/2569",
+   "budget": 1000000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_2.jsp?tor_project_id=69109024381",
+   "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
    "matched_keywords": [
     "จัดงาน"
    ],
