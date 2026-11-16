@@ -1,10 +1,10 @@
 {
- "fetched_at": "16/11/2569 23:43",
+ "fetched_at": "17/11/2569 02:49",
  "range": {
-  "from": "26/10/2569",
-  "to": "16/11/2569"
+  "from": "27/10/2569",
+  "to": "17/11/2569"
  },
- "total": 111,
+ "total": 104,
  "requests": 32,
  "items": [
   {
@@ -488,26 +488,6 @@
    ]
   },
   {
-   "pid": "69109321884",
-   "dept": "กรมประชาสัมพันธ์",
-   "title": "ประกวดราคาจ้างเหมาจัดหาเสื้อผ้า พร้อมซักรีด ตามโครงการดำเนินงานด้านข่าวโทรทัศน์และวิทยุกระจายเสียง ประจำปีงบประมาณ พ.ศ. 2570 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
-   "date": "26/10/2569",
-   "date_end": "",
-   "budget": 1334120.0,
-   "status": "ระหว่างดำเนินการ",
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69109321884&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
-   "announce_type": "ประกาศเชิญชวน",
-   "matched_keywords": [
-    "โทรทัศน์"
-   ],
-   "score": 5,
-   "fit": "น่าสนใจ",
-   "hits": [
-    "โทรทัศน์",
-    "ข่าว"
-   ]
-  },
-  {
    "pid": "69109353274",
    "dept": "กรมประชาสัมพันธ์",
    "title": "ประกวดราคาจ้างเหมาช่างแต่งหน้า พร้อมจัดหาเครื่องสำอาง ตามโครงการดำเนินงานด้านข่าวโทรทัศน์และวิทยุกระจายเสียง ประจำปีงบประมาณ พ.ศ.2570 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
@@ -638,25 +618,6 @@
    "status": "ระหว่างดำเนินการ",
    "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69109025508&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
    "announce_type": "ประกาศเชิญชวน",
-   "matched_keywords": [
-    "ประชาสัมพันธ์"
-   ],
-   "score": 3,
-   "fit": "น่าสนใจ",
-   "hits": [
-    "ประชาสัมพันธ์"
-   ]
-  },
-  {
-   "pid": "69119047505",
-   "dept": "จังหวัดสิงห์บุรี",
-   "title": "ประกวดราคาจ้างโครงการ ส่งเสริมประชาสัมพันธ์ด้านการท่องเที่ยวผ่านเรื่องเล่าจังหวัดสิงห์บุรี กิจกรรมหลัก ส่งเสริมการท่องเที่ยวเชิงประวัติศาสตร์และวิถีชีวิต กิจกรรมส่งเสริมการท่องเที่ยว เทศกาลกินปลาและของดีเมืองสิงห์ ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
-   "date": "11/11/2569",
-   "date_end": "16/11/2569",
-   "budget": 6600000.0,
-   "status": "ระหว่างดำเนินการ",
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_2.jsp?tor_project_id=69119047505",
-   "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
    "matched_keywords": [
     "ประชาสัมพันธ์"
    ],
@@ -801,26 +762,6 @@
    ]
   },
   {
-   "pid": "69119157254",
-   "dept": "กรมการค้าต่างประเทศ",
-   "title": "ประกวดราคาจ้างดำเนินโครงการส่งเสริมและประชาสัมพันธ์ภาพลักษณ์ข้าวไทยในงานแสดงสินค้านานาชาติในประเทศ งานแสดงสินค้าอาหาร ๒๕๗๐ (THAIFEX - ANUGA ASIA 2027) ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
-   "date": "11/11/2569",
-   "date_end": "16/11/2569",
-   "budget": 3350000.0,
-   "status": "ระหว่างดำเนินการ",
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_2.jsp?tor_project_id=69119157254",
-   "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
-   "matched_keywords": [
-    "ประชาสัมพันธ์"
-   ],
-   "score": 3,
-   "fit": "น่าสนใจ",
-   "hits": [
-    "ประชาสัมพันธ์",
-    "ภาพลักษณ์"
-   ]
-  },
-  {
    "pid": "69109282894",
    "dept": "กรุงเทพมหานคร",
    "title": "ประกวดราคาจ้างเหมาดำเนินการกิจกรรมประชาสัมพันธ์นโยบายกรุงเทพมหานครทางสถานีวิทยุ ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
@@ -848,25 +789,6 @@
    "budget": 2640000.0,
    "status": "ระหว่างดำเนินการ",
    "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69119075088&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
-   "announce_type": "ประกาศเชิญชวน",
-   "matched_keywords": [
-    "ประชาสัมพันธ์"
-   ],
-   "score": 3,
-   "fit": "น่าสนใจ",
-   "hits": [
-    "ประชาสัมพันธ์"
-   ]
-  },
-  {
-   "pid": "69109182213",
-   "dept": "ธนาคารแห่งประเทศไทย",
-   "title": "ประกวดราคาจ้างงานจ้างเหมาบริการงานประชาสัมพันธ์กลาง ของธนาคารแห่งประเทศไทย ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
-   "date": "26/10/2569",
-   "date_end": "",
-   "budget": 2100000.0,
-   "status": "ระหว่างดำเนินการ",
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69109182213&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
    "announce_type": "ประกาศเชิญชวน",
    "matched_keywords": [
     "ประชาสัมพันธ์"
@@ -1220,25 +1142,6 @@
    ]
   },
   {
-   "pid": "69109380650",
-   "dept": "จังหวัดเลย",
-   "title": "ประกวดราคาจ้างจัดงานสีสันเมืองเลย (The Colors of LOEI) ตามโครงการการส่งเสริมการท่องเที่ยวและบริการ เพื่อเพิ่มขีดความสามารถในการแข่งขัน กิจกรรม ส่งเสริมการท่องเที่ยวเชิงสร้างสรรค์ งานสีสันเมืองเลย (The Color of LOEI) ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
-   "date": "11/11/2569",
-   "date_end": "16/11/2569",
-   "budget": 5980000.0,
-   "status": "ระหว่างดำเนินการ",
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_2.jsp?tor_project_id=69109380650",
-   "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
-   "matched_keywords": [
-    "จัดงาน"
-   ],
-   "score": 2,
-   "fit": "เกี่ยวข้องน้อย",
-   "hits": [
-    "จัดงาน"
-   ]
-  },
-  {
    "pid": "69109362812",
    "dept": "กองงานพระราชดำริและกิจกรรมพิเศษ กรมปศุสัตว์",
    "title": "ประกวดราคาจ้างจ้างเหมาโครงการจัดงานอนุรักษ์และพัฒนากระบือปลักไทย ประจำปี พ.ศ. ๒๕๗๐ ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
@@ -1342,25 +1245,6 @@
    "budget": 5000000.0,
    "status": "ยกเลิกประกาศเชิญชวน",
    "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69109050289&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
-   "announce_type": "ประกาศเชิญชวน",
-   "matched_keywords": [
-    "จัดงาน"
-   ],
-   "score": 2,
-   "fit": "เกี่ยวข้องน้อย",
-   "hits": [
-    "จัดงาน"
-   ]
-  },
-  {
-   "pid": "69109259001",
-   "dept": "องค์การบริหารส่วนจังหวัดภูเก็ต",
-   "title": "ประกวดราคาจ้างโครงการจัดงานเทศกาล PHUKET CHRISTMAS COUNTDOWN ๒๐๒๗ เพื่อส่งเสริมและกระตุ้นเศรษฐกิจการท่องเที่ยวจังหวัดภูเก็ต ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
-   "date": "26/10/2569",
-   "date_end": "",
-   "budget": 5000000.0,
-   "status": "ระหว่างดำเนินการ",
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69109259001&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
    "announce_type": "ประกาศเชิญชวน",
    "matched_keywords": [
     "จัดงาน"
@@ -1684,25 +1568,6 @@
    "budget": 1800000.0,
    "status": "ระหว่างดำเนินการ",
    "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69109066470&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
-   "announce_type": "ประกาศเชิญชวน",
-   "matched_keywords": [
-    "จัดงาน"
-   ],
-   "score": 2,
-   "fit": "เกี่ยวข้องน้อย",
-   "hits": [
-    "จัดงาน"
-   ]
-  },
-  {
-   "pid": "69109063208",
-   "dept": "องค์การบริหารส่วนจังหวัดปทุมธานี",
-   "title": "ประกวดราคาจ้างเหมาจัดงานโครงการจัดงานสืบสานประเพณีลอยกระทง จังหวัดปทุมธานี ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
-   "date": "26/10/2569",
-   "date_end": "",
-   "budget": 1697000.0,
-   "status": "ระหว่างดำเนินการ",
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69109063208&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
    "announce_type": "ประกาศเชิญชวน",
    "matched_keywords": [
     "จัดงาน"
