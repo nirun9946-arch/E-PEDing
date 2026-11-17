@@ -1,10 +1,10 @@
 {
- "fetched_at": "17/11/2569 23:40",
+ "fetched_at": "18/11/2569 01:46",
  "range": {
-  "from": "27/10/2569",
-  "to": "17/11/2569"
+  "from": "28/10/2569",
+  "to": "18/11/2569"
  },
- "total": 115,
+ "total": 104,
  "requests": 32,
  "items": [
   {
@@ -302,28 +302,6 @@
    ]
   },
   {
-   "pid": "69109235442",
-   "dept": "การเคหะแห่งชาติ",
-   "title": "ประกวดราคาจ้างจัดทำโครงการผลิตและเผยแพร่ประชาสัมพันธ์กิจกรรม และข้อมูลข่าวสารผ่าน Social Media facebook การเคหะแห่งชาติ ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
-   "date": "27/10/2569",
-   "date_end": "",
-   "budget": 1000000.0,
-   "status": "ระหว่างดำเนินการ",
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69109235442&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
-   "announce_type": "ประกาศเชิญชวน",
-   "matched_keywords": [
-    "ประชาสัมพันธ์",
-    "เผยแพร่"
-   ],
-   "score": 7,
-   "fit": "เหมาะมาก",
-   "hits": [
-    "ประชาสัมพันธ์",
-    "เผยแพร่",
-    "ข่าว"
-   ]
-  },
-  {
    "pid": "69109294793",
    "dept": "กรุงเทพมหานคร",
    "title": "ประกวดราคาจ้างเหมาดำเนินการกิจกรรมประชาสัมพันธ์นโยบายกรุงเทพมหานครทางสถานีโทรทัศน์ ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
@@ -342,27 +320,6 @@
    "hits": [
     "ประชาสัมพันธ์",
     "โทรทัศน์"
-   ]
-  },
-  {
-   "pid": "69109376547",
-   "dept": "สำนักงานหลักประกันสุขภาพแห่งชาติ",
-   "title": "ประกวดราคาจ้างบริหารศูนย์ข่าวออนไลน์ พัฒนาเนื้อหาข่าวและสื่อประชาสัมพันธ์ด้านหลักประกันสุขภาพประจำปี 2570 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
-   "date": "12/11/2569",
-   "date_end": "17/11/2569",
-   "budget": 3760000.0,
-   "status": "ระหว่างดำเนินการ",
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_2.jsp?tor_project_id=69109376547",
-   "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
-   "matched_keywords": [
-    "ประชาสัมพันธ์"
-   ],
-   "score": 6,
-   "fit": "เหมาะมาก",
-   "hits": [
-    "ประชาสัมพันธ์",
-    "เนื้อหา",
-    "ข่าว"
    ]
   },
   {
@@ -1091,25 +1048,6 @@
    ]
   },
   {
-   "pid": "69109326983",
-   "dept": "กรมประชาสัมพันธ์",
-   "title": "ประกวดราคาจ้างเหมาดูแลภูมิทัศน์และบำรุงรักษาต้นไม้ สถานีโทรทัศน์แห่งประเทศไทย ประจำปีงบประมาณ พ.ศ. 2570 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
-   "date": "27/10/2569",
-   "date_end": "",
-   "budget": 858341.0,
-   "status": "ระหว่างดำเนินการ",
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69109326983&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
-   "announce_type": "ประกาศเชิญชวน",
-   "matched_keywords": [
-    "โทรทัศน์"
-   ],
-   "score": 3,
-   "fit": "น่าสนใจ",
-   "hits": [
-    "โทรทัศน์"
-   ]
-  },
-  {
    "pid": "69109237621",
    "dept": "สำนักงานนโยบายและแผนการขนส่งและจราจร",
    "title": "ประกวดราคาจ้างเหมาดำเนินงานโครงการประชาสัมพันธ์เพื่อสร้างความรู้ ความเข้าใจ และการมีส่วนร่วมต่อการพัฒนาระบบการขนส่งและจราจร ของสำนักงานนโยบายและแผนการขนส่งและจราจร ประจำปีงบประมาณ พ.ศ. 2570 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
@@ -1164,25 +1102,6 @@
    "fit": "เกี่ยวข้องน้อย",
    "hits": [
     "นิทรรศการ"
-   ]
-  },
-  {
-   "pid": "69119144336",
-   "dept": "การไฟฟ้าส่วนภูมิภาค",
-   "title": "ประกวดราคาจ้างจัดงานกาชาด PEA ประจำปี 2569 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
-   "date": "12/11/2569",
-   "date_end": "17/11/2569",
-   "budget": 9500000.0,
-   "status": "ยกเลิกโครงการ",
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_2.jsp?tor_project_id=69119144336",
-   "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
-   "matched_keywords": [
-    "จัดงาน"
-   ],
-   "score": 2,
-   "fit": "เกี่ยวข้องน้อย",
-   "hits": [
-    "จัดงาน"
    ]
   },
   {
@@ -1357,25 +1276,6 @@
    ]
   },
   {
-   "pid": "69119097668",
-   "dept": "กรมการค้าภายใน",
-   "title": "ประกวดราคาจ้างจัดกิจกรรมเพิ่มทักษะและพัฒนาศักยภาพผู้ประกอบการ เตรียมความพร้อมสู่การค้ายุคใหม่ ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
-   "date": "12/11/2569",
-   "date_end": "17/11/2569",
-   "budget": 5300000.0,
-   "status": "ระหว่างดำเนินการ",
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_2.jsp?tor_project_id=69119097668",
-   "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
-   "matched_keywords": [
-    "จัดกิจกรรม"
-   ],
-   "score": 2,
-   "fit": "เกี่ยวข้องน้อย",
-   "hits": [
-    "จัดกิจกรรม"
-   ]
-  },
-  {
    "pid": "69119206785",
    "dept": "องค์การบริหารส่วนจังหวัดปทุมธานี",
    "title": "ประกวดราคาจ้างโครงการจัดงานรำลึกสมเด็จพระเจ้าตากสินมหาราช ทรงกอบกู้กรุงศรีอยุธยา จังหวัดปทุมธานี ประจำปี พ.ศ.2569 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
@@ -1490,44 +1390,6 @@
    ]
   },
   {
-   "pid": "69109195864",
-   "dept": "เทศบาลนครนนทบุรี",
-   "title": "ประกวดราคาจ้างเหมาจัดงานโครงการส่งเสริมการท่องเที่ยวช่วงเทศกาลปีใหม่ ประจำปี ๒๕๗๐ (กองการท่องเที่ยวและกีฬา) ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
-   "date": "12/11/2569",
-   "date_end": "17/11/2569",
-   "budget": 4500000.0,
-   "status": "ระหว่างดำเนินการ",
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_2.jsp?tor_project_id=69109195864",
-   "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
-   "matched_keywords": [
-    "จัดงาน"
-   ],
-   "score": 2,
-   "fit": "เกี่ยวข้องน้อย",
-   "hits": [
-    "จัดงาน"
-   ]
-  },
-  {
-   "pid": "69109308780",
-   "dept": "กรมทรัพย์สินทางปัญญา",
-   "title": "ประกวดราคาจ้างจัดงาน Thailand Coffee Fest Year End 2026 และ Thailand Rice Fest 2026 ประจำปีงบประมาณ พ.ศ. 2570 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
-   "date": "27/10/2569",
-   "date_end": "",
-   "budget": 4500000.0,
-   "status": "ระหว่างดำเนินการ",
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69109308780&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
-   "announce_type": "ประกาศเชิญชวน",
-   "matched_keywords": [
-    "จัดงาน"
-   ],
-   "score": 2,
-   "fit": "เกี่ยวข้องน้อย",
-   "hits": [
-    "จัดงาน"
-   ]
-  },
-  {
    "pid": "69119192090",
    "dept": "จังหวัดสกลนคร",
    "title": "ประกวดราคาจ้างโครงการส่งเสริมงานประเพณีสำคัญจังหวัดสกลนคร ฮีต ๑๒ คอง ๑๔ เที่ยวได้ตลอดปี กิจกรรมหลัก จัดงานประเพณีแห่ดาวคริสต์มาส ประจำปีงบประมาณ พ.ศ. ๒๕๗๐ ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
@@ -1585,25 +1447,6 @@
    ]
   },
   {
-   "pid": "69109097024",
-   "dept": "จังหวัดขอนแก่น",
-   "title": "ประกวดราคาจ้างโครงการพัฒนาและยกระดับแหล่งท่องเที่ยวตามอัตลักษณ์และวิถีวัฒนธรรมชุมชนเชิงสร้างสรรค์จังหวัดขอนแก่น จ้างเหมาจัดงานแสดงศิลปวัฒนธรรมนานาชาติและอัตลักษณ์วัฒนธรรมพื้นถิ่น ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
-   "date": "27/10/2569",
-   "date_end": "",
-   "budget": 3140000.0,
-   "status": "ระหว่างดำเนินการ",
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69109097024&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
-   "announce_type": "ประกาศเชิญชวน",
-   "matched_keywords": [
-    "จัดงาน"
-   ],
-   "score": 2,
-   "fit": "เกี่ยวข้องน้อย",
-   "hits": [
-    "จัดงาน"
-   ]
-  },
-  {
    "pid": "69119135736",
    "dept": "เทศบาลนครลำปาง",
    "title": "ประกวดราคาจ้างโครงการจัดงานเฉลิมฉลองเทศกาลปีใหม่นครลำปาง ประจำปีงบประมาณ พ.ศ. ๒๕๗๐ ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
@@ -1642,22 +1485,22 @@
    ]
   },
   {
-   "pid": "69109183511",
-   "dept": "สำนักงานพัฒนาวิทยาศาสตร์และเทคโนโลยีแห่งชาติ",
-   "title": "ประกวดราคาจ้างจ้างเหมาจัดทำนิทรรศการ NANOTEC Thailand Pavilion ในงาน nanotech The 26th International Nanotechnology Exhibition Conference ณ Tokyo Big Sight กรุงโตเกียว ประเทศญี่ปุ่น ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
-   "date": "27/10/2569",
+   "pid": "69109259159",
+   "dept": "กองสื่อสารการตลาด การไฟฟ้าส่วนภูมิภาค",
+   "title": "ประกวดราคาจ้างจัดกิจกรรมสร้างความสัมพันธ์กับลูกค้ารายสำคัญของ PEA ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "18/11/2569",
    "date_end": "",
    "budget": 3000000.0,
    "status": "ระหว่างดำเนินการ",
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69109183511&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69109259159&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
    "announce_type": "ประกาศเชิญชวน",
    "matched_keywords": [
-    "นิทรรศการ"
+    "จัดกิจกรรม"
    ],
    "score": 2,
    "fit": "เกี่ยวข้องน้อย",
    "hits": [
-    "นิทรรศการ"
+    "จัดกิจกรรม"
    ]
   },
   {
@@ -1726,25 +1569,6 @@
    "budget": 2000000.0,
    "status": "ระหว่างดำเนินการ",
    "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69119070006&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
-   "announce_type": "ประกาศเชิญชวน",
-   "matched_keywords": [
-    "จัดงาน"
-   ],
-   "score": 2,
-   "fit": "เกี่ยวข้องน้อย",
-   "hits": [
-    "จัดงาน"
-   ]
-  },
-  {
-   "pid": "69109090648",
-   "dept": "เทศบาลตำบลแพรกษา",
-   "title": "ประกวดราคาจ้างเหมาจัดงานโครงการส่งเสริมการท่องเที่ยวและสืบสานประเพณีลอยกระทง ประจำปี 2569 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
-   "date": "27/10/2569",
-   "date_end": "",
-   "budget": 2000000.0,
-   "status": "ระหว่างดำเนินการ",
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69109090648&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
    "announce_type": "ประกาศเชิญชวน",
    "matched_keywords": [
     "จัดงาน"
@@ -2098,25 +1922,6 @@
    ]
   },
   {
-   "pid": "69109166865",
-   "dept": "จังหวัดชุมพร",
-   "title": "ประกวดราคาจ้างจัดกิจกรรมอบรมเชิงปฏิบัติการ การทำตลาดยุคดิจิทัล SMEs ภายใต้โครงการส่งเสริมตลาดสินค้าอัตลักษณ์เมืองใต้ เชื่องโยงการค้าโลก ด้วยเทคโนโลยีดิจิทัลและนวัตกรรม ปีงบประมาณ พ.ศ.2570 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
-   "date": "27/10/2569",
-   "date_end": "",
-   "budget": 859300.0,
-   "status": "ระหว่างดำเนินการ",
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69109166865&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
-   "announce_type": "ประกาศเชิญชวน",
-   "matched_keywords": [
-    "จัดกิจกรรม"
-   ],
-   "score": 2,
-   "fit": "เกี่ยวข้องน้อย",
-   "hits": [
-    "จัดกิจกรรม"
-   ]
-  },
-  {
    "pid": "69119046414",
    "dept": "บริษัท ปตท. จำกัด (มหาชน)",
    "title": "ประกวดราคาจ้างออกแบบและผลิตบูธนิทรรศการ TEA CORNER ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
@@ -2247,27 +2052,6 @@
    "fit": "เกี่ยวข้องน้อย",
    "hits": [
     "จัดงาน"
-   ]
-  },
-  {
-   "pid": "69109174449",
-   "dept": "จังหวัดจันทบุรี",
-   "title": "ประกวดราคาจ้างโครงการยกระดับและพัฒนาทักษะ (Upskill - Reskill) ด้านภาษาอังกฤษ การตลาดดิจิทัล และการสื่อสารการตลาดแบบบูรณาการ (IMC) ด้วยปัญญาประดิษฐ์ (AI) สำหรับผู้มีส่วนเกี่ยวข้อง ภายใต้โครงการขับเคลื่อนจันทบุรีสู่เมืองสร้างสรรค์ด้านวิทยาการอาหาร Chanthaburi City of Gastronomy ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
-   "date": "27/10/2569",
-   "date_end": "",
-   "budget": 605500.0,
-   "status": "ระหว่างดำเนินการ",
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69109174449&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
-   "announce_type": "ประกาศเชิญชวน",
-   "matched_keywords": [
-    "การตลาดดิจิทัล",
-    "สื่อสารการตลาด"
-   ],
-   "score": 1,
-   "fit": "เกี่ยวข้องน้อย",
-   "hits": [
-    "การตลาดดิจิทัล",
-    "สื่อสารการตลาด"
    ]
   }
  ]
