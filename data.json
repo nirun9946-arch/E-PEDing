@@ -1,10 +1,10 @@
 {
- "fetched_at": "18/11/2569 17:37",
+ "fetched_at": "18/11/2569 23:10",
  "range": {
   "from": "28/10/2569",
   "to": "18/11/2569"
  },
- "total": 114,
+ "total": 116,
  "requests": 32,
  "items": [
   {
@@ -180,7 +180,7 @@
    "date": "11/11/2569",
    "date_end": "",
    "budget": 200000000.0,
-   "status": "ระหว่างดำเนินการ",
+   "status": "ยกเลิกประกาศเชิญชวน",
    "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69109173077&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
    "announce_type": "ประกาศเชิญชวน",
    "matched_keywords": [
@@ -1224,6 +1224,25 @@
    ]
   },
   {
+   "pid": "69119260227",
+   "dept": "องค์การบริหารส่วนจังหวัดสุราษฎร์ธานี",
+   "title": "ประกวดราคาจ้างโครงการจัดงานฤดูกาลดนตรีท่ามกลางขุนเขา (Music Mountain View Season) ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "18/11/2569",
+   "date_end": "23/11/2569",
+   "budget": 8800000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_2.jsp?tor_project_id=69119260227",
+   "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
+   "matched_keywords": [
+    "จัดงาน"
+   ],
+   "score": 2,
+   "fit": "เกี่ยวข้องน้อย",
+   "hits": [
+    "จัดงาน"
+   ]
+  },
+  {
    "pid": "69109243289",
    "dept": "จังหวัดพระนครศรีอยุธยา",
    "title": "ประกวดราคาจ้างจัดกิจกรรมการแสดงแสง - เสียง งานยอยศยิ่งฟ้าอยุธยามรดกโลก ประจำปี พ.ศ. 2569 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
@@ -2057,6 +2076,25 @@
    "fit": "เกี่ยวข้องน้อย",
    "hits": [
     "จัดงาน"
+   ]
+  },
+  {
+   "pid": "69119204474",
+   "dept": "โรงเรียนสตรีวิทยา",
+   "title": "ประกวดราคาจ้างการจัดจ้างเหมาบริการจัดกิจกรรมอบรมพัฒนาทักษะภาษาอังกฤษแบบเข้ม (Intensive English Camp) สำหรับนักเรียนชั้นมัธยมศึกษาปีที่ 4 ปีการศึกษา 2569 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "18/11/2569",
+   "date_end": "24/11/2569",
+   "budget": 960000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_2.jsp?tor_project_id=69119204474",
+   "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
+   "matched_keywords": [
+    "จัดกิจกรรม"
+   ],
+   "score": 2,
+   "fit": "เกี่ยวข้องน้อย",
+   "hits": [
+    "จัดกิจกรรม"
    ]
   },
   {
