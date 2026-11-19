@@ -1,10 +1,10 @@
 {
- "fetched_at": "19/11/2569 17:42",
+ "fetched_at": "19/11/2569 23:16",
  "range": {
   "from": "29/10/2569",
   "to": "19/11/2569"
  },
- "total": 115,
+ "total": 118,
  "requests": 32,
  "items": [
   {
@@ -536,6 +536,27 @@
    "hits": [
     "ประชาสัมพันธ์",
     "วิดีโอ"
+   ]
+  },
+  {
+   "pid": "69109246007",
+   "dept": "องค์การบริหารส่วนจังหวัดชลบุรี",
+   "title": "ประกวดราคาจ้างโครงการจัดกิจกรรมส่งเสริมการท่องเที่ยวเพื่อสร้างประสบการณ์ทรงคุณค่าและมุ่งสู่ความยั่งยืนผ่านกิจกรรม Chonburi Lighting In The Park ๒๐๒๗ กำหนดจัดงานระหว่างวันที่ ๑๙ - ๒๓ กุมภาพันธ์ ๒๕๗๐ ณ สวนสาธารณะเฉลิมพระเกียรติราชินี ๖๐ พรรษา อำเภอเมืองชลบุรี จังหวัดชลบุรี ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "19/11/2569",
+   "date_end": "24/11/2569",
+   "budget": 8000000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_2.jsp?tor_project_id=69109246007",
+   "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
+   "matched_keywords": [
+    "จัดกิจกรรม",
+    "จัดงาน"
+   ],
+   "score": 4,
+   "fit": "น่าสนใจ",
+   "hits": [
+    "จัดกิจกรรม",
+    "จัดงาน"
    ]
   },
   {
@@ -1155,6 +1176,25 @@
    "fit": "เกี่ยวข้องน้อย",
    "hits": [
     "จัดงาน"
+   ]
+  },
+  {
+   "pid": "69109078250",
+   "dept": "กรมส่งเสริมการเรียนรู้",
+   "title": "ประกวดราคาจ้างโครงการปรับปรุงนิทรรศการเมืองไฟฟ้า ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "19/11/2569",
+   "date_end": "26/11/2569",
+   "budget": 10000000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_2.jsp?tor_project_id=69109078250",
+   "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
+   "matched_keywords": [
+    "นิทรรศการ"
+   ],
+   "score": 2,
+   "fit": "เกี่ยวข้องน้อย",
+   "hits": [
+    "นิทรรศการ"
    ]
   },
   {
@@ -2029,6 +2069,25 @@
    "fit": "เกี่ยวข้องน้อย",
    "hits": [
     "จัดกิจกรรม"
+   ]
+  },
+  {
+   "pid": "69109024381",
+   "dept": "กรุงเทพมหานคร",
+   "title": "ประกวดราคาจ้างจัดงานเทิดพระเกียรติสมเด็จพระเจ้าตากสินมหาราช ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "19/11/2569",
+   "date_end": "",
+   "budget": 1000000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69109024381&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
+   "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "จัดงาน"
+   ],
+   "score": 2,
+   "fit": "เกี่ยวข้องน้อย",
+   "hits": [
+    "จัดงาน"
    ]
   },
   {
