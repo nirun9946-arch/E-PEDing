@@ -1,10 +1,10 @@
 {
- "fetched_at": "19/11/2569 23:16",
+ "fetched_at": "20/11/2569 01:32",
  "range": {
-  "from": "29/10/2569",
-  "to": "19/11/2569"
+  "from": "30/10/2569",
+  "to": "20/11/2569"
  },
- "total": 118,
+ "total": 106,
  "requests": 32,
  "items": [
   {
@@ -31,30 +31,6 @@
     "รายการ",
     "ข่าว",
     "สร้างการรับรู้"
-   ]
-  },
-  {
-   "pid": "69109346475",
-   "dept": "สำนักงานคณะกรรมการกำกับและส่งเสริมการประกอบธุรกิจประกันภัย",
-   "title": "ประกวดราคาจ้างผลิตสื่อประชาสัมพันธ์เชิงรุก และบริหารจัดการสื่อสังคมออนไลน์เชิงกลยุทธ์ เพื่อเสริมสร้างภาพลักษณ์และยกระดับการสื่อสารองค์กร ครั้งที่ 2 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
-   "date": "29/10/2569",
-   "date_end": "",
-   "budget": 3500000.0,
-   "status": "ระหว่างดำเนินการ",
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69109346475&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
-   "announce_type": "ประกาศเชิญชวน",
-   "matched_keywords": [
-    "ประชาสัมพันธ์",
-    "ผลิตสื่อ"
-   ],
-   "score": 16,
-   "fit": "เหมาะมาก",
-   "hits": [
-    "ประชาสัมพันธ์",
-    "ผลิตสื่อ",
-    "สื่อสังคมออนไลน์",
-    "ภาพลักษณ์",
-    "สื่อสารองค์กร"
    ]
   },
   {
@@ -186,27 +162,6 @@
     "จัดกิจกรรม",
     "ภาพลักษณ์",
     "สร้างการรับรู้"
-   ]
-  },
-  {
-   "pid": "69109367223",
-   "dept": "กรมประชาสัมพันธ์",
-   "title": "ประกวดราคาจ้างเหมาผู้ดำเนินรายการข่าว ตามโครงการดำเนินงานด้านข่าวโทรทัศน์และวิทยุกระจายเสียง ประจำปีงบประมาณ พ.ศ. 2570 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
-   "date": "29/10/2569",
-   "date_end": "",
-   "budget": 8786600.0,
-   "status": "ระหว่างดำเนินการ",
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69109367223&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
-   "announce_type": "ประกาศเชิญชวน",
-   "matched_keywords": [
-    "โทรทัศน์"
-   ],
-   "score": 7,
-   "fit": "เหมาะมาก",
-   "hits": [
-    "โทรทัศน์",
-    "รายการ",
-    "ข่าว"
    ]
   },
   {
@@ -393,47 +348,6 @@
    "hits": [
     "ประชาสัมพันธ์",
     "ภาพลักษณ์"
-   ]
-  },
-  {
-   "pid": "69119220177",
-   "dept": "กรุงเทพมหานคร",
-   "title": "ประกวดราคาจ้างเหมาสำรวจการรับรู้สื่อประชาสัมพันธ์และภาพลักษณ์ของกรุงเทพมหานคร ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
-   "date": "16/11/2569",
-   "date_end": "19/11/2569",
-   "budget": 1700000.0,
-   "status": "ระหว่างดำเนินการ",
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_2.jsp?tor_project_id=69119220177",
-   "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
-   "matched_keywords": [
-    "ประชาสัมพันธ์"
-   ],
-   "score": 6,
-   "fit": "เหมาะมาก",
-   "hits": [
-    "ประชาสัมพันธ์",
-    "ภาพลักษณ์"
-   ]
-  },
-  {
-   "pid": "69109303551",
-   "dept": "กรุงเทพมหานคร",
-   "title": "ประกวดราคาจ้างจ้างเหมาผลิตและเผยแพร่สื่อประชาสัมพันธ์ ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
-   "date": "16/11/2569",
-   "date_end": "19/11/2569",
-   "budget": 5000000.0,
-   "status": "ระหว่างดำเนินการ",
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_2.jsp?tor_project_id=69109303551",
-   "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
-   "matched_keywords": [
-    "ประชาสัมพันธ์",
-    "เผยแพร่"
-   ],
-   "score": 5,
-   "fit": "น่าสนใจ",
-   "hits": [
-    "ประชาสัมพันธ์",
-    "เผยแพร่"
    ]
   },
   {
@@ -970,25 +884,6 @@
    ]
   },
   {
-   "pid": "69109373594",
-   "dept": "กรมประชาสัมพันธ์",
-   "title": "ประกวดราคาจ้างเหมาดูแลรักษาความสะอาดสถานที่ สถานีโทรทัศน์แห่งประเทศไทย ประจำปีงบประมาณ พ.ศ.2570 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
-   "date": "29/10/2569",
-   "date_end": "",
-   "budget": 1852010.0,
-   "status": "ระหว่างดำเนินการ",
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69109373594&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
-   "announce_type": "ประกาศเชิญชวน",
-   "matched_keywords": [
-    "โทรทัศน์"
-   ],
-   "score": 3,
-   "fit": "น่าสนใจ",
-   "hits": [
-    "โทรทัศน์"
-   ]
-  },
-  {
    "pid": "69119061376",
    "dept": "จังหวัดตราด โดยอำเภอแหลมงอบ",
    "title": "ประกวดราคาจ้างโครงการยกระดับการประชาสัมพันธ์การท่องเที่ยวสู่นานาชาติ กิจกรรมหลัก วันวีรกรรมทหารเรือไทยในยุทธนาวีที่เกาะช้าง ประจำปี 2570 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
@@ -1103,25 +998,6 @@
    ]
   },
   {
-   "pid": "69109178984",
-   "dept": "จังหวัดศรีสะเกษ",
-   "title": "ประกวดราคาจ้างโครงการส่งเสริมการประชาสัมพันธ์และกิจกรรมท่องเที่ยว กิจกรรม Sound of Sisaket กิจกรรม วิจิตรแสง ซาวน์ออฟศรีสะเกษ (Sound of Sisaket The Light up 2026) ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
-   "date": "29/10/2569",
-   "date_end": "",
-   "budget": 1000000.0,
-   "status": "ระหว่างดำเนินการ",
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69109178984&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
-   "announce_type": "ประกาศเชิญชวน",
-   "matched_keywords": [
-    "ประชาสัมพันธ์"
-   ],
-   "score": 3,
-   "fit": "น่าสนใจ",
-   "hits": [
-    "ประชาสัมพันธ์"
-   ]
-  },
-  {
    "pid": "69109237621",
    "dept": "สำนักงานนโยบายและแผนการขนส่งและจราจร",
    "title": "ประกวดราคาจ้างเหมาดำเนินงานโครงการประชาสัมพันธ์เพื่อสร้างความรู้ ความเข้าใจ และการมีส่วนร่วมต่อการพัฒนาระบบการขนส่งและจราจร ของสำนักงานนโยบายและแผนการขนส่งและจราจร ประจำปีงบประมาณ พ.ศ. 2570 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
@@ -1207,25 +1083,6 @@
    "status": "ระหว่างดำเนินการ",
    "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69109263900&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
    "announce_type": "ประกาศเชิญชวน",
-   "matched_keywords": [
-    "จัดงาน"
-   ],
-   "score": 2,
-   "fit": "เกี่ยวข้องน้อย",
-   "hits": [
-    "จัดงาน"
-   ]
-  },
-  {
-   "pid": "69119188031",
-   "dept": "องค์การบริหารส่วนจังหวัดสงขลา",
-   "title": "ประกวดราคาจ้างโครงการจัดงานตามรอยหลวงปู่ทวดเหยียบน้ำทะเลจืด (แสงศรัทธาแห่งพะโคะ) ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
-   "date": "16/11/2569",
-   "date_end": "19/11/2569",
-   "budget": 8935000.0,
-   "status": "ระหว่างดำเนินการ",
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_2.jsp?tor_project_id=69119188031",
-   "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
    "matched_keywords": [
     "จัดงาน"
    ],
@@ -1540,25 +1397,6 @@
    ]
   },
   {
-   "pid": "69109328662",
-   "dept": "จังหวัดชัยนาท",
-   "title": "ประกวดราคาจ้างจัดงานเขื่อนเจ้าพระยารำลึก กิจกรรมหลักส่งเสริมกิจกรรมการท่องเที่ยววิถีชีวิตชุมชนเชิงสร้างสรรค์ ตามโครงการส่งเสริมกิจกรรมท่องเที่ยวและเชื่อมโยงเส้นทางท่องเที่ยว ภายใต้โครงการตามแผนปฏิบัติราชการประจำปีของจังหวัด ประจำปีงบประมาณ พ.ศ. 2570 (งบพัฒนาจังหวัด) ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
-   "date": "29/10/2569",
-   "date_end": "",
-   "budget": 4120000.0,
-   "status": "ระหว่างดำเนินการ",
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69109328662&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
-   "announce_type": "ประกาศเชิญชวน",
-   "matched_keywords": [
-    "จัดงาน"
-   ],
-   "score": 2,
-   "fit": "เกี่ยวข้องน้อย",
-   "hits": [
-    "จัดงาน"
-   ]
-  },
-  {
    "pid": "69109228483",
    "dept": "กรุงเทพมหานคร",
    "title": "ประกวดราคาจ้างค่าใช้จ่ายในการจัดกิจกรรม Bangkok Music Awards 2027 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
@@ -1575,25 +1413,6 @@
    "fit": "เกี่ยวข้องน้อย",
    "hits": [
     "จัดกิจกรรม"
-   ]
-  },
-  {
-   "pid": "69119135736",
-   "dept": "เทศบาลนครลำปาง",
-   "title": "ประกวดราคาจ้างโครงการจัดงานเฉลิมฉลองเทศกาลปีใหม่นครลำปาง ประจำปีงบประมาณ พ.ศ. ๒๕๗๐ ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
-   "date": "16/11/2569",
-   "date_end": "19/11/2569",
-   "budget": 3000000.0,
-   "status": "ระหว่างดำเนินการ",
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_2.jsp?tor_project_id=69119135736",
-   "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
-   "matched_keywords": [
-    "จัดงาน"
-   ],
-   "score": 2,
-   "fit": "เกี่ยวข้องน้อย",
-   "hits": [
-    "จัดงาน"
    ]
   },
   {
@@ -1901,25 +1720,6 @@
    ]
   },
   {
-   "pid": "69109097516",
-   "dept": "จังหวัดขอนแก่น",
-   "title": "ประกวดราคาจ้างโครงการพัฒนาและยกระดับแหล่งท่องเที่ยวตามอัตลักษณ์และวิถีวัฒนธรรมชุมชนเชิงสร้างสรรค์จังหวัดขอนแก่น จ้างเหมาจัดงานมหกรรมศาสตร์ศิลป์ ถิ่นเมืองหมอแคน ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
-   "date": "29/10/2569",
-   "date_end": "",
-   "budget": 1358200.0,
-   "status": "ระหว่างดำเนินการ",
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69109097516&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
-   "announce_type": "ประกาศเชิญชวน",
-   "matched_keywords": [
-    "จัดงาน"
-   ],
-   "score": 2,
-   "fit": "เกี่ยวข้องน้อย",
-   "hits": [
-    "จัดงาน"
-   ]
-  },
-  {
    "pid": "69119047548",
    "dept": "กรมการเปลี่ยนแปลงสภาพภูมิอากาศและสิ่งแวดล้อม",
    "title": "ประกวดราคาจ้างจัดงานประกาศเกียรติคุณตราสัญลักษณ์ G Green ระดับประเทศ ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
@@ -2005,44 +1805,6 @@
    "status": "ระหว่างดำเนินการ",
    "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69109406102&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
    "announce_type": "ประกาศเชิญชวน",
-   "matched_keywords": [
-    "จัดงาน"
-   ],
-   "score": 2,
-   "fit": "เกี่ยวข้องน้อย",
-   "hits": [
-    "จัดงาน"
-   ]
-  },
-  {
-   "pid": "69109274597",
-   "dept": "จังหวัดเลย",
-   "title": "ประกวดราคาจ้างเหมาบริการจัดงานประเพณีแห่ต้นกระธูป อำเภอหนองหิน จังหวัดเลย ตามโครงการส่งเสริมการท่องเที่ยวเเละบริการ เพื่อเพิ่มขีดความสามารถในการแข่งขัน กิจกรรม ส่งเสริมการท่องเที่ยวที่ยั่งยืนและงานประเพณีแห่ต้นกระธูป อำเภอหนองหิน จังหวัดเลย ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
-   "date": "29/10/2569",
-   "date_end": "",
-   "budget": 1077500.0,
-   "status": "ระหว่างดำเนินการ",
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69109274597&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
-   "announce_type": "ประกาศเชิญชวน",
-   "matched_keywords": [
-    "จัดงาน"
-   ],
-   "score": 2,
-   "fit": "เกี่ยวข้องน้อย",
-   "hits": [
-    "จัดงาน"
-   ]
-  },
-  {
-   "pid": "69109024381",
-   "dept": "กรุงเทพมหานคร",
-   "title": "ประกวดราคาจ้างจัดงานเทิดพระเกียรติสมเด็จพระเจ้าตากสินมหาราช ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
-   "date": "16/11/2569",
-   "date_end": "19/11/2569",
-   "budget": 1000000.0,
-   "status": "ระหว่างดำเนินการ",
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_2.jsp?tor_project_id=69109024381",
-   "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
    "matched_keywords": [
     "จัดงาน"
    ],
