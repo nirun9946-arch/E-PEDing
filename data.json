@@ -1,10 +1,10 @@
 {
- "fetched_at": "20/11/2569 01:32",
+ "fetched_at": "20/11/2569 17:23",
  "range": {
   "from": "30/10/2569",
   "to": "20/11/2569"
  },
- "total": 106,
+ "total": 112,
  "requests": 32,
  "items": [
   {
@@ -340,6 +340,26 @@
    "status": "ระหว่างดำเนินการ",
    "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_2.jsp?tor_project_id=69119299303",
    "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
+   "matched_keywords": [
+    "ประชาสัมพันธ์"
+   ],
+   "score": 6,
+   "fit": "เหมาะมาก",
+   "hits": [
+    "ประชาสัมพันธ์",
+    "ภาพลักษณ์"
+   ]
+  },
+  {
+   "pid": "69119220177",
+   "dept": "กรุงเทพมหานคร",
+   "title": "ประกวดราคาจ้างเหมาสำรวจการรับรู้สื่อประชาสัมพันธ์และภาพลักษณ์ของกรุงเทพมหานคร ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "20/11/2569",
+   "date_end": "",
+   "budget": 1700000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69119220177&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
+   "announce_type": "ประกาศเชิญชวน",
    "matched_keywords": [
     "ประชาสัมพันธ์"
    ],
@@ -1093,6 +1113,25 @@
    ]
   },
   {
+   "pid": "69119188031",
+   "dept": "องค์การบริหารส่วนจังหวัดสงขลา",
+   "title": "ประกวดราคาจ้างโครงการจัดงานตามรอยหลวงปู่ทวดเหยียบน้ำทะเลจืด (แสงศรัทธาแห่งพะโคะ) ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "20/11/2569",
+   "date_end": "",
+   "budget": 8935000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69119188031&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
+   "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "จัดงาน"
+   ],
+   "score": 2,
+   "fit": "เกี่ยวข้องน้อย",
+   "hits": [
+    "จัดงาน"
+   ]
+  },
+  {
    "pid": "69119260227",
    "dept": "องค์การบริหารส่วนจังหวัดสุราษฎร์ธานี",
    "title": "ประกวดราคาจ้างโครงการจัดงานฤดูกาลดนตรีท่ามกลางขุนเขา (Music Mountain View Season) ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
@@ -1378,6 +1417,25 @@
    ]
   },
   {
+   "pid": "69109195864",
+   "dept": "เทศบาลนครนนทบุรี",
+   "title": "ประกวดราคาจ้างเหมาจัดงานโครงการส่งเสริมการท่องเที่ยวช่วงเทศกาลปีใหม่ ประจำปี ๒๕๗๐ (กองการท่องเที่ยวและกีฬา) ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "20/11/2569",
+   "date_end": "",
+   "budget": 4500000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69109195864&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
+   "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "จัดงาน"
+   ],
+   "score": 2,
+   "fit": "เกี่ยวข้องน้อย",
+   "hits": [
+    "จัดงาน"
+   ]
+  },
+  {
    "pid": "69119192090",
    "dept": "จังหวัดสกลนคร",
    "title": "ประกวดราคาจ้างโครงการส่งเสริมงานประเพณีสำคัญจังหวัดสกลนคร ฮีต ๑๒ คอง ๑๔ เที่ยวได้ตลอดปี กิจกรรมหลัก จัดงานประเพณีแห่ดาวคริสต์มาส ประจำปีงบประมาณ พ.ศ. ๒๕๗๐ ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
@@ -1416,6 +1474,25 @@
    ]
   },
   {
+   "pid": "69119363074",
+   "dept": "องค์การบริหารส่วนจังหวัดสุโขทัย",
+   "title": "ประกวดราคาจ้างจัดกิจกรรม Sukhothai Countdown ๒๐๒๗ ทะเลหลวง ตามโครงการ Sukhothai Countdown ทะเลหลวงสุโขทัย ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "20/11/2569",
+   "date_end": "",
+   "budget": 3500000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69119363074&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
+   "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "จัดกิจกรรม"
+   ],
+   "score": 2,
+   "fit": "เกี่ยวข้องน้อย",
+   "hits": [
+    "จัดกิจกรรม"
+   ]
+  },
+  {
    "pid": "69109259159",
    "dept": "กองสื่อสารการตลาด การไฟฟ้าส่วนภูมิภาค",
    "title": "ประกวดราคาจ้างจัดกิจกรรมสร้างความสัมพันธ์กับลูกค้ารายสำคัญของ PEA ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
@@ -1435,6 +1512,25 @@
    ]
   },
   {
+   "pid": "69109280194",
+   "dept": "จังหวัดเชียงใหม่",
+   "title": "ประกวดราคาจ้างเหมาจัดงานเทศกาลร่มบ่อสร้าง หัตถกรรมสร้างสรรค์ สีสันนานาชาติ ประจำปีงบประมาณ พ.ศ. ๒๕๗๐ ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "20/11/2569",
+   "date_end": "",
+   "budget": 3000000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69109280194&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
+   "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "จัดงาน"
+   ],
+   "score": 2,
+   "fit": "เกี่ยวข้องน้อย",
+   "hits": [
+    "จัดงาน"
+   ]
+  },
+  {
    "pid": "69109270777",
    "dept": "องค์การบริหารส่วนจังหวัดสงขลา",
    "title": "ประกวดราคาจ้างจัดงานตามโครงการ Songkhla Countdown ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
@@ -1444,6 +1540,25 @@
    "status": "ระหว่างดำเนินการ",
    "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69109270777&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
    "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "จัดงาน"
+   ],
+   "score": 2,
+   "fit": "เกี่ยวข้องน้อย",
+   "hits": [
+    "จัดงาน"
+   ]
+  },
+  {
+   "pid": "69109197706",
+   "dept": "เทศบาลนครนนทบุรี",
+   "title": "ประกวดราคาจ้างตามโครงการจัดงานวันเด็กแห่งชาติ ประจำปีงบประมาณ พ.ศ. 2570 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "20/11/2569",
+   "date_end": "25/11/2569",
+   "budget": 2955000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_2.jsp?tor_project_id=69109197706",
+   "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
    "matched_keywords": [
     "จัดงาน"
    ],
