@@ -1,10 +1,10 @@
 {
- "fetched_at": "20/11/2569 22:55",
+ "fetched_at": "21/11/2569 01:00",
  "range": {
-  "from": "30/10/2569",
-  "to": "20/11/2569"
+  "from": "31/10/2569",
+  "to": "21/11/2569"
  },
- "total": 114,
+ "total": 99,
  "requests": 32,
  "items": [
   {
@@ -353,26 +353,6 @@
    ]
   },
   {
-   "pid": "69119299303",
-   "dept": "จังหวัดน่าน",
-   "title": "ประกวดราคาจ้างโครงการเพิ่มขีดความสามารถด้านการแข่งขันและยกระดับการท่องเที่ยวน่านสู่การท่องเที่ยวคุณภาพสูง กิจกรรมหลัก ประชาสัมพันธ์และสร้างภาพลักษณ์ด้านการท่องเที่ยว กิจกรรมย่อย เทศกาลดอกไม้บานที่น่านใต้ ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
-   "date": "17/11/2569",
-   "date_end": "20/11/2569",
-   "budget": 2000000.0,
-   "status": "ระหว่างดำเนินการ",
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_2.jsp?tor_project_id=69119299303",
-   "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
-   "matched_keywords": [
-    "ประชาสัมพันธ์"
-   ],
-   "score": 6,
-   "fit": "เหมาะมาก",
-   "hits": [
-    "ประชาสัมพันธ์",
-    "ภาพลักษณ์"
-   ]
-  },
-  {
    "pid": "69119220177",
    "dept": "กรุงเทพมหานคร",
    "title": "ประกวดราคาจ้างเหมาสำรวจการรับรู้สื่อประชาสัมพันธ์และภาพลักษณ์ของกรุงเทพมหานคร ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
@@ -431,26 +411,6 @@
    "hits": [
     "ประชาสัมพันธ์",
     "นิทรรศการ"
-   ]
-  },
-  {
-   "pid": "69119295926",
-   "dept": "กรุงเทพมหานคร",
-   "title": "ประกวดราคาจ้างเหมาดำเนินการจัดกิจกรรมสื่อมวลชนสัญจร ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
-   "date": "17/11/2569",
-   "date_end": "20/11/2569",
-   "budget": 1500000.0,
-   "status": "ระหว่างดำเนินการ",
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_2.jsp?tor_project_id=69119295926",
-   "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
-   "matched_keywords": [
-    "จัดกิจกรรม"
-   ],
-   "score": 5,
-   "fit": "น่าสนใจ",
-   "hits": [
-    "จัดกิจกรรม",
-    "สื่อมวลชน"
    ]
   },
   {
@@ -516,46 +476,6 @@
    ]
   },
   {
-   "pid": "69119222682",
-   "dept": "กรุงเทพมหานคร",
-   "title": "ประกวดราคาจ้างจ้างเผยแพร่ข่าวสารของกรุงเทพมหานครเป็นภาษาอังกฤษ ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
-   "date": "17/11/2569",
-   "date_end": "20/11/2569",
-   "budget": 2000000.0,
-   "status": "ระหว่างดำเนินการ",
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_2.jsp?tor_project_id=69119222682",
-   "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
-   "matched_keywords": [
-    "เผยแพร่"
-   ],
-   "score": 4,
-   "fit": "น่าสนใจ",
-   "hits": [
-    "เผยแพร่",
-    "ข่าว"
-   ]
-  },
-  {
-   "pid": "69119262302",
-   "dept": "สำนักงานส่งเสริมเศรษฐกิจสร้างสรรค์ (องค์การมหาชน)",
-   "title": "ประกวดราคาจ้างจัดทำเนื้อหาข้อมูล (Content) สื่อประกอบ และบริหารงานสื่อสารผ่านสื่อออนไลน์ เทศกาลงานออกแบบกรุงเทพฯ ๒๕๗๐ ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
-   "date": "17/11/2569",
-   "date_end": "20/11/2569",
-   "budget": 1800000.0,
-   "status": "ระหว่างดำเนินการ",
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_2.jsp?tor_project_id=69119262302",
-   "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
-   "matched_keywords": [
-    "สื่อออนไลน์"
-   ],
-   "score": 4,
-   "fit": "น่าสนใจ",
-   "hits": [
-    "สื่อออนไลน์",
-    "เนื้อหา"
-   ]
-  },
-  {
    "pid": "69119302979",
    "dept": "จังหวัดยโสธร",
    "title": "ประกวดราคาจ้างจ้างเหมาจัดกิจกรรมส่งเสริมศิลปวัฒนธรรม วิถีอีสาน จังหวัดยโสธร ประจำปีงบประมาณ พ.ศ. 2570 จำนวน 10 รายการ ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
@@ -615,26 +535,6 @@
    "hits": [
     "จัดกิจกรรม",
     "จัดงาน"
-   ]
-  },
-  {
-   "pid": "69119250202",
-   "dept": "สำนักงานคณะกรรมการกิจการกระจายเสียง กิจการโทรทัศน์ และกิจการโทรคมนาคมแห่งชาติ",
-   "title": "ประกวดราคาจ้างบริการบำรุงรักษาศูนย์ตรวจสอบเนื้อหาวิทยุและโทรทัศน์ที่ผิดกฎหมายสำนักงาน กสทช. ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
-   "date": "17/11/2569",
-   "date_end": "20/11/2569",
-   "budget": 822000.0,
-   "status": "ระหว่างดำเนินการ",
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_2.jsp?tor_project_id=69119250202",
-   "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
-   "matched_keywords": [
-    "โทรทัศน์"
-   ],
-   "score": 4,
-   "fit": "น่าสนใจ",
-   "hits": [
-    "โทรทัศน์",
-    "เนื้อหา"
    ]
   },
   {
@@ -734,25 +634,6 @@
    ]
   },
   {
-   "pid": "69109266059",
-   "dept": "สำนักงานส่งเสริมเศรษฐกิจสร้างสรรค์ (องค์การมหาชน)",
-   "title": "ประกวดราคาจ้างบริหารจัดการกิจกรรมพัฒนาโปรเจ็กต์ สำหรับบุคลากรด้านคอนเทนต์ภาพยนตร์ และซีรีส์ระดับกลาง (Mid-Career Project) ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
-   "date": "30/10/2569",
-   "date_end": "",
-   "budget": 5350000.0,
-   "status": "ระหว่างดำเนินการ",
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69109266059&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
-   "announce_type": "ประกาศเชิญชวน",
-   "matched_keywords": [
-    "คอนเทนต์"
-   ],
-   "score": 3,
-   "fit": "น่าสนใจ",
-   "hits": [
-    "คอนเทนต์"
-   ]
-  },
-  {
    "pid": "69119197555",
    "dept": "จังหวัดอุดรธานี",
    "title": "ประกวดราคาจ้างโครงการพัฒนาการท่องเที่ยวเชื่อมโยงสู่อนุภาคลุ่มน้ำโขง การพัฒนาศักยภาพ และยกระดับมาตรฐานของแหล่งท่องเที่ยว สินค้าและบริการ กิจกรรมส่งเสริมและประชาสัมพันธ์การท่องเที่ยวจังหวัดอุดรธานียกระดับสู่เมืองแห่งการท่องเที่ยวเชิงสร้างสรรค์อย่างยั่งยืน ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
@@ -769,26 +650,6 @@
    "fit": "น่าสนใจ",
    "hits": [
     "ประชาสัมพันธ์"
-   ]
-  },
-  {
-   "pid": "69109385449",
-   "dept": "กรมการพัฒนาชุมชน",
-   "title": "ประกวดราคาจ้างดำเนินโครงการพัฒนาองค์ความรู้และยกระดับการพัฒนาผลิตภัณฑ์ OTOP ด้านอาหารสู่สากล กิจกรรมที่ 2 การสร้างการรับรู้และประชาสัมพันธ์โครงการพัฒนาองค์ความรู้และยกระดับการพัฒนาผลิตภัณฑ์ OTOP ด้านอาหารสู่สากล ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
-   "date": "30/10/2569",
-   "date_end": "",
-   "budget": 4500000.0,
-   "status": "ระหว่างดำเนินการ",
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69109385449&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
-   "announce_type": "ประกาศเชิญชวน",
-   "matched_keywords": [
-    "ประชาสัมพันธ์"
-   ],
-   "score": 3,
-   "fit": "น่าสนใจ",
-   "hits": [
-    "ประชาสัมพันธ์",
-    "สร้างการรับรู้"
    ]
   },
   {
@@ -1040,25 +901,6 @@
    ]
   },
   {
-   "pid": "69109177501",
-   "dept": "จังหวัดศรีสะเกษ",
-   "title": "ประกวดราคาจ้างโครงการส่งเสริมการประชาสัมพันธ์และกิจกรรมท่องเที่ยว กิจกรรม Sound of Sisaket กิจกรรม Sound of Sisaket 2026 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
-   "date": "30/10/2569",
-   "date_end": "",
-   "budget": 1000000.0,
-   "status": "ระหว่างดำเนินการ",
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69109177501&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
-   "announce_type": "ประกาศเชิญชวน",
-   "matched_keywords": [
-    "ประชาสัมพันธ์"
-   ],
-   "score": 3,
-   "fit": "น่าสนใจ",
-   "hits": [
-    "ประชาสัมพันธ์"
-   ]
-  },
-  {
    "pid": "69109237621",
    "dept": "สำนักงานนโยบายและแผนการขนส่งและจราจร",
    "title": "ประกวดราคาจ้างเหมาดำเนินงานโครงการประชาสัมพันธ์เพื่อสร้างความรู้ ความเข้าใจ และการมีส่วนร่วมต่อการพัฒนาระบบการขนส่งและจราจร ของสำนักงานนโยบายและแผนการขนส่งและจราจร ประจำปีงบประมาณ พ.ศ. 2570 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
@@ -1192,25 +1034,6 @@
    ]
   },
   {
-   "pid": "69109243289",
-   "dept": "จังหวัดพระนครศรีอยุธยา",
-   "title": "ประกวดราคาจ้างจัดกิจกรรมการแสดงแสง - เสียง งานยอยศยิ่งฟ้าอยุธยามรดกโลก ประจำปี พ.ศ. 2569 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
-   "date": "17/11/2569",
-   "date_end": "20/11/2569",
-   "budget": 8500000.0,
-   "status": "ระหว่างดำเนินการ",
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_2.jsp?tor_project_id=69109243289",
-   "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
-   "matched_keywords": [
-    "จัดกิจกรรม"
-   ],
-   "score": 2,
-   "fit": "เกี่ยวข้องน้อย",
-   "hits": [
-    "จัดกิจกรรม"
-   ]
-  },
-  {
    "pid": "69119342241",
    "dept": "การไฟฟ้าส่วนภูมิภาค",
    "title": "ประกวดราคาจ้างจัดงานกาชาด PEA ประจำปี 2569 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
@@ -1258,25 +1081,6 @@
    "status": "ระหว่างดำเนินการ",
    "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69119152325&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
    "announce_type": "ประกาศเชิญชวน",
-   "matched_keywords": [
-    "จัดกิจกรรม"
-   ],
-   "score": 2,
-   "fit": "เกี่ยวข้องน้อย",
-   "hits": [
-    "จัดกิจกรรม"
-   ]
-  },
-  {
-   "pid": "69109257026",
-   "dept": "จังหวัดพระนครศรีอยุธยา",
-   "title": "ประกวดราคาจ้างจัดกิจกรรมประดับไฟ งานยอยศยิ่งฟ้าอยุธยามรดกโลก ประจำปี พ.ศ. 2569 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
-   "date": "17/11/2569",
-   "date_end": "20/11/2569",
-   "budget": 7000000.0,
-   "status": "ระหว่างดำเนินการ",
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_2.jsp?tor_project_id=69109257026",
-   "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
    "matched_keywords": [
     "จัดกิจกรรม"
    ],
@@ -1363,25 +1167,6 @@
    ]
   },
   {
-   "pid": "69119206785",
-   "dept": "องค์การบริหารส่วนจังหวัดปทุมธานี",
-   "title": "ประกวดราคาจ้างโครงการจัดงานรำลึกสมเด็จพระเจ้าตากสินมหาราช ทรงกอบกู้กรุงศรีอยุธยา จังหวัดปทุมธานี ประจำปี พ.ศ.2569 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
-   "date": "17/11/2569",
-   "date_end": "20/11/2569",
-   "budget": 5000000.0,
-   "status": "ระหว่างดำเนินการ",
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_2.jsp?tor_project_id=69119206785",
-   "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
-   "matched_keywords": [
-    "จัดงาน"
-   ],
-   "score": 2,
-   "fit": "เกี่ยวข้องน้อย",
-   "hits": [
-    "จัดงาน"
-   ]
-  },
-  {
    "pid": "69109199340",
    "dept": "จังหวัดสุพรรณบุรี",
    "title": "ประกวดราคาจ้างโครงการกระตุ้นเศรษฐกิจด้านการท่องเที่ยวสุพรรณบุรีเที่ยวได้ตลอดปี Suphanburi ๓๖๐ องศา Travel all year กิจกรรมจัดงานเทศกาลปีใหม่ Suphanburi Festival ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
@@ -1390,25 +1175,6 @@
    "budget": 5000000.0,
    "status": "ระหว่างดำเนินการ",
    "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69109199340&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
-   "announce_type": "ประกาศเชิญชวน",
-   "matched_keywords": [
-    "จัดงาน"
-   ],
-   "score": 2,
-   "fit": "เกี่ยวข้องน้อย",
-   "hits": [
-    "จัดงาน"
-   ]
-  },
-  {
-   "pid": "69109420042",
-   "dept": "จังหวัดประจวบคีรีขันธ์",
-   "title": "ประกวดราคาจ้างเหมาจัดงานมหกรรมดินของพ่อ สานต่อของดีคีรีขันธ์ ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
-   "date": "30/10/2569",
-   "date_end": "",
-   "budget": 5000000.0,
-   "status": "ระหว่างดำเนินการ",
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69109420042&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
    "announce_type": "ประกาศเชิญชวน",
    "matched_keywords": [
     "จัดงาน"
@@ -1572,25 +1338,6 @@
    ]
   },
   {
-   "pid": "69109270777",
-   "dept": "องค์การบริหารส่วนจังหวัดสงขลา",
-   "title": "ประกวดราคาจ้างจัดงานตามโครงการ Songkhla Countdown ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
-   "date": "30/10/2569",
-   "date_end": "",
-   "budget": 2980000.0,
-   "status": "ระหว่างดำเนินการ",
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69109270777&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
-   "announce_type": "ประกาศเชิญชวน",
-   "matched_keywords": [
-    "จัดงาน"
-   ],
-   "score": 2,
-   "fit": "เกี่ยวข้องน้อย",
-   "hits": [
-    "จัดงาน"
-   ]
-  },
-  {
    "pid": "69109197706",
    "dept": "เทศบาลนครนนทบุรี",
    "title": "ประกวดราคาจ้างตามโครงการจัดงานวันเด็กแห่งชาติ ประจำปีงบประมาณ พ.ศ. 2570 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
@@ -1724,25 +1471,6 @@
    ]
   },
   {
-   "pid": "69109066470",
-   "dept": "จังหวัดพระนครศรีอยุธยา",
-   "title": "ประกวดราคาจ้างจ้างเหมาจัดงานแสดงและจำหน่ายมหกรรมสินค้าเกษตรพระนครศรีอยุธยา โครงการยกระดับการบริหารจัดการโลจิสติกส์และโซ่อุปทานภาคเกษตร อุตสาหกรรม การค้า และบริการ ประจำปีงบประมาณ พ.ศ. ๒๕๗๐ ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
-   "date": "30/10/2569",
-   "date_end": "",
-   "budget": 1800000.0,
-   "status": "ระหว่างดำเนินการ",
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69109066470&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
-   "announce_type": "ประกาศเชิญชวน",
-   "matched_keywords": [
-    "จัดงาน"
-   ],
-   "score": 2,
-   "fit": "เกี่ยวข้องน้อย",
-   "hits": [
-    "จัดงาน"
-   ]
-  },
-  {
    "pid": "69119030834",
    "dept": "ธนาคารเพื่อการส่งออกและนำเข้าแห่งประเทศไทย",
    "title": "ประกวดราคาจ้างผู้ให้บริการจัดกิจกรรมต้อนรับปีใหม่ 2570 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
@@ -1751,25 +1479,6 @@
    "budget": 1500000.0,
    "status": "ระหว่างดำเนินการ",
    "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69119030834&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
-   "announce_type": "ประกาศเชิญชวน",
-   "matched_keywords": [
-    "จัดกิจกรรม"
-   ],
-   "score": 2,
-   "fit": "เกี่ยวข้องน้อย",
-   "hits": [
-    "จัดกิจกรรม"
-   ]
-  },
-  {
-   "pid": "69109296559",
-   "dept": "สำนักงานส่งเสริมเศรษฐกิจสร้างสรรค์ (องค์การมหาชน)",
-   "title": "ประกวดราคาจ้างจัดกิจกรรมส่งเสริมศักยภาพและต่อยอดอุตสาหกรรมเครื่องหอมและ อุตสาหกรรม Wellness สำหรับเทศกาลงานออกแบบเชียงใหม่ (Chiang Mai Design Week) 2026 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
-   "date": "30/10/2569",
-   "date_end": "",
-   "budget": 1500000.0,
-   "status": "ระหว่างดำเนินการ",
-   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69109296559&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
    "announce_type": "ประกาศเชิญชวน",
    "matched_keywords": [
     "จัดกิจกรรม"
