@@ -1,10 +1,10 @@
 {
- "fetched_at": "20/11/2569 17:23",
+ "fetched_at": "20/11/2569 22:55",
  "range": {
   "from": "30/10/2569",
   "to": "20/11/2569"
  },
- "total": 112,
+ "total": 114,
  "requests": 32,
  "items": [
   {
@@ -161,6 +161,28 @@
    "hits": [
     "จัดกิจกรรม",
     "ภาพลักษณ์",
+    "สร้างการรับรู้"
+   ]
+  },
+  {
+   "pid": "69119368238",
+   "dept": "สำนักงานพัฒนาเศรษฐกิจจากฐานชีวภาพ (องค์การมหาชน)",
+   "title": "ประกวดราคาจ้างผลิตและเผยแพร่สื่อประชาสัมพันธ์เพื่อสร้างการรับรู้และการมีส่วนร่วมด้าน Bioeconomy ผ่านสื่อดิจิทัล ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "20/11/2569",
+   "date_end": "25/11/2569",
+   "budget": 920000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_2.jsp?tor_project_id=69119368238",
+   "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
+   "matched_keywords": [
+    "ประชาสัมพันธ์",
+    "เผยแพร่"
+   ],
+   "score": 8,
+   "fit": "เหมาะมาก",
+   "hits": [
+    "ประชาสัมพันธ์",
+    "เผยแพร่",
     "สร้างการรับรู้"
    ]
   },
@@ -664,6 +686,25 @@
    "status": "ระหว่างดำเนินการ",
    "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69109025508&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
    "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "ประชาสัมพันธ์"
+   ],
+   "score": 3,
+   "fit": "น่าสนใจ",
+   "hits": [
+    "ประชาสัมพันธ์"
+   ]
+  },
+  {
+   "pid": "69109365720",
+   "dept": "สำนักงานปลัดกระทรวงพาณิชย์",
+   "title": "ประกวดราคาจ้างโครงการประชาสัมพันธ์การดำเนินงานตามนโยบายเชิงรุกของกระทรวงพาณิชย์ ปีงบประมาณ พ.ศ. 2570 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "20/11/2569",
+   "date_end": "25/11/2569",
+   "budget": 6700000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_2.jsp?tor_project_id=69109365720",
+   "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
    "matched_keywords": [
     "ประชาสัมพันธ์"
    ],
