@@ -1,10 +1,10 @@
 {
- "fetched_at": "24/11/2569 04:40",
+ "fetched_at": "24/11/2569 19:53",
  "range": {
   "from": "03/11/2569",
   "to": "24/11/2569"
  },
- "total": 109,
+ "total": 120,
  "requests": 32,
  "items": [
   {
@@ -273,6 +273,26 @@
    ]
   },
   {
+   "pid": "69119038923",
+   "dept": "กรมคุ้มครองสิทธิและเสรีภาพ",
+   "title": "ประกวดราคาจ้างผลิตสื่อสร้างการรับรู้และการเข้าถึงระบบการไกล่เกลี่ยข้อพิพาท ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "24/11/2569",
+   "date_end": "27/11/2569",
+   "budget": 1040000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_2.jsp?tor_project_id=69119038923",
+   "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
+   "matched_keywords": [
+    "ผลิตสื่อ"
+   ],
+   "score": 7,
+   "fit": "เหมาะมาก",
+   "hits": [
+    "ผลิตสื่อ",
+    "สร้างการรับรู้"
+   ]
+  },
+  {
    "pid": "69119115476",
    "dept": "การนิคมอุตสาหกรรมแห่งประเทศไทย",
    "title": "ประกวดราคาจ้างโครงการจ้างบริหารจัดการประชาสัมพันธ์เสริมสร้างภาพลักษณ์องค์กร ประจำปี 2570 การนิคมอุตสาหกรรมแห่งประเทศไทย ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
@@ -497,6 +517,27 @@
    ]
   },
   {
+   "pid": "69119407882",
+   "dept": "สำนักงานส่งเสริมเศรษฐกิจสร้างสรรค์ (องค์การมหาชน)",
+   "title": "ประกวดราคาจ้างจัดกิจกรรมสร้างสรรค์เพื่อเผยแพร่ผลงานผู้ประกอบการสร้างสรรค์ที่เข้าร่วมโครงการและสร้างโอกาสทางธุรกิจ ภายใต้แนวคิด 5 Senses of Thai Creative SMEs ใน 4 ภูมิภาค ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "24/11/2569",
+   "date_end": "27/11/2569",
+   "budget": 46500000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_2.jsp?tor_project_id=69119407882",
+   "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
+   "matched_keywords": [
+    "เผยแพร่",
+    "จัดกิจกรรม"
+   ],
+   "score": 4,
+   "fit": "น่าสนใจ",
+   "hits": [
+    "เผยแพร่",
+    "จัดกิจกรรม"
+   ]
+  },
+  {
    "pid": "69109246007",
    "dept": "องค์การบริหารส่วนจังหวัดชลบุรี",
    "title": "ประกวดราคาจ้างโครงการจัดกิจกรรมส่งเสริมการท่องเที่ยวเพื่อสร้างประสบการณ์ทรงคุณค่าและมุ่งสู่ความยั่งยืนผ่านกิจกรรม Chonburi Lighting In The Park ๒๐๒๗ กำหนดจัดงานระหว่างวันที่ ๑๙ - ๒๓ กุมภาพันธ์ ๒๕๗๐ ณ สวนสาธารณะเฉลิมพระเกียรติราชินี ๖๐ พรรษา อำเภอเมืองชลบุรี จังหวัดชลบุรี ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
@@ -596,6 +637,27 @@
    "hits": [
     "รายการ",
     "จัดกิจกรรม"
+   ]
+  },
+  {
+   "pid": "69119273784",
+   "dept": "สถาบันราชประชาสมาสัย",
+   "title": "ประกวดราคาจ้างเหมาจัดงานสัมมนาวิชาการและจัดนิทรรศการ ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "24/11/2569",
+   "date_end": "",
+   "budget": 1250000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69119273784&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
+   "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "จัดงาน",
+    "นิทรรศการ"
+   ],
+   "score": 4,
+   "fit": "น่าสนใจ",
+   "hits": [
+    "จัดงาน",
+    "นิทรรศการ"
    ]
   },
   {
@@ -706,6 +768,25 @@
    "status": "ระหว่างดำเนินการ",
    "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69119047505&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
    "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "ประชาสัมพันธ์"
+   ],
+   "score": 3,
+   "fit": "น่าสนใจ",
+   "hits": [
+    "ประชาสัมพันธ์"
+   ]
+  },
+  {
+   "pid": "69119361610",
+   "dept": "กรมส่งเสริมการค้าระหว่างประเทศ",
+   "title": "ประกวดราคาจ้างการจัดจ้างผู้ดำเนินการด้านประชาสัมพันธ์งานแสดงสินค้า THAIFEX - HOREC ASIA 2027 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "24/11/2569",
+   "date_end": "27/11/2569",
+   "budget": 5530000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_2.jsp?tor_project_id=69119361610",
+   "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
    "matched_keywords": [
     "ประชาสัมพันธ์"
    ],
@@ -1097,6 +1178,25 @@
    ]
   },
   {
+   "pid": "69109366844",
+   "dept": "สำนักงานปลัดกระทรวงพาณิชย์",
+   "title": "ประกวดราคาจ้างจัดกิจกรรมการพัฒนาศักยภาพเชิงลึก Intensive Bootcamp ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "24/11/2569",
+   "date_end": "27/11/2569",
+   "budget": 10000000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_2.jsp?tor_project_id=69109366844",
+   "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
+   "matched_keywords": [
+    "จัดกิจกรรม"
+   ],
+   "score": 2,
+   "fit": "เกี่ยวข้องน้อย",
+   "hits": [
+    "จัดกิจกรรม"
+   ]
+  },
+  {
    "pid": "69109078250",
    "dept": "กรมส่งเสริมการเรียนรู้",
    "title": "ประกวดราคาจ้างโครงการปรับปรุงนิทรรศการเมืองไฟฟ้า ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
@@ -1306,6 +1406,25 @@
    ]
   },
   {
+   "pid": "69119097668",
+   "dept": "กรมการค้าภายใน",
+   "title": "ประกวดราคาจ้างจัดกิจกรรมเพิ่มทักษะและพัฒนาศักยภาพผู้ประกอบการ เตรียมความพร้อมสู่การค้ายุคใหม่ ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "24/11/2569",
+   "date_end": "",
+   "budget": 5300000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69119097668&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
+   "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "จัดกิจกรรม"
+   ],
+   "score": 2,
+   "fit": "เกี่ยวข้องน้อย",
+   "hits": [
+    "จัดกิจกรรม"
+   ]
+  },
+  {
    "pid": "69119206785",
    "dept": "องค์การบริหารส่วนจังหวัดปทุมธานี",
    "title": "ประกวดราคาจ้างโครงการจัดงานรำลึกสมเด็จพระเจ้าตากสินมหาราช ทรงกอบกู้กรุงศรีอยุธยา จังหวัดปทุมธานี ประจำปี พ.ศ.2569 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
@@ -1401,6 +1520,25 @@
    ]
   },
   {
+   "pid": "69119434526",
+   "dept": "กรมทรัพย์สินทางปัญญา",
+   "title": "ประกวดราคาจ้างจัดงานส่งเสริมช่องทางการตลาดสินค้า GI เพื่อการส่งออก ประจำปีงบประมาณ พ.ศ. 2570 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "24/11/2569",
+   "date_end": "",
+   "budget": 4400000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69119434526&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
+   "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "จัดงาน"
+   ],
+   "score": 2,
+   "fit": "เกี่ยวข้องน้อย",
+   "hits": [
+    "จัดงาน"
+   ]
+  },
+  {
    "pid": "69119192090",
    "dept": "จังหวัดสกลนคร",
    "title": "ประกวดราคาจ้างโครงการส่งเสริมงานประเพณีสำคัญจังหวัดสกลนคร ฮีต ๑๒ คอง ๑๔ เที่ยวได้ตลอดปี กิจกรรมหลัก จัดงานประเพณีแห่ดาวคริสต์มาส ประจำปีงบประมาณ พ.ศ. ๒๕๗๐ ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
@@ -1474,6 +1612,25 @@
    "fit": "เกี่ยวข้องน้อย",
    "hits": [
     "จัดงาน"
+   ]
+  },
+  {
+   "pid": "69119207401",
+   "dept": "จังหวัดนนครราชสีมา",
+   "title": "ประกวดราคาจ้างสำหรับจ้างงานโครงการส่งเสริมการพัฒนาจังหวัดนครราชสีมาแบบบูรณาการ กิจกรรมหลัก พัฒนาด้านการท่องเที่ยวและบริการ กิจกรรมย่อย จัดกิจกรรมน้อมรำลึกสมเด็จพระนเรศวรมหาราชกู้แผ่นดิน ประจำปี พ.ศ. 2570 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "24/11/2569",
+   "date_end": "",
+   "budget": 3000000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69119207401&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
+   "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "จัดกิจกรรม"
+   ],
+   "score": 2,
+   "fit": "เกี่ยวข้องน้อย",
+   "hits": [
+    "จัดกิจกรรม"
    ]
   },
   {
@@ -1591,6 +1748,25 @@
    ]
   },
   {
+   "pid": "69119436831",
+   "dept": "จังหวัดนครสวรรค์",
+   "title": "ประกวดราคาจ้างจัดงานประเพณีแห่เจ้าพ่อเจ้าแม่ปากน้ำโพ ตามโครงการพัฒนาและส่งเสริมด้านการท่องเที่ยว การค้า การลงทุน และโลจิสติกส์ กิจกรรมหลักส่งเสริมการจัดงานประเพณีแห่เจ้าพ่อเจ้าแม่ จังหวัดนครสวรรค์ ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "24/11/2569",
+   "date_end": "",
+   "budget": 2291000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69119436831&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
+   "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "จัดงาน"
+   ],
+   "score": 2,
+   "fit": "เกี่ยวข้องน้อย",
+   "hits": [
+    "จัดงาน"
+   ]
+  },
+  {
    "pid": "69119359195",
    "dept": "จังหวัดลำพูน",
    "title": "ประกวดราคาจ้างเหมาจัดกิจกรรมการท่องเที่ยวเชิงสร้างสรรค์การแสดง แสง สี เสียง แสงตะวันยามแลง ลำพูน ภายใต้โครงการส่งเสริมการท่องเที่ยวเชิงสร้างสรรค์ ตามแนวทาง Soft Power เพื่อเพิ่มมูลค่าทางเศรษฐกิจ ตามแผนปฏิบัติราชการประจำปีของจังหวัดลำพูน ประจำปีงบประมาณ พ.ศ. 2570 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
@@ -1686,6 +1862,25 @@
    ]
   },
   {
+   "pid": "69119179089",
+   "dept": "โรงเรียนเบญจมราชูทิศ",
+   "title": "ประกวดราคาจ้างจัดกิจกรรมศึกษาแหล่งเรียนรู้ต่างประเทศ (Study Tour) ณ สาธารณรัฐจีน (ไต้หวัน) ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "24/11/2569",
+   "date_end": "",
+   "budget": 1600000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69119179089&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
+   "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "จัดกิจกรรม"
+   ],
+   "score": 2,
+   "fit": "เกี่ยวข้องน้อย",
+   "hits": [
+    "จัดกิจกรรม"
+   ]
+  },
+  {
    "pid": "69119030834",
    "dept": "ธนาคารเพื่อการส่งออกและนำเข้าแห่งประเทศไทย",
    "title": "ประกวดราคาจ้างผู้ให้บริการจัดกิจกรรมต้อนรับปีใหม่ 2570 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
@@ -1740,6 +1935,25 @@
    "fit": "เกี่ยวข้องน้อย",
    "hits": [
     "จัดกิจกรรม"
+   ]
+  },
+  {
+   "pid": "69119209529",
+   "dept": "จังหวัดอุตรดิตถ์",
+   "title": "ประกวดราคาจ้างเหมาการจัดงานพระยาพิชัยดาบหัก ตามโครงการส่งเสริมและพัฒนาการท่องเที่ยวของจังหวัดอุตรดิตถ์ กิจกรรมหลัก จัดงานส่งเสริมการท่องเที่ยวประจำปีและงานระดับจังหวัด กิจกรรมย่อย การจัดงานพระยาพิชัยดาบหัก ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "24/11/2569",
+   "date_end": "",
+   "budget": 1429450.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69119209529&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
+   "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "จัดงาน"
+   ],
+   "score": 2,
+   "fit": "เกี่ยวข้องน้อย",
+   "hits": [
+    "จัดงาน"
    ]
   },
   {
