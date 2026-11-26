@@ -1,11 +1,11 @@
 {
- "fetched_at": "26/11/2569 02:34",
+ "fetched_at": "26/11/2569 18:24",
  "range": {
   "from": "05/11/2569",
   "to": "26/11/2569"
  },
- "total": 114,
- "requests": 32,
+ "total": 125,
+ "requests": 33,
  "items": [
   {
    "pid": "69109377077",
@@ -184,6 +184,28 @@
     "ประชาสัมพันธ์",
     "จัดกิจกรรม",
     "ภาพลักษณ์"
+   ]
+  },
+  {
+   "pid": "69119368238",
+   "dept": "สำนักงานพัฒนาเศรษฐกิจจากฐานชีวภาพ (องค์การมหาชน)",
+   "title": "ประกวดราคาจ้างผลิตและเผยแพร่สื่อประชาสัมพันธ์เพื่อสร้างการรับรู้และการมีส่วนร่วมด้าน Bioeconomy ผ่านสื่อดิจิทัล ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "26/11/2569",
+   "date_end": "",
+   "budget": 920000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69119368238&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
+   "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "ประชาสัมพันธ์",
+    "เผยแพร่"
+   ],
+   "score": 8,
+   "fit": "เหมาะมาก",
+   "hits": [
+    "ประชาสัมพันธ์",
+    "เผยแพร่",
+    "สร้างการรับรู้"
    ]
   },
   {
@@ -373,6 +395,27 @@
    ]
   },
   {
+   "pid": "69119184424",
+   "dept": "สำนักงานคณะกรรมการพิเศษเพื่อประสานงานโครงการอันเนื่องมาจากพระราชดำริ",
+   "title": "ประกวดราคาจ้างผลิตและเผยแพร่สารคดีเฉลิมพระเกียรติ ชุด ร้อยไทยด้วยดวงใจ ประจำปีงบประมาณ พ.ศ. 2570 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "26/11/2569",
+   "date_end": "",
+   "budget": 1470000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69119184424&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
+   "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "เผยแพร่",
+    "สารคดี"
+   ],
+   "score": 6,
+   "fit": "เหมาะมาก",
+   "hits": [
+    "เผยแพร่",
+    "สารคดี"
+   ]
+  },
+  {
    "pid": "69109303551",
    "dept": "กรุงเทพมหานคร",
    "title": "ประกวดราคาจ้างจ้างเหมาผลิตและเผยแพร่สื่อประชาสัมพันธ์ ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
@@ -412,6 +455,26 @@
    "hits": [
     "ประชาสัมพันธ์",
     "นิทรรศการ"
+   ]
+  },
+  {
+   "pid": "69119295926",
+   "dept": "กรุงเทพมหานคร",
+   "title": "ประกวดราคาจ้างเหมาดำเนินการจัดกิจกรรมสื่อมวลชนสัญจร ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "26/11/2569",
+   "date_end": "",
+   "budget": 1500000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69119295926&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
+   "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "จัดกิจกรรม"
+   ],
+   "score": 5,
+   "fit": "น่าสนใจ",
+   "hits": [
+    "จัดกิจกรรม",
+    "สื่อมวลชน"
    ]
   },
   {
@@ -580,6 +643,26 @@
    ]
   },
   {
+   "pid": "69119250202",
+   "dept": "สำนักงานคณะกรรมการกิจการกระจายเสียง กิจการโทรทัศน์ และกิจการโทรคมนาคมแห่งชาติ",
+   "title": "ประกวดราคาจ้างบริการบำรุงรักษาศูนย์ตรวจสอบเนื้อหาวิทยุและโทรทัศน์ที่ผิดกฎหมายสำนักงาน กสทช. ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "26/11/2569",
+   "date_end": "",
+   "budget": 822000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69119250202&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
+   "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "โทรทัศน์"
+   ],
+   "score": 4,
+   "fit": "น่าสนใจ",
+   "hits": [
+    "โทรทัศน์",
+    "เนื้อหา"
+   ]
+  },
+  {
    "pid": "69119188908",
    "dept": "กรมส่งเสริมการค้าระหว่างประเทศ",
    "title": "ประกวดราคาจ้างโครงการประชาสัมพันธ์และส่งเสริมภาพลักษณ์อาหารไทย ร้านอาหารไทย และตราสัญลักษณ์ Thai SELECT ณ ประเทศออสเตรเลีย ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
@@ -647,6 +730,25 @@
    "status": "ระหว่างดำเนินการ",
    "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_2.jsp?tor_project_id=69119250423",
    "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
+   "matched_keywords": [
+    "ประชาสัมพันธ์"
+   ],
+   "score": 3,
+   "fit": "น่าสนใจ",
+   "hits": [
+    "ประชาสัมพันธ์"
+   ]
+  },
+  {
+   "pid": "69109365720",
+   "dept": "สำนักงานปลัดกระทรวงพาณิชย์",
+   "title": "ประกวดราคาจ้างโครงการประชาสัมพันธ์การดำเนินงานตามนโยบายเชิงรุกของกระทรวงพาณิชย์ ปีงบประมาณ พ.ศ. 2570 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "26/11/2569",
+   "date_end": "",
+   "budget": 6700000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69109365720&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
+   "announce_type": "ประกาศเชิญชวน",
    "matched_keywords": [
     "ประชาสัมพันธ์"
    ],
@@ -730,6 +832,25 @@
    "fit": "น่าสนใจ",
    "hits": [
     "ประชาสัมพันธ์"
+   ]
+  },
+  {
+   "pid": "69119449699",
+   "dept": "สำนักงานส่งเสริมเศรษฐกิจสร้างสรรค์ (องค์การมหาชน)",
+   "title": "ประกวดราคาจ้างบริหารจัดการกิจกรรมพัฒนาบท สำหรับบุคลากรด้านคอนเทนต์ภาพยนตร์ และซีรีส์ระดับกลาง (Mid-Career Story) ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "26/11/2569",
+   "date_end": "",
+   "budget": 3750000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69119449699&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
+   "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "คอนเทนต์"
+   ],
+   "score": 3,
+   "fit": "น่าสนใจ",
+   "hits": [
+    "คอนเทนต์"
    ]
   },
   {
@@ -1266,6 +1387,25 @@
    ]
   },
   {
+   "pid": "69119476539",
+   "dept": "บริษัท ธนารักษ์พัฒนาสินทรัพย์ จำกัด",
+   "title": "ประกวดราคาจ้างงานจ้างจัดกิจกรรม GovComplex Green City Fun Run 2027 เมืองสีเขียว คาร์บอนต่ำ ศูนย์ราชการเฉลิมพระเกียรติ ๘๐ พรรษา ๕ ธันวาคม ๒๕๕๐ ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "26/11/2569",
+   "date_end": "01/12/2569",
+   "budget": 6000000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_2.jsp?tor_project_id=69119476539",
+   "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
+   "matched_keywords": [
+    "จัดกิจกรรม"
+   ],
+   "score": 2,
+   "fit": "เกี่ยวข้องน้อย",
+   "hits": [
+    "จัดกิจกรรม"
+   ]
+  },
+  {
    "pid": "69119447120",
    "dept": "บริษัท ธนารักษ์พัฒนาสินทรัพย์ จำกัด",
    "title": "ประกวดราคาจ้างงานจ้างจัดกิจกรรม GovComplex Green City Fun Run 2027 เมืองสีเขียว คาร์บอนต่ำ ศูนย์ราชการเฉลิมพระเกียรติ ๘๐ พรรษา ๕ ธันวาคม ๒๕๕๐ ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
@@ -1320,6 +1460,25 @@
    "fit": "เกี่ยวข้องน้อย",
    "hits": [
     "จัดกิจกรรม"
+   ]
+  },
+  {
+   "pid": "69119119975",
+   "dept": "กรมการค้าภายใน",
+   "title": "ประกวดราคาจ้างจัดงานมหกรรมไทยช่วยไทย ธงฟ้าเชื่อมโยงเศรษฐกิจ ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "26/11/2569",
+   "date_end": "01/12/2569",
+   "budget": 5000000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_2.jsp?tor_project_id=69119119975",
+   "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
+   "matched_keywords": [
+    "จัดงาน"
+   ],
+   "score": 2,
+   "fit": "เกี่ยวข้องน้อย",
+   "hits": [
+    "จัดงาน"
    ]
   },
   {
@@ -1446,6 +1605,25 @@
    "status": "ระหว่างดำเนินการ",
    "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69119192090&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
    "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "จัดงาน"
+   ],
+   "score": 2,
+   "fit": "เกี่ยวข้องน้อย",
+   "hits": [
+    "จัดงาน"
+   ]
+  },
+  {
+   "pid": "69109348322",
+   "dept": "เทศบาลนครนนทบุรี",
+   "title": "ประกวดราคาจ้างเหมาการจัดงานโครงการศิลป์ สร้างสรรค์ เสน่ห์เมืองนนท์ ประจำปี ๒๕๗๐ (กองการท่องเที่ยวและกีฬา) ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "26/11/2569",
+   "date_end": "01/12/2569",
+   "budget": 4000000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_2.jsp?tor_project_id=69109348322",
+   "announce_type": "ร่าง TOR/ร่างเอกสารประกวดราคา",
    "matched_keywords": [
     "จัดงาน"
    ],
@@ -1798,6 +1976,25 @@
    ]
   },
   {
+   "pid": "69119264006",
+   "dept": "จังหวัดชัยนาท",
+   "title": "ประกวดราคาจ้างจัดงานย้อนรอยเล่าขานตำนานเมืองแพรกศรีราชา ถิ่นวีรชนขุนสรรค์ วีรบุรุษแห่งลุ่มแม่น้ำน้อย กิจกรรมหลักส่งเสริมกิจกรรมการท่องเที่ยววิถีชีวิตชุมชนเชิงสร้างสรรค์ ตามโครงการส่งเสริมกิจกรรมท่องเที่ยวและเชื่อมโยงเส้นทางท่องเที่ยว ภายใต้โครงการตามแผนปฏิบัติราชการประจำปีของจังหวัด ประจำปีงบประมาณ พ.ศ. 2570 (งบพัฒนาจังหวัด) ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "26/11/2569",
+   "date_end": "",
+   "budget": 1500000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69119264006&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
+   "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "จัดงาน"
+   ],
+   "score": 2,
+   "fit": "เกี่ยวข้องน้อย",
+   "hits": [
+    "จัดงาน"
+   ]
+  },
+  {
    "pid": "69119018770",
    "dept": "การประปานครหลวง",
    "title": "ประกวดราคาจ้างจัดงานวันเด็กแห่งชาติ ประจำปี ๒๕๗๐ เลขที่ จท.65-2570 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
@@ -2042,6 +2239,25 @@
    "fit": "เกี่ยวข้องน้อย",
    "hits": [
     "จัดกิจกรรม"
+   ]
+  },
+  {
+   "pid": "69119427035",
+   "dept": "สำนักงานจัดการทรัพย์สิน จุฬาลงกรณ์มหาวิทยาลัย",
+   "title": "ประกวดราคาจ้างจัดงานวันเด็กสยามสแควร์ ประจำปี 2570 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+   "date": "26/11/2569",
+   "date_end": "",
+   "budget": 900000.0,
+   "status": "ระหว่างดำเนินการ",
+   "link": "https://process3.gprocurement.go.th/egp2procmainWeb/jsp/FPRO9951A_3.jsp?tor_project_id=69119427035&invite_templateType=D2&invite_announceFlag=A&invite_itemNo=0&invite_seqno=0&invite_methodId=16&intvite_docAnnounceType=D0&invite_announceId=",
+   "announce_type": "ประกาศเชิญชวน",
+   "matched_keywords": [
+    "จัดงาน"
+   ],
+   "score": 2,
+   "fit": "เกี่ยวข้องน้อย",
+   "hits": [
+    "จัดงาน"
    ]
   },
   {
